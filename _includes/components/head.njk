@@ -1,8 +1,10 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ metadata.title }}</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no" />
 	<script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	{% set css %} {% include "assets/inline.css" %} {% endset %}
-	{% set js %} {% include "assets/inline.js" %} {% endset %}
+	{% set css %} {% include "assets/style.css" %} {% endset %}
+	<style>{{ css | cssmin | safe }}</style>
 </head>

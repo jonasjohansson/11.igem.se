@@ -10,7 +10,6 @@ media_folder: 'static/img' # Media files will be stored in the repo under images
 collections:
   - name: 'settings'
     label: 'Settings'
-    delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
     files:
@@ -21,16 +20,11 @@ collections:
           - { label: 'Logo', name: 'logo', widget: 'image', required: false }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string' }
-          - label: 'Author'
-            name: author
-            widget: 'object'
-            fields:
-              - { label: 'Name', name: 'name', widget: string }
-              - { label: 'Email', name: 'email', widget: string }
-              - { label: 'Github', name: 'github', widget: string }
   # Our blog posts format: 'YYYY/MM/DD'
   - name: 'post' # Used in routes, e.g., /admin/collections/blog
     label: 'Post' # Used in the UI
+    editor:
+      preview: false
     folder: 'posts' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
@@ -41,7 +35,9 @@ collections:
   - name: 'pages'
     label: 'Page'
     folder: 'pages'
-    create: false # Change to true to allow editors to create new pages
+    create: true
+    editor:
+      preview: false
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string', default: 'New page' }

@@ -16,17 +16,9 @@ module.exports = function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj).toFormat('yyyy-MM-dd');
 	});
 
-	eleventyConfig.addFilter('media', function(value) {
-		let ext = value.split('.').pop();
-	});
-
 	// Minify CSS
 	eleventyConfig.addFilter('cssmin', function(code) {
 		return new CleanCSS({}).minify(code).styles;
-	});
-
-	eleventyConfig.addPairedShortcode('block', function(content, style) {
-		return `<div class="${style}">${content}</div>`;
 	});
 
 	// Minify JS
