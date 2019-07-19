@@ -4,11 +4,17 @@ section: home
 ---
 
 <section>
-	{%- for post in collections.post -%}
-	<article>
-		<a href="{{ post.url | url }}">
-			<h2>{{ post.data.title }}</h2>
-		</a>
-	</article>
-	{%- endfor  -%}
+    <h1>igem<br>stockholm</h1>
+</section>
+<section>
+    <p>{{ metadata.description }}</p>
+    <nav>
+        <a href="/synthetic-biology-art-exhibition/">Synthetic Biology Art Exhibition</a>
+    </nav>
+    <span>NAVA</span>
+    <nav>
+        {% for member in metadata.members %}
+        <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
+        {% endfor %}
+    </nav>
 </section>

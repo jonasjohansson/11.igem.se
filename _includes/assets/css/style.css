@@ -1,0 +1,177 @@
+@import url(https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css);
+
+@font-face {
+	font-family: 'Nimbus';
+	src: url('NimbusSansDOT-ReguExte.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+:root {
+	--base: 1rem;
+	--accent-color: gray;
+}
+
+body:not(#home) {
+	color: rgba(255, 255, 255, 0.9);
+}
+
+body#home {
+	font-size: 3vh;
+	line-height: 4vh;
+	color: black;
+}
+
+body#home * {
+	font-size: inherit;
+	font-weight: inherit;
+}
+
+body {
+	margin: 0;
+	padding: calc(var(--base) * 2) 0;
+	font: 18px/1.4 'Nimbus', system-ui;
+	background-color: #1a1c21;
+	color: white;
+}
+
+figure {
+	position: relative;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+figcaption {
+	font-style: italic;
+	font-size: 70%;
+	text-align: center;
+	opacity: 0.7;
+}
+
+figure:last-of-type:not(:first-of-type) {
+	line-height: 0;
+}
+
+figure:last-of-type:not(:first-of-type) figcaption {
+	display: none;
+	line-height: 0;
+}
+
+figure img,
+figure video {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	box-sizing: border-box;
+}
+
+nav,
+p,
+article > *,
+section {
+	margin-bottom: calc(var(--base) * 1.5);
+}
+
+nav a {
+	display: block;
+}
+
+article > * {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0 calc(var(--base) * 1);
+	box-sizing: border-box;
+	max-width: 80ex;
+}
+
+br {
+	height: calc(var(--base) * 1.5);
+}
+
+p:first-of-type {
+	margin-top: 0;
+}
+
+a {
+	color: var(--accent-color);
+	text-decoration: none;
+}
+
+h1 {
+	margin: 0;
+}
+
+h2 {
+	display: block;
+	font-size: 1.6em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-size: inherit;
+}
+
+h2,
+h3 {
+	font-weight: 400;
+	letter-spacing: 0.01em;
+}
+
+ul {
+	list-style: square;
+	padding-left: 1em;
+}
+
+header {
+	text-align: center;
+}
+
+hr {
+	opacity: 0.2;
+}
+hr {
+	opacity: 0.1;
+}
+
+p:first-of-type {
+	margin-top: 0;
+}
+
+a {
+	color: var(--accent-color);
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 1.6em;
+	/*text-align: center;*/
+}
+
+h3 {
+	font-size: inherit;
+}
+
+h2,
+h3 {
+	text-transform: uppercase;
+	font-weight: normal;
+	letter-spacing: 0.01em;
+}
+
+ul {
+	list-style: square;
+	padding-left: 1em;
+}
+
+/* classes */
+
+h2#open-call,
+h2#open-call ~ * {
+	opacity: 0.4;
+	pointer-events: none;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}

@@ -1,9 +1,37 @@
 {
-	"title": "Eleventy Netlify Portfolio",
-	"url": "https://github.com/jonasjohansson/netlify-eleventy-portfolio",
-	"author": {
-		"name": "Jonas Johansson",
-		"email": "jns.johansson@gmail.com",
-		"github": "https://github.com/jnsjohansson"
-	}
+  "title": "Nordic Audiovisual Artists",
+  "url": "https://nava.community/",
+  "description": "Nordic Audiovisual Artists is a community with the sole purpose of empowering the field of audiovisual arts.",
+  "members": [
+    {
+      "name": "Jonas Johansson",
+      "url": "https://jonasjohansson.se"
+    },
+    {
+      "name": "Rasmus Stride",
+      "url": "http://www.stridestud.io/"
+    },
+    {
+      "name": "Katrín Hauksdottir",
+      "url": "https://www.katrinhauksdottir.com/"
+    },
+    {
+      "name": "Atli Bollason",
+      "url": "https://atlibollason.com/"
+    },
+    {
+      "name": "Owen Hindley",
+      "url": "http://www.owenhindley.co.uk/"
+    }
+  ],
+  "friends": [
+    {
+      "name": "Charlotte Risch",
+      "url": "https://cargocollective.com/charlotterisch"
+    },
+    {
+      "name": "Freya Sif Hestnes",
+      "url": "http://freyasifhestnes.com/"
+    }
+  ]
 }
