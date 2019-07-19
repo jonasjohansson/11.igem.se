@@ -5,75 +5,75 @@
   "members": [
     {
       "name": "Andriana Mantzafou",
-      "image": "/static/img/sanchari.jpg"
+      "image": "/static/img/profile-andriana.jpg"
     },
     {
       "name": "Ayleen Burt",
-      "image": "/static/img/stella.jpg"
+      "image": "/static/img/profile-ayleen.jpg"
     },
     {
       "name": "Azhar Gazizova",
-      "image": "/static/img/tobi.jpg"
+      "image": "/static/img/profile-azhar.jpg"
     },
     {
       "name": "Itisha Adhikari",
-      "image": "/static/img/sanchari.jpg"
+      "image": "/static/img/profile-itisha.jpg"
     },
     {
       "name": "Jonas Johansson",
-      "image": "/static/img/charles.jpg"
+      "image": "/static/img/profile-jonas.jpg"
     },
     {
       "name": "Joost Bergman",
-      "image": "/static/img/tobi.jpg"
+      "image": "/static/img/profile-joost.jpg"
     },
     {
       "name": "Leandra Anali De Luca",
-      "image": "/static/img/sanchari.jpg"
+      "image": "/static/img/profile-leandra.jpg"
     },
     {
       "name": "Lisa Faye",
-      "image": "/static/img/stella.jpg"
+      "image": "/static/img/profile-lisa.jpg"
     },
     {
       "name": "Milda Valiukonyte",
-      "image": "/static/img/charles.jpg"
+      "image": "/static/img/profile-milda.jpg"
     },
     {
       "name": "Mindaugas Raitelaitis",
-      "image": "/static/img/charles.jpg"
+      "image": "/static/img/profile-mindaugas.jpg"
     },
     {
       "name": "Nerea Capon",
-      "image": "/static/img/sanchari.jpg"
+      "image": "/static/img/profile-nerea.jpg"
     },
     {
       "name": "Rebecca de Sousa",
-      "image": "/static/img/stella.jpg"
+      "image": "/static/img/profile-rebecca.jpg"
     },
     {
       "name": "Roudlotul Jannah",
-      "image": "/static/img/stella.jpg"
+      "image": "/static/img/profile-jannah.jpg"
     },
     {
       "name": "Sabina Monge-Navarro Otero",
-      "image": "/static/img/sanchari.jpg"
+      "image": "/static/img/profile-sabina.jpg"
     },
     {
       "name": "Sanchari Choudhury",
-      "image": "/static/img/sanchari.jpg"
+      "image": "/static/img/profile-sanchari.jpg"
     },
     {
       "name": "Stella Axelsson",
-      "image": "/static/img/stella.jpg"
+      "image": "/static/img/profile-stella.jpg"
     },
     {
       "name": "Tianqi Zhang",
-      "image": "/static/img/charles.jpg"
+      "image": "/static/img/profile-charles.jpg"
     },
     {
       "name": "Tobias Willi",
-      "image": "/static/img/tobi.jpg"
+      "image": "/static/img/profile-tobi.jpg"
     }
   ]
 }
