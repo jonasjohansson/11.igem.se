@@ -13,7 +13,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addShortcode('vimeo', function(vimeoId) {
-		return `<figure class="video"><iframe src="https://player.vimeo.com/video/${vimeoId}?loop=1&autoplay=1&muted=1&controls=0" allow="autoplay; fullscreen"  allowfullscreen></iframe></figure>`;
+		return `<figure class="video vimeo"><iframe src="https://player.vimeo.com/video/${vimeoId}?loop=1&autoplay=1&muted=1&controls=0" allow="autoplay; fullscreen"  allowfullscreen></iframe></figure>`;
 	});
 
 	eleventyConfig.addShortcode('video', function(path, poster = '', description = '') {
@@ -30,6 +30,34 @@ module.exports = function(eleventyConfig) {
 			return `<section class="text-layout">${str}</section>`;
 		});
 		return string;
+	});
+
+	// Minify CSS
+	eleventyConfig.addFilter('cssmin', function(code) {
+		return new CleanCSS({}).minify(code).styles;
+	});
+
+	// Minify JS
+	eleventyConfig.addFilter('jsmin', function(code) {
+		let minified = UglifyJS.minify(code);
+		if (minified.error) {
+			console.log('UglifyJS error: ', minified.error);
+			return code;
+		}
+		return minified.code;
+	});
+
+	// Minify HTML output
+	eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
+		if (outputPath.indexOf('.html') > -1) {
+			let minified = htmlmin.minify(content, {
+				useShortDoctype: true,
+				removeComments: true,
+				collapseWhitespace: true
+			});
+			return minified;
+		}
+		return content;
 	});
 
 	// only content in the `posts/` directory
