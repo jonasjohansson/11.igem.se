@@ -12,8 +12,8 @@ section: home
     <nav>
         {% for member in metadata.members %}
         <div>
-            <span>{{ member.name }}</span>
-            <img src="{{ member.profile }}">
+            <span>{{ member.emoji }} {{ member.name }}</span>
+            <img src="{{ member.image }}">
         </div>
         {% endfor %}
     </nav>
