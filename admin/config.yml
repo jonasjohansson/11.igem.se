@@ -15,7 +15,7 @@ collections:
     files:
       - name: 'metadata'
         label: 'Metadata'
-        file: '_data/metadata.json'
+        file: '_includes/metadata.json'
         fields:
           - { label: 'Logo', name: 'logo', widget: 'image', required: false }
           - { label: 'Title', name: 'title', widget: 'string' }
