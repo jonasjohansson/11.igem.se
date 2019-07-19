@@ -1,37 +1,79 @@
 {
-  "title": "Nordic Audiovisual Artists",
+  "title": "iGEM Stockholm",
+  "description": "asd",
   "url": "https://nava.community/",
-  "description": "Nordic Audiovisual Artists is a community with the sole purpose of empowering the field of audiovisual arts.",
   "members": [
     {
+      "name": "Andriana Mantzafou",
+      "image": "/static/img/sanchari.jpg"
+    },
+    {
+      "name": "Ayleen Burt",
+      "image": "/static/img/stella.jpg"
+    },
+    {
+      "name": "Azhar Gazizova",
+      "image": "/static/img/tobi.jpg"
+    },
+    {
+      "name": "Itisha Adhikari",
+      "image": "/static/img/sanchari.jpg"
+    },
+    {
       "name": "Jonas Johansson",
-      "url": "https://jonasjohansson.se"
+      "image": "/static/img/charles.jpg"
     },
     {
-      "name": "Rasmus Stride",
-      "url": "http://www.stridestud.io/"
+      "name": "Joost Bergman",
+      "image": "/static/img/tobi.jpg"
     },
     {
-      "name": "Katrín Hauksdottir",
-      "url": "https://www.katrinhauksdottir.com/"
+      "name": "Leandra Anali De Luca",
+      "image": "/static/img/sanchari.jpg"
     },
     {
-      "name": "Atli Bollason",
-      "url": "https://atlibollason.com/"
+      "name": "Lisa Faye",
+      "image": "/static/img/stella.jpg"
     },
     {
-      "name": "Owen Hindley",
-      "url": "http://www.owenhindley.co.uk/"
-    }
-  ],
-  "friends": [
-    {
-      "name": "Charlotte Risch",
-      "url": "https://cargocollective.com/charlotterisch"
+      "name": "Milda Valiukonyte",
+      "image": "/static/img/charles.jpg"
     },
     {
-      "name": "Freya Sif Hestnes",
-      "url": "http://freyasifhestnes.com/"
+      "name": "Mindaugas Raitelaitis",
+      "image": "/static/img/charles.jpg"
+    },
+    {
+      "name": "Nerea Capon",
+      "image": "/static/img/sanchari.jpg"
+    },
+    {
+      "name": "Rebecca de Sousa",
+      "image": "/static/img/stella.jpg"
+    },
+    {
+      "name": "Roudlotul Jannah",
+      "image": "/static/img/stella.jpg"
+    },
+    {
+      "name": "Sabina Monge-Navarro Otero",
+      "image": "/static/img/sanchari.jpg"
+    },
+    {
+      "name": "Sanchari Choudhury",
+      "image": "/static/img/sanchari.jpg"
+    },
+    {
+      "name": "Stella Axelsson",
+      "image": "/static/img/stella.jpg"
+    },
+    {
+      "name": "Tianqi Zhang",
+      "image": "/static/img/charles.jpg"
+    },
+    {
+      "name": "Tobias Willi",
+      "image": "/static/img/tobi.jpg"
     }
   ]
 }
