@@ -1,12 +1,6 @@
 @import url(https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css);
-@import url(https://nava.community/_includes/assets/css/style.css);
-
-@font-face {
-	font-family: 'Nimbus';
-	src: url('NimbusSansDOT-ReguExte.woff2') format('woff2');
-	font-weight: normal;
-	font-style: normal;
-}
+@import url(https://nava.community/_includes/assets/css/template.css);
+@import url(nimbus/stylesheet.css);
 
 body {
 	font-family: 'Nimbus', system-ui;
@@ -17,8 +11,4 @@ h3 {
 	text-transform: uppercase;
 	font-weight: normal;
 	letter-spacing: 0.01em;
-}
-
-::-webkit-scrollbar {
-	display: none;
 }
