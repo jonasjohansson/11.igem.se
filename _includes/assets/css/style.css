@@ -193,7 +193,8 @@ h2#open-call ~ * {
 		font-size: 22px;
 	}
 	figure {
-		min-width: 100ex !important;
+		width: 100%;
+		max-width: 100ex;
 	}
 }
 
