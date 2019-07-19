@@ -5,20 +5,16 @@ section: home
 
 <section>
     <p>{{ metadata.description }}</p>
-    <span>2019</span>
     <nav>
-        <a href="/roskilde-2019/">⛺ Roskilde</a>
-        <a href="/reykjavik-2019/">⛰️ Reykjavik</a>
-        <a href="/tiny-massive-2019/">🚌 Tiny/Massive</a>
+        <a href="/synthetic-biology-art-exhibition/">🎨 Synthetic Biology Art Exhbition</a>
     </nav>
-    <span>2018</span>
-    <nav>
-        <a href="/reykjavik-2018/">🏔️ Reykjavik</a>
-    </nav>
-    <span>NAVA</span>
+    <span>Team</span>
     <nav>
         {% for member in metadata.members %}
-        <a href="{{ member.url }}" target="_blank">{{ member.emoji }} {{ member.name }}</a>
+        <div>
+            <span>{{ member.name }}</span>
+            <img src="{{ member.profile }}">
+        </div>
         {% endfor %}
     </nav>
 </section>
