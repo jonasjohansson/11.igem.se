@@ -14,8 +14,6 @@ We are happy to present 36 unique artistic takes on synthetic biology, ranging f
 
 Please attend the event and check out the initerary and FAQ for further information!
 
-{% video "/static/img/nava2018.mp4"  %}
-
 ## Open call
 
 _Synthetic Biology Art Exhibition, Reaktorhallen KTH
