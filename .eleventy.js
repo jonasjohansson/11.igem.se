@@ -34,7 +34,7 @@ module.exports = function(eleventyConfig) {
 
 	// Minify CSS
 	eleventyConfig.addFilter('cssmin', function(code) {
-		return new CleanCSS({}).minify(code).styles;
+		return new CleanCSS({ inline: ['none'] }).minify(code).styles;
 	});
 
 	// Minify JS
