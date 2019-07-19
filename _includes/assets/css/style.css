@@ -189,9 +189,6 @@ h2#open-call ~ * {
 }
 
 @media (min-width: 800px) {
-	body {
-		font-size: 22px;
-	}
 	figure {
 		width: 100%;
 		max-width: 100ex;
