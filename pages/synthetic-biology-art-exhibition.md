@@ -8,6 +8,8 @@ gradient:
     start_color: '#1a1c21'
 ---
 
+{% image "/static/img/open-call-cover.png"  %}
+
 We are happy to present 36 unique artistic takes on synthetic biology, ranging from audiovisual video works to petridish multiplayer experiences. Expect hands-on workshops and fanastical performances all in the name of art and science as we go deep in the Stockholm underground.
 
 Please attend the event and check out the initerary and FAQ for further information!

@@ -172,6 +172,31 @@ h2#open-call ~ * {
 	pointer-events: none;
 }
 
+/* responsive */
+
+@media (max-width: 799px) {
+	figure {
+		line-height: 0;
+		padding: 0;
+	}
+	figcaption {
+		display: none;
+	}
+
+	figure:last-of-type:last-child {
+		margin-bottom: 0;
+	}
+}
+
+@media (min-width: 800px) {
+	body {
+		font-size: 22px;
+	}
+	figure {
+		min-width: 100ex !important;
+	}
+}
+
 ::-webkit-scrollbar {
 	display: none;
 }
