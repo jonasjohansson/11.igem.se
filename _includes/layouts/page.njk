@@ -3,5 +3,5 @@ layout: layouts/base.njk
 section: page
 ---
 
-<p style="text-align: center">{{ title }}<br>{{ preamble }}</p>
+<p class="preamble">{{ title }}<br>{{ preamble | safe }}</p>
 {{ content | wrap | safe }}

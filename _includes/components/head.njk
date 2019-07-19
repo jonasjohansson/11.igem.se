@@ -6,5 +6,5 @@
 	<meta name="viewport" content="width=device-width,user-scalable=no" />
 	<script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	{% set css %} {% include "assets/css/style.css" %} {% endset %}
-	<style>{{ css | safe }}</style>
+	<style>{{ css | cssmin | safe }}</style>
 </head>

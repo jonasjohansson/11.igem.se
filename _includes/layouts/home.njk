@@ -4,17 +4,21 @@ section: home
 ---
 
 <section>
-    <h1>igem<br>stockholm</h1>
-</section>
-<section>
     <p>{{ metadata.description }}</p>
+    <span>2019</span>
     <nav>
-        <a href="/synthetic-biology-art-exhibition/">Synthetic Biology Art Exhibition</a>
+        <a href="/roskilde-2019/">⛺ Roskilde</a>
+        <a href="/reykjavik-2019/">⛰️ Reykjavik</a>
+        <a href="/tiny-massive-2019/">🚌 Tiny/Massive</a>
+    </nav>
+    <span>2018</span>
+    <nav>
+        <a href="/reykjavik-2018/">🏔️ Reykjavik</a>
     </nav>
     <span>NAVA</span>
     <nav>
         {% for member in metadata.members %}
-        <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
+        <a href="{{ member.url }}" target="_blank">{{ member.emoji }} {{ member.name }}</a>
         {% endfor %}
     </nav>
 </section>
