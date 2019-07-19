@@ -1,6 +1,6 @@
 ---
 title: Synthetic Biology Art Exhibition
-preamble: 13—15 May
+preamble: Reaktorhallen<br>13–15 May
 file: ''
 permalink: /synthetic-biology-art-exhibition/
 gradient:
@@ -16,8 +16,7 @@ Please attend the event and check out the initerary and FAQ for further informat
 
 ## Open call
 
-_Synthetic Biology Art Exhibition, Reaktorhallen KTH
-13-15 May_
+_Synthetic Biology Art Exhibition, Reaktorhallen KTH 13-15 May_
 
 iGEM Stockholm is hosting an art exhibition 25 metres below the surface, home to Swedens first nuclear reactor R1. The theme of the exhibition is Synthetic Biology, a new interdisciplinary area that involves the application of engineering principles to biology. It aims at the (re-)design and fabrication of biological components and systems that do not already exist in the natural world. If you want to know more and get inspired check out these videos!
 

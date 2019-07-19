@@ -38,7 +38,6 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string', default: 'New page' }
       - { label: 'Preamble', name: 'preamble', widget: 'string', required: false }
-      - { label: 'File', name: 'file', widget: 'file', required: false }
       - { label: 'Permalink', name: 'permalink', widget: 'string', required: false }
       - label: 'Theme'
         name: 'theme'
