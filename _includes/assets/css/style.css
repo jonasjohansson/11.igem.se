@@ -12,6 +12,10 @@ h3 {
 	letter-spacing: 0.01em;
 }
 
+.logo img {
+	height: 2rem;
+}
+
 @font-face {
 	font-family: 'Nimbus';
 	src: url('NimbusSansDOT-LighExte.woff2') format('woff2');
