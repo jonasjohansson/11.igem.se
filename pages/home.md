@@ -5,6 +5,6 @@ eleventyExcludeFromCollections: true
 layout: layouts/home.njk
 ---
 
-We're iGEM stockholm, an international team of students working towards the [Giant Jamboree](https://2019.igem.org/Main_Page) where we present our project, currently in research at [Albanova](https://www.albanova.se/). We also try to make positive change by education and participation and host several events through the year. We are soon on our way to Vilnius to take part in a Biohackathon where the aim is to create a new digital invention for scientists.
+We're iGEM stockholm, an international team of 17 students exploring the powers of synthetic biology and its potential for massive positive impact. We are working with our main project towards the [Giant Jamboree](https://2019.igem.org/Main_Page) in Boston whilst making change through events that educate and inspire.
 
 Follow our [Instagram](https://instagram.com/igemstockholm), like us on [Facebook](https://facebook.com/igemstockholm), connect on [LinkedIn](https://linkedin.com/company/igemstockholm) and [get in touch](info@igem.se) 👋
