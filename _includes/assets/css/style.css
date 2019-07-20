@@ -26,6 +26,9 @@ em {
 		float: left;
 		width: 50%;
 	}
+	body#home section:nth-child(2) {
+		border-left: 1px solid black;
+	}
 }
 
 @font-face {
