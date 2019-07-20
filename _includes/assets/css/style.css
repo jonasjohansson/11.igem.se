@@ -22,7 +22,7 @@ em {
 }
 
 @media (min-width: 1280px) {
-	body#home section:nth-of-type(-n+3){{
+	body#home section:nth-of-type(-n + 3) {
 		float: left;
 		width: 50%;
 	}
