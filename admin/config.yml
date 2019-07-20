@@ -38,8 +38,8 @@ collections:
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string', default: 'New page' }
-      - { label: 'Preamble', name: 'preamble', widget: 'string', required: false }
       - { label: 'Permalink', name: 'permalink', widget: 'string', required: false }
+      - { label: 'Preamble', name: 'preamble', widget: 'string', required: false }
       - label: 'Theme'
         name: 'theme'
         widget: 'object'
