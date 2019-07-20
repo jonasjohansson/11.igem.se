@@ -6,8 +6,8 @@ section: home
 <section>
     <p>{{ metadata.description }}</p>
     <nav>
-        {%- for nav in collections.nav -%}
-        <a href="{{ nav.url | url }}"{>{{ nav.data.theme.emoji }} {{ nav.data.title }}</a>
+        {%- for page in collections.page -%}
+        <a href="{{ page.url | url }}"{>{{ page.data.theme.emoji }} {{ page.data.title }}</a>
         {%- endfor -%}
     </nav>
     <span>Team</span>
