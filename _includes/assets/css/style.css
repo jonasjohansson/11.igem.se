@@ -3,6 +3,7 @@
 
 body {
 	font-family: 'Nimbus', system-ui;
+	background-image: linear-gradient(#ffdcb8, #a483f1);
 }
 
 h2,
