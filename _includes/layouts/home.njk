@@ -14,13 +14,6 @@ section: home
         <a href="/biohackathon/">⌨️ Biohackathon</a>
         <a href="/coffee-hour/">☕ Coffee Hour</a>
     </nav>
-    <nav>
-        {% for member in metadata.members %}
-        <div>
-            <span>{{ member.emoji }} {{ member.name }}</span>
-        </div>
-        {% endfor %}
-    </nav>
     <span>Team</span>
     <nav>
         {% for member in metadata.members %}
