@@ -5,11 +5,7 @@ section: home
 
 <section>
     <p>{{ metadata.description }}</p>
-    <nav>
-        {%- for page in collections.page -%}
-        <a href="{{ page.url | url }}"{>{{ page.data.theme.emoji }} {{ page.data.title }}</a>
-        {%- endfor -%}
-    </nav>
+    {{ content | safe }}
     <span>Team</span>
     <nav>
         {% for member in metadata.members %}
