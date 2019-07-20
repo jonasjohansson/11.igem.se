@@ -9,4 +9,4 @@ We're iGEM stockholm, an international team of 17 students exploring the powers 
 
 Follow our [Instagram](https://instagram.com/igemstockholm), like us on [Facebook](https://facebook.com/igemstockholm) and connect on [LinkedIn](https://linkedin.com/company/igemstockholm).
 
-Want to help us do the best work we can? [Get in touch](info@igem.se) 👋
+Want to help out? [Get in touch](info@igem.se) 👋
