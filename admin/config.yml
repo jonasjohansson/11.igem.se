@@ -27,6 +27,7 @@ collections:
             fields:
               - { label: Name, name: name, widget: string }
               - { label: Image, name: image, widget: image, required: false }
+              - { label: Emoji, name: emoji, widget: string, required: false }
   # Our pages e.g. About
   - name: 'pages'
     label: 'Page'
@@ -44,6 +45,6 @@ collections:
         widget: 'object'
         required: false
         fields:
-          - { label: 'Background Color', name: 'background_color', widget: 'string' }
-          - { label: 'Text Color', name: 'text_color', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Background Color', name: 'background_color', widget: 'string', required: false }
+          - { label: 'Text Color', name: 'text_color', widget: 'string', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
