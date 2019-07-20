@@ -6,7 +6,9 @@ section: home
 <section>
     <p>{{ metadata.description }}</p>
     <nav>
-        <a href="/synthetic-biology-art-exhibition/">🎨 Synthetic Biology Art Exhbition</a>
+        {%- for nav in collections.nav -%}
+        <a href="{{ nav.url | url }}"{>{{ nav.data.theme.emoji }} {{ nav.data.title }}</a>
+        {%- endfor -%}
     </nav>
     <span>Team</span>
     <nav>
