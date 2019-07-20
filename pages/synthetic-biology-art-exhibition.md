@@ -1,11 +1,9 @@
 ---
 title: Synthetic Biology Art Exhibition
 preamble: Reaktorhallen<br>13–15 May
-file: ''
 permalink: /synthetic-biology-art-exhibition/
-gradient:
-    end_color: '#1a1c21'
-    start_color: '#1a1c21'
+theme:
+  emoji: "\U0001F3A8"
 ---
 
 {% image "/static/img/open-call-cover.png"  %}
