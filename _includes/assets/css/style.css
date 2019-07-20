@@ -3,7 +3,7 @@
 
 body {
 	font-family: 'Nimbus', system-ui;
-	background-image: linear-gradient(#ffdcb8, #a483f1);
+	/*background-image: linear-gradient(#ffdcb8, #a483f1);*/
 }
 
 h2,
@@ -11,6 +11,10 @@ h3 {
 	text-transform: uppercase;
 	font-weight: normal;
 	letter-spacing: 0.01em;
+}
+
+em {
+	opacity: 0.5;
 }
 
 .logo img {
