@@ -6,6 +6,11 @@ body {
 	/*background-image: linear-gradient(#ffdcb8, #a483f1);*/
 }
 
+body#home section {
+	float: left;
+	width: 50%;
+}
+
 h2,
 h3 {
 	text-transform: uppercase;
