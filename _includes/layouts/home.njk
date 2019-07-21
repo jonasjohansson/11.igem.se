@@ -24,9 +24,7 @@ section: home
     <span>Team</span>
     <nav>
         {% for member in metadata.members %}
-        <div>
-            <span>{{ member.emoji }} {{ member.name }}</span>
-        </div>
+        <div>{{ member.emoji }} {{ member.name }}</div>
         {% endfor %}
     </nav>
 </section>
