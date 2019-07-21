@@ -9,4 +9,4 @@ We're iGEM Stockholm, an international team of students exploring synthetic biol
 
 Follow our [Instagram](https://instagram.com/igemstockholm), like us on [Facebook](https://facebook.com/igemstockholm) and connect on [LinkedIn](https://linkedin.com/company/igemstockholm).
 
-Want to help out? [Get in touch](info@igem.se) 👋
+Want to help out? [Get in touch](mailto:info@igem.se) 👋
