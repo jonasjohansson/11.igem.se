@@ -10,7 +10,7 @@ Synthetic biology is, relatively speaking, a new field of science and so the gen
 
 {% image "/static/img/school-visit-presentation-3.jpg"  %}
 
-### Exercices
+## Let's get physical!
 
 We asked the classes "what do you know about bacteria?", and followed up with a short lesson which led to great discussions about the central dogma, replication and epigenetics. These kids are not to be taken lightly…
 
