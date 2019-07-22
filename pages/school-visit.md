@@ -6,7 +6,7 @@ theme:
     background_color: '#C498C3, #834a60'
 ---
 
-Synthetic biology is, relatively speaking, a new field of science and so the general knowledge is low. In order to make an impact we wanted to inspire and inform youth, and so we travelled to Linköping where we visited Atlasskolan and met with a total of 100 students! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria 🦠
+Synthetic biology is, relatively speaking, a new field of science and so the general knowledge is low. In order to make an impact we wanted to inspire and inform youth, and so we travelled to Linköping where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria 🦠
 
 {% image "/static/img/school-visit-presentation-2.jpg"  %}
 
