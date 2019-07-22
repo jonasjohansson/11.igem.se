@@ -2,7 +2,7 @@
 @import url(https://nava.community/_includes/assets/css/template.css);
 
 body {
-    font-family: 'Nimbus', system-ui;
+    font-family: 'Nimbus', -apple-system, system-ui, sans-serif;
 }
 
 body#home {
