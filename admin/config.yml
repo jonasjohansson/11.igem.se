@@ -44,7 +44,6 @@ collections:
         name: 'theme'
         widget: 'object'
         fields:
-          - { label: Emoji, name: emoji, widget: string, required: false }
           - { label: 'Background Color', name: 'background_color', widget: 'string', required: false }
           - { label: 'Text Color', name: 'text_color', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
