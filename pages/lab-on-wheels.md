@@ -8,9 +8,9 @@ theme:
 
 Deep down in the nuclear reactor, more specifically in the control room, iGEM Stockholms team member Roudlotul Jannah together with the team hosted a “Lab on wheels”, an interactive workshop for visitors to try whilst enjoying the art.
 
-{% image "/static/img/school-visit-presentation-2.jpg"  %}
-{% image "/static/img/school-visit-presentation-3.jpg"  %}
-{% image "/static/img/school-visit-presentation-1.jpg"  %}
+{% image "/static/img/lab-on-wheels-2.jpg"  %}
+{% image "/static/img/lab-on-wheels-3.jpg"  %}
+{% image "/static/img/lab-on-wheels-1.jpg"  %}
 
 The workshop consisted of extracting DNA from strawberries with everyday items you can find in your kitchen. For example, instead of a centrifudge a plasatic bag with manual crusching was used. When done, the visitors were allowed to keep their extracted DNA in an Eppendorftube to take home and show family and friends.
 
