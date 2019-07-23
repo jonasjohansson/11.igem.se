@@ -8,8 +8,8 @@ module.exports = function(eleventyConfig) {
 		return `<div class="${className}">${content}</div>`;
 	});
 
-	eleventyConfig.addPairedShortcode('quote', function(content) {
-		return `<q>${content}</q>`;
+	eleventyConfig.addPairedShortcode('quote', function(content, name) {
+		return `<q>${content}<p>—${name}</q>`;
 	});
 
 	eleventyConfig.addPairedShortcode('video2', function(content, path, poster = '') {
