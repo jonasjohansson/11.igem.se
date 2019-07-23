@@ -12,6 +12,11 @@ body#home {
     color: white;
 }
 
+h1 {
+    line-height: 1em;
+    font-weight: 300;
+}
+
 h2,
 h3 {
     text-transform: uppercase;
