@@ -9,7 +9,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addPairedShortcode('quote', function(content, name) {
-		return `<q>${content}<p>—${name}</q>`;
+		return `<q>${content}</q><p>— ${name}</p>`;
 	});
 
 	eleventyConfig.addPairedShortcode('video2', function(content, path, poster = '') {
