@@ -39,8 +39,8 @@ All kinds of art is accepted, and everyone is eligible to participate irregardle
 
 For more information, follow us on Instagram and connect on Facebook.
 
-{% image "/static/img/reaktorhallen.jpg"  %}
+{% image "/static/img/reaktorhallen.jpg", "Photo by Jann Lipka" %}
 
-{% image "/static/img/reaktorhallen-bw2.jpg"  %}
+{% image "/static/img/reaktorhallen-bw2.jpg", "Photo by Ayleen Burt" %}
 
 Learn more about iGEM and the work of previous teams at [SGEM](http://sgem.igem.se/).
