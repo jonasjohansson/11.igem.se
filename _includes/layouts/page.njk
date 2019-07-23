@@ -3,5 +3,8 @@ layout: layouts/base.njk
 section: page
 ---
 
-<h1>{{ title }}<br>{{ preamble | safe }}</h1>
+<section class="text-layout">
+    <h1>{{ title }}<br>{{ preamble | safe }}</h1>
+</section>
+
 {{ content | wrap | safe }}
