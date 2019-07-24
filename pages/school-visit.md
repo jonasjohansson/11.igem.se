@@ -1,7 +1,7 @@
 ---
 title: School Visit
 preamble: Atlasskolan, 7-19 May
-permalink: /school-visit/
+permalink: /projects/school-visit/
 theme:
     background_color: '#C498C3, #834a60'
 ---
