@@ -3,7 +3,7 @@ title: Bioethics and Biolegislation Symposium
 preamble: Stockholms Universitet, 29 May
 permalink: /projects/bioethics-and-biolegislation/
 theme:
-    background_color: '#C498C3, #834a60'
+    background_color: '#cccccc, #0000b0'
 ---
 
 Do you want to learn more about patenting and Intellectual Property in the Life Sciences technology? Have you ever thought about the social consequences of biotechnology?
