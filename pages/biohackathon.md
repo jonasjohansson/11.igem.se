@@ -18,7 +18,7 @@ Milda, Stella and Tobi left their comforts in Stockholm to represent us, togethe
 
 Unfortunately we did not win but are very happy with what we managed to accomplish, something that we believe can make a difference for many - and which is functional to use now! We are also happy to have made some new friends and been given an opportunity to take a break from the lab and explore new perspectives - and a new city!
 
-{% image "/static/img/biohackathon-vilnius.jpg", "", ""Cozy time at a local bar" %}
+{% image "/static/img/biohackathon-vilnius.jpg","","Cozy time at a local bar" %}
 
 We are looking forward to future hackathons and software development challenges, and until then — congratulations to the winning teams:
 
