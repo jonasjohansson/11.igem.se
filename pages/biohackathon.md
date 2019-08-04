@@ -3,7 +3,7 @@ title: Biohackathon
 preamble: Life Sciences Centre of Vilnius, 2-4 Aug
 permalink: /projects/biohackathon/
 theme:
-    background_color: '#bd4e00, #FEE800'
+    background_color: '#bd4e00, #4c4c4c'
 ---
 
 For the second year in the row, Vilnius-Lithuania iGEM team organizes an [international programming contest of life sciences](https://www.facebook.com/events/403870607004932/). This year BioHackathon participants were encouraged to create an app that could tackle the widespread issues of the following themes: biosafety and security of data, synthetic biology, lab efficiency, life sciences education.
