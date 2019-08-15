@@ -14,6 +14,8 @@ Milda, Stella and Tobi left their comforts in Stockholm to represent us, togethe
 
 {% image "/static/img/biohackathon-stella-milda.jpg" %}
 
+{% image "/static/img/biohackathon-team.jpg" %}
+
 {% video "/static/img/biohackathon-bus.mov","","Post hackathon hangout" %}
 
 Unfortunately we did not win but are very happy with what we managed to accomplish, something that we believe can make a difference for many - and which is functional to use now! We are also happy to have made some new friends and been given an opportunity to take a break from the lab and explore new perspectives - and a new city!
