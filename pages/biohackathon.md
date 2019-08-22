@@ -12,7 +12,7 @@ For the second year in the row, Vilnius-Lithuania iGEM team organizes an [intern
 
 Milda, Stella and Tobi left their comforts in Stockholm to represent us, together with Jonas who collaborated with the team remotely. We decided to focus on lab efficiency and during the 48-hours hackathon we developed a solution that turns the digital process of constructing dna sequences from boring to fun, while making room for sharing and learning. We call the project 🧱 Brick! To try it out visit [the project page](https://brick.bio/). To learn more about how it was made, and our other ideas, [read our post on Medium](https://medium.com/@jonasjohansson/biohackath-1a8762f93f3a).
 
-{% image "/static/img/biohackathon-stella-milda.jpg" %}
+{% image "/static/img/biohackathon-stella-milda-2.jpg" %}
 
 {% video "/static/img/biohackathon-bus.mov","","Post hackathon hangout" %}
 
