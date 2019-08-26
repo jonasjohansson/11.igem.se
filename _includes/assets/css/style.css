@@ -29,6 +29,14 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.8);
 }
 
+nav {
+    overflow-x: scroll;
+}
+
+nav div {
+    white-space: nowrap;
+}
+
 .logo img {
     height: 2rem;
 }
