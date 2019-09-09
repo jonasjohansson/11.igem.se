@@ -1,7 +1,7 @@
 ---
 title: Bioethics and Biolegislation Symposium
 preamble: Stockholms Universitet, 29 May
-permalink: /events/bioethics-and-biolegislation/
+permalink: /projects/bioethics-and-biolegislation/
 theme:
     background_color: '#B0B0B0, #0000b0'
 ---
