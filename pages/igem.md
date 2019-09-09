@@ -1,7 +1,7 @@
 ---
 title: iGEM stockholm design
 preamble:
-permalink: /design/
+permalink: /design/igem-stockholm/
 theme:
     background_color: '#ffffff, #ffffff'
 ---
