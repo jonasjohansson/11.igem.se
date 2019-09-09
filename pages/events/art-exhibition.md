@@ -1,7 +1,7 @@
 ---
 title: Synthetic Biology Art Exhibition
 preamble: Reaktorhallen<br>13–15 May
-permalink: /projects/art-exhibition/
+permalink: /events/art-exhibition/
 ---
 
 {% image "/static/img/open-call-cover.png"  %}

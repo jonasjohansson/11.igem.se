@@ -1,7 +1,7 @@
 ---
 title: Lab on Wheels
 preamble: 'Reaktorhallen, 13-15 May'
-permalink: /projects/lab-on-wheels/
+permalink: /events/lab-on-wheels/
 theme:
     background_color: '#f29752, #201e1a'
 ---

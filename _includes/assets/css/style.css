@@ -6,7 +6,7 @@ body {
 }
 
 body#home {
-	background-image: linear-gradient(-45deg, #ff0f6a, #2d36c6);
+	background-image: linear-gradient(-45deg, red, blue);
 	background-size: 300% 300%;
 	animation: gradient 20s ease-in-out infinite;
 	/*color: white;*/

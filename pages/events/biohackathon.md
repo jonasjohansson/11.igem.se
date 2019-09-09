@@ -1,7 +1,7 @@
 ---
 title: Biohackathon
 preamble: Life Sciences Centre of Vilnius, 2-4 Aug
-permalink: /projects/biohackathon/
+permalink: /events/biohackathon/
 theme:
     background_color: '#bd4e00, #4c4c4c'
 ---
