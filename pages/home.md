@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 permalink: /
 eleventyExcludeFromCollections: true
 layout: layouts/home.njk
