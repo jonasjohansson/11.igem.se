@@ -49,8 +49,7 @@ nav div {
 /* team */
 
 @media (min-width: 801px) {
-	#team .members .member {
-		column-count: 2;
+	#team .members .member > *:first-child {
 	}
 }
 
