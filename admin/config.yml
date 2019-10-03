@@ -30,6 +30,7 @@ collections:
               - { label: Role, name: role, widget: string, required: false }
               - { label: School, name: school, widget: string, required: false }
               - { label: Program, name: program, widget: string, required: false }
+              - { label: Motivaton, name: motivation, widget: string, required: false }
               - { label: Emoji, name: emoji, widget: string, required: false }
   # Our pages e.g. About
   - name: 'pages'
