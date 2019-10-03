@@ -8,20 +8,27 @@ permalink: /wiki/team/
 
 Esther was invented and made possible by this fantastic team of people. With 13 different nationalities, diverse backgrounds, educations, perspectives and ideas, we developed this project. We went from strangers to the creators of Esther in the span of only 9 months, but most importantly we all became great friends for life. This is us: iGEM Stockholm 2019.
 
+{% image "/static/img/wiki/team.jpg"  %}
+
 ## Team members
+
+{% div "members" %}
 
 {% for member in metadata.members %}
 
-{% div "block team" %}
+{% div "member" %}
 
 ![]({{member.image}})
 
--   Name: {{ member.name }}
+### {{ member.name }}
+
 -   Team role: {{ member.role }}
 -   School: {{ member.school }}
 -   Program: {{ member.program }}
 -   Motivation: {{ member.motivation }}
 
-{% enddiv "block" %}
+{% enddiv %}
 
 {% endfor %}
+
+{% enddiv "" %}

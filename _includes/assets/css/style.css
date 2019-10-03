@@ -25,6 +25,10 @@ h3 {
 	letter-spacing: 0.01em;
 }
 
+img {
+	width: 100%;
+}
+
 hr {
 	clear: both;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.8);
@@ -41,6 +45,16 @@ nav div {
 .logo img {
 	height: 2rem;
 }
+
+/* team */
+
+@media (min-width: 801px) {
+	#team .members .member {
+		column-count: 2;
+	}
+}
+
+/* endteam */
 
 @media (min-width: 1280px) {
 	body#home section:nth-child(-n + 3) {
