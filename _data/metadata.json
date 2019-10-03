@@ -5,87 +5,87 @@
   "members": [
     {
       "name": "Andriana Mantzafou",
-      "image": "/static/img/profile-andriana.jpg",
+      "image": "/static/wiki/team-andriana.jpg",
       "emoji": "🇬🇷"
     },
     {
       "name": "Ayleen Burt",
-      "image": "/static/img/profile-ayleen.jpg",
+      "image": "/static/wiki/team-ayleen.jpg",
       "emoji": "🇸🇪"
     },
     {
       "name": "Azhar Gazizova",
-      "image": "/static/img/profile-azhar.jpg",
+      "image": "/static/wiki/team-azhar.jpg",
       "emoji": "🇰🇿"
     },
     {
       "name": "Itisha Adhikari",
-      "image": "/static/img/profile-itisha.jpg",
+      "image": "/static/wiki/team-itisha.jpg",
       "emoji": "🇮🇳"
     },
     {
       "name": "Jonas Johansson",
-      "image": "/static/img/profile-jonas.jpg",
+      "image": "/static/wiki/team-jonas.jpg",
       "emoji": "🇸🇪"
     },
     {
       "name": "Joost Bergman",
-      "image": "/static/img/profile-joost.jpg",
+      "image": "/static/wiki/team-joost.jpg",
       "emoji": "🇳🇱"
     },
     {
-      "name": "Leandra Anali De Luca",
-      "image": "/static/img/profile-leandra.jpg",
+      "name": "Anali De Luca",
+      "image": "/static/wiki/team-anali.jpg",
       "emoji": "🇸🇪"
     },
     {
       "name": "Lisa Faye",
-      "image": "/static/img/profile-lisa.jpg",
+      "image": "/static/wiki/team-lisa.jpg",
       "emoji": "🇫🇷"
     },
     {
       "name": "Milda Valiukonyte",
-      "image": "/static/img/profile-milda.jpg",
+      "image": "/static/wiki/team-milda.jpg",
       "emoji": "🇱🇹"
     },
     {
       "name": "Nerea Capon",
-      "image": "/static/img/profile-nerea.jpg",
+      "image": "/static/wiki/team-nerea.jpg",
       "emoji": "🇪🇸"
     },
     {
       "name": "Rebecca de Sousa",
-      "image": "/static/img/profile-rebecca.jpg",
+      "image": "/static/wiki/team-rebecca.jpg",
       "emoji": "🇸🇪"
     },
     {
       "name": "Roudlotul Jannah",
-      "image": "/static/img/profile-jannah.jpg",
+      "image": "/static/wiki/team-jannah.jpg",
       "emoji": "🇮🇩"
     },
     {
       "name": "Sabina Monge-Navarro Otero",
-      "image": "/static/img/profile-sabina.jpg",
+      "image": "/static/wiki/team-sabina.jpg",
       "emoji": "🇦🇷"
     },
     {
       "name": "Sanchari Choudhury",
-      "image": "/static/img/profile-sanchari.jpg",
+      "image": "/static/wiki/team-sanchari.jpg",
       "emoji": "🇮🇳"
     },
     {
       "name": "Stella Axelsson",
-      "image": "/static/img/profile-stella.jpg",
+      "image": "/static/wiki/team-stella.jpg",
       "emoji": "🇸🇪"
     },
     {
       "name": "Tianqi Zhang",
-      "image": "/static/img/profile-charles.jpg",
+      "image": "/static/wiki/team-charles.jpg",
       "emoji": "🇨🇳"
     },
     {
       "name": "Tobias Willi",
-      "image": "/static/img/profile-tobi.jpg",
+      "image": "/static/wiki/team-tobi.jpg",
       "emoji": "🇩🇪"
     }
   ]
