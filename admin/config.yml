@@ -27,6 +27,9 @@ collections:
             fields:
               - { label: Name, name: name, widget: string }
               - { label: Image, name: image, widget: image, required: false }
+              - { label: Role, name: role, widget: string, required: false }
+              - { label: School, name: school, widget: string, required: false }
+              - { label: Program, name: program, widget: string, required: false }
               - { label: Emoji, name: emoji, widget: string, required: false }
   # Our pages e.g. About
   - name: 'pages'
