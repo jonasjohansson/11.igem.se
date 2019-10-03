@@ -64,6 +64,9 @@ nav div {
 		width: 50%;
 		padding: 0 0.5em;
 	}
+	#team .member {
+		clear: both;
+	}
 }
 
 @media (min-width: 1280px) {
