@@ -10,7 +10,7 @@ Our project was made by this team of fantastic people from 13 different national
 
 {% image "/static/img/team.jpg"  %}
 
-## Members
+## Superstars
 
 {% div "members" %}
 
