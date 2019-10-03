@@ -5,7 +5,7 @@
   "members": [
     {
       "name": "Andriana Mantzafou",
-      "image": "/static/wiki/team-andriana.jpg",
+      "image": "/static/img/wiki/team-andriana.jpg",
       "role": "Wet lab and Project Development",
       "school": "Stockholm University and Karolinska Institutet ",
       "program": "MS. Neurochemistry with Molecular Neurobiology",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Ayleen Burt",
-      "image": "/static/wiki/team-ayleen.jpg",
+      "image": "/static/img/wiki/team-ayleen.jpg",
       "role": "Media and Design, Wet Lab",
       "school": "KTH Royal Institute of Technology",
       "program": "BSc. Biotechnology",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Azhar Gazizova",
-      "image": "/static/wiki/team-azhar.jpg",
+      "image": "/static/img/wiki/team-azhar.jpg",
       "role": "Wet lab and Project Development",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Itisha Adhikari",
-      "image": "/static/wiki/team-itisha.jpg",
+      "image": "/static/img/wiki/team-itisha.jpg",
       "role": "Project Development and Human Practices ",
       "school": "Karolinska Institutet",
       "program": "MSc. Bio-entrepreneurship",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Jonas Johansson",
-      "image": "/static/wiki/team-jonas.jpg",
+      "image": "/static/img/wiki/team-jonas.jpg",
       "role": "Media and Design, Wiki",
       "school": "Beckmans college of Design, Hyper Island",
       "program": "Lecturer, Industry Leader",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Joost Bergman",
-      "image": "/static/wiki/team-joost.jpg",
+      "image": "/static/img/wiki/team-joost.jpg",
       "role": "Finance and Wiki",
       "school": "Karolinska Institutet",
       "program": "MSc. Biomedicine",
@@ -58,12 +58,12 @@
     },
     {
       "name": "Anali De Luca",
-      "image": "/static/wiki/team-anali.jpg",
+      "image": "/static/img/wiki/team-anali.jpg",
       "emoji": "🇸🇪"
     },
     {
       "name": "Lisa Faye",
-      "image": "/static/wiki/team-lisa.jpg",
+      "image": "/static/img/wiki/team-lisa.jpg",
       "role": "Finance and Media",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Medical Biotechnology",
@@ -72,12 +72,12 @@
     },
     {
       "name": "Milda Valiukonyte",
-      "image": "/static/wiki/team-milda.jpg",
+      "image": "/static/img/wiki/team-milda.jpg",
       "emoji": "🇱🇹"
     },
     {
       "name": "Nerea Capon",
-      "image": "/static/wiki/team-nerea.jpg",
+      "image": "/static/img/wiki/team-nerea.jpg",
       "role": "Team Leader",
       "school": "Stockholm University",
       "program": "MSc. Neurochemistry and Molecular Neurobiology",
@@ -85,12 +85,12 @@
     },
     {
       "name": "Rebecca de Sousa",
-      "image": "/static/wiki/team-rebecca.jpg",
+      "image": "/static/img/wiki/team-rebecca.jpg",
       "emoji": "🇸🇪"
     },
     {
       "name": "Roudlotul Jannah",
-      "image": "/static/wiki/team-jannah.jpg",
+      "image": "/static/img/wiki/team-jannah.jpg",
       "role": "Project development and Human Practices",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Sabina Monge-Navarro Otero",
-      "image": "/static/wiki/team-sabina.jpg",
+      "image": "/static/img/wiki/team-sabina.jpg",
       "role": "Human Practices",
       "school": "Karolinska Institutet ",
       "program": "MSc. Biomedicine",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Sanchari Choudhury",
-      "image": "/static/wiki/team-sanchari.jpg",
+      "image": "/static/img/wiki/team-sanchari.jpg",
       "role": "Dry lab and Project Development",
       "school": "Karolinska Insitutet",
       "program": "MSc. Biomedicine",
@@ -117,7 +117,7 @@
     },
     {
       "name": "Stella Axelsson",
-      "image": "/static/wiki/team-stella.jpg",
+      "image": "/static/img/wiki/team-stella.jpg",
       "role": "Wet lab and Educational Human Practices  ",
       "school": "KTH Royal Institute of Technology",
       "program": "BSc. Biotechnology",
@@ -126,7 +126,7 @@
     },
     {
       "name": "Tianqi Zhang",
-      "image": "/static/wiki/team-charles.jpg",
+      "image": "/static/img/wiki/team-charles.jpg",
       "role": "Project development and Human Practices ",
       "school": "Karolinska Institutet ",
       "program": "MSc. Biomedicine",
@@ -135,7 +135,7 @@
     },
     {
       "name": "Tobias Willi",
-      "image": "/static/wiki/team-tobi.jpg",
+      "image": "/static/img/wiki/team-tobi.jpg",
       "role": "Wet lab and construct design ",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Medical Biotechnology",
