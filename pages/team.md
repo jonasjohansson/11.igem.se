@@ -24,7 +24,7 @@ Our project was made by this team of fantastic people from 13 different national
 
 ### {{ member.name }}
 
--   Team role: {{ member.role }}
+-   Role: {{ member.role }}
 -   School: {{ member.school }}
 -   Program: {{ member.program }}
 
