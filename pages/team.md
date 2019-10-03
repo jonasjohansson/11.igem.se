@@ -8,7 +8,7 @@ permalink: /team/
 
 Esther was invented and made possible by this fantastic team of people. With 13 different nationalities, diverse backgrounds, educations, perspectives and ideas, we developed this project. We went from strangers to the creators of Esther in the span of 9 months, but most importantly we all became great friends for life!
 
-{% image "/static/img/wiki/team.jpg"  %}
+{% image "/static/img/team.jpg"  %}
 
 ## Team members
 
