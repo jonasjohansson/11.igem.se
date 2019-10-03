@@ -59,6 +59,10 @@
     {
       "name": "Anali De Luca",
       "image": "/static/img/wiki/team-anali.jpg",
+      "role": "Dry lab and Educational Human Practices",
+      "school": "KTH Royal Institute of Technology",
+      "program": "MSc. Industrial and Environmental Biotechnology",
+      "motivation": "Anali chose to be in iGEM Because it is an experience of a lifetime you can only do as a student. iGEM is the obvious choice for any biotech/med student who wants to challenge themselves, learn more about themselves and about the field they are/will work in.",
       "emoji": "🇸🇪"
     },
     {
@@ -71,8 +75,12 @@
       "emoji": "🇫🇷"
     },
     {
-      "name": "Milda Valiukonyte",
+      "name": "Milda Valiukonytė",
       "image": "/static/img/wiki/team-milda.jpg",
+      "role": "Dry lab and Project Development",
+      "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
+      "program": "MSc. Molecular Techniques in Life Sciences",
+      "motivation": "Milda chose iGEM because she was interested in working with a team of other creative young people on a biological problem to help improve the world.",
       "emoji": "🇱🇹"
     },
     {
@@ -94,7 +102,7 @@
     },
     {
       "name": "Roudlotul Jannah",
-      "image": "/static/img/wiki/team-jannah.jpg",
+      "image": "/static/img/wiki/team-roudlotul.jpg",
       "role": "Project development and Human Practices",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
