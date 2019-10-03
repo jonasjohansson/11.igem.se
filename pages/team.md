@@ -10,7 +10,7 @@ Esther was invented and made possible by this fantastic team of people. With 13 
 
 {% image "/static/img/team.jpg"  %}
 
-## Team members
+## Members
 
 {% div "members" %}
 
