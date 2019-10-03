@@ -46,6 +46,18 @@ nav div {
 	height: 2rem;
 }
 
+#team ul {
+	list-style: none;
+	padding-left: 0;
+	opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+	#team h3 {
+		text-align: center;
+	}
+}
+
 @media (min-width: 601px) {
 	#team .members {
 		column-count: 2;
@@ -53,6 +65,7 @@ nav div {
 	#team .members .member > * {
 		float: left;
 		width: 50%;
+		padding: 0 0.5em;
 	}
 }
 
