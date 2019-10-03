@@ -27,7 +27,8 @@ Esther was invented and made possible by this fantastic team of people. With 13 
 -   Team role: {{ member.role }}
 -   School: {{ member.school }}
 -   Program: {{ member.program }}
--   Motivation: {{ member.motivation }}
+
+{{ member.motivation }}
 
 {% enddiv %}
 
