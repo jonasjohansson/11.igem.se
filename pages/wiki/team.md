@@ -12,14 +12,14 @@ Esther was invented and made possible by this fantastic team of people. With 13 
 
 {% for member in metadata.members %}
 
-    {% div "block" %}
+{% div "block" %}
 
-    	- Name: {{ member.name }}
-    	- Team role: {{ member.role }}
-    	- School: {{ member.school }}
-    	- Program: {{ member.program }}
-    	- Motivation: {{ member.motivation }}
+-   Name: {{ member.name }}
+-   Team role: {{ member.role }}
+-   School: {{ member.school }}
+-   Program: {{ member.program }}
+-   Motivation: {{ member.motivation }}
 
-    {% enddiv "block" %}
+{% enddiv "block" %}
 
 {% endfor %}
