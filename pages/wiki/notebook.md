@@ -1,7 +1,7 @@
 ---
-title: Team
+title: Notebook
 preamble: iGEM Stockholm 2019
-permalink: /wiki/team/
+permalink: /wiki/notebook/
 tags: wiki
 ---
 
