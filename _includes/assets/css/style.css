@@ -3,6 +3,14 @@
 
 body {
 	font-family: 'Nimbus', -apple-system, system-ui, sans-serif;
+	line-height: 1.2;
+	overflow-x: hidden;
+}
+
+@media (max-width: 800px) {
+	body {
+		font-size: 18px;
+	}
 }
 
 body#home {
@@ -16,6 +24,12 @@ body#home {
 h1 {
 	/*line-height: 1em;*/
 	font-weight: 400;
+}
+
+h1 {
+	background: -webkit-linear-gradient(45deg, red, blue);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
 h2,

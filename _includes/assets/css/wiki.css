@@ -2,6 +2,12 @@
 	--color: #e1e7ed;
 }
 
+body.dark,
+body.dark header {
+	background-color: #222;
+	color: #ddd;
+}
+
 .logo {
 	width: 100px;
 }
