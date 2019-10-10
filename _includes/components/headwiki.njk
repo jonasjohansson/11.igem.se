@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
-    <!-- <base href="http://localhost/11.igem.se/_site/"> -->
+    <base href="http://localhost/11.igem.se/_site/">
     <title>{{ metadata.title }} {{ title }}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,user-scalable=no" />
@@ -15,7 +15,8 @@
     </div>
     <nav>
         {%- for post in collections.wiki -%}
-        <a href="{{ page.url }}" {% if page.url == post.url %} class="active" {% endif %}>{{ post.data.title }}</a>
+        <a href="{{ post.url }}" {% if page.url == post.url %} class="active" {% endif %}>{{ post.data.title }}</a>
         {%- endfor -%}
     </nav>
+
 </header>

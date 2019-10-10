@@ -6,6 +6,11 @@
 		{% include "components/head.njk" %}
 	{% endif %}
 <body id="{{ title | slug }}" class="{{ section }}">
+
+	{% if cover %}
+		{% hero cover %}
+	{% endif %}
+
 	<article>
 		{{ layoutContent | safe }}
 	</article>

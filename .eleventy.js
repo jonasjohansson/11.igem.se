@@ -28,6 +28,10 @@ module.exports = function(eleventyConfig) {
 		return `<figure class="image"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
 	});
 
+	eleventyConfig.addShortcode('hero', function(path) {
+		return `<div class="cover"><video class="cover" src="${path}" width="960" height="540" muted autoplay loop playsinline></video></div>`;
+	});
+
 	eleventyConfig.addFilter('wrap', function(string) {
 		string = string.trim();
 		string = string.replace(/^(?:(?!<figure>|<\/figure>)[\S\s])*$/gim, function(str) {
