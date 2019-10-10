@@ -1,7 +1,8 @@
 ---
 title: Team
 preamble: iGEM Stockholm 2019
-permalink: /team/
+permalink: /wiki/team/
+tags: wiki
 ---
 
 Our project was made by this team of fantastic people from 13 different nationalities with diverse backgrounds, educations and perspectives. We went from strangers to the creators of Esther in the span of 9 months, but most importantly we all became great friends for life!

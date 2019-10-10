@@ -1,0 +1,134 @@
+:root {
+	--color: #e1e7ed;
+}
+
+.logo {
+	width: 100px;
+}
+
+header {
+	position: fixed;
+	top: 0;
+	padding: 1rem;
+	width: 100vw;
+	line-height: 2rem;
+}
+
+header > * {
+	float: left;
+	display: flex;
+}
+
+.page .title {
+	padding: 2rem 0;
+	font-size: 24px;
+}
+
+.page h1 {
+}
+
+article > * {
+	margin: 0 auto;
+}
+
+article > *:not(.image) {
+	width: 40rem;
+}
+
+.center {
+	text-align: center;
+}
+
+#hero {
+	width: 100vw;
+	height: 40vh;
+	background-color: var(--color);
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*background-attachment: fixed;*/
+	background-position: center center;
+}
+
+main,
+p {
+	padding-bottom: 1em;
+}
+
+main:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+h2 {
+	font-weight: inherit;
+}
+
+h2,
+h2 + .preamble {
+	font-size: 1.8rem;
+}
+
+.preamble {
+	font-style: italic;
+}
+
+article.columns > div {
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+}
+
+article.columns div.text {
+	width: 60%;
+}
+
+article.columns div.image {
+	width: 40%;
+}
+
+article > div:first-child {
+	padding-right: 1rem;
+}
+
+article > div:last-child {
+	padding-left: 1rem;
+}
+
+article {
+	clear: left;
+}
+
+a.link {
+	display: inline-block;
+	background-color: tomato;
+	padding: 0.5rem 1rem;
+	color: white;
+	font-style: bold;
+	text-transform: uppercase;
+}
+
+.preamble {
+	/*font-style: italic;*/
+}
+
+.image:after {
+	display: block;
+	content: '';
+	width: 100%;
+	height: 300px;
+	background-color: var(--color);
+}
+
+@font-face {
+	font-family: 'Nimbus';
+	src: url('NimbusSansDOT-LighExte.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Nimbus';
+	src: url('NimbusSansDOT-ReguExte.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}

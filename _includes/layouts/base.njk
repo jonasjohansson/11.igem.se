@@ -1,8 +1,11 @@
 <!doctype html>
 <html>
-	{% include "components/head.njk" %}
+	{% if tags.includes("wiki") %}
+		{% include "components/headwiki.njk" %}
+	{% else %}
+		{% include "components/head.njk" %}
+	{% endif %}
 <body id="{{ title | slug }}" class="{{ section }}">
-
 	<article>
 		{{ layoutContent | safe }}
 	</article>
