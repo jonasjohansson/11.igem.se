@@ -19,9 +19,12 @@ header {
 	height: 4rem;
 	box-sizing: border-box;
 	/*background-color: white;*/
-	mix-blend-mode: difference;
-	color: white;
+	/*color: white;*/
 	z-index: 1;
+}
+
+#esther header {
+	mix-blend-mode: difference;
 }
 
 header > * {
@@ -59,26 +62,8 @@ header nav > * {
 .page h1 {
 }
 
-article > * {
-	margin: 0 auto;
-}
-
-article > *:not(.image) {
-	width: 40rem;
-}
-
 .center {
 	text-align: center;
-}
-
-.cover {
-	width: 100vw;
-	height: 50.25vh;
-	background-repeat: no-repeat;
-	background-size: cover;
-	/*background-attachment: fixed;*/
-	background-position: center center;
-	background-color: black;
 }
 
 main:after {

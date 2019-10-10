@@ -29,7 +29,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addShortcode('hero', function(path) {
-		return `<div class="cover"><video class="cover" src="${path}" width="960" height="540" muted autoplay loop playsinline></video></div>`;
+		return `<div class="cover"><video class="cover" src="${path}" width="960" height="540" muted xautoplay loop playsinline></video></div>`;
 	});
 
 	eleventyConfig.addFilter('wrap', function(string) {
