@@ -3,7 +3,7 @@ title: Esther
 preamble: The woman who revolutionised microbiology
 permalink: /wiki/
 tags: wiki
-cover: /11.igem.se/static/img/teaser.mp4
+cover: /static/img/teaser.mp4
 ---
 
 Esther Lederberg is an icon in science, especially in bacterial genetics. She discovered the first reported temperate phage, the lambda phage, which has become a popular tool for studying genetic recombination and gene expression, and a model for disease caused by viruses with a temperate cycle. She laid the groundwork for demonstrating how phages can transfer genes between bacteria through a process called "transduction".
