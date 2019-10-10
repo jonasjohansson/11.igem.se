@@ -85,49 +85,6 @@ h2 + .preamble {
 	font-style: italic;
 }
 
-article.columns > div {
-	float: left;
-	width: 50%;
-	box-sizing: border-box;
-}
-
-article.columns div.text {
-	width: 60%;
-}
-
-article.columns div.image {
-	width: 40%;
-}
-
-article > div:first-child {
-	padding-right: 1rem;
-}
-
-article > div:last-child {
-	padding-left: 1rem;
-}
-
 article {
 	clear: left;
-}
-
-a.link {
-	display: inline-block;
-	background-color: tomato;
-	padding: 0.5rem 1rem;
-	color: white;
-	font-style: bold;
-	text-transform: uppercase;
-}
-
-.preamble {
-	/*font-style: italic;*/
-}
-
-.image:after {
-	display: block;
-	content: '';
-	width: 100%;
-	height: 300px;
-	background-color: var(--color);
 }
