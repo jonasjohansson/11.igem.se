@@ -39,6 +39,7 @@ nav > div:not(:hover) > div {
 .cover img {
 	position: static;
 	width: 40vw;
+	max-height: 20vh;
 	mix-blend-mode: exclusion;
 }
 
