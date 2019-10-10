@@ -27,6 +27,28 @@ header {
 	mix-blend-mode: difference;
 }
 
+#team ul {
+	list-style: none;
+	padding-left: 0;
+	opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+	#team h3 {
+		text-align: center;
+	}
+}
+
+@media (min-width: 601px) {
+	#team .member > * {
+		float: left;
+		width: 50%;
+		padding: 0 0.5em;
+	}
+	#team .member {
+		clear: both;
+	}
+}
 header > * {
 	float: left;
 	display: flex;
