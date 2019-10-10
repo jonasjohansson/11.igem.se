@@ -1,7 +1,7 @@
 ---
 title: Description
 preamble:
-permalink: /wiki/description
+permalink: /wiki/description/
 tags: wiki
 ---
 
@@ -17,7 +17,7 @@ With our project - Esther - iGEM Stockholm 2019 revises standard phage therapy. 
 
 ## Phage therapy; Lowering the burden put on antibiotics
 
-Antibiotics, at the time of their discovery, were a miracle for public health and science. However, since then antibiotics started nearing their expiration date and is today becoming obsolete due to the resistance development in bacteria. WHO recommends we focus on sanitation, optimizing our use and that we educate ourselves on the issue of antibiotic resistance\*. This is a good solution for today, but the development of resistance increases with every use of antibiotics - antibiotics is not a sustainable treatment but Phage therpy on the other hand, is. Phages and bacteria has, since the beginning of the existance of bacteria, coevolved. Developing a new phage that targets a resistant bacteria is, in this sense, much easier than developing a new, broad range antibiotic. This coevolution ensures sustainablility - unlike the development of antibiotics. [1]
+Antibiotics, at the time of their discovery, were a miracle for public health and science. However, since then antibiotics started nearing their expiration date and is today becoming obsolete due to the resistance development in bacteria. WHO recommends we focus on sanitation, optimizing our use and that we educate ourselves on the issue of antibiotic resistance\*. This is a good solution for today, but the development of resistance increases with every use of antibiotics - antibiotics is not a sustainable treatment but Phage therpy on the other hand, is. Phages and bacteria has, since the beginning of the existance of bacteria, coevolved. Developing a new phage that targets a resistant bacteria is, in this sense, much easier than developing a new, broad range antibiotic. This coevolution ensures sustainablility - unlike the development of antibiotics. [[1]](https://www.who.int/antimicrobial-resistance/en/)
 
 _So how does phage therapy actually works? And what problems does it face?_
 
