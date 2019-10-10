@@ -9,13 +9,10 @@
     <style>{{ css | cssmin | safe }}</style>
 </head>
 <header>
-    <div class="logo">
-        <img src="/_includes/assets/esther.svg" />
-    </div>
-    <nav>
-        {%- for post in collections.wiki -%}
-        <a href="{{ url }}{{ post.url }}" {% if page.url == post.url %} class="active" {% endif %}>{{ post.data.title }}</a>
-        {%- endfor -%}
+   <nav>
+        <a href="/wiki/description">Description</a>
+        <a href="/wiki/team/">Team</a>
+        <a href="/wiki/collaborations/">Collaborations</a>
+        <a href="/wiki/safety/">Safety</a>
     </nav>
-
 </header>

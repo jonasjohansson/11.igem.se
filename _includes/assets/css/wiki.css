@@ -12,19 +12,38 @@ body {
 }
 
 header {
-	position: absolute;
 	top: 0;
 	padding: 1rem;
 	width: 100vw;
-	height: 4rem;
+	/*height: 4rem;*/
 	box-sizing: border-box;
-	/*background-color: white;*/
-	/*color: white;*/
+	background-color: white;
+	color: black;
+	mix-blend-mode: difference;
 	z-index: 1;
+	text-align: center;
+}
+
+nav * {
+	display: inline-block;
+}
+
+nav > div:not(:hover) > div {
+	display: none;
+}
+
+.cover {
+	filter: saturate(0) contrast(1.5);
+}
+
+.cover img {
+	position: static;
+	width: 40vw;
+	mix-blend-mode: exclusion;
 }
 
 #esther header {
-	mix-blend-mode: difference;
+	/*mix-blend-mode: difference;*/
 }
 
 #team ul {
@@ -50,13 +69,12 @@ header {
 	}
 }
 header > * {
-	float: left;
-	display: flex;
+	display: inline-flex;
 }
 
 .cover {
 	position: relative;
-	height: 100vh;
+	height: 50vh;
 	text-align: center;
 	display: flex;
 	align-items: center;
@@ -69,7 +87,7 @@ header > * {
 	left: 0;
 	object-fit: cover;
 	width: 100vw;
-	height: 100vh;
+	height: 100%;
 }
 
 header nav > * {
