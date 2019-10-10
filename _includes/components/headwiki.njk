@@ -15,7 +15,7 @@
     </div>
     <nav>
         {%- for post in collections.wiki -%}
-        <a href="{{ post.permalink | url }}" {% if page.url == post.url %} class="active" {% endif %}>{{ post.data.title }}</a>
+        <a href="{{ post.url | url }}" {% if page.url == post.url %} class="active" {% endif %}>{{ post.data.title }}</a>
         {%- endfor -%}
     </nav>
 
