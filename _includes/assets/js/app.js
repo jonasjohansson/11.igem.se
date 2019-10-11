@@ -27,12 +27,14 @@ function myFunction() {
 		}
 	}
 
-	var articleElTop = articleEl.offsetTop;
-	var asideElTop = articleEl.offsetTop;
-	if (winScroll > asideElTop) {
-		asideEl.style.position = 'fixed';
-	} else {
-		asideEl.style.position = 'relative';
+	if (asideEl !== null) {
+		var articleElTop = articleEl.offsetTop;
+		var asideElTop = articleEl.offsetTop;
+		if (winScroll > asideElTop) {
+			asideEl.style.position = 'fixed';
+		} else {
+			asideEl.style.position = 'relative';
+		}
 	}
 
 	var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
@@ -46,9 +48,11 @@ function createSubNav() {
 	var nav = document.querySelector('aside nav');
 	console.log(nav);
 	for (var h of allH) {
-		var link = document.createElement('a');
-		link.href = '#' + h.id;
-		link.innerHTML = h.innerHTML;
-		nav.appendChild(link);
+		if (h.id.length !== 0) {
+			var link = document.createElement('a');
+			link.href = '#' + h.id;
+			link.innerHTML = h.innerHTML;
+			nav.appendChild(link);
+		}
 	}
 }

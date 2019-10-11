@@ -19,10 +19,13 @@
 
 	<div class="loading-bar"><div class="bar"></div></div>
 
+
+	{% if title != 'Esther' %}
 	<aside class="sub-nav">
 		<nav>
 		</nav>
 	</aside>
+	{% endif  %}
 
 	<article>
 		{{ layoutContent | safe }}
