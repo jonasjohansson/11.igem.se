@@ -53,7 +53,7 @@ function createSubNav() {
 			++count;
 			var link = document.createElement('a');
 			link.href = '#' + h.id;
-			link.innerHTML = count + ' <span>' + h.innerHTML + '</span>';
+			link.innerHTML = count + ' <div><span>' + h.innerHTML + '</span></div>';
 			nav.appendChild(link);
 		}
 	}
