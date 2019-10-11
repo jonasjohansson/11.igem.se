@@ -7,6 +7,13 @@
     <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {% set css %} {% include "assets/css/style.css" %} {% include "assets/css/wiki.css" %} {% endset %}
     <style>{{ css | cssmin | safe }}</style>
+{% set js %}
+  {% include "assets/js/app.js" %}
+{% endset %}
+<!-- feed it through our jsmin filter to minify -->
+<script>
+  {{ js | jsmin | safe }}
+</script>
 </head>
 <header>
    <nav>
