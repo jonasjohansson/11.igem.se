@@ -17,8 +17,8 @@ body.dark header {
 }
 
 .loading-bar {
-	/*position: fixed;*/
-	/*bottom: 0;*/
+	position: fixed;
+	top: 0;
 	width: 100%;
 	height: 0.5rem;
 	/*border: 1px solid black;*/
@@ -75,6 +75,11 @@ nav > div:not(:hover) > div {
 	padding-left: 0;
 	opacity: 0.8;
 }
+aside {
+	top: 0;
+	padding: 2rem;
+	box-sizing: border-box;
+}
 
 @media (max-width: 600px) {
 	#team h3 {
@@ -91,6 +96,20 @@ nav > div:not(:hover) > div {
 	#team .member {
 		clear: both;
 	}
+	aside {
+		float: left;
+		width: 30%;
+		display: block;
+	}
+	h1,
+	h2,
+	h3 {
+		text-align: left;
+	}
+	article {
+		width: 70%;
+		float: right;
+	}
 }
 header > * {
 	display: inline-flex;
@@ -98,7 +117,7 @@ header > * {
 
 .cover {
 	position: relative;
-	height: 50vh;
+	height: 80vh;
 	text-align: center;
 	display: flex;
 	align-items: center;
@@ -150,5 +169,5 @@ h2 + .preamble {
 }
 
 article {
-	clear: left;
+	/*clear: left;*/
 }

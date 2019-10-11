@@ -11,13 +11,18 @@
 		{% hero cover, cover_content %}
 	{% endif %}
 
-	<script>
+	<!-- <script>
 		document.querySelector(".cover").onclick = () => {
 			document.body.classList.toggle("dark")
 		}
-	</script>
+	</script> -->
 
 	<div class="loading-bar"><div class="bar"></div></div>
+
+	<aside class="sub-nav">
+		<nav>
+		</nav>
+	</aside>
 
 	<article>
 		{{ layoutContent | safe }}
