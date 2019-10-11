@@ -47,11 +47,13 @@ function createSubNav() {
 	var allH = document.querySelectorAll('h1,h2,h3');
 	var nav = document.querySelector('aside nav');
 	console.log(nav);
+	var count = 0;
 	for (var h of allH) {
 		if (h.id.length !== 0) {
+			++count;
 			var link = document.createElement('a');
 			link.href = '#' + h.id;
-			link.innerHTML = h.innerHTML;
+			link.innerHTML = count + ' <span>' + h.innerHTML + '</span>';
 			nav.appendChild(link);
 		}
 	}

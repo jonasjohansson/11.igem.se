@@ -76,9 +76,33 @@ nav > div:not(:hover) > div {
 	opacity: 0.8;
 }
 aside {
-	top: 0;
-	padding: 2rem;
+	position: fixed !important;
+	top: 4rem;
+	padding: 1rem;
 	box-sizing: border-box;
+	background-color: white;
+	font-size: 75%;
+	min-width: 100px;
+	max-width: 300px;
+
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+aside:not(:hover) > nav span {
+	opacity: 0;
+}
+
+nav span {
+	opacity: 0;
+	transform: translate(0, 0);
+	transition: all 500ms ease-in-out;
+}
+
+aside:hover > nav span {
+	opacity: 1;
+	transform: translate(20px, 0);
 }
 @media (max-width: 600px) {
 	#team h3 {
@@ -95,12 +119,12 @@ aside {
 	#team .member {
 		clear: both;
 	}
-	aside {
+	/*aside {
 		float: left;
 		width: 30%;
 		display: block;
-	}
-	h1,
+	}*/
+	/*h1,
 	h2,
 	h3 {
 		text-align: left;
@@ -114,7 +138,7 @@ aside {
 	aside + article h2,
 	aside + article h3 {
 		text-align: left;
-	}
+	}*/
 }
 header > * {
 	display: inline-flex;
