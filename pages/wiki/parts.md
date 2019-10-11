@@ -2,7 +2,7 @@
 title: Parts
 preamble: Consideration working with phages
 permalink: /wiki/parts/
-tags: page
+tags: wiki
 ---
 
 One of the biggest questions among researchers, policy makers and stakeholders regarding Phage Therapy is: how safe is it? Our team considers of extreme importance to understand the implications of this new therapy, and to integrate these concerns into our project to make sure we develop a treatment that is safe to use.

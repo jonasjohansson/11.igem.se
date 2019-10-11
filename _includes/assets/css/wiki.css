@@ -80,7 +80,6 @@ aside {
 	padding: 2rem;
 	box-sizing: border-box;
 }
-
 @media (max-width: 600px) {
 	#team h3 {
 		text-align: center;
@@ -106,9 +105,15 @@ aside {
 	h3 {
 		text-align: left;
 	}
-	article {
+	aside + article {
 		width: 70%;
 		float: right;
+	}
+
+	aside + article h1,
+	aside + article h2,
+	aside + article h3 {
+		text-align: left;
 	}
 }
 header > * {
