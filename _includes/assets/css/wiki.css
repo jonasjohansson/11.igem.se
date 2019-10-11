@@ -17,8 +17,8 @@ body.dark header {
 }
 
 .loading-bar {
-	position: fixed;
-	bottom: 0;
+	/*position: fixed;*/
+	/*bottom: 0;*/
 	width: 100%;
 	height: 0.5rem;
 	/*border: 1px solid black;*/
