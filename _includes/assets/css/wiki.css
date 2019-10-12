@@ -8,6 +8,11 @@ body.dark header {
 	color: #ddd;
 }
 
+h1 {
+	background: -webkit-linear-gradient(45deg, red, blue);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
 .loading-bar .bar {
 	top: 0;
 	left: 0;
@@ -37,6 +42,7 @@ body {
 header {
 	top: 0;
 	padding: 1rem;
+	overflow-x: scroll;
 	width: 100vw;
 	/*height: 4rem;*/
 	box-sizing: border-box;
@@ -105,41 +111,14 @@ aside:hover > nav div {
 	transform: translate(10px, 0);
 }
 @media (max-width: 600px) {
+	aside {
+		display: none;
+	}
 	#team h3 {
 		text-align: center;
 	}
 }
 
-@media (min-width: 601px) {
-	#team .member > * {
-		float: left;
-		width: 50%;
-		padding: 0 0.5em;
-	}
-	#team .member {
-		clear: both;
-	}
-	/*aside {
-		float: left;
-		width: 30%;
-		display: block;
-	}*/
-	/*h1,
-	h2,
-	h3 {
-		text-align: left;
-	}
-	aside + article {
-		width: 70%;
-		float: right;
-	}
-
-	aside + article h1,
-	aside + article h2,
-	aside + article h3 {
-		text-align: left;
-	}*/
-}
 header > * {
 	display: inline-flex;
 }
@@ -171,9 +150,6 @@ header nav > * {
 	font-size: 24px;
 }
 
-.page h1 {
-}
-
 .center {
 	text-align: center;
 }
@@ -195,8 +171,4 @@ h2 + .preamble {
 
 .preamble {
 	font-style: italic;
-}
-
-article {
-	/*clear: left;*/
 }
