@@ -1,4 +1,9 @@
 window.onload = function() {
+	init();
+	var pimgs = document.querySelectorAll('p img');
+	for (var pimg of pimgs) {
+		pimg.parentNode.classList.add('image');
+	}
 	createSubNav();
 };
 
