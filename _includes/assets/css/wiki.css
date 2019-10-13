@@ -75,6 +75,12 @@ nav > div:not(:hover) > div {
 	filter: saturate(0) contrast(1.5);
 }
 
+h2 em {
+	display: block;
+	font-style: normal;
+	opacity: 0.5;
+}
+
 .cover img {
 	position: static;
 	width: 40vw;
@@ -183,7 +189,8 @@ h2 {
 
 h2,
 h2 + .preamble {
-	font-size: 1.8rem;
+	font-size: 1.4rem;
+	text-transform: capitalize;
 }
 
 .preamble {

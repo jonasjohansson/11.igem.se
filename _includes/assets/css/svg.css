@@ -4,7 +4,7 @@
 
 #svg svg {
     position: absolute;
-    width: 20%;
+    width: 15%;
 }
 
 svg path,
@@ -14,7 +14,7 @@ svg path,
 
 svg {
     opacity: 1;
-    transition: opacity 500ms ease-in-out;
+    transition: opacity 1200ms ease-in;
 }
 
 @keyframes dash {
