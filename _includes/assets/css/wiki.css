@@ -129,6 +129,13 @@ aside:hover > nav div {
 	}
 }
 
+@media (min-width: 801px) {
+	.member {
+		column-count: 2;
+		margin-bottom: 1rem;
+	}
+}
+
 header > * {
 	display: inline-flex;
 }
