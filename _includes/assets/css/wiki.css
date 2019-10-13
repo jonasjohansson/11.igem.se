@@ -50,15 +50,20 @@ body {
 }
 
 header {
+	position: fixed;
+}
+
+.header-faux,
+header {
 	top: 0;
 	padding: 1rem;
 	overflow-x: scroll;
 	width: 100vw;
 	/*height: 4rem;*/
 	box-sizing: border-box;
-	background-color: white;
-	color: black;
-	mix-blend-mode: difference;
+	background-color: #222350;
+	color: white;
+	/*mix-blend-mode: difference;*/
 	z-index: 1;
 	text-align: center;
 }
