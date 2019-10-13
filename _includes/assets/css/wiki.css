@@ -60,7 +60,7 @@ header {
 p img {
 	width: 120%;
 	margin-left: -10%;
-	background-color: #fafafa;
+	/*background-color: #fafafa;*/
 	padding: 1rem;
 	box-sizing: border-box;
 	border-radius: 1rem;
