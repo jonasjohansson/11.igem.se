@@ -2,6 +2,16 @@
 	--color: #e1e7ed;
 }
 
+html,
+body {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100vw;
+	overflow-x: hidden;
+}
+
 body.dark,
 body.dark header {
 	background-color: #222;

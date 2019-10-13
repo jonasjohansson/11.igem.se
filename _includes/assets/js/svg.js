@@ -32,7 +32,7 @@ function init() {
     setInterval(function() {
         var index = getRandomInt(0, SBOL.length - 1);
         addShape(index);
-    }, 1000);
+    }, 100);
 
     addShape(0);
 
@@ -57,7 +57,7 @@ function init() {
             path.setAttribute('stroke', 'url(#gradient)');
             path.setAttribute('stroke-miterlimit', 10);
             path.setAttribute('fill', 'none');
-            path.setAttribute('stroke-width', 2);
+            path.setAttribute('stroke-width', 3);
             path.style.strokeDasharray = length;
             path.style.strokeDashoffset = length;
             path.getBoundingClientRect();
@@ -68,15 +68,15 @@ function init() {
             y: document.body.offsetHeight / window.innerHeight
         };
 
-        var x = getRandomInt(-20, 100 * aspect.x) + '%';
-        var y = getRandomInt(-20, 100 * aspect.y) + '%';
+        var x = getRandomInt(-20, 100) + '%';
+        var y = getRandomInt(-20, 100) + '%';
         svg.style.left = x;
         svg.style.top = y;
         // svg.style.top = '-' + getRandomInt(0, 10) + '%';
         // svg.style.left = '-' + getRandomInt(0, 10) + '%';
         svgWrap.appendChild(svg);
         setTimeout(function() {
-            svg.parentNode.removeChild(svg);
+            // svg.parentNode.removeChild(svg);
         }, 5000);
     }
 }
