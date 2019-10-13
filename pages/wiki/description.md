@@ -17,7 +17,7 @@ Esther revises standard phage therapy. Instead of using virulent (lytic) phages,
 
 Antibiotics, at the time of their discovery, were a miracle for public health and science. Since then, antibiotics are nearing their expiration date and are becoming obsolete due to the resistance development in bacteria. The World Health Organisation recommends we focus on sanitation, optimizing our use, and that we educate ourselves on the issue of antibiotic resistance. Recommendations that would give us time, but not solve the problem with resistance increasing with every use of antibiotics. Antibiotics are not a sustainable treatment, but phage therapy, on the other hand, is. Phages and bacteria have, since the beginning of the existence of bacteria, co-evolved. Developing a new phage that targets resistant bacteria is, in this sense, much easier than developing a new, broad range antibiotic. This coevolution ensures sustainability. [[1]](https://www.who.int/antimicrobial-resistance/en/)
 
-### So how does phage therapy work? And what problems does it face?
+### So how does phage therapy works, and what problems does it face?
 
 In phage therapy, a patient is given lytic bacteriophages through oral intake or spread on infected surface wounds. As phages are very specific and often the exact bacterial strain causing the infection is unknown, a cocktail of different, common phages are used.
 
@@ -29,7 +29,7 @@ Thus far, mixed results have been reported on the effectiveness of phage therapy
 
 To fully understand the idea and potential of phage therapy, it is essential to know that there are two types of phages; lytic (viral) and lysogenic (temperate). Each comes with some distinct features.
 
-![](/static/img/wiki/description_02.png)
+![](/static/img/wiki/description_03.png)
 
 ### Lytic cycle
 
