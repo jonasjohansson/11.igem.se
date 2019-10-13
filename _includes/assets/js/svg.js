@@ -32,7 +32,7 @@ function init() {
     setInterval(function() {
         var index = getRandomInt(0, SBOL.length - 1);
         addShape(index);
-    }, 100);
+    }, 1000);
 
     addShape(0);
 
