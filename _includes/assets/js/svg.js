@@ -58,8 +58,8 @@ function init() {
             path.setAttribute('stroke-miterlimit', 10);
             path.setAttribute('fill', 'none');
             path.setAttribute('stroke-width', 3);
-            path.style.strokeDasharray = length;
-            path.style.strokeDashoffset = length;
+            path.style.strokeDasharray = length * 2;
+            path.style.strokeDashoffset = length * 2;
             path.getBoundingClientRect();
         }
 
@@ -76,7 +76,10 @@ function init() {
         // svg.style.left = '-' + getRandomInt(0, 10) + '%';
         svgWrap.appendChild(svg);
         setTimeout(function() {
-            svg.parentNode.removeChild(svg);
+            svg.classList.add('fade');
+            setTimeout(function() {
+                svg.parentNode.removeChild(svg);
+            }, 2000);
         }, 5000);
     }
 }

@@ -5,7 +5,6 @@
 #svg svg {
     position: absolute;
     width: 20%;
-    opacity: 0.9;
 }
 
 svg path,
@@ -13,8 +12,17 @@ svg path,
     animation: dash 2s ease-in-out forwards;
 }
 
+svg {
+    opacity: 1;
+    transition: opacity 500ms ease-in-out;
+}
+
 @keyframes dash {
     to {
         stroke-dashoffset: 0;
     }
+}
+
+svg.fade {
+    opacity: 0;
 }
