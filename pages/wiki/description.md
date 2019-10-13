@@ -5,11 +5,13 @@ permalink: /wiki/description/
 tags: wiki
 ---
 
-The problem regarding antibiotics is well known within the [iGEM community](# 'CITATION'). Naturally, interest in finding alternatives to antibiotics has risen over the past decade, but one option that has never fully utilized is phage therapy.
+## The fight against antibiotic resistance
+
+The problem regarding antibiotics is well known within the [iGEM community](# 'CITATION'). Naturally, interest in finding alternatives to antibiotics has <sup>risen</sup> over the past decade, but one option that has never been fully utilized is phage therapy.
 
 Typically, phage therapy entails administering a cocktail of bacteriophages to the patient. These bacteriophages target and infect a particular strain of pathogenic bacteria, which is destroyed when the phage multiplies itself within its target. However, despite its high potential, phage therapy is rarely used, as only low concentrations of phages reach the site of infection.
 
-Esther revises standard phage therapy. Instead of using virulent (lytic) phages, we propose the use of temperate (lysogenic) phages, that will remain dormant until they have arrived upon the site of infection. Only then will the phages turn lytic and start their lytic cycle. As one of the main issues with temperate phages is the chance of becoming lysogenic after infecting the target bacteria, we tackle this issue by using a carrier bacteria system. Here, the lysogenic phages lack the gene required to keep them in this lysogenic state. Which will be presented by the carrier bacteria instead. By doing so, the phage will only be lysogenic in the carrier bacteria, as any other target bacteria would not have the gene required for this state.
+Esther revises standard phage therapy! Instead of using virulent (lytic) phages, we propose the use of temperate (lysogenic) phages, that will remain dormant until they have arrived upon the site of infection. Only then will the phages turn lytic and start their lytic cycle. As one of the main issues with temperate phages is the chance of becoming lysogenic after infecting the target bacteria, we tackle this issue by using a carrier bacteria system. Here, the lysogenic phages lack the gene required to keep them in this lysogenic state. Which will be presented by the carrier bacteria instead. By doing so, the phage will only be lysogenic in the carrier bacteria, as any other target bacteria would not have the gene required for this state.
 
 ![](/static/img/wiki/description_01.png)
 
@@ -21,7 +23,7 @@ Antibiotics, at the time of their discovery, were a miracle for public health an
 
 In phage therapy, a patient is given lytic bacteriophages through oral intake or spread on infected surface wounds. As phages are very specific and often the exact bacterial strain causing the infection is unknown, a cocktail of different, common phages are used.
 
-When taken orally, the phages disperse in the body. The majority of phages are extinguished by our immune system, some are degraded due to the high acidity of the stomach, while some attach to circulating bacterial cell debris and thus activate prematurely. As the phages are specific for bacteria, no harm is done to human cells in this process. Even so, the amount of phages reaching their intended target diminishes due to this spreading through the human body.
+When taken orally, the phages disperse with the majority becoming extinguished by our immune system; some degrade due to the high acidity of the stomach, while others attach to circulating bacterial cell debris (and thus activate prematurely). As the phages are specific for bacteria, _no human cells are harmed_. Even so, the amount of phages reaching their intended target diminishes due to this spreading through the human body.
 
 Thus far, mixed results have been reported on the effectiveness of phage therapy, with [hospitals in Georgia claiming high success rates](# 'CITATION'), whereas [western studies have a more critical look at the efficiency](# 'CITATION').
 

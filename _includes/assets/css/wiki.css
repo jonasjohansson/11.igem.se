@@ -1,5 +1,6 @@
 :root {
-	--color: #e1e7ed;
+	--light: #fff;
+	--dark: #0c0c0c;
 }
 
 html,
@@ -10,6 +11,8 @@ body {
 	right: 0;
 	width: 100vw;
 	overflow-x: hidden;
+	color: var(--dark);
+	background-color: var(--light);
 }
 
 body.dark,
@@ -18,19 +21,37 @@ body.dark header {
 	color: #ddd;
 }
 
+/*body {
+	background-color: #0c0c0c;
+	color: #e1e7ed;
+}*/
+
 p.image {
 	display: none;
+}
+
+h1 {
+	padding: 10rem 0;
 }
 
 p:first-letter {
 	/*color: red;*/
 }
 
-/*h1 {
+p {
+	padding-top: 0 !important;
+	margin-top: 0 !important;
+}
+
+h3 {
+	margin-bottom: 0.5rem !important;
+}
+
+h1 {
 	background: -webkit-linear-gradient(45deg, red, blue);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-}*/
+}
 .loading-bar .bar {
 	top: 0;
 	left: 0;
@@ -62,7 +83,8 @@ header {
 }
 
 h1 {
-	font-size: 2rem;
+	font-size: 4rem;
+	text-align: center;
 }
 
 p img {
@@ -216,7 +238,8 @@ h2 {
 h2,
 h2 + .preamble {
 	font-size: 1.4rem;
-	text-transform: capitalize;
+	text-transform: none;
+	text-align: left;
 }
 
 .preamble {
