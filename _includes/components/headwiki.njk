@@ -4,16 +4,19 @@
     <title>{{ metadata.title }} {{ title }}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1;">
+    
     <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    {% set css %} {% include "assets/css/style.css" %} {% include "assets/css/wiki.css" %} {% endset %}
+    {% set css %} {% include "assets/css/style.css" %} {% include "assets/css/wiki.css" %} {% include "assets/css/svg.css" %} {% endset %}
     <style>{{ css | cssmin | safe }}</style>
 {% set js %}
   {% include "assets/js/app.js" %}
+  {% include "assets/js/svg.js" %}
 {% endset %}
 <!-- feed it through our jsmin filter to minify -->
 <script>
   {{ js | jsmin | safe }}
 </script>
+
 </head>
 <header>
    <nav>
