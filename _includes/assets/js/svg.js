@@ -32,7 +32,7 @@ function init() {
     setInterval(function() {
         var index = getRandomInt(0, SBOL.length - 1);
         addShape(index);
-    }, 100);
+    }, 1000);
 
     addShape(0);
 
@@ -76,7 +76,7 @@ function init() {
         // svg.style.left = '-' + getRandomInt(0, 10) + '%';
         svgWrap.appendChild(svg);
         setTimeout(function() {
-            // svg.parentNode.removeChild(svg);
+            svg.parentNode.removeChild(svg);
         }, 5000);
     }
 }
