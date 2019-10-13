@@ -1,15 +1,16 @@
 #svg {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 10000;
+    pointer-events: none;
+}
+
+#svg svg {
+    position: absolute;
+    width: 20%;
+    opacity: 0.9;
 }
 
 svg path,
 .path {
-    animation: dash 1s linear forwards;
+    animation: dash 2s ease-in-out forwards;
 }
 
 @keyframes dash {
