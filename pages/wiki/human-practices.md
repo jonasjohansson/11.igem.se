@@ -1,7 +1,7 @@
 ---
 title: Integrated Human Practices
 preamble:
-permalink: /wiki/humanpractices/
+permalink: /wiki/human-practices/
 tags: wiki
 ---
 
