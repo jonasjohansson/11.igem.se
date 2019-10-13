@@ -5,9 +5,9 @@ permalink: /wiki/description/
 tags: wiki
 ---
 
-The problem regarding antibiotics is well known within the [iGEM community](# 'CITATION'). Naturally, interest in finding alternatives to antibiotics has risen over the past decade. One option that has never fully utilized is phage therapy.
+The problem regarding antibiotics is well known within the [iGEM community](# 'CITATION'). Naturally, interest in finding alternatives to antibiotics has risen over the past decade, but one option that has never fully utilized is phage therapy.
 
-Typically, Phage therapy entails administering a cocktail of bacteriophages to the patient. These bacteriophages target and infect a particular strain of pathogenic bacteria, which is destroyed when the phage multiplies itself within its target. However, despite its high potential, phage therapy is rarely used, as only low concentrations of phages reach the site of infection.
+Typically, phage therapy entails administering a cocktail of bacteriophages to the patient. These bacteriophages target and infect a particular strain of pathogenic bacteria, which is destroyed when the phage multiplies itself within its target. However, despite its high potential, phage therapy is rarely used, as only low concentrations of phages reach the site of infection.
 
 Esther revises standard phage therapy. Instead of using virulent (lytic) phages, we propose the use of temperate (lysogenic) phages, that will remain dormant until they have arrived upon the site of infection. Only then will the phages turn lytic and start their lytic cycle. As one of the main issues with temperate phages is the chance of becoming lysogenic after infecting the target bacteria, we tackle this issue by using a carrier bacteria system. Here, the lysogenic phages lack the gene required to keep them in this lysogenic state. Which will be presented by the carrier bacteria instead. By doing so, the phage will only be lysogenic in the carrier bacteria, as any other target bacteria would not have the gene required for this state.
 

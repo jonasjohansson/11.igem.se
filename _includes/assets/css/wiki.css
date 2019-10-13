@@ -18,6 +18,10 @@ body.dark header {
 	color: #ddd;
 }
 
+p:first-letter {
+	/*color: red;*/
+}
+
 h1 {
 	background: -webkit-linear-gradient(45deg, red, blue);
 	-webkit-background-clip: text;
@@ -53,6 +57,15 @@ header {
 	position: fixed;
 }
 
+p img {
+	width: 140%;
+	margin-left: -20%;
+	background-color: #fafafa;
+	padding: 1rem;
+	box-sizing: border-box;
+	border-radius: 1rem;
+}
+
 .header-faux,
 header {
 	top: 0;
@@ -61,7 +74,7 @@ header {
 	width: 100vw;
 	/*height: 4rem;*/
 	box-sizing: border-box;
-	background-color: #222350;
+	background-color: #ccc;
 	color: white;
 	/*mix-blend-mode: difference;*/
 	z-index: 1;
