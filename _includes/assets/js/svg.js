@@ -64,7 +64,7 @@ function init() {
     }
 }
 
-init();
+// init();
 
 function getRandomInt(min, max) {
     min = Math.ceil(min);

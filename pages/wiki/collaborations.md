@@ -5,25 +5,40 @@ permalink: /wiki/collaborations/
 tags: wiki
 ---
 
-The opportunity for inter-team collaboration within the iGEM community is exciting! During our project, we have collaborated with different iGEM teams, and we did not only benefit from each other’s expertise, but we also formed invaluable bonds. With this in mind, we would like to thank all the teams who have collaborated and shared ideas with us.
+> The opportunity for inter-team collaboration within the iGEM community is exciting! During our project, we have participated in events, hosted our own and formed invaluable bonds. We really hit the ground running early spring and just kept going, and you can see the results below!
 
-## BioBrick at DTU Copenhagen
+## iGEM DTU Copenhagen: BioBrick _13-15 April_
 
-In April, we were invited by DTU Copenhagen to participate in a BioBrick tutorial where many nordic teams gathered to learn about which cloning standards to follow, how to use 3A assembly to assemble the bricks and also a team sharing session. The practical lab experience, pitching workshop, and a seminar on creating the wiki page effectively helped us in creating our own. This was an ideal opportunity to connect, especially with the iGEM teams of Lund, Copenhagen, and Uppsala, which we continued collaborating with. The professional network nurtured and in some aspects, initiated will be a continued source of value for our future iGEM teams.
+We were invited by DTU Copenhagen to participate in a BioBrick tutorial where many nordic teams gathered to learn about which cloning standards to follow, how to use 3A assembly to assemble the bricks and also a team sharing session. The practical lab experience, pitching workshop, and a seminar on creating the wiki page effectively helped us in creating our own. This was an ideal opportunity to connect, especially with the iGEM teams of Lund, Copenhagen, and Uppsala, which we continued collaborating with. The professional network nurtured and in some aspects, initiated will be a continued source of value for our future iGEM teams.
 
-## Bonn Spring Festival
+## iGEM Bonn: Spring Festival _3-5 May_
 
 Did you know that the term “memetics” was first proposed by evolutionary biologist Richard Dawkins in 1976? He then offered a theory regarding how cultural information evolves and is transmitted from person to person. iGEM Spring Festival, organized by iGEM Bonn celebrated this by using memes to communicate science. iGEM Memes has gained much attention over the last year, all thanks to the creator, iGEM Stockholm 2018. We seized the moment to present our project-poster and gained valuable feedback, along with several great memes to add to the collection 🎭
 
-## NIC _Nordic iGEM Conference_
+## iGEM DTU Copenhagen: Nordic iGEM Conference _17-18 May_
 
 In beautiful June, as studies end and lab work begins, the Copenhagen team hosted the Nordic iGEM conference NiC. All Nordic teams that took part were allowed to pitch their project, practice being on stage, and receive feedback from their peers. This was one of the first opportunities to present to a broad audience of scientific minds. Exciting! Beyond the pitch, there was also a poster exhibition and presentation, and apart from the professional feedback we received, we were able to make friends, some of which turned into strong collaborations like the ones with Lund for Synthethics and Uppsala for Bench to Bedside event.
 
-## Synthetics(R)
+## iGEM Vilnius: Biohackathon _2 Aug_
+
+Four members of the iGEM Stockholm team participated in the 2019 hackathon in Vilnius, a three-day immersion into biosafety and security of data, synthetic biology, lab efficiency, and life sciences education.
+
+During the stay, a software was developed to make it easier to browse the iGEM registry, assemble constructs automatically to avoid human error, and by doing this, creating a new database with functional constructs. Despite time constraints at the bio hackathon, we were able to establish the principle of proof. However, our team saw this as an opportunity to take forward the challenge and mold it into a software that could be used for real-world applications in synthetic biology.
+
+We are looking forward to more and more teams using our software to enable easy in-silico bio brick assembly, leading to more successful projects and contribute to synthetic biology. Multiple iterations enabled the addition of more functionalities and henceforth, nomination for the best software track.
+
+## iGEM Lund: Synthetics(R) _20 Aug_
 
 In a collaboration between Stockholm and Lund we began the international initative Synthethics(R). An event posing ethical questions to raise awareness within biology and genetic engineering. The desired outcome? To discover the potential risks that the new-era biotechnology and medicine might have in store for us. Synthetic biology is a promising field and has a potentially prosperous future, but it entails areas of research that expose us to severe risks and detrimental outcomes. Therefore, we were avid to gather the opinions of people from all professions, cultures, and ideologies. We customized a set of questions that represented a fraction of the possible dilemmas for both experts in this field and the general public. They were requested to delve into their imagination when answering the questions.
 
-## Bench to Bedside
+## iGEM Technion: 1 Minute challenge _26 Aug_
 
-The expression "Bench to bedside" literally means the translation of clinical research and explorations into commercial products for human welfare. With this vision, we collaborated with iGEM Uppsala to organize a bio-entrepreneurship event at Karolinska Institutet to promote entrepreneurship in iGEM. The inspiring talk by our keynote speaker, Anna Svantes, a business developer at Organofuel Sweden AB and a prototyping workshop facilitated by a design thinking coach resulted in valuable outcomes. Some of these were seeking synergies between the two different projects to promote a sense of greater good and building basic prototypes that could be potentially used as a framework for a prospective minimum viable product.
+We collaborated with the Technion team from Israel, where we were invited to join the One Minute Video Challenge. The goal of this collaboration was to reach out to the general public, budding science communities, and fellow iGEM teams to expose them to various social problems that each team was working with this year. Apart from building an excellent iGEM network, this was a fun opportunity to inspire our future iGEM teams with the fantastic potential projects they could take forward and for ourselves to learn the skill of the elevator pitch.
 
+## iGEM Uppsala: Bench to Bedside _18 Sep_
+
+The expression "Bench to bedside" literally means the translation of clinical research and explorations into commercial products for human welfare. With this vision, we collaborated with iGEM Uppsala to organize a bio-entrepreneurship event at Karolinska Institutet to promote entrepreneurship in iGEM. The inspiring talk by our keynote speaker, Anna Svantes, a business developer at Organofuel Sweden AB and a prototyping workshop facilitated by Cecilie Hilmer, a Design Thinking coach at Stockholm School of Entrepreneurship and Karolinska Institutet resulted in gaining valuable insights into the realistic. Some of these were seeking synergies between the two different projects to promote a sense of greater good and building basic prototypes that could be potentially used as a framework for a prospective minimum viable product.
+
+## iGEM Eindhoven
+
+We decided to start a collaboration with iGEM TU Eindhoven, who have been developing a fast diagnosis system. Their system uses lytic phages to indirectly detect which bacteria are causing the infection. This system presents a double win to us, because not only it will tell us what bacteria is causing the infection, it will also show us what phage can be used in Esther for effective treatment. We realized that our phages could be integrated into their system, as we have engineered them to be obligated lytic. In the future, we would like to design a library of phages that can be ready for use. These phages will be used for diagnosis, and once identified which phage is amplified in the patient sample, it will be prepared to be administered to the patient using Esther. Thus, the combination of Esther with Eindhoven’s diagnosis system will cut down the action time and make the process more simplistic, both to the patient and the doctor.

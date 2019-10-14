@@ -3,8 +3,7 @@
 	--dark: #0c0c0c;
 }
 
-html,
-body {
+html {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -25,6 +24,16 @@ body.dark header {
 	background-color: #0c0c0c;
 	color: #e1e7ed;
 }*/
+
+blockquote {
+	padding: 0;
+	margin: 0;
+	padding-bottom: 5rem;
+	box-sizing: border-box;
+	/*border: 1px solid black;*/
+	opacity: 0.8;
+	font-size: 125%;
+}
 
 p.image {
 	display: none;
@@ -65,7 +74,8 @@ h3 {
 	position: fixed;
 	top: 0;
 	width: 100%;
-	height: 2rem;
+	height: 1rem;
+	z-index: -1;
 	/*border: 1px solid black;*/
 	box-sizing: border-box;
 }
@@ -80,7 +90,8 @@ body {
 }
 
 header {
-	position: fixed;
+	/*position: fixed;*/
+	position: absolute;
 }
 
 h1 {
@@ -99,7 +110,7 @@ p img {
 
 .header-faux,
 header {
-	top: 0;
+	top: 2rem;
 	padding: 0.5rem;
 	overflow-x: scroll;
 	width: 100vw;
@@ -108,8 +119,12 @@ header {
 	/*background-color: #ccc;*/
 	/*color: white;*/
 	z-index: 1;
-	text-align: center;
-	font-size: 80%;
+	/*text-align: center;*/
+	/*font-size: 80%;*/
+}
+
+.header-faux {
+	display: none;
 }
 
 body:not(#home) article > *:not(figure) {
@@ -156,7 +171,7 @@ h2 em {
 }
 aside {
 	position: fixed !important;
-	top: 4rem;
+	top: 16rem;
 	padding: 1rem;
 	box-sizing: border-box;
 	background-color: white;
@@ -167,9 +182,6 @@ aside {
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-}
-
-aside:not(:hover) > nav span {
 }
 
 nav div {
