@@ -79,13 +79,8 @@ h4 {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }*/
-.loading-bar .bar {
-	top: 0;
-	left: 0;
-	width: 0;
-	background-image: linear-gradient(-45deg, black, white);
-	height: 100%;
-}
+
+/* loading bar */
 
 .loading-bar {
 	position: fixed;
@@ -95,9 +90,16 @@ h4 {
 	z-index: 1111;
 	pointer-events: none;
 	mix-blend-mode: difference;
-	opacity: 0;
-	/*border: 1px solid black;*/
+	/*opacity: 0;*/
 	box-sizing: border-box;
+}
+
+.loading-bar .bar {
+	top: 0;
+	left: 0;
+	width: 0;
+	background-image: linear-gradient(-45deg, black, white);
+	height: 100%;
 }
 
 .logo {
