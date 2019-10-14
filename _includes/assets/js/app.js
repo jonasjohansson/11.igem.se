@@ -4,6 +4,50 @@ window.onload = function() {
 		pimg.parentNode.classList.add('image');
 	}
 	createSubNav();
+
+	for (let a of document.querySelectorAll('a')) {
+		if (!a.href.includes('#')) {
+			a.setAttribute('target', '_blank');
+		} else {
+			a.addEventListener('click', function(e) {
+				e.preventDefault();
+				const scrollElemId = a.href.split('#')[1];
+				const scrollEndElem = document.getElementById(scrollElemId);
+				console.log(scrollEndElem);
+				const anim = requestAnimationFrame(timestamp => {
+					const stamp = timestamp || new Date().getTime();
+					const duration = 1200;
+					const start = stamp;
+
+					const startScrollOffset = window.pageYOffset;
+					const scrollEndElemTop = scrollEndElem.getBoundingClientRect().top;
+
+					scrollToElem(start, stamp, duration, scrollEndElemTop, startScrollOffset);
+				});
+			});
+		}
+	}
+};
+
+const easeInCubic = function(t) {
+	return t * t * t;
+};
+
+const scrollToElem = (startTime, currentTime, duration, scrollEndElemTop, startScrollOffset) => {
+	const runtime = currentTime - startTime;
+	let progress = runtime / duration;
+
+	progress = Math.min(progress, 1);
+
+	const ease = easeInCubic(progress);
+
+	window.scroll(0, startScrollOffset + scrollEndElemTop * ease);
+	if (runtime < duration) {
+		requestAnimationFrame(timestamp => {
+			const currentTime = timestamp || new Date().getTime();
+			scrollToElem(startTime, currentTime, duration, scrollEndElemTop, startScrollOffset);
+		});
+	}
 };
 
 window.onscroll = function() {
