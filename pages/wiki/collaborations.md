@@ -15,9 +15,9 @@ We were invited by DTU Copenhagen to participate in a BioBrick tutorial where ma
 
 Did you know that the term “memetics” was first proposed by evolutionary biologist Richard Dawkins in 1976? He then offered a theory regarding how cultural information evolves and is transmitted from person to person. iGEM Spring Festival, organized by iGEM Bonn celebrated this by using memes to communicate science. iGEM Memes has gained much attention over the last year, all thanks to the creator, iGEM Stockholm 2018. We seized the moment to present our project-poster and gained valuable feedback, along with several great memes to add to the collection!
 
-## Nordic iGEM Conference _17-18 May — iGEM DTU Copenhagen_
+## Nordic iGEM Conference _17-18 May — University of Copenhagen_
 
-In beautiful June, as studies end and lab work begins, the Copenhagen team hosted the Nordic iGEM conference NiC. All Nordic teams that took part were allowed to pitch their project, practice being on stage, and receive feedback from their peers. This was one of the first opportunities to present to a broad audience of scientific minds. Exciting! Beyond the pitch, there was also a poster exhibition and presentation, and apart from the professional feedback we received, we were able to make friends, some of which turned into strong collaborations like the ones with Lund for Synthethics and Uppsala for Bench to Bedside event.
+In beautiful June, as studies end and lab work begins, the iGEM DTU Copenhagen team hosted the Nordic iGEM conference NiC. All Nordic teams that took part were allowed to pitch their project, practice being on stage, and receive feedback from their peers. This was one of the first opportunities to present to a broad audience of scientific minds. Exciting! Beyond the pitch, there was also a poster exhibition and presentation, and apart from the professional feedback we received, we were able to make friends, some of which turned into strong collaborations like the ones with Lund for Synthethics and Uppsala for Bench to Bedside event.
 
 ## Biohackathon _2 Aug — iGEM Vilnius_
 
@@ -27,9 +27,9 @@ During the stay, a software was developed to make it easier to browse the iGEM r
 
 We are looking forward to more and more teams using our software to enable easy in-silico bio brick assembly, leading to more successful projects and contribute to synthetic biology. Multiple iterations enabled the addition of more functionalities and henceforth, nomination for the best software track.
 
-## Synthetics(R) _20 Aug — iGEM Lund_
+## Synthetics® _20 Aug — iGEM Lund_
 
-In a collaboration between Stockholm and Lund we began the international initative Synthethics(R). An event posing ethical questions to raise awareness within biology and genetic engineering. The desired outcome? To discover the potential risks that the new-era biotechnology and medicine might have in store for us. Synthetic biology is a promising field and has a potentially prosperous future, but it entails areas of research that expose us to severe risks and detrimental outcomes. Therefore, we were avid to gather the opinions of people from all professions, cultures, and ideologies. We customized a set of questions that represented a fraction of the possible dilemmas for both experts in this field and the general public. They were requested to delve into their imagination when answering the questions.
+In a collaboration between Stockholm and Lund we began the international initative Synthethics®. A project posing ethical questions to raise awareness within biology and genetic engineering. The desired outcome? To discover the potential risks that the new-era biotechnology and medicine might have in store for us. Synthetic biology is a promising field and has a potentially prosperous future, but it entails areas of research that expose us to severe risks and detrimental outcomes. Therefore, we were avid to gather the opinions of people from all professions, cultures, and ideologies. We customized a set of questions that represented a fraction of the possible dilemmas for both experts in this field and the general public. They were requested to delve into their imagination when answering the questions.
 
 ## 1 Minute challenge _26 Aug — iGEM Technion_
 

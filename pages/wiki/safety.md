@@ -1,15 +1,13 @@
 ---
 title: Safety
-preamble: Consideration working with phages
+preamble:
 permalink: /wiki/safety/
 tags: wiki
 ---
 
-One of the biggest questions among researchers, policy makers and stakeholders regarding Phage Therapy is: how safe is it? Our team considers of extreme importance to understand the implications of this new therapy, and to integrate these concerns into our project to make sure we develop a treatment that is safe to use.
+> One of the biggest questions among researchers, policy makers and stakeholders regarding Phage Therapy is: how safe is it? Our team considers of extreme importance to understand the implications of this new therapy, and to integrate these concerns into our project to make sure we develop a treatment that is safe to use. We have divided this question into two categories: 1- how safe it is to use temperate phages for Phage Therapy, and 2- how safe it is to treat patients using Esther
 
-We have divided this question into two categories: 1- how safe it is to use temperate phages for Phage Therapy, and 2- how safe it is to treat patients using Esther
-
-# About the safety of temperate phages - their effect on resistance
+## About the safety of temperate phages _Effects on resistance_
 
 Temperate phages can be a source of genetic transduction (link to Esther, she helped to discover transduction), a rare occurrence in which, at the moment of encapsulation, bacterial DNA gets trapped in the bacteriophage’s capsule. If the phage then infects other bacteria and activates the lysogenic cycle, it can integrate DNA from the donor into the receptor, therefore providing new genes.
 
@@ -23,11 +21,11 @@ For this purpose, we contacted professor Graham F. Hatfull, first and only resea
 
 This gave us an idea for the design of our project (link to Design). The repressor protein for our P2 phage is the C protein. Moreover, it has been previously shown that removal of this protein will block the activation of the lysogenic cycle (4). By eliminating the C protein from our P2 phage, we make sure that it cannot enter the lysogenic cycle in another host, preventing transduction and the exchange of resistance genes.
 
-# **Humans & Esther – effects on health**
+## Humans & Esther _Effects on health_
 
 Esther consists of two parts – the vehicle bacteria and the P2 phage (link to Project Design). It is important to evaluate the effects of these two types of organisms on human health separately, since they have different characteristics.
 
-## The phage
+### The phage
 
 We have all heard about the microbiome, but did you know that we also have a phageome? Bacteriophages are in fact one of the most common and diverse organism in our gut flora. Often, phages form symbiotic alliances with the microbiome to protect them against invasive pathogens. We can also find them adhere to mucus layers, providing us with an antimicrobial defense mechanism (5). Even though not all phages can be candidates for this role, these findings show that our bodies are already familiar with these organisms, whom they benefit from.
 
@@ -37,7 +35,7 @@ Similarly, we will encapsulate our phages, but in this case, using a bacteria, t
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98b39d95-0dec-4680-b2b3-2aeb207c115a/phage_pink_c71882_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAT73L2G45K52LIYNK%2F20191010%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20191010T194645Z&X-Amz-Expires=86400&X-Amz-Security-Token=AgoJb3JpZ2luX2VjENj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIG61W%2FbPhzC8zlEw5kk0SL5V7R6Teyn7gJz6Zg352GonAiEApaR%2FO%2FaHGvN4hnfcXQ88vJjVkW64YgietFyiMKeZWZcq4wMIwf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwyNzQ1NjcxNDkzNzAiDOhG8QzixErj5TbstCq3AxUBRGpBTlX2a%2BpQ%2FpedrbtKka6qxLJPN6wbxp7aYxQ22pKXOHtaHkxo5O7Uf1Tuspev1XO7uSocCgN0O%2Fjb4m6psuJDhSMJpxQs30Z%2FGzcjwPtKxahsv655MqYStgOGvpGq9TSCI%2Fb2a7%2FzNJQLtYj5ON4BcWT3NFvuc0nVG6a0LrkeThLHu%2BrfutyUsrk5M%2FfEhou6n%2BoVLJxuQmiAxXShibF%2B4%2FUdKT7jgVtVObDDzck99EpBeAiCjKyCnJTux6KoPscBbHDd7dQGlZZYQT2vtrb8rJWqEDJcMEebwVFHD5cIzi9Ba05oFGe7F14BpJ8DCWKRmyJXkXqQYTZlxm5lsVY%2Fk7LAPr9w52w0oTNiQ%2Bqvyajv%2BJJ0t5QnRux4%2B%2BjMKPNQCQNkz7dtZSeUbR4gct1Csav002GcAx66O58E1NEC4g1UDM6N8GaAQ5jAKvX2EH0q56e6GZnvyAU51Gf7iBgDwVeFXJllfsQMn2hvq%2BBayfLhh23nOVMT2Q4kikMt0DCkOYtY0gfQfHUqWuvFpoFIlidcTWn1ZMYnNY%2Fdp14Vhbw%2FFOiY%2BNDZQHwHjY27E86%2BbaMw65797AU6tAFVAtK3IV85QVz5jnDjQEJ4ID8zPFrcU4xxmtqCZEtNyrehGlcYz4sWUqG6l65DrvTam47ux38E9HkFj2R1%2Fm7YEHB16FKJIQE5QWNYXFfaP%2B%2FILvmEZpZ7xZuK%2B1Xt3P7hvaqkjtUqVy%2Fp5KMEoXfi0qlAbDCAOccvF%2FMq%2Fx0qRY0%2BUAJrFs5sI5oF81Cdk17LVX1QUtFuGlywc5l6Yzc3yc4t70twoFIOJ6CHAc7HD3%2F5Tyo%3D&X-Amz-Signature=c008ad842c5b56d99346e94616236ad661709ddc024248371c24f4ae84a1500a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22phage_pink_c71882_%281%29.png%22)
 
-## The bacteria
+### The bacteria
 
 The bacterial component in Esther will be used as a delivery method for the localized release of phages. The bacteria we have chosen to work with has been defined as a non-pathogenic strain of *Escherichia coli*called Nissle 1917 (EcN). It has been characterized as non-pathogenic because it lacks the capacity of producing pathogenic adhesion factors, enterotoxins and cytotoxins, which are commonly produced by its pathogenic counterparts (8).
 
@@ -47,19 +45,6 @@ These results, however, are not applicable to certain mutations causing immunode
 
 IMAGE 4 —> friendly bacteria (maybe warning sign for immunodeficient patient)
 
-# Conclusions
+## Conclusions
 
 As we have seen, either the use of phages nor _Escherichia coli_ Nissle 1917 have shown adverse effects so far. However, for our product to be proved safe, in-vivo studies should be perform. A good way to monitor the distribution of Esther throughout a mammalian body would be to mimic the experiment by Otero and colleagues, adding different fluorochrome tags to our vehicle bacteria and our phage. This would allow us to observe whether our Switch gets activated before it reaches the site of infection and weather E. coli Nissle can easily travel throughout the gut carrying the Switch plasmid.
-
-# References
-
-1. Kakasis A, Panitsa G. Bacteriophage therapy as an alternative treatment for human infections . A comprehensive review. Int J Antimicrob Agents [Internet]. 2019;53(1):16–21. Available from: https://doi.org/10.1016/j.ijantimicag.2018.09.004
-2. Dedrick RM, Guerrero-bustamante CA, Garlena RA, Russell DA, Ford K, Harris K, et al. Engineered bacteriophages for treatment of a patient with a disseminated drug-resistant Mycobacterium abscessus. Nat Med [Internet]. 2019;25(May). Available from: http://dx.doi.org/10.1038/s41591-019-0437-z
-3. Dedrick RM, Guerrero CA, Garlena RA, Pinches RS, Cornely K, Hatfull GF. Mycobacteriophage ZoeJ : A broad host-range close relative of mycobacteriophage TM4. Tuberculosis [Internet]. 2019;115(December 2018):14–23. Available from: https://doi.org/10.1016/j.tube.2019.01.002
-4. Berit Lundqvist; Bertani C. Immunity Repressor of Bacteriophage P2. J Mol Biol. 1984;178:629–51.
-5. Barr JJ, Auro R, Furlan M, Whiteson KL, Erb ML, Pogliano J, et al. Bacteriophage adhering to mucus provide a non – host-derived immunity. 2013;110(26):10771–6.
-6. Otero J, García-rodríguez A, Cano-sarabia M, Maspoch D, Marcos R, Cortés P. Biodistribution of Bacteriophages and Their Transcytosis During Oral Phage Therapy. 2019;10(April):1–12.
-7. Vandenheuvel D, Lavigne R. Bacteriophage Therapy : Advances in Formulation Strategies and Human Clinical Trials. 2015;
-8. Sonnenborn U, Schulze J, Sonnenborn U, Schulze J. The non-pathogenic Escherichia coli strain Nissle 1917 – features of a versatile probiotic. Microb Ecol Heal Dis. 2009;2235.
-9. Bleich A, Sundberg JP, Smoczek A, Wasielewski R Von, Buhr MF De, Janus LM, et al. Sensitivity to Escherichia coli Nissle 1917 in mice is dependent on environment and genetic background. 2008;45–54.
-10. Arribas B, Rodríguez-cabezas ME, Camuesco D, Comalada M, Bailón E, Utrilla P, et al. A probiotic strain of Escherichia coli , Nissle 1917 , given orally exerts local and systemic anti-inflammatory effects in lipopolysaccharide-induced sepsis in mice. 2009;1024–33.

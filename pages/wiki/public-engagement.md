@@ -5,27 +5,37 @@ permalink: /wiki/public-engagement/
 tags: wiki
 ---
 
-## Lab-on-wheels
+## Art Exhibition _13-15 May_
 
-“Lab on wheels”, an interactive workshop for visitors. The workshop consisted of extracting DNA from strawberries with everyday items you can find in your kitchen. For example, instead of a centrifuge machine, a plastic bag with manual crushing was used. When done, the visitors were allowed to keep their extracted DNA in an Eppendorf tube to take home and show family and friends. This event was done deep down in the nuclear reactor, more specifically in the control room, iGEM Stockholms while we exhibited synthetic art.
+For many, science and art are considered vastly distant from one another, but a scientist knows that their work requires individual artistry, and an artist in many ways understand the science within their art. The Synthetic Biology Art Exhibition took place 13-15th of May in Stockholm, 25 meters below the surface in the old nuclear reactor R1. Artistic expressions from all corners were accepted, everything from audiovisual video works to petri-dish multiplayer experiences. Some were funny and beautiful, while others were disturbing and thought-provoking. Everyone was eligible to participate regardless of the artistic prowess or expertise of synthetic biology. From the artworks submitted, 5 winners were rewarded with a presentation in Osqledaren online (KTH magazine) as well as Medicor online (KI magazine).
 
-The reason why we gave the workshop because the idea of DNA is abstract for people in general, how it looks like and how we can see it. In the lab-on-wheels session, we gave them a chance to try out how it feels to isolate DNA and hold it in your hand. Using simple materials and tools that we can find in our house such as strawberries, dish soap, salt, rubbing alcohol, plastic bags, coffee filter, and tooth picks. We also showed them some general lab equipment such as pipettes and microtubes so they could still feel the working-in-a-lab atmosphere. The strawberries were crushed inside a plastic bag together with a mixture of water, salt, and dish soap. The mixture was finally filtered through a coffee filter to retrieve the DNA in the strawberry juice. The visitors could see their isolated DNA inside the microtube after ethanol addition.
+-   🏆 Triple Helix Feeling by Sergio Pachon-Dotor and Y. Vladimir Pabon-Martinez
+-   🥇 Osmos Kosmos by Linda Nurk
+-   🥇 Being a Dove & Making Senses by Maria Euler
+-   🥇 Slime Mould Chess by Håkan Lidbo
+-   🥇 Mechamorphosis / Energy / Reaction by Basstian
 
-People who came tho the lab-on-wheel booth were super excited and complimented that science is fun ! We also tell them that this is a glimpse of what we are doing in the lab so they can feel how is it to work in wetlab but using common materials that they can find in their house. This also shows people that science can be done by anyone !
+[→ Read more about the art exhibition and view the booklet with all the artists]()
 
-## 3 Demo Project
+## Lab-on-wheels _Science can be done by anyone!_
 
-We visited an elementary school and spoke to 6 classes about synthetic biology. The purpose of the visit was to gauge the knowledge of young kids as well as educate them on the topic of synthetic biology.
+An interactive workshop, organized as part of the Art Exhibition, where participants would extract DNA from 🍓 with everyday items such as dish soap, salt, rubbing alcohol, plastic bags, coffee filter, and toothpicks. When done, the visitors could keep their extracted DNA in an Eppendorf tube!
 
-The class began with an introduction of ourselves and the question “What do you know about bacteria”. The classes seemed to know that they are small, single celled things that can make you sick, some even knew that they can cure infections and some knew of the cells subunits.
+When speaking about DNA, we have found that the idea of it is too abstract. In the lab-on-wheels session, we invited visitors to isolate DNA and hold it in their hands. We also demonstrated general lab equipment such as pipettes and microtubes so they could experience the lab atmosphere. The strawberries were crushed inside a plastic bag together with a mixture of water, salt, and dish soap. The mixture was finally filtered through a coffee filter to retrieve the DNA in the strawberry juice. The visitors could see their isolated DNA inside the microtube after ethanol addition.
 
-Then followed a lesson on bacteria and its subunits, the interest in this part was positive and there were a lot of questions that lead to dialogues about the central dogma, replication and epigenetics. Then followed the exercise, which was to study bacteria under a microscope and drawing. The microscope study recieved a lot of interest, but in practise was complicated, while the drawing exercise was much appreciated once the kids understood the idea.
+![](/static/img/wiki/public_engagement-lab_01.png)
 
-Then we spoke about iGEM and the previous Stockholm iGEM teams. They seemed to think the projects were really inspiring but did not seem to register the problems that the projects attempted to handle. In general, the interest was peaked, a kid asked how and when they can join!
+## 3 Demo Project _What do you know about bacteria?_
 
-Finally we spoke about our project. They seemed engaged in learning about the problem, although they might not have understood it. The images seemed to assist in their understanding.
+Synthetic biology is, relatively speaking, a new field of science and so the general knowledge is low. In order to make an impact we wanted to inspire and inform youth, and so we travelled to Linköping where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
 
-The visit was an overall success, the school appreciated our visit, the kids seemed to really like us.
+We asked the classes "what do you know about bacteria?", and followed up with a short lesson which led to great discussions about the central dogma, replication and epigenetics. These kids are not to be taken lightly…
+
+Then followed our two exercices, observing bacteria through microscope and then drawing artistic and conceptual versions on top of a provided template. Most of the children drew bacteria that killed people (yikes!), but some made friendly bacteria. Bacteria has got a really bad rap!
+
+Creating a fun and engaging introduction to Synthetic Biology is a great challenge, and something we would like to continue developing. We had a great experience at Atlasskolan and experienced a <sup>high</sup> sense of engagement and curiousity, one of the children even asked it was possible to join!
+
+![](/static/img/wiki/public_engagement-school_01.jpg) ![](/static/img/wiki/public_engagement-school_02.jpg) ![](/static/img/wiki/public_engagement-school_04.jpg)
 
 ## PIXID Card Game
 
@@ -40,12 +50,6 @@ This is tool for us to engage people not only with science background, but also 
 Pixid is accessible to all generations and to players with different cultural background as the cards are picture-based. The game aims at raising attention and awareness around antibiotic resistance. Some basic questions like "What represents sickness to you?" are asked to the players. The questions become more specific to our project as we can collect feedback from people how they think about our project as we ask about their familiarity to bacteriophage therapy until how they want it to get the treatment if we can produce it in large scale. Scoring board is provided, the player will be given point if their answer is one of the possible answers. The best answer chosen from the survey will be given 2 points. Some players added that this media is so powerful and fun as they are challenged to get the highest point.
 
 For children, these cards can be used as memory game. As they play the game, we can also raise their awareness about the antibiotic resistance by telling story about the bacteria and our project.
-
-## Art Exhibition
-
-For most people, science and art are two completely different fields. But a scientist knows that their work requires a certain artistic feel to it, and an artist knows the science behind their creation. Today different fields are merging together, creating new ones. Such is the field of Biotechnology and genetic engineering. As a part of the international genetic engineering competition iGEM, team Stockholm decided to celebrate this intersection of genetic engineering, biotech and art by hosting an open call art exhibition, with synthetic biology as the main theme. Not only did we decide to host this epic art event in a shut down nuclear reactor for the fun of it, we also aimed to educate the public about what exactly genetic engineering is and create an open discussion on the subject with art as the tool for communication. Featured in this booklet is all the artwork contributed to the art exhibition that took place the 13th-15th of May 2019 in R1. R1 is the first nuclear reactor in Sweden that today is shut down and used for similar art events, 25 meters under the Royal Institute of Technology, KTH.
-
-All kinds of art was accepted, everything from audiovisual video works to petridish multiplayer experiences. Some may be funny and beautiful, others disturbing and thought provoking. Everyone was eligible to participate irregardless of artistic level or experience of synthetic biology. From the 38 artworks submitted, 5 winners were chosen from the 2019 iGEM Stockholm team based on creativity, innovation and personal motivations. The winners, with one Grand prize winner, were rewarded a presentation in Osqledaren online (KTH magazine) as well as Medicor online (KI magazine). The five winners are also highlighted in the first pages of this booklet. Furthermore, each booklet contains a unique artwork as a poster, so that the reader may hang up artworks at home, and relive some of the magic created at the art exhibition. We hope these artworks will inspire you to start thinking about synthetic biology in new ways and open up for discussion. Posing the question; where does science end and art begin?
 
 ## Bioethics and Biolegislation
 
