@@ -8,23 +8,6 @@ window.onload = function() {
 	for (let a of document.querySelectorAll('p a')) {
 		if (!a.href.includes('#')) {
 			a.setAttribute('target', '_blank');
-		} else {
-			a.addEventListener('click', function(e) {
-				e.preventDefault();
-				const scrollElemId = a.href.split('#')[1];
-				const scrollEndElem = document.getElementById(scrollElemId);
-				console.log(scrollEndElem);
-				const anim = requestAnimationFrame(timestamp => {
-					const stamp = timestamp || new Date().getTime();
-					const duration = 1200;
-					const start = stamp;
-
-					const startScrollOffset = window.pageYOffset;
-					const scrollEndElemTop = scrollEndElem.getBoundingClientRect().top;
-
-					scrollToElem(start, stamp, duration, scrollEndElemTop, startScrollOffset);
-				});
-			});
 		}
 	}
 };
@@ -101,6 +84,7 @@ function createSubNav() {
 			++count;
 			var link = document.createElement('a');
 			link.href = '#' + h.id;
+			console.log(h.innerHTML);
 			link.innerHTML = count + ' <div><span>' + h.innerHTML + '</span></div>';
 			nav.appendChild(link);
 		}
