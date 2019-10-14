@@ -5,7 +5,7 @@ window.onload = function() {
 	}
 	createSubNav();
 
-	for (let a of document.querySelectorAll('a')) {
+	for (let a of document.querySelectorAll('p a')) {
 		if (!a.href.includes('#')) {
 			a.setAttribute('target', '_blank');
 		} else {
