@@ -9,12 +9,12 @@ function init() {
     svgWrap.id = 'svg';
     document.body.appendChild(svgWrap);
 
-    // setInterval(function() {
-    //     var index = getRandomInt(0, SBOL.length - 1);
-    //     addShape(index);
-    // }, 2000);
+    setInterval(function() {
+        var index = getRandomInt(0, SBOL.length - 1);
+        addShape(index);
+    }, 2000);
 
-    // addShape(0);
+    addShape(0);
 
     function addShape(index) {
         let svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
@@ -63,6 +63,8 @@ function init() {
         }, 5000);
     }
 }
+
+init();
 
 function getRandomInt(min, max) {
     min = Math.ceil(min);
