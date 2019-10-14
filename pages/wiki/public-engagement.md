@@ -5,17 +5,19 @@ permalink: /wiki/public-engagement/
 tags: wiki
 ---
 
-## Art Exhibition _13-15 May_
+## Art Exhibition
 
 For many, science and art are considered vastly distant from one another, but a scientist knows that their work requires individual artistry, and an artist in many ways understand the science within their art. The Synthetic Biology Art Exhibition took place 13-15th of May in Stockholm, 25 meters below the surface in the old nuclear reactor R1. Artistic expressions from all corners were accepted, everything from audiovisual video works to petri-dish multiplayer experiences. Some were funny and beautiful, while others were disturbing and thought-provoking. Everyone was eligible to participate regardless of the artistic prowess or expertise of synthetic biology. From the artworks submitted, 5 winners were rewarded with a presentation in Osqledaren online (KTH magazine) as well as Medicor online (KI magazine).
 
--   🏆 Triple Helix Feeling by Sergio Pachon-Dotor and Y. Vladimir Pabon-Martinez
+<!-- -   🏆 Triple Helix Feeling by Sergio Pachon-Dotor and Y. Vladimir Pabon-Martinez
 -   🥇 Osmos Kosmos by Linda Nurk
 -   🥇 Being a Dove & Making Senses by Maria Euler
 -   🥇 Slime Mould Chess by Håkan Lidbo
--   🥇 Mechamorphosis / Energy / Reaction by Basstian
+-   🥇 Mechamorphosis / Energy / Reaction by Basstian -->
 
 [→ Read more about the art exhibition and view the booklet with all the artists]()
+
+---
 
 ## Lab-on-wheels _Science can be done by anyone!_
 
@@ -25,17 +27,21 @@ When speaking about DNA, we have found that the idea of it is too abstract. In t
 
 ![](/static/img/wiki/public_engagement-lab_01.png)
 
+---
+
 ## 3 Demo Project _What do you know about bacteria?_
 
-Synthetic biology is, relatively speaking, a new field of science and so the general knowledge is low. In order to make an impact we wanted to inspire and inform youth, and so we travelled to Linköping where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
+Synthetic biology is, relatively speaking, a new field of science, and so the general knowledge is low. To make an impact, we wanted to inspire and inform youth, and so we traveled to Linköping, where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
 
-We asked the classes "what do you know about bacteria?", and followed up with a short lesson which led to great discussions about the central dogma, replication and epigenetics. These kids are not to be taken lightly…
+![](/static/img/wiki/public_engagement-school_01.jpg)
 
-Then followed our two exercices, observing bacteria through microscope and then drawing artistic and conceptual versions on top of a provided template. Most of the children drew bacteria that killed people (yikes!), but some made friendly bacteria. Bacteria has got a really bad rap!
+We asked the classes, "what do you know about bacteria?", and followed up with a short lesson that led to great discussions about the central dogma, replication, and epigenetics. These kids are not to be taken lightly…
 
-Creating a fun and engaging introduction to Synthetic Biology is a great challenge, and something we would like to continue developing. We had a great experience at Atlasskolan and experienced a <sup>high</sup> sense of engagement and curiousity, one of the children even asked it was possible to join!
+Then followed our two exercises, observing bacteria through a microscope and then drawing artistic and conceptual versions on top of a provided template. Most of the children drew bacteria that killed people (yikes!), but some made friendly bacteria. Bacteria has got a nasty rap!
 
-![](/static/img/wiki/public_engagement-school_01.jpg) ![](/static/img/wiki/public_engagement-school_02.jpg) ![](/static/img/wiki/public_engagement-school_04.jpg)
+Creating a fun and engaging introduction to Synthetic Biology is a great challenge, and something we would like to continue developing. We had a great experience at Atlasskolan and experienced a <sup>high</sup> sense of engagement and curiosity, one of the children even asked it was possible to join!
+
+![](/static/img/wiki/public_engagement-school_02.jpg) ![](/static/img/wiki/public_engagement-school_04.jpg)
 
 ## PIXID Card Game
 
