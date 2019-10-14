@@ -39,6 +39,14 @@ p.image {
 	/*display: none;*/
 }
 
+thead tr {
+	/*background-color: antiquewhite;*/
+}
+
+tbody tr:nth-child(odd) {
+	background-color: #eee;
+}
+
 h1 {
 	padding: 10rem 0;
 	line-height: 1;
