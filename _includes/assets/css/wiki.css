@@ -122,6 +122,7 @@ footer {
 /* HEADER */
 
 header {
+	padding: 1rem;
 	position: absolute;
 }
 
@@ -137,7 +138,7 @@ header {
 	text-align: center;
 }
 #nav {
-	width: 80ex;
+	width: 84ex;
 	margin: 0 auto;
 	display: inline-block;
 	text-align: left;
@@ -165,7 +166,7 @@ header {
 }
 
 header #nav > div {
-	padding: 1rem;
+	/*padding: 1rem;*/
 	/*width: 100%;*/
 }
 
