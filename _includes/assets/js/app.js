@@ -6,7 +6,8 @@ window.onload = function() {
 	createSubNav();
 
 	for (let a of document.querySelectorAll('p a')) {
-		if (!a.href.includes('#')) {
+		if (a.protocol == window.location.protocol && a.host == window.location.host) {
+		} else {
 			a.setAttribute('target', '_blank');
 		}
 	}
