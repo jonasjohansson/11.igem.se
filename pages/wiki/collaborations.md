@@ -58,3 +58,9 @@ The expression "Bench to bedside" literally means the translation of clinical re
 {% div 'sub' %} xx<br>iGEM TU Eindhoven {% enddiv %}
 
 We decided to start a collaboration with iGEM TU Eindhoven, who have been developing a fast diagnosis system. Their system uses lytic phages to indirectly detect which bacteria are causing the infection. This system presents a double win to us, because not only it will tell us what bacteria is causing the infection, it will also show us what phage can be used in Esther for effective treatment. We realized that our phages could be integrated into their system, as we have engineered them to be obligated lytic. In the future, we would like to design a library of phages that can be ready for use. These phages will be used for diagnosis, and once identified which phage is amplified in the patient sample, it will be prepared to be administered to the patient using Esther. Thus, the combination of Esther with Eindhoven’s diagnosis system will cut down the action time and make the process more simplistic, both to the patient and the doctor.
+
+## Wiki Guide
+
+{% div 'sub' %} ∞<br>iGEM US AFRL CarrolHS {% enddiv %}
+
+Working with the iGEM wiki is no trivial task. We carried out workshops internally, which resulted in articles detailing the process, later shared with the community. Another team took it further and [made their own wiki for the wiki](https://2019.igem.org/Team:US_AFRL_CarrollHS/WikiGuide). We are happy to have had the opportunity to collaborate and do our best to help others learning code!
