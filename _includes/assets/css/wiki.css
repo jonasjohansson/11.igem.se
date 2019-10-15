@@ -172,8 +172,11 @@ header #nav > div {
 
 #nav span {
 	display: block;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	margin-bottom: 1rem;
+	font-size: 90%;
+	font-weight: 400;
+	text-transform: uppercase;
 }
 
 .header-faux,
