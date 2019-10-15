@@ -54,7 +54,7 @@ function myFunction() {
 }
 
 function createSubNav() {
-	var allH = document.querySelectorAll('h1,h2,h3');
+	var allH = document.querySelectorAll('section > h1, section > h2, section > h3, section > h4');
 	var nav = document.querySelector('aside nav');
 	console.log(nav);
 	var count = 0;

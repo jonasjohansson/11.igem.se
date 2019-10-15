@@ -73,6 +73,10 @@ h2 + .sub {
 	text-align: left;
 }
 
+h2:not(:target) + div {
+	display: none;
+}
+
 .sub {
 	display: block;
 	font-style: normal;
