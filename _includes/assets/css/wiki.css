@@ -108,7 +108,7 @@ p.image {
 /* HEADER */
 
 header {
-	position: fixed;
+	position: absolute;
 }
 
 .header-faux,
@@ -131,7 +131,7 @@ header {
 }
 
 header > * {
-	/*display: inline-flex;*/
+	display: inline-flex;
 }
 
 header nav > * {
@@ -142,7 +142,7 @@ header nav > * {
 
 aside {
 	position: fixed !important;
-	top: 24rem;
+	top: 12rem;
 	padding: 1rem;
 	box-sizing: border-box;
 	font-size: 90%;
