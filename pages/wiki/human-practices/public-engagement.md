@@ -31,6 +31,8 @@ When speaking about DNA, we have found that the idea of it is too abstract. In t
 
 ## 3 Demo Project
 
+{% div 'sub' %} 7 May {% enddiv %}
+
 Synthetic biology is, relatively speaking, a new field of science, and so the general knowledge is low. To make an impact, we wanted to inspire and inform youth, and so we traveled to Linköping, where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
 
 ![](/static/img/wiki/public_engagement-school_01.jpg)
