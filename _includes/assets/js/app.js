@@ -57,6 +57,11 @@ function myFunction() {
 function createSubNav() {
 	var allH = document.querySelectorAll('section > h1, section > h2, section > h3, section > h4');
 	var nav = document.querySelector('aside nav');
+
+	if (allH.length < 3) {
+		nav.parentNode.parentNode.removeChild(nav.parentNode);
+		return;
+	}
 	console.log(nav);
 	var count = 0;
 	for (var h of allH) {

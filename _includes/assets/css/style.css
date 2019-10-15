@@ -1,5 +1,4 @@
 @import url(https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css);
-@import url(https://nava.community/_includes/assets/css/template.css);
 
 body {
 	font-family: 'Nimbus', -apple-system, system-ui, sans-serif;
@@ -18,6 +17,10 @@ body#home {
 	background-size: 300% 300%;
 	animation: gradient 20s ease-in-out infinite;
 	color: rgba(255, 255, 255, 0.9);
+}
+body:not(#home) article > *:not(figure) {
+	max-width: 110ex;
+	width: 80vw;
 }
 
 h1 {

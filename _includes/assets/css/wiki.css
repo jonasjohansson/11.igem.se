@@ -12,7 +12,7 @@ html {
 	color: var(--dark);
 	background-color: var(--light);
 	scroll-behavior: smooth;
-	font-size: 90%;
+	/*font-size: 90%;*/
 }
 
 body {
@@ -80,10 +80,10 @@ h2 + .sub {
 	text-align: left;
 }
 
-h2:not(:target) + div {
+/*h2:not(:target) + div {
 	display: none;
 }
-
+*/
 .sub {
 	display: block;
 	font-style: normal;
@@ -177,6 +177,17 @@ tbody tr:nth-child(odd) {
 
 th {
 	text-align: left;
+}
+
+/* OTHER */
+
+.group {
+	float: left;
+	width: 33.33%;
+}
+
+.group + *:not(.group) {
+	clear: left;
 }
 
 /* LOADING BAR */
