@@ -8,27 +8,46 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-    {% set css %} {% include "assets/css/template.css" %} {% include "assets/css/style.css" %} {% include "assets/css/wiki.css" %} {% include "assets/css/svg.css" %} {% endset %}
+    {% set css %} {% include "assets/css/style.css" %} {% include "assets/css/wiki.css" %} {% include "assets/css/svg.css" %} {% endset %}
     <style>{{ css | cssmin | safe }}</style>
     {% set js %}  {% include "assets/js/app.js" %} {% endset %}
     <script>{{ js | jsmin | safe }}</script>
 </head>
 <header>
-   <nav>
-        <a href="/wiki/">Home</a>
-        <a href="/wiki/design">Design</a>
-        <a href="/wiki/description">Description</a>
-        <a href="/wiki/team/">Team</a>
-        <a href="/wiki/collaborations/">Collaborations</a>
-        <a href="/wiki/safety/">Safety</a>
-        <a href="/wiki/model/">Model</a>
-        <a href="/wiki/results/">Results</a>
-        <a href="/wiki/contribution/">Contribution</a>
-        <a href="/wiki/human-practices/">Human Practices</a>
-        <a href="/wiki/public-engagement/">Public Engagement</a>
-        <a href="/wiki/parts/">Parts</a>
-        <a href="/wiki/notebook/">Notebook</a>
-        <a href="/wiki/outlook/">Outlook</a>
-    </nav>
+   <div id="nav">
+        <div>
+            <span>Project</span>
+            <nav>
+                <a href="/wiki/design">Design</a>
+                <a href="/wiki/description">Description</a>
+                <a href="/wiki/safety/">Safety</a>
+                <a href="/wiki/notebook/">Notebook</a>
+                <a href="/wiki/outlook/">Outlook</a>
+                <a href="/wiki/model/">Model</a>
+                <a href="/wiki/results/">Results</a>
+                <a href="/wiki/contribution/">Contribution</a>
+            </nav>
+        </div>
+        <div>
+            <span>Parts</span>
+            <nav>
+                <a href="/wiki/parts/">Parts</a>
+            </nav>
+        </div>
+        <div>
+            <span>Human Practices</span>
+            <nav>
+                <a href="/wiki/human-practices/">Integration</a>
+                <a href="/wiki/public-engagement/">Public Engagement</a>
+            </nav>
+        </div>
+        <div>
+            <span>About</span>
+            <nav>
+                <a href="/wiki/team/">Team</a>
+                <a href="/wiki/collaborations/">Collaborations</a>
+            </nav>
+        </div>
+    </div>
 </header>
 <div class="header-faux">x</div>

@@ -42,5 +42,10 @@
 
 	{% set js2 %} {% include "assets/js/svg.js" %} {% endset %}
 	<script>{{ js2 | jsmin | safe }}</script>
-</body>
-</html>
+
+
+	{% if tags.includes("wiki") %}
+		{% include "components/footwiki.njk" %}
+	{% else %}
+		{% include "components/foot.njk" %}
+	{% endif %}
