@@ -1,6 +1,8 @@
 :root {
 	--light: #fff;
 	--dark: #0c0c0c;
+	--blue: #1c2342;
+	--pink: #c71881;
 }
 
 html {
@@ -12,6 +14,7 @@ html {
 	color: var(--dark);
 	background-color: var(--light);
 	scroll-behavior: smooth;
+	color: var(--blue);
 	/*font-size: 90%;*/
 }
 
@@ -116,7 +119,11 @@ p.image {
 footer {
 	width: 100%;
 	padding: 2rem;
-	background-color: #111;
+	background-color: var(--blue);
+}
+
+footer #logos img {
+	width: 100px;
 }
 
 /* HEADER */
@@ -278,7 +285,7 @@ th {
 	top: 0;
 	left: 0;
 	width: 0;
-	background-image: linear-gradient(-45deg, black, white);
+	background-image: linear-gradient(45deg, var(--blue), var(--pink));
 	height: 100%;
 }
 
