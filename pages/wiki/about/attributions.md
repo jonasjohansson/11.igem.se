@@ -5,6 +5,8 @@ permalink: /wiki/attributions/
 tags: wiki
 ---
 
+> All work included in this project, unless otherwise specified, has been carried out, analyzed and reported by the iGEM Stockholm 2019 team. However, despite all our evident work and effort, these achievements could not have been possible without the support of all our supervisors, instructors, and advisors. Therefore, we want to deeply thank them for all their support and guidance on this page. Each of them has contributed to different chapters of our whole story, we hope you have enjoyed it as we did.
+
 ## Supervisors
 
 **Dr. Johan Rockberg** Primary iGEM PI and leader of a research group at the Department of Protein Technology at KTH Royal Institute of Technology. He gave us lab space, as well as guidance and support throughout the development of our project.
