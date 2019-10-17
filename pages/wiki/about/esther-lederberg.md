@@ -5,7 +5,7 @@ permalink: /wiki/esther-lederberg/
 tags: wiki
 ---
 
-So who was Esther Lederberg and why is the entire iGEM Stockholm 2019 project named after her? Here we give you a little historical background about this amazing woman.
+> So who was Esther Lederberg and why is the entire iGEM Stockholm 2019 project named after her? Here we give you a little historical background about this amazing woman.
 
 Esther Lederberg was born to a orthodox jewish family during the great depression. Due to the depression, her lunch to school often consisted of only a piece of bread and juice of a tomato. Despite this, she thrived academically and chose to study biochemistry against the advice of her teachers, who didn't see any future for women in that field. After completing her undergraduate degree at Hunter College in 1942 she was awarded a fellowship to Stanford university. Even here she had trouble to get proper meals due to money struggles. Sometimes money was so tight that she recalled having to eat frogs' legs left over from laboratory dissections [1].
 
