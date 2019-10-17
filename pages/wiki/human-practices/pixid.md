@@ -1,7 +1,7 @@
 ---
-title: Public Engagement
+title: Pixid
 preamble:
-permalink: /wiki/public-engagement/
+permalink: /wiki/pixid/
 tags: wiki
 ---
 
@@ -23,27 +23,17 @@ For many, science and art are considered vastly distant from one another, but a 
 
 ## Lab-on-wheels
 
-{% div 'sub' %} 13-15 May {% enddiv %}
-
 An interactive workshop, organized as part of the Art Exhibition, where participants would extract DNA from strawberries with everyday items such as dish soap, salt, rubbing alcohol, plastic bags, coffee filter, and toothpicks. When done, the visitors could keep their extracted DNA in an Eppendorf tube!
 
 When speaking about DNA, we have found that the idea of it is too abstract. In the lab-on-wheels session, we invited visitors to isolate DNA and hold it in their hands. We also demonstrated general lab equipment such as pipettes and microtubes so they could experience the lab atmosphere. The strawberries were crushed inside a plastic bag together with a mixture of water, salt, and dish soap. The mixture was finally filtered through a coffee filter to retrieve the DNA in the strawberry juice. The visitors could see their isolated DNA inside the microtube after ethanol addition.
 
 ![](/static/img/wiki/public_engagement-lab_01.png)
 
-## Promega Takeover
+## 3 Demo Project
 
-{% div 'sub' %} 13-19 May {% enddiv %}
+{% div 'sub' %} 7 May {% enddiv %}
 
-Thanks to the incredible job of our Media team on our Instagram account, promoting the different events and our project, we were reached out by Promega. They were particularly interested in our Synthetic Biology Art Exhibition since they also have an internal art competition where Promega's employees can showcase their artwork. After a small brainstorming session with Darcia Schweitzer, Content Lead, we decided to do a [takeover at Promega's Instagram account](https://www.instagram.com/stories/highlights/17844233680442800/), to show what a week in the life of iGEM Stockholm looks like. During this week, we showed art presented at the exhibition, inviting everyone to participate virtually. We also shared short interviews with the attendees, explaining what parts they liked the best.
-
-In the end, we received very positive feedback from Darcia's team, who were inspired by the idea and decided to continue with the TakeOver idea and propose it to other iGEM teams. Given the success of the exhibition, we were interviewed by Jordan Villanueva, Sr. Science Writer at Promega, who [wrote an article about us and the event](https://www.promegaconnections.com/igem-stockholm-blending-art-and-synthetic-biology/).
-
-## 3 Demo school project
-
-{% div 'sub' %} 7 May — 5 June {% enddiv %}
-
-Synthetic biology is, relatively speaking, a new field of science, and so the general knowledge is low. To make an impact, we wanted to inspire and inform youth, and so we came up with the Three Demographic School Project (3 Demo) where we would visit schools and students of different ages. We began with Linköping, where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
+Synthetic biology is, relatively speaking, a new field of science, and so the general knowledge is low. To make an impact, we wanted to inspire and inform youth, and so we traveled to Linköping, where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
 
 ![](/static/img/wiki/public_engagement-school_01.jpg)
 
@@ -56,10 +46,6 @@ Creating a fun and engaging introduction to Synthetic Biology is a great challen
 ![](/static/img/wiki/public_engagement-school_02.jpg)
 
 ![](/static/img/wiki/public_engagement-school_04.jpg)
-
-A month later we went closer to home and, together with SGEM (our alumni organization), visited [Norra Real](https://norrarealsgymnasium.stockholm.se/), the most eldest of public high schools in Stockholm to inspire future high school team. We visite the natural science program and their second year, research-oriented class.
-
-![](/static/img/wiki/public_engagement-school_05.jpg)
 
 ## Bioethics and Biolegislation
 
@@ -97,8 +83,6 @@ When it comes to that which keeps us afloat, the World Water Week (WWW) is one o
 
 During WWW, we were also allowed to introduce our project to professionals and receive comments from specialists. Further, valuable feedback was obtained, which was of importance in the further shaping of our project. Perspectives upon the functioning in different physiological conditions, such as ¿low pH? , were obtained. Later on in the lab, this would be demonstrated by experiments that showed that effectively in these conditions, there is no adequate response.
 
-![](/static/img/wiki/public_engagement-world_water_week_01.jpg)
-
 ## National Television Morning News Visit
 
 {% div 'sub' %} 26 Sep {% enddiv %}
@@ -117,13 +101,9 @@ Biology should be fun and interactive, so we created a game to interact with the
 
 Pixid is accessible to all generations and to players with a different cultural background as the cards are picture-based. The game aims at raising attention and awareness around antibiotic resistance. Some basic questions like "What represents sickness to you?" are asked to the players. The questions progressively become more specific to our project. Using the provided scoring board, the player will be given a point if their guess is one of the possible answers. The best answer chosen from the survey will be given 2 points. Some players mentioned that this playful approach is so fun that they are motivated to get the highest score.
 
-![](/static/img/wiki/public_engagement-pixid_01.jpg)
-
-As a powerful educational tool, the cards can provide visualization about what might happen in the nature when we take antibiotic. One of the kids agrees that we need to take only one pill per day if we get sick after being told the story of sea creatures become sad because the medicine (antibiotics) enters into their home. So, she doesn't want to make the sea creatures sad so she only take one pill as the doctor prescribed.
-
 For children, these cards can also be used as a memory game, or as a visual complement in explaining the story behind our project.
 
-[↓ Get the game and start playing!]()
+![](/static/img/wiki/public_engagement-pixid_01.jpg)
 
 ![](/static/img/wiki/public_engagement-pixid_02.jpg)
 
