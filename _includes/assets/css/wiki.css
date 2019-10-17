@@ -217,12 +217,16 @@ header nav > * {
 
 aside {
 	position: fixed !important;
-	top: 12rem;
+	/*top: 12rem;*/
 	padding: 1rem;
+
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
 	box-sizing: border-box;
 	font-size: 90%;
 	white-space: nowrap;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	text-overflow: ellipsis;
 	transition: background-color 300ms ease-in-out;
 }
@@ -242,6 +246,14 @@ aside nav div {
 	position: relative;
 	transform: translate(-10px, 0);
 	transition: all 300ms ease-in-out;
+}
+
+aside {
+	overflow-y: scroll;
+}
+
+aside nav {
+	height: 20rem;
 }
 
 /* TABLES */
