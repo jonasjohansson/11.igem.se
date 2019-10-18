@@ -38,6 +38,8 @@ function myFunction() {
 		}
 	}
 
+	console.log(winScroll);
+
 	if (asideEl !== null) {
 		var articleElTop = articleEl.offsetTop;
 		var asideElTop = articleEl.offsetTop;

@@ -1,9 +1,17 @@
 :root {
     --light: #fff;
     --dark: #0c0c0c;
-    --blue: #000; /*#1c2342;*/
-    --pink: #fff; /*#c71881;*/
+    --blue: #1c2342;
+    --pink: #c71881;
 }
+
+/* home */
+
+#esther article section:first-child {
+    display: none;
+}
+
+/* */
 
 html {
     position: absolute;
@@ -308,6 +316,11 @@ th {
 }
 
 /* LOADING BAR */
+
+svg,
+svg path {
+    mix-blend-mode: difference;
+}
 
 .loading-bar {
     position: fixed;

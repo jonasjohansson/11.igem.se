@@ -19,6 +19,8 @@ The phages for the library preparation will be isolated from environmental reser
 
 ### Preparing the vehicle bacteria library
 
+![](/static/img/wiki/outlook-bacterias.png)
+
 Survival of the probiotics in GI tract has to be secured till it reaches the target area. Resistance against the salivary enzymes, pH changes, secretion of biles and stomach acid could be encountered while the probiotics pass the intestine. In our project design, we utilized the non-pathogenic E. Coli Nilsson as a proof of concept, but the library of vehicle bacteria can also be broadened. Manufacture starts with the isolation of the bacteria from the human organism, to provide the “human friendly” vehicle. The bacteria will be sequenced for the toxins and characterized before its insertion into the library to exclude the toxin contamination. In addition, bacteria will be transformed with our switch plasmid so that we can find them ready for the treatment in our library.
 
 Moreover, the strain has to be genetically stable, cultivability ability on the large scale, and viability in combination with the supplement or to other food product (1). According to requirements in Canada and Italy a minimum amount of 10^9of colony forming units in order to provide health benefits (2). However, there is no report that the higher dose is detrimental. Probiotics usually stored in ambient temperature and humidity; however, it could cause loss of viability compared to frozen storage. Therefore, over 10^9has to be added to reach target dose.
