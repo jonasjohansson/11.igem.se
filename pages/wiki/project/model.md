@@ -21,9 +21,7 @@ In our modeling project, we managed to achieve these goals:
 
 One of the fundamental characteristics that some biological systems exhibit is bistability. In a dynamical system, bistability means that the system has two equilibrium states, characterized by distinct gene expression profiles. Some examples include the lactose operon repressor system, the genetic toggle switch, and the bacteriophage λ genetic switch. A bacteriophage genetic switch is characterized by its ability to switch between 'lytic-lysogeny states' depending upon the kind of regulator that is expressed, making it a bistable system. In bistable systems, small perturbations cause the system to return to the original state, while more significant perturbations lead to "state switching." (1)
 
-![](/static/img/wiki/project/model-01.png)
-
-Figure 1: Bistability is a property of a system that contains two local energy minima.
+{% image "/static/img/wiki/project/model-01.png", "Figure 1: Bistability is a property of a system that contains two local energy minima." %}
 
 Another example of a system with bistable behavior is bacteriophage P2, which is our system of interest in *Esther.*
 
@@ -31,11 +29,9 @@ Another example of a system with bistable behavior is bacteriophage P2, which is
 
 The switch between the lytic and lysogenic phase in bacteriophage P2 is controlled by a simple transcriptional switch. It uses the concentration of two repressor proteins to maintain a particular state, and when the concentration of these repressor proteins shifts, then these repressor proteins shift, the phage switches cycle switches cycles. What the natural trigger to this is, is unknown. The transcriptional switch is illustrated in Figure 2. The C protein expression is regulated by the Pc promoter, while the Cox protein expression is controlled by the Pe promoter. The former triggers the lysogenic cycle while the latter triggers the lytic. The C protein autoregulates the Pc promoter and represses the Pe promoter as a dimer while the Cox protein represses both promoters as a tetramer. (2)
 
-![](/static/img/wiki/project/model-02.png)
+{% image "/static/img/wiki/project/model-02.png", "Figure 2: An illustration of the transcriptional switch. We see the C protein repress both the Pc and Pe promoters as a dimer. We see Cox repress both promoters as a tetramer." %}
 
-Figure 2: An illustration of the transcriptional switch. We see the C protein repress both the Pc and Pe promoters as a dimer. We see Cox repress both promoters as a tetramer.
-
-The product we wish to create is a stable bacterial carrier of the P2 phage and a switch plasmid, which is inducing the lysogenic (passive, inactive) phase in the phage. Thus, the initial state of the product is a carrier of the genetic material of the P2 phage that can survive within the digestion tract of humans. When the carrier reaches the pathogenic target, a signal within the carrier is triggered, and the switch induces the lytic (offensive, active) phase in the phage. At this point, there is a high concentration of phages near the target, which in turn should ward off the infection as a whole. The plan is to use two different plasmids to simulate different parts of the system. [The first plasmid is the switch plasmid, and the second plasmid is the model plasmid](https://www.notion.so/jonasjohansson/Design-JooAnaAnd-f4c539ce345245f280bb8dc169a7f65f).
+The product we wish to create is a stable bacterial carrier of the P2 phage and a switch plasmid, which is inducing the lysogenic (passive, inactive) phase in the phage. Thus, the initial state of the product is a carrier of the genetic material of the P2 phage that can survive within the digestion tract of humans. When the carrier reaches the pathogenic target, a signal within the carrier is triggered, and the switch induces the lytic (offensive, active) phase in the phage. At this point, there is a high concentration of phages near the target, which in turn should ward off the infection as a whole. The plan is to use two different plasmids to simulate different parts of the system. [The first plasmid is the switch plasmid, and the second plasmid is the model plasmid](/wiki/design).
 
 ### Deterministic and stochastic modeling
 
