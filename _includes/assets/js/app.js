@@ -66,6 +66,7 @@ function createSubNav() {
 	}
 	console.log(nav);
 	var count = 0;
+
 	for (var h of allH) {
 		if (h.id.length !== 0) {
 			++count;
@@ -76,4 +77,9 @@ function createSubNav() {
 			nav.appendChild(link);
 		}
 	}
+
+	var link = document.createElement('a');
+	link.href = '#' + document.documentElement.id;
+	link.innerHTML = '↑' + ' <div><span>To the top</span></div>';
+	nav.appendChild(link);
 }
