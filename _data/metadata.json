@@ -5,79 +5,88 @@
   "members": [
     {
       "name": "Nerea Capon",
-      "image": "/static/img/team-nerea.jpg",
+      "image": "/static/img/wiki/about/team-nerea.jpg",
       "role": "Team Leader",
       "school": "Stockholm University",
       "program": "MSc. Neurochemistry and Molecular Neurobiology",
-      "motivation": "Nerea chose iGEM because she loved the idea of developing something that could have a use in society or to the science community. She was also attracted to the fact that it was not just a project you develop in a lab and \"that's it\"; it also has a lot of work behind, such as contacting sponsors or presenting your idea to the general public. This was a side of science that she really wanted to explore!",
+      "motivation": "Nerea chose iGEM because she loved the idea of developing something that could have a use in society or to the science community. She was also attracted to the fact that it was not just a project you develop in a lab and \"that's it\"; it also has a lot of work behind, such as contacting sponsors or presenting your idea to the general public. This was a side of science that she wanted to explore!",
       "emoji": "🇪🇸"
     },
     {
       "name": "Andriana Mantzafou",
-      "image": "/static/img/team-andriana.jpg",
+      "image": "/static/img/wiki/about/team-andriana.jpg",
       "role": "Wet lab and Project Development",
       "school": "Stockholm University and Karolinska Institutet ",
       "program": "MS. Neurochemistry with Molecular Neurobiology",
-      "motivation": "Andriana chose iGEM because she likes the idea that with dedicated work you can make an idea feasible from scratch in a few months! She knew she would acquire important soft skills from this experience which would help her be more competent in academia and outside of it in the future. ",
+      "motivation": "Andriana chose iGEM because she likes the idea that with dedicated work you can make an idea feasible from scratch in a few months! She knew she would acquire important soft skills from this experience which would help her be more competent in academia and outside of it, in the future.",
       "emoji": "🇬🇷"
     },
     {
       "name": "Ayleen Burt",
-      "image": "/static/img/team-ayleen.jpg",
+      "image": "/static/img/wiki/about/team-ayleen.jpg",
       "role": "Media and Design, Wet Lab",
       "school": "KTH Royal Institute of Technology",
       "program": "BSc. Biotechnology",
-      "motivation": "Ayleen chose iGEM for the exciting adventure and to learn more about synthetic biology, whilst also getting the opportunity to train her creative side. She wanted to solve problems with likeminded students and experience the Giant Jamboree! ",
+      "motivation": "Ayleen chose iGEM for the exciting adventure and to learn more about synthetic biology, whilst also getting the opportunity to train her creative side. She wanted to solve problems with likeminded students and experience the Giant Jamboree!",
       "emoji": "🇸🇪"
     },
     {
       "name": "Azhar Gazizova",
-      "image": "/static/img/team-azhar.jpg",
+      "image": "/static/img/wiki/about/team-azhar.jpg",
       "role": "Wet lab and Project Development",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
-      "motivation": "She chose iGEM to fly to Boston for free ;)",
+      "motivation": "Azhar chose iGEM to fly to Boston for free 😉",
       "emoji": "🇰🇿"
     },
     {
       "name": "Itisha Adhikari",
-      "image": "/static/img/team-itisha.jpg",
+      "image": "/static/img/wiki/about/team-itisha.jpg",
       "role": "Project Development and Human Practices ",
       "school": "Karolinska Institutet",
       "program": "MSc. Bio-entrepreneurship",
-      "motivation": "iGEM is about raising awareness for synthetic biology and understanding its application in solving problems spanning over a spectrum of areas. Her interest is inspired by her profession of biotechnology and her passion for environmental conservation and iGEM is the perfect opportunity to discover the amalgamation of both. She is most excited about the fact that iGEM gives the freedom and space for innovative thinking and troubleshooting of scientific blemishes which is incredibly rewarding for an explorer like her.",
+      "motivation": "iGEM is about raising awareness for synthetic biology and understanding its application in solving problems spanning over a spectrum of areas. Itisha was most excited about the fact that iGEM gives the freedom and space for innovative thinking and troubleshooting of scientific blemishes which is incredibly rewarding for an explorer like her.",
       "emoji": "🇮🇳"
     },
     {
+      "name": "Roudlotul Jannah",
+      "image": "/static/img/wiki/about/team-jannah.jpg",
+      "role": "Project development and Human Practices",
+      "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
+      "program": "MSc. Molecular Techniques in Life Sciences",
+      "motivation": "Jannah chose to join iGEM again because she cannot move on from it. The journey of iGEM was incredibly amazing. She didn't want to miss it this year!",
+      "emoji": "🇮🇩"
+    },
+    {
       "name": "Jonas Johansson",
-      "image": "/static/img/team-jonas.jpg",
+      "image": "/static/img/wiki/about/team-jonas.jpg",
       "role": "Media and Design, Wiki",
       "school": "Beckmans college of Design, Hyper Island",
       "program": "Lecturer, Industry Leader",
-      "motivation": "Jonas chose iGEM because he wants to pursue a professional relationship with nature, and demonstrate the possibilities of working alongside the greatest design process in the world, evolution. ",
+      "motivation": "Jonas chose iGEM because he wanted to pursue a professional relationship with nature, and demonstrate the possibilities of working alongside the greatest design process in the world, evolution.",
       "emoji": "🇸🇪"
     },
     {
       "name": "Joost Bergman",
-      "image": "/static/img/team-joost.jpg",
+      "image": "/static/img/wiki/about/team-joost.jpg",
       "role": "Finance and Wiki",
       "school": "Karolinska Institutet",
       "program": "MSc. Biomedicine",
-      "motivation": "He applied for iGEM for the exciting challenge in an interesting field!",
+      "motivation": "Joost applied for iGEM for the exciting challenge in an interesting field!",
       "emoji": "🇳🇱"
     },
     {
       "name": "Anali De Luca",
-      "image": "/static/img/team-anali.jpg",
+      "image": "/static/img/wiki/about/team-anali.jpg",
       "role": "Dry lab and Educational Human Practices",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Industrial and Environmental Biotechnology",
-      "motivation": "Anali chose to be in iGEM Because it is an experience of a lifetime you can only do as a student. iGEM is the obvious choice for any biotech/med student who wants to challenge themselves, learn more about themselves and about the field they are/will work in.",
+      "motivation": "Anali chose to be in iGEM because it is an experience of a lifetime you can only do as a student. iGEM is the obvious choice for any biotech/med student who wants to challenge themselves, learn more about themselves and about the field they are in/will work in.",
       "emoji": "🇸🇪"
     },
     {
       "name": "Lisa Faye",
-      "image": "/static/img/team-lisa.jpg",
+      "image": "/static/img/wiki/about/team-lisa.jpg",
       "role": "Finance and Media",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Medical Biotechnology",
@@ -86,7 +95,7 @@
     },
     {
       "name": "Milda Valiukonytė",
-      "image": "/static/img/team-milda.jpg",
+      "image": "/static/img/wiki/about/team-milda.jpg",
       "role": "Dry lab and Project Development",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
@@ -95,16 +104,16 @@
     },
     {
       "name": "Rebecca de Sousa",
-      "image": "/static/img/team-rebecca.jpg",
+      "image": "/static/img/wiki/about/team-rebecca.jpg",
       "role": "Finance and Wet lab",
       "school": "Karolinska Institutet",
       "program": "MSc. Biomedicine",
-      "motivation": "She chose iGEM because she wanted to work in a team of ambitious students who will have the possibility to create a system or device with real and meaningful application. She knew that iGEM would give her research and engineering experiences beyond that which she learned at school.",
+      "motivation": "Rebecca chose iGEM because she wanted to work in a team of ambitious students who will have the possibility to create a system or device with real and meaningful application. She knew that iGEM would give her research and engineering experiences beyond that which she learned at school.",
       "emoji": "🇸🇪"
     },
     {
       "name": "Roudlotul Jannah",
-      "image": "/static/img/team-roudlotul.jpg",
+      "image": "/static/img/wiki/about/team-roudlotul.jpg",
       "role": "Project development and Human Practices",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
@@ -113,16 +122,16 @@
     },
     {
       "name": "Sabina Monge-Navarro Otero",
-      "image": "/static/img/team-sabina.jpg",
+      "image": "/static/img/wiki/about/team-sabina.jpg",
       "role": "Human Practices",
       "school": "Karolinska Institutet ",
       "program": "MSc. Biomedicine",
-      "motivation": "For Sabina, iGEM seemed like an incredible opportunity to learn more about synthetic biology and create something amazing with science! It also seemed like a lot of fun and a great way of creating a bridge between creativity and biology since there is not a lot of opportunities to reflect artistic creativity in the lives of us aspiring scientists!",
+      "motivation": "For Sabina, iGEM seemed like an incredible opportunity to learn more about synthetic biology and create something amazing with science! It also seemed as a great way of creating a bridge between creativity and biology, since there are limited opportunities to reflect artistic creativity in science.",
       "emoji": "🇦🇷"
     },
     {
       "name": "Sanchari Choudhury",
-      "image": "/static/img/team-sanchari.jpg",
+      "image": "/static/img/wiki/about/team-sanchari.jpg",
       "role": "Dry lab and Project Development",
       "school": "Karolinska Insitutet",
       "program": "MSc. Biomedicine",
@@ -131,29 +140,29 @@
     },
     {
       "name": "Stella Axelsson",
-      "image": "/static/img/team-stella.jpg",
+      "image": "/static/img/wiki/about/team-stella.jpg",
       "role": "Wet lab and Educational Human Practices  ",
       "school": "KTH Royal Institute of Technology",
       "program": "BSc. Biotechnology",
-      "motivation": "For Stella iGEM seemed like an exciting adventure. She is very passionate about science and how to improve existing solutions and methods. iGEM, is an opportunity to implement theoretical knowledge to practical use as well as a fun challenge. She loves working together with other curious students with different experiences and skills.",
+      "motivation": "For Stella iGEM seemed like an exciting adventure. She is very passionate about science and how to improve existing solutions and methods. iGEM is an opportunity to implement theoretical knowledge to practical use as well as a fun challenge. She loves working together with other curious students with different experiences and skills.",
       "emoji": "🇸🇪"
     },
     {
-      "name": "Tianqi Zhang",
-      "image": "/static/img/team-tianqi.jpg",
+      "name": "Tianqi Zhang (Charles)",
+      "image": "/static/img/wiki/about/team-tianqi.jpg",
       "role": "Project development and Human Practices ",
       "school": "Karolinska Institutet ",
       "program": "MSc. Biomedicine",
-      "motivation": "Charles chose iGEM so he can practice his research skills, also apply his previous experiences and knowledge (especially human practice)",
+      "motivation": "Charles chose iGEM so he could practice his research skills, also apply his previous experiences and knowledge (especially human practice).",
       "emoji": "🇨🇳"
     },
     {
       "name": "Tobias Willi",
-      "image": "/static/img/team-tobi.jpg",
+      "image": "/static/img/wiki/about/team-tobi.jpg",
       "role": "Wet lab and construct design ",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Medical Biotechnology",
-      "motivation": "Engaging with students to inspire them is the reason Tobi chose iGEM. He thinks it is a great part of iGEM. iGEM gives him the opportunity to engage with a project over the whole length, from developing to hopefully implementing the idea.",
+      "motivation": "Engaging with students to inspire them is the reason Tobi chose iGEM. He thinks it is a great part of iGEM. iGEM allows him to engage with a project over the whole length, from developing to hopefully implementing the idea.",
       "emoji": "🇩🇪"
     }
   ]

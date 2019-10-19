@@ -31,7 +31,7 @@ nav a {
 	display: table;
 }
 
-body:not(#home) article > *:not(figure) {
+body:not(#home) article > *:not(figure):not(div) {
 	max-width: 80ex;
 }
 

@@ -51,6 +51,7 @@ blockquote {
     padding: 0;
     /*margin: 0;*/
     padding-bottom: 5rem;
+    padding: 5rem 0;
     box-sizing: border-box;
     opacity: 0.8;
     font-size: 140%;
@@ -257,7 +258,7 @@ aside {
     position: fixed !important;
     /*top: 12rem;*/
     padding: 1rem;
-
+    z-index: 1;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
@@ -359,7 +360,7 @@ nav > div:not(:hover) > div {
 }
 
 .cover {
-    filter: saturate(0) contrast(1.5);
+    /*filter: saturate(0) contrast(1.5);*/
 }
 
 /* COVER */
@@ -373,14 +374,13 @@ nav > div:not(:hover) > div {
     justify-content: center;
 }
 
-.cover img {
+.cover ixmg {
     position: static;
     width: 40vw;
     max-height: 20vh;
     mix-blend-mode: exclusion;
 }
-
-.cover video {
+.cover > * {
     position: absolute;
     top: 0;
     left: 0;

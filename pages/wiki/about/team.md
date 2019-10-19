@@ -1,15 +1,13 @@
 ---
 title: Team
-preamble: iGEM Stockholm 2019
 permalink: /wiki/team/
 tags: wiki
+cover: /static/img/wiki/about/team-01.jpg
 ---
 
-Our project was made by this team of fantastic people from 13 different nationalities with diverse backgrounds, educations and perspectives. We went from strangers to the creators of Esther in the span of 9 months, but most importantly we all became great friends for life!
+> Esther was invented and made possible by colourful and fantastic team of people. With 🇪🇸🇬🇷🇸🇪🇰🇿🇮🇳🇮🇩🇳🇱🇫🇷🇱🇹🇮🇩🇦🇷🇮🇳🇨🇳🇩🇪 diverse backgrounds and perspectives we went from ambitious strangers to dedicated creators, and most importantly, became great friends.
 
-{% image "/static/img/team.jpg"  %}
-
-<!-- ## Superstars -->
+## Team members
 
 {% div "members" %}
 
@@ -17,7 +15,7 @@ Our project was made by this team of fantastic people from 13 different national
 
 {% div "member" %}
 
-![]({{member.image}})
+<img src="{{member.image}}">
 
 {% div "member-data" %}
 
@@ -35,7 +33,6 @@ Our project was made by this team of fantastic people from 13 different national
 
 {% endfor %}
 
-{% enddiv "" %}
+{% enddiv %}
 
-<!-- {% image "https://scontent-prg1-1.cdninstagram.com/vp/6ebcaba48fbcbee67acfecd93cafeffb/5E20F236/t51.2885-15/e15/70795655_488994548602356_1345699702879015763_n.jpg?_nc_ht=scontent-prg1-1.cdninstagram.com&_nc_cat=100"  %}
- -->
+![](/static/img/wiki/about/team-02.jpg)

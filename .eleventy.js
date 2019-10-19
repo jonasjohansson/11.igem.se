@@ -29,7 +29,12 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addShortcode('hero', function(path, content) {
-		return `<div class="cover"><video src="${path}" width="960" height="540" muted autoplay loop playsinline></video>${content}</div>`;
+		var isVideo = path.match(/.(mp4|webm|ogv)/i) ? true : false;
+		if (isVideo) {
+			return `<div class="cover video">${content}<video src="${path}" width="960" height="540" muted autoplay loop playsinline></video></div>`;
+		} else {
+			return `<div class="cover image">${content}<img src="${path}"></div>`;
+		}
 	});
 
 	eleventyConfig.addFilter('wrap', function(string) {
