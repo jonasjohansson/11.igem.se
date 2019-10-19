@@ -69,14 +69,14 @@ h1 {
     text-align: center;
     padding: 10rem 0;
     line-height: 1;
-    /*background: linear-gradient(-45deg, var(--color-start), var(--color-end));*/
-    /*background-size: 300% 300%;*/
-    /*animation: gradient 20s ease-in-out infinite;*/
-    /* -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;*/
+    background: linear-gradient(-45deg, var(--pink), blue);
+    background-size: 300% 300%;
+    animation: gradient 20s ease-in-out infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
-/*@keyframes gradient {
+@keyframes gradient {
     0% {
         background-position: 0% 50%;
     }
@@ -86,7 +86,7 @@ h1 {
     100% {
         background-position: 0% 50%;
     }
-}*/
+}
 
 h2 {
     font-weight: inherit;
@@ -156,7 +156,8 @@ article {
     height: 70px;
     font-size: 90%;
     text-align: center;
-    background-color: var(--gray);
+    background-color: var(--blue);
+    color: var(--light);
     transition: height 300ms ease-in-out;
     overflow: hidden;
     will-change: height;
