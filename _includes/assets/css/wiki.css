@@ -141,7 +141,9 @@ article {
     background-color: white;
     position: relative;
     z-index: 100;
-    /*transform: translate(0, -270px);*/
+    transform-style: preserve-3d;
+    transition: transform 200ms ease-in-out;
+    transform: translate(0, -270px);
 }
 
 /* header */
@@ -153,7 +155,6 @@ article {
     top: 0;
     left: 0;
     right: 0;
-    height: 70px;
     font-size: 90%;
     text-align: center;
     background-color: var(--blue);
@@ -173,12 +174,12 @@ header {
 
 #header:hover {
     /*height: auto;*/
-    height: 14rem;
-    max-height: 100%;
+    /*height: 14rem;*/
+    /*max-height: 100%;*/
 }
 
 #header:hover ~ article {
-    /*transform: translate(0, 0);*/
+    transform: translate(0, 0);
 }
 
 #header:not(:hover) ~ article {
