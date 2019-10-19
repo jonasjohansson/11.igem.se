@@ -307,6 +307,10 @@ aside nav a.h3 div {
     text-indent: 1rem;
 }
 
+aside nav a.h4 div {
+    text-indent: 2rem;
+}
+
 /* TABLES */
 
 tbody tr:nth-child(odd) {
