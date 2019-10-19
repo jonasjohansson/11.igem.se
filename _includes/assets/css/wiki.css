@@ -11,6 +11,17 @@
     display: none;
 }
 
+article > *:last-child,
+article > *:last-child > *:last-child {
+    margin-bottom:0;
+}
+
+article > *:last-child > *:last-child img {
+    padding:0;
+}
+
+
+
 /* */
 
 html {
@@ -397,10 +408,15 @@ nav > div:not(:hover) > div {
     opacity: 0.8;
 }
 
+#team img {
+    border-radius:5px;
+}
+
 /* SMALLER */
 
 @media (max-width: 600px) {
-    #team h3 {
+    #team h3,
+    #team ul{
         text-align: center;
     }
 }
