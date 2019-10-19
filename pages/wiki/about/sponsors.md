@@ -21,43 +21,43 @@ We want to thank Karolinska Institutet for their very generous support. It was a
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#17f870cd62de4603bb04ff6574104648)
 
-KI Innovations is an incubator and a wholly-owned subsidiary of Karolinska Institutet's holding company. KI innovations evaluate and verifies promising projects and encourage business growth by offering education, professional networks, financing, and expertise (3).
+KI Innovations is an incubator and a wholly-owned subsidiary of Karolinska Institutet's holding company. KI innovations evaluate and verifies promising projects and encourage business growth by offering education, professional networks, financing, and expertise. (3)
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#978eddc3e64f458685bb40831ad2afbe)
 
-Drivhuset Stockholm helps entrepreneurs to develop their skills and to embrace their innovative ideas. Through a structured process developed in collaboration with Chalmers School of Entrepreneurship, Drivhuset applies the business development method Loopa. [4]
+Drivhuset Stockholm helps entrepreneurs to develop their skills and to embrace their innovative ideas. Through a structured process developed in collaboration with Chalmers School of Entrepreneurship, Drivhuset applies the business development method Loopa. (4)
 
 ## Corporate Sponsors
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#e516dc9be5b14f37a107e96b63d33769)
 
-This year, we were happy to initiate a constructive and productive partnership with the Swedish company Recipharm. Recipharm was established in Sweden in 1995 and has since grown to become a leading Contract Development and Manufacturing Organisation (CDMO). For over 20 years, they have focused on supporting pharmaceutical companies in taking their products from early development through to commercial manufacturing. [5] We had the pleasure of being invited to the Recipharm Environmental International Award. This award acknowledges the best environmental practice or innovation within the pharmaceutical and health care industries or academia.
+This year, we were happy to initiate a constructive and productive partnership with the Swedish company Recipharm. Recipharm was established in Sweden in 1995 and has since grown to become a leading Contract Development and Manufacturing Organisation (CDMO). For over 20 years, they have focused on supporting pharmaceutical companies in taking their products from early development through to commercial manufacturing. (5) We had the pleasure of being invited to the Recipharm Environmental International Award. This award acknowledges the best environmental practice or innovation within the pharmaceutical and health care industries or academia.
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#5704a0330e05480a9c866efa2ed1f2ff)
 
-**Bio-Techne** is an American holding company that empowers researchers in Life Sciences and Clinical Diagnostics by providing high-quality reagents, instruments, custom manufacturing, and testing services. [6] They have offered us free products from their brands R&D Systems and Novus Biological.
+**Bio-Techne** is an American holding company that empowers researchers in Life Sciences and Clinical Diagnostics by providing high-quality reagents, instruments, custom manufacturing, and testing services. (6) They have offered us free products from their brands R&D Systems and Novus Biological.
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#a25995a5b1d94c679b2e85402522586e)
 
-**SnapGene** offers cost-efficient and easy-to-use software to meet the needs of molecular biologists and enables natural planning of their cloning procedures [7]. We were happy to receive free licenses to their software for our whole team.
+**SnapGene** offers cost-efficient and easy-to-use software to meet the needs of molecular biologists and enables natural planning of their cloning procedures. (7) We were happy to receive free licenses to their software for our whole team.
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#7e5b33ca7a204ad6ba133a14627b9176)
 
-Microsynth, founded in 1989, is a leading European company in the area of nucleic acid synthesis, sequencing & analysis. [8]
+Microsynth, founded in 1989, is a leading European company in the area of nucleic acid synthesis, sequencing & analysis. (8)
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#ca02b3a9fe7a4b6caa7e468c92ab71f5)
 
-**Thermo Fisher Scientific** is an American biotechnology product development company. They help their customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market, and increase laboratory productivity. [9]
+**Thermo Fisher Scientific** is an American biotechnology product development company. They help their customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market, and increase laboratory productivity. (9)
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#96b41abd7dfe46d38b56d48e4d0a91e7)
 
-New England Biolabs is a recognized world leader company in the discovery and production of enzymes for molecular biology applications. [10]
+New England Biolabs is a recognized world leader company in the discovery and production of enzymes for molecular biology applications. (10)
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#ac8dccd8f5b349b8abb6e7943b739379)
 
-Promega, with a portfolio of more than 4,000 products, is a global leader in innovative solutions and technical support to scientists [11].
+Promega, with a portfolio of more than 4,000 products, is a global leader in innovative solutions and technical support to scientists. (11)
 
-## Private donors (2)
+## Private donors
 
 [](https://www.notion.so/85deaedb23464f238521ad27be038c31#5b988a9cb3634e9886b8dc6557147490)
 
