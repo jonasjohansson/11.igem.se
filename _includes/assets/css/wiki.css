@@ -196,7 +196,7 @@ footer #logos img {
     top: 0;
     left: 0;
     right: 0;
-    /*font-size: 80%;*/
+    font-size: 80%;
     text-align: center;
 }
 
@@ -215,13 +215,17 @@ header > * {
 header > * {
     float: left;
     width: 20%;
-    padding: 1rem;
+    padding: 1rem 0.5rem;
     overflow: hidden;
     background-color: white;
 }
 
 header nav {
     margin-top: 1rem;
+}
+
+header div {
+    /*text-align: center;*/
 }
 
 header div:hover {
