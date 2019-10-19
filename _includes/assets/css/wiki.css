@@ -269,8 +269,9 @@ aside:hover > nav div {
 }
 
 aside:hover {
-    background-color: #eee;
+    background-color: #f6937e;
     opacity: 1;
+    color: var(--light);
 }
 
 aside nav {
