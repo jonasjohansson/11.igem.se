@@ -41,6 +41,10 @@ body {
     font-size: 18px;
 }
 
+article {
+    margin: 0 auto;
+}
+
 /*body:not(#home) article > *:not(figure) {
     max-width: 110ex;
     width: 80vw;
@@ -80,8 +84,8 @@ p {
 }
 
 p img {
-    width: 120%;
-    margin-left: -10%;
+    width: 130%;
+    margin-left: -15%;
     /*background-color: #fafafa;*/
     padding: 1rem;
     border-radius: 1rem;

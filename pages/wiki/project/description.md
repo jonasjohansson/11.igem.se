@@ -27,7 +27,7 @@ When administered, phages disperse in our body, where they encounter many barrie
 
 Esther gives a spin to traditional phage therapy! Instead of using conventional lytic phages, we propose the use of temperate phages, that will remain dormant inside a vehicle bacteria. This non-pathogenic bacteria will be ingested by the patient, traveling throughout the gastrointestinal tract until it has reached the site of infection. Only then will the phages turn lytic and will be released right where the pathogenic bacteria are. One of the main issues with temperate phages is the chance of becoming lysogenic after infecting the target bacteria and thus contributing to horizontal gene transfer. We tackled this issue by using genetically modified phages that lack the C protein gene, required to keep them in the lysogenic state. Instead, C will be provided by our Switch plasmid. By doing so, the phage will only be lysogenic in the vehicle bacteria, as any other target bacteria would have the gene required for this state.
 
-![](/static/img/wiki/project/description-02.png)
+<!-- ![](/static/img/wiki/project/description-02.png) -->
 
 Before we go any further, it is important to understand the life cycles of a temperate phage. This includes a lytic phase, most commonly used in phage therapy; and a lysogenic phase. Each type comes with some distinct features.
 
