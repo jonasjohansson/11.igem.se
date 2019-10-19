@@ -49,15 +49,6 @@
       "emoji": "🇮🇳"
     },
     {
-      "name": "Roudlotul Jannah",
-      "image": "/static/img/wiki/about/team-jannah.jpg",
-      "role": "Project development and Human Practices",
-      "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
-      "program": "MSc. Molecular Techniques in Life Sciences",
-      "motivation": "Jannah chose to join iGEM again because she cannot move on from it. The journey of iGEM was incredibly amazing. She didn't want to miss it this year!",
-      "emoji": "🇮🇩"
-    },
-    {
       "name": "Jonas Johansson",
       "image": "/static/img/wiki/about/team-jonas.jpg",
       "role": "Media and Design, Wiki",
@@ -113,7 +104,7 @@
     },
     {
       "name": "Roudlotul Jannah",
-      "image": "/static/img/wiki/about/team-roudlotul.jpg",
+      "image": "/static/img/wiki/about/team-jannah.jpg",
       "role": "Project development and Human Practices",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
