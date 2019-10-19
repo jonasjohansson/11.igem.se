@@ -169,7 +169,7 @@ article {
 
 header {
     width: 100%;
-    width: calc(80ex + 2rem);
+    max-width: calc(80ex + 2rem);
     margin: 0 auto;
     display: inline-block;
     text-align: left;
