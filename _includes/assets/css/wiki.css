@@ -1,8 +1,8 @@
 :root {
     --light: #fff;
     --dark: #0c0c0c;
-    --blue: #000; /*#1c2342;*/
-    --pink: #fff; /*#c71881;*/
+    --color-start: #1c2342; /*#1c2342;*/
+    --color-end: #c71881; /*#c71881;*/
 }
 
 /* home */
@@ -10,17 +10,6 @@
 #esther article section:first-child {
     display: none;
 }
-
-/*article > *:last-child,
-article > *:last-child > *:last-child {
-    margin-bottom:0;
-}
-
-article > *:last-child > *:last-child img {
-    padding:0;
-}*/
-
-/* */
 
 html {
     position: absolute;
@@ -41,32 +30,11 @@ body {
     font-size: 18px;
 }
 
-article {
-    margin: 0 auto;
-}
-
-/*body:not(#home) article > *:not(figure) {
-    max-width: 110ex;
-    width: 80vw;
-}
-*/
-
-h3:before {
-    content: '';
-    display: block;
-    padding-top: 100px;
-    position: absolute;
-}
-
 main:after {
     content: '';
     display: block;
     clear: both;
 }
-
-/*body:not(#home) article > *:not(figure) {
-    max-width: 91ex !important;
-}*/
 
 /* ARTICLE */
 
@@ -105,10 +73,24 @@ h1 {
     text-align: center;
     padding: 10rem 0;
     line-height: 1;
-    /*background: -webkit-linear-gradient(45deg, red, blue);
-    -webkit-background-clip: text;
+    /*background: linear-gradient(-45deg, var(--color-start), var(--color-end));*/
+    /*background-size: 300% 300%;*/
+    /*animation: gradient 20s ease-in-out infinite;*/
+    /* -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;*/
 }
+
+/*@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}*/
 
 h2 {
     font-weight: inherit;
@@ -146,47 +128,15 @@ p.image {
     /*display: none;*/
 }
 
-/* FOOTER */
+/* article */
 
-footer {
-    width: 100%;
-    padding: 2rem;
-    background-color: var(--blue);
+article {
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+    z-index: 100;
+    transition: transform 300ms ease-in-out;
 }
-
-#social {
-    float: left;
-    width: 50%;
-    max-width: 500px;
-    display: table;
-}
-
-footer:after {
-    clear: both;
-    content: '';
-    display: block;
-}
-
-#logos {
-    float: right;
-    width: 50%;
-    max-width: 500px;
-    display: table;
-}
-
-#social > *,
-#logos > * {
-    vertical-align: middle;
-    padding: 0 0.5rem;
-    width: calc(20% - 1rem);
-    width: 20%;
-    display: inline-table;
-    text-align: center;
-}
-/*
-footer #logos img {
-    width: 100px;
-}*/
 
 /* header */
 
@@ -198,6 +148,7 @@ footer #logos img {
     right: 0;
     font-size: 80%;
     text-align: center;
+    background-color: #fafafa;
 }
 
 header {
@@ -207,9 +158,16 @@ header {
     text-align: left;
 }
 
+#header:hover ~ article {
+    transform: translate(0, 200px);
+}
+
+#header:not(:hover) ~ article {
+}
+
 #header-faux,
 header > * {
-    height: 3rem;
+    /*height: 3rem;*/
 }
 
 header > * {
@@ -217,11 +175,11 @@ header > * {
     width: 20%;
     padding: 1rem 0.5rem;
     overflow: hidden;
-    background-color: white;
+    /*background-color: white;*/
 }
 
 header nav {
-    margin-top: 1rem;
+    /*margin-top: 1rem;*/
 }
 
 header div {
@@ -233,7 +191,7 @@ header div:hover {
 }
 
 header div:not(:hover) nav {
-    display: none;
+    /*display: none;*/
 }
 
 header span {
@@ -264,6 +222,7 @@ header .logo img:hover {
 /* aside */
 
 aside {
+    z-index: 110;
     position: fixed !important;
     padding: 1rem;
     position: relative;
@@ -279,10 +238,11 @@ aside {
 aside:hover > nav div {
     opacity: 1;
     transform: translate(0, 0);
+    padding-left: 0.5rem;
 }
 
 aside:hover {
-    background-color: white;
+    background-color: #eee;
 }
 
 aside nav {
@@ -296,11 +256,11 @@ aside nav a:not(:last-of-type):before {
 
 aside nav div {
     display: inline-block;
-    will-change: opacity;
+    /*will-change: opacity;*/
     opacity: 0;
     position: relative;
     transform: translate(-10px, 0);
-    transition: all 300ms ease-in-out;
+    transition: all 200ms ease-in-out;
 }
 
 aside nav a.h2 div {
@@ -391,6 +351,43 @@ th {
     height: 100%;
 }
 
+/* footer */
+
+footer {
+    width: 100%;
+    padding: 2rem;
+    background-color: var(--blue);
+}
+
+#social {
+    float: left;
+    width: 50%;
+    max-width: 500px;
+    display: table;
+}
+
+footer:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+#logos {
+    float: right;
+    width: 50%;
+    max-width: 500px;
+    display: table;
+}
+
+#social > *,
+#logos > * {
+    vertical-align: middle;
+    padding: 0 0.5rem;
+    width: calc(20% - 1rem);
+    width: 20%;
+    display: inline-table;
+    text-align: center;
+}
 /* TEAM */
 
 #team ul {

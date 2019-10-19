@@ -81,6 +81,28 @@ tags: wiki
 
 **Patients of the Eliava Phage Therapy Center in Georgia**. They shared their stories with us and helped us understand the necessity of phage therapy as a treatment.
 
+### Educational Documentary
+
+We would like to thank all the speakers that accepted to participate in our documentary. We were very happy to have all these experts on board as we know the importance of education and legacy.
+
+**Anders Nilson**. Associate Professor at Stockholm University.
+
+**Christian Giske**. Professor, senior physician and research group leader at Karolinska Institutet. He leads the Antimicrobial Resistance (AMR) team at the Department of Laboratory Medicine.
+
+**Anni-Maria Örmälä-Odegrip**. Postdoctoral researcher. She is part of the Antimicrobial Resistance (AMR) team headed by Christian Giske.
+
+**Pranav Johri**. Founder of Vitalis Phage Therapy (India) which partners with the Eliava Phage Therapy Center to help people get phage therapy when antibiotics fail.
+
+**Bengt Mattson**. Policy Manager at the Swedish Pharma Association.
+
+**Enrico Baraldi**. Project Leader at Platinea cooperative and Professor of Industrial Engineering & Management at Uppsala University.
+
+**Angel Ji**. She accepted to be the narrator of the documentary.
+
+**Soumya Rajpal**. She supported and gave guidance to the team in the making of the documentary.
+
+**Artika Rachmi Farmita, Rahul Kanjilimadom, Adrian Benigno Latupeirissa & Stanley Setiawan.** They provided us with all the audio and video equipment needed for the making of the documentary.
+
 ### Documentary Speakers
 
 Anders Nilson(researcher, SU), Christian Giske ( researcher, KI), Anni-Maria Örmälä-Odegrip (postdoc, KI), Pranav Johri( founder, Vitalis phage therapy, India), Bengt Mattson (policy expert, Swedish Pharma Association), Enrico Baraldi( director, Platinea cooperative), Narrator- Angel Ji (Canada), Supporter- Soumya Rajpal( India), Equipments - Artika Rachmi Farmita, Rahul Kanjilimadom, Adrian Benigno Latupeirissa, Stanley Setiawan

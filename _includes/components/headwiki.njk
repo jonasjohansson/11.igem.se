@@ -8,7 +8,12 @@
     <script src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css"  type="text/css" rel="stylesheet">
-    {% set css %} {% include "assets/css/template.css" %} {% include "assets/css/style.css" %} {% include "assets/css/wiki.css" %} {% include "assets/css/svg.css" %} {% endset %}
+    {% set css %}
+        {% include "assets/css/template.css" %}
+        {% include "assets/css/style.css" %}
+        {% include "assets/css/wiki.css" %}
+        {% include "assets/css/svg.css" %}
+    {% endset %}
     <style>{{ css | cssmin | safe }}</style>
 </head>
 <div id="header">
