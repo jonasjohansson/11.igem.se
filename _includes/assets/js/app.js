@@ -64,8 +64,12 @@ function createSubNav() {
 		nav.parentNode.parentNode.removeChild(nav.parentNode);
 		return;
 	}
-	console.log(nav);
 	var count = 0;
+
+	var link = document.createElement('a');
+	link.href = '#' + document.documentElement.id;
+	link.innerHTML = '↑' + ' <div><span>To the top</span></div>';
+	nav.appendChild(link);
 
 	for (var h of allH) {
 		if (h.id.length !== 0) {
@@ -77,9 +81,4 @@ function createSubNav() {
 			nav.appendChild(link);
 		}
 	}
-
-	var link = document.createElement('a');
-	link.href = '#' + document.documentElement.id;
-	link.innerHTML = '↑' + ' <div><span>To the top</span></div>';
-	nav.appendChild(link);
 }
