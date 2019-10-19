@@ -68,7 +68,9 @@ main:after {
     max-width: 91ex !important;
 }*/
 
-blockquote {
+/* ARTICLE */
+
+p a blockquote {
     padding: 0;
     /*margin: 0;*/
     padding-bottom: 5rem;

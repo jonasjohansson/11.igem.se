@@ -33,7 +33,7 @@ The switch between the lytic and lysogenic phase in bacteriophage P2 is controll
 
 {% image "/static/img/wiki/project/model-02.png", "Figure 2: An illustration of the transcriptional switch. We see the C protein repress both the Pc and Pe promoters as a dimer. We see Cox repress both promoters as a tetramer." %}
 
-The product we wish to create is a stable bacterial carrier of the P2 phage and a switch plasmid, which is inducing the lysogenic (passive, inactive) phase in the phage. Thus, the initial state of the product is a carrier of the genetic material of the P2 phage that can survive within the digestion tract of humans. When the carrier reaches the pathogenic target, a signal within the carrier is triggered, and the switch induces the lytic (offensive, active) phase in the phage. At this point, there is a high concentration of phages near the target, which in turn should ward off the infection as a whole. The plan is to use two different plasmids to simulate different parts of the system. [The first plasmid is the switch plasmid, and the second plasmid is the model plasmid](/wiki/design).
+The product we wish to create is a stable bacterial carrier of the P2 phage and a switch plasmid, which is inducing the lysogenic (passive, inactive) phase in the phage. Thus, the initial state of the product is a carrier of the genetic material of the P2 phage that can survive within the digestion tract of humans. When the carrier reaches the pathogenic target, a signal within the carrier is triggered, and the switch induces the lytic (offensive, active) phase in the phage. At this point, there is a high concentration of phages near the target, which in turn should ward off the infection as a whole. The plan is to use two different plasmids to simulate different parts of the system. [The first plasmid is the switch plasmid, and the second plasmid is the model plasmid](/wiki/design/).
 
 ### Deterministic and stochastic modeling
 
@@ -41,11 +41,7 @@ To characterize and better understand systems as the ones described above, one c
 
 ![](/static/img/wiki/project/model-03.png)
 
-[Model development](https://www.notion.so/ed7982c9b21e494e9791de03e5bcfe46)
-
-[Model simulation](https://www.notion.so/0495ece128e54c6eba945ca4b9c8de2f)
-
-[Model analysis](https://www.notion.so/b1cc71f9ea1a40a2b45567cedb0d9362)
+[Model development](/wiki/model-development/) [Model simulation](/wiki/model-simulation/) [Model analysis](/wiki/model-analysis/)
 
 ## Conclusions
 
