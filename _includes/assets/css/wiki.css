@@ -1,8 +1,8 @@
 :root {
     --light: #fff;
     --dark: #0c0c0c;
-    --blue: #1c2342;
-    --pink: #c71881;
+    --blue: #000; #1c2342;
+    --pink: #fff; #c71881;
 }
 
 /* home */
