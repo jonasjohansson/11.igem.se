@@ -28,12 +28,16 @@ module.exports = function(eleventyConfig) {
 		return `<figure class="image"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
 	});
 
+	eleventyConfig.addPairedShortcode('slideshow', function(content) {
+		return `<div class="slideshow">${content}</div>`;
+	});
+
 	eleventyConfig.addShortcode('hero', function(path, content = '') {
 		var isVideo = path.match(/.(mp4|webm|ogv)/i) ? true : false;
 		if (isVideo) {
-			return `<div class="cover video">${content}<video src="${path}" width="960" height="540" muted autoplay loop playsinline></video></div>`;
+			return `<div class="cover video"><video src="${path}" width="960" height="540" muted autoplay loop playsinline></video>${content}</div>`;
 		} else {
-			return `<div class="cover image">${content}<img src="${path}"></div>`;
+			return `<div class="cover image"><img src="${path}">${content}</div>`;
 		}
 	});
 

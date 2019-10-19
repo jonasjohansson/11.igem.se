@@ -11,8 +11,13 @@ var $loadingBar = document.querySelector('.loading-bar .bar'),
 	$aside = document.querySelector('aside');
 
 function init() {
-	document.querySelectorAll('p img').forEach(img => {
-		img.parentNode.classList.add('image');
+	document.querySelectorAll('section p').forEach(p => {
+		imgs = p.querySelectorAll('img');
+		if (imgs.length === 1) {
+			imgs[0].parentNode.classList.add('image');
+		} else if (imgs.length > 1) {
+			p.classList.add('slideshow');
+		}
 	});
 
 	document.querySelectorAll('p a').forEach(a => {
@@ -43,7 +48,7 @@ function createInternalNavigation() {
 	var $headings = document.querySelectorAll('section > h1, section > h2, section > h3, section > h4, .member h3');
 	var $nav = $aside.querySelector('nav');
 
-	if ($headings.length < 3) {
+	if ($headings.length < 4) {
 		$aside.parentNode.removeChild($aside);
 		return;
 	}

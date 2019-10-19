@@ -23,7 +23,7 @@ An interactive workshop, organized as part of the Art Exhibition, where particip
 
 When speaking about DNA, we have found that the idea of it is too abstract. In the lab-on-wheels session, we invited visitors to isolate DNA and hold it in their hands. We also demonstrated general lab equipment such as pipettes and microtubes so they could experience the lab atmosphere. The strawberries were crushed inside a plastic bag together with a mixture of water, salt, and dish soap. The mixture was finally filtered through a coffee filter to retrieve the DNA in the strawberry juice. The visitors could see their isolated DNA inside the microtube after ethanol addition.
 
-![](/static/img/wiki/public_engagement-lab_01.png)
+![](/static/img/wiki/public_engagement-lab_01.png) ![](/static/img/wiki/public_engagement-lab_01.png)
 
 ## Promega Takeover
 

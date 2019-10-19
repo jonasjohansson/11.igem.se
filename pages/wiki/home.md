@@ -3,8 +3,8 @@ title: esther
 preamble:
 permalink: /wiki/
 tags: wiki
-cover: /static/img/teaser.mp4
-cover_content: <img src="/_includes/assets/esther.svg" />
+cover: /static/img/wiki/trailer.mp4
+cover_content: <img src="/static/img/logo/esther.svg" />
 ---
 
 ## Esther

@@ -1,6 +1,7 @@
 :root {
     --light: #fff;
     --dark: #0c0c0c;
+    --gray: #fafafa;
     --color-start: #1c2342; /*#1c2342;*/
     --color-end: #c71881; /*#c71881;*/
 }
@@ -16,7 +17,7 @@ html {
     top: 0;
     left: 0;
     right: 0;
-    /*overflow-x: hidden;*/
+    overflow-x: hidden;
     color: var(--dark);
     background-color: var(--light);
     /*scroll-behavior: smooth;*/
@@ -54,12 +55,7 @@ p {
 }
 
 p img {
-    width: 130%;
-    margin-left: -15%;
-    /*background-color: #fafafa;*/
-    padding: 1rem;
-    border-radius: 1rem;
-    box-sizing: border-box;
+    width: 100%;
 }
 
 /*p a {
@@ -126,6 +122,19 @@ h4 {
 
 p.image {
     /*display: none;*/
+    width: 125%;
+    margin-left: -12.5%;
+    /*background-color: #fafafa;*/
+    /*padding: 2rem;*/
+}
+
+p.slideshow {
+    display: flex;
+    overflow-x: scroll;
+}
+
+p.slideshow img:not(:first-child) {
+    margin-left: 1rem;
 }
 
 /* article */
@@ -135,34 +144,50 @@ article {
     background-color: white;
     position: relative;
     z-index: 100;
-    transition: transform 300ms ease-in-out;
+    /*transform: translate(0, -270px);*/
 }
 
 /* header */
 
 #header {
     z-index: 100;
-    position: fixed;
+    /*position: fixed;*/
+    position: sticky;
     top: 0;
     left: 0;
     right: 0;
-    font-size: 80%;
+    height: 70px;
+    font-size: 90%;
     text-align: center;
-    background-color: #fafafa;
+    background-color: var(--gray);
+    transition: height 300ms ease-in-out;
+    overflow: hidden;
+    will-change: height;
 }
 
 header {
     width: 100%;
+    width: calc(80ex + 2rem);
     margin: 0 auto;
     display: inline-block;
     text-align: left;
 }
 
+#header:hover {
+    /*height: auto;*/
+    height: 14rem;
+    max-height: 100%;
+}
+
 #header:hover ~ article {
-    transform: translate(0, 200px);
+    /*transform: translate(0, 0);*/
 }
 
 #header:not(:hover) ~ article {
+}
+
+#header-faux {
+    display: none;
 }
 
 #header-faux,
@@ -172,7 +197,7 @@ header > * {
 
 header > * {
     float: left;
-    width: 20%;
+    width: 25%;
     padding: 1rem 0.5rem;
     overflow: hidden;
     /*background-color: white;*/
@@ -199,7 +224,10 @@ header span {
     margin-bottom: 1rem;
     font-weight: 400;
     text-transform: uppercase;
-    opacity: 0.6;
+    opacity: 0.8;
+    /*white-space: nowrap;*/
+    /*text-overflow:ellipsis;*/
+    white-space: pre-line;
 }
 
 /* logo */
@@ -232,17 +260,19 @@ aside {
     font-size: 90%;
     white-space: nowrap;
     overflow-y: scroll;
-    transition: background-color 300ms ease-in-out;
+    /*transition: background-color 300ms ease-in-out;*/
+    opacity: 0.5;
 }
 
 aside:hover > nav div {
     opacity: 1;
-    transform: translate(0, 0);
+    /*transform: translate(0, 0);*/
     padding-left: 0.5rem;
 }
 
 aside:hover {
     background-color: #eee;
+    opacity: 1;
 }
 
 aside nav {
@@ -259,8 +289,8 @@ aside nav div {
     /*will-change: opacity;*/
     opacity: 0;
     position: relative;
-    transform: translate(-10px, 0);
-    transition: all 200ms ease-in-out;
+    /*transform: translate(-10px, 0);*/
+    /*transition: all 200ms ease-in-out;*/
 }
 
 aside nav a.h2 div {
@@ -300,11 +330,11 @@ th {
 
 .loading-bar {
     position: fixed;
-    top: 3rem;
+    top: 0;
     left: 0;
     width: 100%;
     height: 0.5rem;
-    z-index: 90;
+    z-index: 110;
     /*pointer-events: none;*/
     /*mix-blend-mode: difference;*/
     /*opacity: 0;*/
@@ -315,33 +345,46 @@ th {
     top: 0;
     left: 0;
     width: 0;
-    background-image: linear-gradient(45deg, var(--blue), var(--pink));
+    background-image: linear-gradient(45deg, #1c2342, #c71881);
     height: 100%;
 }
 
 /* LOGO */
 
-.cover {
-    /*filter: saturate(0) contrast(1.5);*/
+#esther .cover video {
+    filter: saturate(0.5) contrast(1.25);
+}
+
+#esther .cover:before {
+    display: block;
+    height: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: blue;
+    opacity: 0.5;
+    mix-blend-mode: color;
+    content: '';
+}
+
+#esther .cover img {
+    position: static;
+    width: 40vw;
+    object-fit: contain;
+    max-height: 20vh;
+    mix-blend-mode: exclusion;
 }
 
 /* COVER */
 
 .cover {
     position: relative;
-    height: 80vh;
+    height: 50vh;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.cover ixmg {
-    position: static;
-    width: 40vw;
-    max-height: 20vh;
-    mix-blend-mode: exclusion;
-}
 .cover > * {
     position: absolute;
     top: 0;

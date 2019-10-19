@@ -43,10 +43,10 @@ nav {
 	overflow-x: scroll;
 }
 
-nav div {
+/*nav div {
 	white-space: nowrap;
 }
-
+*/
 .logo img {
 	height: 2rem;
 }
