@@ -1,33 +1,27 @@
-#svg {
-    pointer-events: none;
-}
-
 #svg svg {
     position: absolute;
     width: 15%;
 }
 
-svg path,
-.path {
-    animation: dash 2s ease-in-out forwards;
+path {
+    animation: dash 3000ms ease-in-out forwards;
+    cursor: pointer;
 }
 
 svg {
     opacity: 1;
-    transition: opacity 600ms ease-in;
+    filter: blur(0);
+    will-change: opacity, filter;
+    transition: all 600ms ease-in;
 }
 
-path {
-    /*stroke: white !important;*/
-    /*mix-blend-mode: difference;*/
+svg.fade {
+    opacity: 0;
+    filter: blur(10px);
 }
 
 @keyframes dash {
     to {
         stroke-dashoffset: 0;
     }
-}
-
-svg.fade {
-    opacity: 0;
 }
