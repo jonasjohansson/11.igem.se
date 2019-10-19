@@ -5,7 +5,9 @@ permalink: /wiki/model/
 tags: wiki
 ---
 
-> Bacteriophage P2 is a typical example of a system exhibiting bistable behavior. In our project, we aim to control this behavior by using a plasmid to switch the phage from one state (lysogenic) to another (lytic). This requires fine-tuning of parameters to make the switch as robust as possible. Here, we used computer modeling to derive a model and simulate a P2 genetic switch to understand better its bistable properties, which we are manipulating. We also simulate our plasmid systems and estimate their sensitivity to different parameters. In this way, we inform the project design and provide a framework for parameter estimation once the experimental results are available.
+## Abstract
+
+Bacteriophage P2 is a typical example of a system exhibiting bistable behavior. In our project, we aim to control this behavior by using a plasmid to switch the phage from one state (lysogenic) to another (lytic). This requires fine-tuning of parameters to make the switch as robust as possible. Here, we used computer modeling to derive a model and simulate a P2 genetic switch to understand better its bistable properties, which we are manipulating. We also simulate our plasmid systems and estimate their sensitivity to different parameters. In this way, we inform the project design and provide a framework for parameter estimation once the experimental results are available.
 
 ## Key achievements
 
