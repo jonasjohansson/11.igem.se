@@ -21,6 +21,8 @@ function init() {
 		}
 	});
 
+	// $article.style.transform = `translate(0,0)`;
+
 	document.querySelectorAll('p a').forEach(a => {
 		if (a.protocol !== window.location.protocol && a.host !== window.location.host) {
 			a.setAttribute('target', '_blank');
