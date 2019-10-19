@@ -25,6 +25,12 @@ Did you know that the term “memetics” was first proposed by evolutionary bio
 
 In beautiful June, as studies end and lab work begins, the iGEM DTU Copenhagen team hosted the Nordic iGEM conference NiC. All Nordic teams that took part were allowed to pitch their project, practice being on stage, and receive feedback from their peers. This was one of the first opportunities to present to a broad audience of scientific minds. Exciting! Beyond the pitch, there was also a poster exhibition and presentation, and apart from the professional feedback we received, we were able to make friends, some of which turned into strong collaborations like the ones with Lund for Synthethics and Uppsala for Bench to Bedside event.
 
+## Wiki Guide
+
+{% div 'sub' %} July—<br>iGEM US AFRL CarrolHS {% enddiv %}
+
+Working with the iGEM wiki is no trivial task. We carried out workshops internally, which resulted in articles detailing the process, later shared with the community. Another team took it further and [made their own wiki for the wiki](https://2019.igem.org/Team:US_AFRL_CarrollHS/WikiGuide). We are happy to have had the opportunity to collaborate and do our best to help others learning code!
+
 ## Biohackathon
 
 {% div 'sub' %} 2 Aug<br>iGEM Vilnius 🙏 {% enddiv %}
@@ -47,20 +53,16 @@ In a collaboration between Stockholm and Lund we began the international initati
 
 We collaborated with the Technion team from Israel, where we were invited to join the One Minute Video Challenge. The goal of this collaboration was to reach out to the general public, budding science communities, and fellow iGEM teams to expose them to various social problems that each team was working with this year. Apart from building an excellent iGEM network, this was a fun opportunity to inspire our future iGEM teams with the fantastic potential projects they could take forward and for ourselves to learn the skill of the elevator pitch.
 
+## Fast Diagnosis
+
+{% div 'sub' %} Sep—<br>iGEM TU Eindhoven {% enddiv %}
+
+We decided to start a collaboration with iGEM TU Eindhoven, who have been developing a fast diagnosis system. Their system uses lytic phages to indirectly detect which bacteria are causing the infection. This system presents a double win to us, because not only it will tell us what bacteria is causing the infection, it will also show us what phage can be used in Esther for effective treatment. We realized that our phages could be integrated into their system, as we have engineered them to be obligated lytic. In the future, we would like to design a library of phages that can be ready for use. These phages will be used for diagnosis, and once identified which phage is amplified in the patient sample, it will be prepared to be administered to the patient using Esther. Thus, the combination of Esther with Eindhoven’s diagnosis system will cut down the action time and make the process more simplistic, both to the patient and the doctor.
+
 ## Bench to Bedside
 
 {% div 'sub' %} 18 Sep<br>iGEM Uppsala 👌{% enddiv %}
 
 The expression "Bench to bedside" literally means the translation of clinical research and explorations into commercial products for human welfare. With this vision, we collaborated with iGEM Uppsala to organize a bio-entrepreneurship event at Karolinska Institutet to promote entrepreneurship in iGEM. The inspiring talk by our keynote speaker, Anna Svantes, a business developer at Organofuel Sweden AB and a prototyping workshop facilitated by Cecilie Hilmer, a Design Thinking coach at Stockholm School of Entrepreneurship and Karolinska Institutet resulted in gaining valuable insights into the realistic. Some of these were seeking synergies between the two different projects to promote a sense of greater good and building basic prototypes that could be potentially used as a framework for a prospective minimum viable product.
 
-## Fast Diagnosis
 
-{% div 'sub' %} xx<br>iGEM TU Eindhoven {% enddiv %}
-
-We decided to start a collaboration with iGEM TU Eindhoven, who have been developing a fast diagnosis system. Their system uses lytic phages to indirectly detect which bacteria are causing the infection. This system presents a double win to us, because not only it will tell us what bacteria is causing the infection, it will also show us what phage can be used in Esther for effective treatment. We realized that our phages could be integrated into their system, as we have engineered them to be obligated lytic. In the future, we would like to design a library of phages that can be ready for use. These phages will be used for diagnosis, and once identified which phage is amplified in the patient sample, it will be prepared to be administered to the patient using Esther. Thus, the combination of Esther with Eindhoven’s diagnosis system will cut down the action time and make the process more simplistic, both to the patient and the doctor.
-
-## Wiki Guide
-
-{% div 'sub' %} ∞<br>iGEM US AFRL CarrolHS {% enddiv %}
-
-Working with the iGEM wiki is no trivial task. We carried out workshops internally, which resulted in articles detailing the process, later shared with the community. Another team took it further and [made their own wiki for the wiki](https://2019.igem.org/Team:US_AFRL_CarrollHS/WikiGuide). We are happy to have had the opportunity to collaborate and do our best to help others learning code!

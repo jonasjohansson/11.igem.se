@@ -51,6 +51,7 @@ function createInternalNavigation() {
 	for (var h of $headings) {
 		if (h.id.length !== 0) {
 			let link = document.createElement('a');
+			link.classList.add(h.nodeName.toLowerCase());
 			link.href = '#' + h.id;
 			link.innerHTML = `<div><span>${h.innerHTML}</span></div>`;
 			$nav.appendChild(link);
@@ -65,8 +66,6 @@ function createInternalNavigation() {
 	link.innerHTML = '↑' + ' <div><span>To the top</span></div>';
 	$nav.appendChild(link);
 }
-
-init();
 
 function scrollAnchors(e, respond = null) {
 	const distanceToTop = el => Math.floor(el.getBoundingClientRect().top - scrollOffset);
@@ -86,3 +85,5 @@ function scrollAnchors(e, respond = null) {
 		}
 	}, 100);
 }
+
+init();
