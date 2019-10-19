@@ -47,9 +47,7 @@ Then followed our two exercises, observing bacteria through a microscope and the
 
 Creating a fun and engaging introduction to Synthetic Biology is a great challenge, and something we would like to continue developing. We had a great experience at Atlasskolan and experienced a <sup>high</sup> sense of engagement and curiosity, one of the children even asked it was possible to join!
 
-![](/static/img/wiki/public_engagement-school_02.jpg)
-
-![](/static/img/wiki/public_engagement-school_04.jpg)
+![](/static/img/wiki/public_engagement-school_02.jpg) ![](/static/img/wiki/public_engagement-school_04.jpg)
 
 A month later we went closer to home and, together with SGEM (our alumni organization), visited [Norra Real](https://norrarealsgymnasium.stockholm.se/), the most eldest of public high schools in Stockholm to inspire future high school team. We visite the natural science program and their second year, research-oriented class.
 

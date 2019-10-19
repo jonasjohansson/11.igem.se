@@ -13,9 +13,10 @@ var $loadingBar = document.querySelector('.loading-bar .bar'),
 function init() {
 	document.querySelectorAll('section p').forEach(p => {
 		imgs = p.querySelectorAll('img');
-		if (imgs.length === 1) {
-			imgs[0].parentNode.classList.add('image');
-		} else if (imgs.length > 1) {
+		if (imgs.length > 0) {
+			p.classList.add('image');
+		}
+		if (imgs.length > 1) {
 			p.classList.add('slideshow');
 		}
 	});

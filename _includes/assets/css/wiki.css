@@ -2,8 +2,8 @@
     --light: #fff;
     --dark: #0c0c0c;
     --gray: #fafafa;
-    --color-start: #1c2342; /*#1c2342;*/
-    --color-end: #c71881; /*#c71881;*/
+    --blue: #1c2342; /*#1c2342;*/
+    --pink: #c71881; /*#c71881;*/
 }
 
 /* home */
@@ -121,11 +121,8 @@ h4 {
 }
 
 p.image {
-    /*display: none;*/
-    width: 125%;
-    margin-left: -12.5%;
-    /*background-color: #fafafa;*/
-    /*padding: 2rem;*/
+    width: 130%;
+    margin-left: -15%;
 }
 
 p.slideshow {
@@ -134,7 +131,7 @@ p.slideshow {
 }
 
 p.slideshow img:not(:first-child) {
-    margin-left: 1rem;
+    margin-left: 2rem;
 }
 
 /* article */

@@ -1,5 +1,6 @@
 #svg svg {
     position: absolute;
+    z-index: 120;
 }
 
 #team #svg {
