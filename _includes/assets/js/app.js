@@ -60,7 +60,8 @@ function createInternalNavigation() {
 
 	var link = document.createElement('a');
 	$nav.appendChild(document.createElement('br'));
-	link.href = '#' + document.documentElement.id;
+	link.href = '#' + document.body.id;
+	link.onclick = scrollAnchors;
 	link.innerHTML = '↑' + ' <div><span>To the top</span></div>';
 	$nav.appendChild(link);
 }
