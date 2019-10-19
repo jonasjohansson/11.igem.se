@@ -78,22 +78,12 @@ More about the potential of phage therapy and this project can be found in the [
 
 ## References
 
-(1) Gail E. Christie and Richard Calendar (2016). Bacteriophage P2. _Bacteriophage_. Jan-Mar; 6(1): e1145782
-
-(2) Ando, H., Lemire, S., Pires, D. P., & Lu, T. K. (2015). Engineering Modular Viral Scaffolds for Targeted Bacterial Population Editing. Cell systems, 1(3), 187–196. doi:10.1016/j.cels.2015.08.013
-
-Avdagić, N. _et al._ (2013) ‘Nitric oxide as a potential biomarker in infl ammatory bowel disease’, _Bosnian Journal of Basic Medical Sciences_. doi: 10.17305/bjbms.2013.2402.
-
-Daeffler, K. N.-M. _et al._ (2017) ‘Engineering bacterial thiosulfate and tetrathionate sensors for detecting gut inflammation’, _Mol Syst Biol_, 13, p. 923. doi: 10.15252/msb.20167416.
-
-Gardner, A. M., Gessner, C. R. and Gardner, P. R. (2003) ‘Regulation of the nitric oxide reduction operon (norRVW) in Escherichia coli. Role of NorR and sigma54 in the nitric oxide stress response.’, _The Journal of biological chemistry_. American Society for Biochemistry and Molecular Biology, 278(12), pp. 10081–6. doi: 10.1074/jbc.M212462200.
-
-Kolios, G., Valatas, V. and Ward, S. G. (no date) ‘Nitric oxide in inflammatory bowel disease: a universal messenger in an unsolved puzzle’. doi: 10.1111/j.1365-2567.2004.01984.x.
-
-Lundberg, J. O. N. _et al._ (1994) ‘Greatly increased luminal nitric oxide in ulcerative colitis’, _The Lancet_. doi: 10.1016/S0140-6736(94)90460-X.
-
-Protopapas, A. _et al._ (2016) ‘Elevated levels of alveolar nitric oxide in patients with inflammatory bowel disease’, in _5.2 Monitoring Airway Disease_. European Respiratory Society, p. PA1065. doi: 10.1183/13993003.congress-2016.PA1065.
-
-Riglar, D. T. _et al._ (2017) ‘Engineered bacteria function in the mammalian gut as long term live diagnostics of inflammation HHS Public Access Author manuscript’, _Nat Biotechnol_, 35(7), pp. 653–658. doi: 10.1038/nbt.3879.
+1. Christie GE, Calendar R. Bacteriophage P2. Bacteriophage. 2016;6(1):e1145782.
+2. Kolios G, Valatas V, Ward SG. Nitric oxide in inflammatory bowel disease: a universal messenger in an unsolved puzzle. [cited 2019 Jun 24]; Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1782592/pdf/imm0113-0427.pdf
+3. Avdagić N, Zaćiragić A, Babić N, Hukić M, Šeremet M, Lepara O, et al. Nitric oxide as a potential biomarker in infl ammatory bowel disease. Bosn J Basic Med Sci. 2013;
+4. Protopapas A, Vradelis S, Karampitsakos T, Chatzimichail A, Paraskakis E. Elevated levels of alveolar nitric oxide in patients with inflammatory bowel disease. In: 52 Monitoring Airway Disease [Internet]. European Respiratory Society; 2016 [cited 2019 Jun 24]. p. PA1065. Available from: http://erj.ersjournals.com/lookup/doi/10.1183/13993003.congress-2016.PA1065
+5. Lundberg JON, Lundberg JM, Alving K, Hellström PM. Greatly increased luminal nitric oxide in ulcerative colitis. Lancet. 1994;
+6. Gardner AM, Gessner CR, Gardner PR. Regulation of the nitric oxide reduction operon (norRVW) in Escherichia coli. Role of NorR and sigma54 in the nitric oxide stress response. J Biol Chem [Internet]. 2003 Mar 21 [cited 2019 Jun 24];278(12):10081–6. Available from: http://www.ncbi.nlm.nih.gov/pubmed/12529359
+7. Ando H, Lemire S, Pires DP, Lu TK. Engineering Modular Viral Scaffolds for Targeted Bacterial Population Editing. Cell Syst. 2015;
 
 [](https://www.notion.so/f4c539ce345245f280bb8dc169a7f65f#8ba176550268428fb8d7998a40b191be)
