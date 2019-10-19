@@ -25,7 +25,7 @@ var SBOL = {
     offset: 20,
     strokeWidth: 5,
     count: 0,
-    max: Math.floor(document.documentElement.scrollHeight / 500),
+    max: Math.floor(document.documentElement.scrollHeight / 800),
     wait: 1000,
     alive: 6000,
     fade: 1000,

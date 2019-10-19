@@ -71,13 +71,13 @@ function createSubNav() {
 			++count;
 			var link = document.createElement('a');
 			link.href = '#' + h.id;
-			console.log(h.innerHTML);
 			link.innerHTML = count + ' <div><span>' + h.innerHTML + '</span></div>';
 			nav.appendChild(link);
 		}
 	}
 
 	var link = document.createElement('a');
+	nav.appendChild(document.createElement('br'));
 	link.href = '#' + document.documentElement.id;
 	link.innerHTML = '↑' + ' <div><span>To the top</span></div>';
 	nav.appendChild(link);
