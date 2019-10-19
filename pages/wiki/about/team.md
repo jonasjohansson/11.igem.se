@@ -19,7 +19,7 @@ cover: /static/img/wiki/about/team-01.jpg
 
 ### {{ member.name }}
 
--   Role: {{ member.role }}
+-   <u>{{ member.role }}</u>
 -   {{ member.program }}. {{ member.school }}
 
 {{ member.motivation }}
@@ -31,4 +31,3 @@ cover: /static/img/wiki/about/team-01.jpg
 {% endfor %}
 
 {% enddiv %}
-
