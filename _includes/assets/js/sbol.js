@@ -74,20 +74,22 @@ function addShape() {
 
     SBOL.wrap.appendChild(shape);
 
+    // Remove after time
+
+    var removeTimeout = setTimeout(() => {
+        if (shape.classList.contains('fade')) return;
+        remove(shape);
+    }, SBOL.alive);
+
     // Click, remove & add new
 
     shape.addEventListener('mouseover', () => {
+        if (shape.classList.contains('fade')) return;
         remove(shape);
         setTimeout(() => {
             addShape(index);
         }, SBOL.fade);
     });
-
-    // Remove after time
-
-    setTimeout(() => {
-        remove(shape);
-    }, SBOL.alive);
 
     function remove(shape) {
         shape.classList.add('fade');
@@ -117,8 +119,6 @@ function getPos() {
     }
     var x = random(x1, x2);
     var y = random(SBOL.range[2], SBOL.range[3]);
-
-    console.log(x, y);
 
     return [x, y];
 }

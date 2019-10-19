@@ -9,8 +9,6 @@ path {
 }
 
 svg {
-    opacity: 1;
-    filter: blur(0);
     will-change: opacity, filter;
     transition: all 600ms ease-in;
 }
