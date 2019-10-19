@@ -5,11 +5,9 @@ permalink: /wiki/outlook/
 tags: wiki
 ---
 
-## How does the future look with Esther?
+> We ask ourselves this question many times! There are plenty of things to consider when developing new technology, such as the safety of your product (link to Safety & Phages), the potential market space (link to Business Model), and how our product will be perceived by the general public (link to Integrated Human Practices). On this page, we want to take a look at how a future world would look like for Esther, going from the very beginning of the manufacturing process, continuing with diagnosis, and finally, how our treatment can be administered to the patient.
 
-We ask ourselves this question many times! There are plenty of things to consider when developing new technology, such as the safety of your product (link to Safety & Phages), the potential market space (link to Business Model), and how our product will be perceived by the general public (link to Integrated Human Practices). On this page, we want to take a look at how a future world would look like for Esther, going from the very beginning of the manufacturing process, continuing with diagnosis, and finally, how our treatment can be administered to the patient.
-
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#be1b89c127c14db380f85ee3c08769a5)
+![](/static/img/wiki/project/outlook-01.png)
 
 ## The making of Esther
 
@@ -19,13 +17,13 @@ Our visit to Eliava Phage Therapy helped us to understand how the current manufa
 
 The phages for the library preparation will be isolated from environmental reservoirs such as sewage. The isolation and cultivation will be followed in accordance with the recommended standard protocols. In the temperate phage genome, C protein will be deleted by directed mutagenesis and further sequenced to validate the presence of the lytic status and absence of the toxins. To decrease the chance of gene transfer of antibiotic resistance (link to Safety and Phages), the switch will be integrated into a plasmid, and not directly modified into the phage. The same approach can be taken with other temperate phages, as long as their repressor protein is known.
 
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#28507ac1558e40c1b279a8e0df9b7dd8)
+![](/static/img/wiki/project/outlook-02.png)
 
 ### Preparing the vehicle bacteria library
 
 The survival of the probiotics in the GI tract has to be secured until it reaches the target area. Resistance against the salivary enzymes, pH changes, secretion of bile, and stomach acid could be encountered while the probiotics pass the intestine. In our project design, we utilized the non-pathogenic E. Coli Nilsson as a proof of concept, but the library of vehicle bacteria can also be broadened. The manufacturing starts with the isolation of the bacteria from the human organism, to provide the “human-friendly” vehicle. The bacteria will be sequenced for the toxins and characterized before its insertion into the library to exclude the toxin contamination. In addition, bacteria will be transformed with our switch plasmid so that we can find them ready for the treatment in our library.
 
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#1f94fce85f884f38979dbf526caa085c)
+![](/static/img/wiki/project/outlook-03.png)
 
 Moreover, the strain has to be genetically stable, cultivable on a large scale, and viable in combination with supplements or other food products (1). According to requirements in Canada and Italy, a minimum amount of 10^9 of colony-forming units is required to provide health benefits (2). In addition, there is no report that a higher dose is detrimental. Probiotics are usually stored in ambient temperature and humidity; however, it could cause a loss of viability compared to frozen storage. Therefore, over 10^9 has to be added to reach the target dose.
 
@@ -35,13 +33,13 @@ Let’s get a bit more specific. Quality control testing is required to verify t
 
 Then, the centrifugation step will allow to separate cells from the medium and obtain them in high concentration. The obtained highly concentrated bacteria will be infected by the modified phages, and we will proceed with the preservation techniques. The cryoprotectants and lyoprotectants added to the cells allow lyophilization of the end product. The lyophilized material is then blended with excipients, forming the final product as a tablet. The second round of quality control testing is applied to check for the high quality of end-product and contamination. The lyophilized bacteria tablets have to be stored at 40°C temperature to extend the shelf-life for three months (3).
 
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#0f1debd26a0d446e88b34fd91bf6e785)
+![](/static/img/wiki/project/outlook-04.png)
 
 ## Successful treatment requires the right diagnosis.
 
 Most infections go undiagnosed or miss-diagnosed, and sometimes, the most common form of diagnosis is the treatment itself. In many countries, broad-spectrum antibiotics are given to the patient during their first visit to the clinic because a proper diagnosis can take days and economic resources. For Phage Therapy to be effective, a proper diagnosis is required, since there are no broad-spectrum phages that can kill many types of bacteria. Therefore, it is crucial to facilitate diagnosis tools to physicians so that the right phage can be provided to the patient.
 
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#191161fa81ff4337bf29aa542e43ba22)
+![](/static/img/wiki/project/outlook-05.png)
 
 We decided to start a collaboration with iGEM TU Eindhoven, who has been developing a fast diagnosis system. Their system uses lytic phages to indirectly detect which bacteria are causing the infection. This system presents a double win to us, because not only it will tell us what bacteria is causing the infection, it will also show us what phage can be used in Esther to effectively treat the infection.
 
@@ -49,13 +47,13 @@ But how does the iGEM TU Eindhoven system work? Based on the suspicion on the or
 
 The sample of the patient is then divided over five aliquots (figure 1). To each aliquot, a specific lytic phage will be added. When the target bacteria of the phage are present, the phage amplifies itself, which creates an increase in phage DNA. The increase in phage DNA is measured using the dCas9-BRET sensor, which sends out a light signal. The sample that lights up red indicates which phage has amplified, so indirectly, the bacteria causing the infection is identified. At the same time, it is also confirmed which phage will kill the bacteria, so this diagnosis system is perfect to combine with Phage Therapy. However, when the phages do not find the specific bacteria in the sample, there is no amplification of phages, and therefore no red light signal.
 
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#c5425536f00f41d6a07e8a147b73bfac)
+![](/static/img/wiki/project/outlook-06.png)
 
 As we were discussing with Team Eindhoven how our two systems would work together, we realized what could be a potential obstacle: their system was using lytic phages, while our system had been designed for temperate phages. After some brainstorming, we realized that our phages could be integrated into their system, as we have engineered them to be obligated lytic. In Esther, our phage can enter the lysogenic cycle because we are providing the C protein within a plasmid. However, the phage on itself is obligated lytic, as it has been depleted of the C protein (link to Safety and Phages page).
 
 In the future, we would like to design a library of phages that can be ready for use. These phages will be used for diagnosis, and once identified which phage is amplified in the patient sample, it will be ready to be administered to the patient using Esther. Thus, the combination of Esther with Eindhoven’s diagnosis system will cut down the action time and make the process more simplistic, for both the patient and the doctor.
 
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#8853455f02d44969ad6f45d5ba143a53)
+![](/static/img/wiki/project/outlook-07.png)
 
 ## Using Esther
 
@@ -65,7 +63,7 @@ Our Integrated Human Practices team traveled to the Phage Therapy Centre in Tbil
 
 As part of our visit to Georgia, we also asked them how we could improve Esther so that it would suit their needs. They specialize in treating a wide variety of infections such as acute and chronic infections, like cystic fibrosis, colitis, bronchitis, UTIs. As well as infections with poor circulation, such as bedsores, Osteomyelitis, trophic ulcers, and more. Apart from these, antibiotic-resistant bacterial infections such as E.coli, Pseudomonas, Salmonella, among others, are also treated. Therefore, we wanted to explore the possibility of using Esther to treat different infections.
 
-[](https://www.notion.so/31b0d1eb186c4856b7a00e0b897a754e#6b95d647d42f4e02943e4933a3563d92)
+<!-- ![](/static/img/wiki/project/outlook-08.png) -->
 
 Though our project focuses explicitly on delivering phages towards gut inflammation in which we envision using a NO-sensing system, the system could be modified to suit other plausible potential applications:
 
