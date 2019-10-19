@@ -37,7 +37,7 @@ tags: wiki
 
 **Gunaratna Kuttuva Rajarao**. Responsible for the BSL-I lab at KTH Royal Institute of Technology. Provided safety training and access to the course lab and advised us on our project design.
 
-**AlbaNova Researchers**. D**epartment of Protein Technology at KTH Royal Institute of Technology**. Gave us technical support, daily motivation, critical evaluation of our results, and sometimes provided us with some missing reagents.
+**AlbaNova Researchers**. Department of Protein Technology at KTH Royal Institute of Technology. Gave us technical support, daily motivation, critical evaluation of our results, and sometimes provided us with some missing reagents.
 
 ## Human Practices Support
 
