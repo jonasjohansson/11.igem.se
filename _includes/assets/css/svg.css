@@ -2,8 +2,16 @@
     position: absolute;
 }
 
+#team #svg {
+    display: none;
+}
+
+svg {
+    mix-blend-mode: hard-light;
+}
+
 path {
-    animation: dash 3000ms ease-in-out forwards;
+    animation: dash 2000ms ease-in-out forwards;
     cursor: pointer;
 }
 

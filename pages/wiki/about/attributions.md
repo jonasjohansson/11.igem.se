@@ -7,28 +7,31 @@ tags: wiki
 
 > All work included in this project, unless otherwise specified, has been carried out, analyzed and reported by the iGEM Stockholm 2019 team. However, despite all our evident work and effort, these achievements could not have been possible without the support of all our supervisors, instructors, and advisors. Therefore, we want to deeply thank them for all their support and guidance on this page. Each of them has contributed to different chapters of our whole story, we hope you have enjoyed it as we did.
 
+![](/static/img/wiki/about/attributions-01.png)
+
 ## Supervisors
 
 **Dr. Johan Rockberg** Primary iGEM PI and leader of a research group at the Department of Protein Technology at KTH Royal Institute of Technology. He gave us lab space, as well as guidance and support throughout the development of our project.
 
-**Prof. Ute Römling** Secondary iGEM PI and leader of a research group at the Department of Microbiology and Tumor and Cell Biology at Karolinska Institutet.
+**Prof. Ute Römling** Secondary iGEM PI and leader of a research group at the Department of Microbiology and Tumor and Cell Biology at Karolinska Institutet. She provided us feedback during our summer meetings.
 
--   Daniel Dayle - suggestions and feedback
--   Lamberto - WB help, PI meetings, Troubleshooting, providing materials
+**Prof. Daniel Daley** Secondary iGEM PI and leader of a research group at the Department of Biochemistry and Biophysics at Stockholm University. He provided us feedback during our summer meetings.
 
 ## Instructors
 
-**Aman Mebrahtu** Team member of iGEM Stockholm 2016, and PhD student at the Department of Protein Technology at KTH Royal Institute of Technology. He provided day-to-day lab guidance, as well as multiple troubleshooting sessions. Discussions of experimental set-up and and planning.
+**Aman Mebrahtu** Team member of iGEM Stockholm 2016, and Ph.D. student at the Department of Protein Technology at KTH Royal Institute of Technology. He provided day-to-day lab guidance, as well as multiple troubleshooting sessions. Discussions of the experimental set-up and planning.
 
 **Maximilian Karlander** Team member of iGEM Stockholm 2015, and PhD student at the Department of Protein Technology at KTH Royal Institute of Technology. He provided day-to-day lab guidance, as well as multiple troubleshooting sessions. Maximilian is also a confirmed music composer under the artist name PRO424. We were very happy to use one of his compositions in our project video trailer.
 
 ## Advisors
 
-**Elisabeth Haggård-Ljungquist** Professor Emeritus at the Department of Molecular Biosciences at the Wenner-Gren Institute.
+**Elisabeth Haggård-Ljungquist** Professor Emeritus at the Department of Molecular Biosciences at the Wenner-Gren Institute. She provided a deep insight into the behaviour of the P2 phage and its switch.
 
-**Anders Nilsson** Associate Professor at Stockholm University.
+**Anders Nilsson** Associate Professor at Stockholm University. He provided information about the obstacles that phages encounter inside the body and gave us an E.Coli strain that was efficiently infected by the P2 phage.
 
-**Peter Lind** Professional speaker and communication coach, Department of Swedish and Multilingualism, Stockholm University.
+**Peter Lind** Professional speaker and communication coach, Department of Swedish and Multilingualism, Stockholm University. He evaluated the mock Jamboree and provided us with constructive feedback and tips on the presentation and communication of results.
+
+**Lamberto Torralba-Raga** Ph.D. candidate at the Department of Medicine Huddinge at Karolinska Institute. He helped us design our WB experiment, select the antibodies, provided testing material to perform the WB and gave us feedback regarding our experiments, and our presentation.
 
 ## Lab Support
 
@@ -38,33 +41,105 @@ tags: wiki
 
 ## Human Practices Support
 
+### Public Engagement and Education
+
 **Dr. Cristina Al-Khalili Szigyarto** Programme director at the School of Chemistry, Biotechnology and Health at KTH Royal Institute of Technology. Allowed us to present the iGEM competition and our project in front of newly admitted KTH Master students.
 
 **Leif Handberg** Associate Professor at Division of Media Technology and Interaction Design. Granted us access to the R1 nuclear reactor at KTH for the Synthetic Biology Art Exhibition.
 
+**International Committee at Karolinska Institutet** for giving us the financal support to have a coffee hour at Karolinska Institutet. We could promote the iGEM competition, our Art Exhibition and recruit people for our ambassador program.
+
+**Jasper Bloemen** Founder of Glimps biofabrication lab in Ghent. Visited us and presented their work, and has since then been supporting and co-creating the 2020 summer education initiative.
+
+**Jesper Ahlin Marceta** Ph.D. Divison of Philosophy at KTH Royal Institute of Technology. She accepted to be one of our speakers at our Bioethics and Biolegislation event.
+
+**Joanna Appelquist** Ph.D. and European Patent Attorney at Valea AB. She accepted to be one of our speakers at our Bioethics and Biolegislation event and helped us evaluate the patenting process.
+
+**Mo Segad** Chair of the Stockholm University Young Faculty Organization. Provided us with the space for the Bioethics and Biolegislation event and helped us promote it among students and faculty members.
+
+**Atlasskolan** An international elementary school in Sweden. They welcomed us with open arms for our 3 DEMO school project and showed a keen interest in science.
+
+**Sandra De Luca** Teacher for the K-3 grade classes at Atlas Skolan. She helped us coordinate the 3 DEMO school project event and providing the necessary information beforehand to the school and the students' parents.
+
+**Chemistry chapter of KTH** The student union for the students enrolled in chemistry or biology programs at the Royal Institute of Technology. We want to thank the chapter for giving us exposure to the newly enrolled students and allowing us to borrow materials during Organ lunch, orientation event at KTH.
+
+**Alkemisterna** The heads of reception for the Organ lunch, orientation event at KTH. We want to thank them for providing the space and opportunity.
+
+**Sebastian Montén** Helping the team with creating and editing music for an iGEM Stockholm submission to "The Voice iGEM Contest" organized by iGEM Wageningen.
+
+## Integrated Human Practices
+
+### Eliava Phage Therapy Center in Georgia
+
+**Nikoloz Ratishvill** Marketing Manager of the Eliava Phage Therapy Center in Georgia. He helped us to arrange our visit to their center, gave us a guided tour and kindly answer all our questions.
+
+**Pranav Johri** Founder of Vitalis Phage Therapy, India. He helped us get in touch with Eliava Phage Therapy Center.
+
+**Dr. Mariam Dadiani** Physician at the Eliava Phage Therapy Center in Georgia. She answered our questions regarding the application of phage therapy treatment to patients.
+
+**Mzia Kutateladze** Director of Eliava Phage Therapy Center in Georgia. Kindly evaluated the viability of our project.
+
+**Patients of the Eliava Phage Therapy Center in Georgia**. They shared their stories with us and helped us understand the necessity of phage therapy as a treatment.
+
+### Documentary Speakers
+
+Anders Nilson(reseracher, SU), Christian Giske ( researcher, KI), Anni-Maria Örmälä-Odegrip (post doc, KI), Pranav Johri( founder, Vitalis phage therapy, India), Bengt Mattson (policy expert, Swedish Pharma Association), Enrico Baraldi( director, Platinea cooperative), Narrator- Angel Ji (Canada), Supporter- Soumya Rajpal( India), Equipments - Artika Rachmi Farmita, Rahul Kanjilimadom, Adrian Benigno Latupeirissa, Stanley Setiawan
+
+### Other Intergrated Human Practices Support
+
+**Madeleine Fodge** Senior Expert and Director of SIANI (Stockholm International Agricultural Network Initiative). She invited us to and gave us the opportunity to participate in the World Water Week 2019.
+
+**Cajsa Larsson and Iris Panorel** Event Organizers of the World Water Week 2019. They helped us set up and arrange our booth.
+
+**Tsamatina Rentouli and Hannah Norback** iGEM 2018 members. They supported our team during the World Water Week.
+
+**Graham F Hatfull,** Principal Investigator at the Department of Biological Sciences, University of Pittsburgh. He provided us with papers on how to safely engineer temperate phages to be used in phage therapy.
+
+**Mindaugas Raitelaitis,** a former member of iGEM Stockholm 2019, he helped us to fill the Safety Form.
+
 ## Entrepreneurship Support
 
-**Tobias Beck** Economy Graduate at Stockholm University. He gave us guidance in social media growth strategy and helped our finance team with the launch of our crowdfunding campaign.
+**Tobias Beck.** Economy Graduate at Stockholm University. He gave us guidance in social media growth strategy and helped our finance team with the launch of our crowdfunding campaign.
 
-**Gustav Notander** Business Development Coach at KTH Innovation. He gave us guidance and support at the genesis of our project.
+**Gustav Notander.** Business Development Coach at KTH Innovation. He gave us guidance and support at the genesis of our project.
+
+**Drivhuset and Stockholm Innovations Office**. They gave us information and advice on how to create a start-up.
+
+**Minmin Yen.** CEO and founder of PhagePro. She answered our questions about the obstacles of working with bacteriophages to develop a start-up.
+
+**KI Innovations office.** They provided us advice on how to showcase iGEM to gain sponsors and gave us a grant to cover part of the cost of the registration fees.
+
+**Cecilie Hilmer.** Design Thinking Coach at Karolinska Institute. She hosted a coaching session on the importance of prototypes and how to create one. She also gave us advice on how to guide and manage a team.
+
+**Anna Svantes.** Business Developer at Organofuel AB. She accepted to be one of our speakers at the Bench to Bedside event and shared valuable inspiration on how to venture into the start-up life.
+
+**Blanca Campaña López.** iGEM Stockholm 2018 team member. She coached us on how to develop our own business plan in iGEM.
 
 ## Media Support
 
-**Ashley Reed** Founder and creative director of Smash Studio. He provided us guidance and equipment for the making of our project video.
+**Ashley Reed.** Founder and creative director of Smash Studio. He provided us guidance and equipment for the making of our project video.
 
-**Håkan Soold** Writer for KTH Communication. He made a behind-the-scene reportage on our team and set up a professional photo session for our wet lab team. The interview will be up on KTH website soon.
+**Håkan Soold.** Writer for KTH Communication. He made a behind-the-scene reportage on our team and set up a professional photo session for our wet lab team. The interview will be up on KTH website soon.
 
-**Hanna Sundelin & Amanda Nelzén** Responsibles for Communication and Business Liaisons at KTH. They let us make instagram takeovers for the KTH Alumni instagram account.
+**Hanna Sundelin & Amanda Nelzén**. Responsible for Communication and Business Liaisons at KTH. They let us make instagram takeovers for the KTH Alumni instagram account.
+
+**Darcia Schweitzer**. Content Lead at Promega Corporation. Gave us the opportunity to takeover Promega's Instagram to showcase our Synthetic Biology Art Exhibition and our trip to the Nordic iGEM Conference.
+
+**Jordan Villanueva**. Sr. Science writer at Promega Corporation. Interviewed us and wrote an article about our team.
+
+**Katarina Kallgren and the TV4 team**. Gave us the opportunity to have an interview at TV4 and explain our project.
+
+**The iGEM memes team!** Thank you Gilai Nachmann, Stamatina Rentouli and Adele Kastensson for your contributions to the iGEM memes Instagram account and for attending the Spring Bonn iGEM Conference with us to present our best memes in front of other iGEM teams.
 
 ## Financial Advisors
 
-**Peter Bergman** Project Manager Alumni Relations & KTH Opportunities Fund Fundraising. He helped us throughout the application process for the KTH Opportunities Fund Grant that helped us pay the Giant Jamboree registration fees for KTH students.
+**Peter Bergman** - Project Manager Alumni Relations & KTH Opportunities Fund Fundraising. He helped us throughout the application process for the KTH Opportunities Fund Grant that helped us pay the Giant Jamboree registration fees for KTH students.
 
-**Anna Hamilton** Development Officer at KTH Royal Institute of Technology. She helped us find grant opportunities and scholarships that would be relevant for our team.
+**Anna Hamilton** - Development Officer at KTH Royal Institute of Technology. She helped us find grant opportunities and scholarships that would be relevant for our team.
 
-**Aron Podavka** CEO at Drivhuset Stockholm. He guided us through the application process for the SU Inkubator Grant and gave us business insights on our project.
+**Aron Podavka** - CEO at Drivhuset Stockholm. He guided us through the application process for the SU Inkubator Grant and gave us business insights on our project.
 
-**Barbro Ehlin-Henriksson** Coordinator at Karolinska Institutet. She gave support and guidance to our finance team in registrating, invoice processing and insurance ordering.
+**Barbro Ehlin-Henriksson** - Coordinator at Karolinska Institutet. She gave support and guidance to our finance team in registrating, invoice processing and insurance ordering.
 
 **SAS Traveler Consultants** who helped us organize our flights to the US and we appreciated their reactivity and kindness.
 
@@ -83,3 +158,21 @@ tags: wiki
 -   New England BioLabs
 -   Microsynth SEQLAB
 -   ThermoFisher Scientific
+
+## Acknowledgments
+
+## SGEM - Stockholm iGEM alumni
+
+We would like to thank all the SGEM members and the board of this Non Profit Organization, who provided us support and help throughout the year in multiple ways: they organized workshops to share the different skills they have learned during their iGEM years, they provided us financial help, organized fun events for us, provided us feedback and a valuable network of alumni that were ready to help us. They were a key contributor to the recruitment process, and without them, the continuous existence of iGEM Stockholm would not be possible.
+
+## Special thanks
+
+We would like to thank other iGEM teams and members that we have met throughout this year, for the fun times that we spent with them and their initiatives to organize events, so that we could meet more iGEMers. Specially, iGEM South Denmark University, for organizing the Biobrick Workshop; iGEM Copenhagen, for organizing the Nordic iGEM Conference; iGEM Vilnus for organizing and covering the expenses for us to attend the Biohackathon; and iGEM Bonn, for organizing the iGEM Spring Bonn Festival and for inviting us to have our own meme seminar.
+
+Thank you as well to all the teams that collaborated with us, such as iGEM Eidnhoven, iGEM Lund, iGEM Uppsala and their delicious Crab-fish Festival dinner, iGEM Technion, iGEM Carroll HS and iGEM Dusseldorf.
+
+Last, but not least, we would like to thank our former iGEM Stockholm 2019 Team Leader, Eden Black, for his tremendous help during the first months of our iGEM journey, and for his enormous dedication to the design our project. You helped build up our team, and inspired all of us with your dedication and determination. Esther would not have been possible without you.
+
+## Team Training and Project Start
+
+The iGEM project is not part of any synthetic biology course and joining the team is on a voluntary basis. The team first met at the end of January and started a 3-month brainstorming period. The project was chosen in April and the team dedicated all their pre-summer time to plan their lab time efficiently and organize educational and engagement events. Over the summer, the team got free access to the course labs of KTH Royal Institute of Technology. After the summer, our team was kindly granted access to lab space of the Department of Protein Technology at KTH Royal Institute of Technology to continue their experiments. to lab space of the Department of Protein Technology at KTH Royal Institute of Technology to continue their experiments.

@@ -7,22 +7,18 @@
 
 /* home */
 
-#team #svg {
-    display:none;
-}
-
 #esther article section:first-child {
     display: none;
 }
 
-article > *:last-child,
+/*article > *:last-child,
 article > *:last-child > *:last-child {
     margin-bottom:0;
 }
 
 article > *:last-child > *:last-child img {
     padding:0;
-}
+}*/
 
 
 /* */
@@ -335,10 +331,6 @@ th {
 
 /* LOADING BAR */
 
-svg,
-svg path {
-    mix-blend-mode: difference;
-}
 
 .loading-bar {
     position: fixed;
