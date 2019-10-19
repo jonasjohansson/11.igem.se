@@ -21,7 +21,6 @@ article > *:last-child > *:last-child img {
 }
 
 
-
 /* */
 
 html {
@@ -179,7 +178,6 @@ footer #logos img {
 /* HEADER */
 
 header {
-    padding: 1rem;
     position: absolute;
 }
 
@@ -204,9 +202,13 @@ header {
 #nav div {
     float: left;
     width: 20%;
+    height:3rem;
+    padding: 1rem;
+    overflow:hidden;
+    background-color: white;
 }
 
-header:hover {
+#nav div:hover {
     height: auto;
 }
 
@@ -217,9 +219,9 @@ header {
     left: 0;
     font-size: 90%;
     /*padding: 1rem;*/
-    height: 3rem;
-    overflow: hidden;
-    background-color: white;
+    /*height: 3rem;*/
+    /*overflow: hidden;*/
+    /*background-color: white;*/
 }
 
 header #nav > div {
