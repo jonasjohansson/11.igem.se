@@ -103,10 +103,6 @@ We would like to thank all the speakers that accepted to participate in our docu
 
 **Artika Rachmi Farmita, Rahul Kanjilimadom, Adrian Benigno Latupeirissa & Stanley Setiawan.** They provided us with all the audio and video equipment needed for the making of the documentary.
 
-### Documentary Speakers
-
-Anders Nilson(researcher, SU), Christian Giske ( researcher, KI), Anni-Maria Örmälä-Odegrip (postdoc, KI), Pranav Johri( founder, Vitalis phage therapy, India), Bengt Mattson (policy expert, Swedish Pharma Association), Enrico Baraldi( director, Platinea cooperative), Narrator- Angel Ji (Canada), Supporter- Soumya Rajpal( India), Equipments - Artika Rachmi Farmita, Rahul Kanjilimadom, Adrian Benigno Latupeirissa, Stanley Setiawan
-
 ### Other Integrated Human Practices Support
 
 **Madeleine Fodge**. Senior Expert and Director of SIANI (Stockholm International Agricultural Network Initiative). She invited us and gave the opportunity to participate in World Water Week 2019.
@@ -167,19 +163,7 @@ Anders Nilson(researcher, SU), Christian Giske ( researcher, KI), Anni-Maria Ör
 
 ## Financial sponsors
 
--   KTH Royal Institute of Technology
--   Karolinska Institutet
--   KI Innovations AB
--   KTH Opportunities Fund
--   PN Biomedicine Grant (Medicinska Föreningen union, KI)
--   Recipharm
--   Drivhuset
--   Bio-techne
--   SnapGene
--   Promega
--   New England BioLabs
--   Microsynth SEQLAB
--   ThermoFisher Scientific
+KTH Royal Institute of Technology, Karolinska Institutet, KI Innovations AB, KTH Opportunities Fund, PN Biomedicine Grant (Medicinska Föreningen union, KI), Recipharm, Drivhuset, Bio-techne, SnapGene, Promega, New England BioLabs, Microsynth SEQLAB, ThermoFisher Scientific.
 
 ## Acknowledgments
 
