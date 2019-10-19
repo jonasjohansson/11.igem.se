@@ -7,6 +7,10 @@
 
 /* home */
 
+#team #svg {
+    display:none;
+}
+
 #esther article section:first-child {
     display: none;
 }
