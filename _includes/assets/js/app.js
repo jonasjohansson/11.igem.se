@@ -12,7 +12,7 @@ var $loadingBar = document.querySelector('.loading-bar .bar'),
 
 function init() {
 	document.querySelectorAll('p img').forEach(img => {
-		img.parentNpde.classlist.add('image');
+		img.parentNode.classList.add('image');
 	});
 
 	document.querySelectorAll('p a').forEach(a => {
