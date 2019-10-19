@@ -16,5 +16,7 @@
 		</div>
 	</footer>
 
+    {% set js %}  {% include "assets/js/app.js" %} {% endset %}
+    <script>{{ js | jsmin | safe }}</script>
 </body>
 </html>

@@ -1,8 +1,8 @@
 :root {
     --light: #fff;
     --dark: #0c0c0c;
-    --blue: #000; #1c2342;
-    --pink: #fff; #c71881;
+    --blue: #000; /*#1c2342;*/
+    --pink: #fff; /*#c71881;*/
 }
 
 /* home */
@@ -20,7 +20,6 @@ article > *:last-child > *:last-child img {
     padding:0;
 }*/
 
-
 /* */
 
 html {
@@ -28,12 +27,13 @@ html {
     top: 0;
     left: 0;
     right: 0;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
     color: var(--dark);
     background-color: var(--light);
-    scroll-behavior: smooth;
+    /*scroll-behavior: smooth;*/
     color: var(--blue);
     /*font-size: 90%;*/
+    counter-reset: link;
 }
 
 body {
@@ -46,6 +46,13 @@ body {
     width: 80vw;
 }
 */
+
+h3:before {
+    content: '';
+    display: block;
+    padding-top: 100px;
+    position: absolute;
+}
 
 main:after {
     content: '';
@@ -175,103 +182,80 @@ footer #logos img {
     width: 100px;
 }*/
 
-/* HEADER */
+/* header */
 
-header {
-    position: absolute;
-}
-
-header > #nav {
-    /*display: flex;*/
-}
-
-nav div:not(:hover) nav {
-    /*display: none;*/
-}
-
-header {
+#header {
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 80%;
     text-align: center;
 }
-#nav {
+
+header {
     width: 100%;
     margin: 0 auto;
     display: inline-block;
     text-align: left;
 }
 
-#nav div {
-    float: left;
-    width: 20%;
-    height:3rem;
-    padding: 1rem;
-    overflow:hidden;
-    background-color: white;
-}
-
-#nav div:hover {
-    height: auto;
-}
-
-header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    left: 0;
-    font-size: 90%;
-    /*padding: 1rem;*/
-    /*height: 3rem;*/
-    /*overflow: hidden;*/
-    /*background-color: white;*/
-}
-
-header #nav > div {
-    /*padding: 1rem;*/
-    /*width: 100%;*/
-}
-
-#nav span {
-    display: block;
-    /*text-decoration: underline;*/
-    margin-bottom: 1rem;
-    font-size: 90%;
-    font-weight: 400;
-    text-transform: uppercase;
-}
-
-.header-faux,
-header {
-    /*top: 1rem;*/
-    /*padding: 0.5rem;*/
-    overflow-x: scroll;
-    width: 100vw;
-    /*height: 4rem;*/
-    box-sizing: border-box;
-    /*background-color: #ccc;*/
-    /*color: white;*/
-    z-index: 1;
-    /*text-align: center;*/
-    /*font-size: 80%;*/
-}
-
-.header-faux {
-    display: none;
+#header-faux,
+header > * {
+    height: 3rem;
 }
 
 header > * {
-    /*display: inline-flex;*/
+    float: left;
+    width: 20%;
+    padding: 1rem;
+    overflow: hidden;
+    background-color: white;
 }
 
-header nav > * {
-    /*margin-left: 1rem;*/
+header nav {
+    margin-top: 1rem;
 }
 
-/* ASIDE */
+header div:hover {
+    height: auto;
+}
+
+header div:not(:hover) nav {
+    display: none;
+}
+
+header span {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    opacity: 0.6;
+}
+
+/* logo */
+
+header .logo img {
+    width: auto;
+    height: 100%;
+    height: 1rem;
+}
+
+header .logo img {
+    transform-style: preserve-3d;
+    transition: transform 400ms ease-in-out;
+}
+
+header .logo img:hover {
+    transform: rotateY(180deg);
+}
+
+/* aside */
 
 aside {
     position: fixed !important;
-    /*top: 12rem;*/
     padding: 1rem;
-    z-index: 1;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
@@ -292,7 +276,13 @@ aside:hover {
     background-color: white;
 }
 
+aside nav a:not(:last-of-type):before {
+    counter-increment: link;
+    content: counters(link, '.', decimal-leading-zero) ' ';
+}
+
 aside nav div {
+    display: inline-block;
     will-change: opacity;
     opacity: 0;
     position: relative;
@@ -331,15 +321,13 @@ th {
 
 /* LOADING BAR */
 
-
 .loading-bar {
     position: fixed;
-    top: 2.25rem;
-    top: 0;
+    top: 3rem;
     left: 0;
     width: 100%;
     height: 0.5rem;
-    z-index: 100;
+    z-index: 90;
     /*pointer-events: none;*/
     /*mix-blend-mode: difference;*/
     /*opacity: 0;*/
@@ -355,18 +343,6 @@ th {
 }
 
 /* LOGO */
-
-.logo {
-    width: 100px;
-}
-
-nav * {
-    display: inline-block;
-}
-
-nav > div:not(:hover) > div {
-    display: none;
-}
 
 .cover {
     /*filter: saturate(0) contrast(1.5);*/
@@ -407,14 +383,14 @@ nav > div:not(:hover) > div {
 }
 
 #team img {
-    border-radius:5px;
+    border-radius: 5px;
 }
 
 /* SMALLER */
 
 @media (max-width: 600px) {
     #team h3,
-    #team ul{
+    #team ul {
         text-align: center;
     }
 }

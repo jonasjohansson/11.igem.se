@@ -37,9 +37,9 @@ el.id = 'svg';
 document.body.appendChild(el);
 SBOL.wrap = el;
 
-setInterval(() => {
-    addShape();
-}, SBOL.wait);
+// setInterval(() => {
+//     addShape();
+// }, SBOL.wait);
 
 function addShape() {
     if (SBOL.count >= SBOL.max) return;
@@ -124,10 +124,6 @@ function createShape(index) {
     var shape = SBOL.shapes[index];
     svg.innerHTML = shape.path;
     return svg;
-}
-
-function addMultipleEventListener(element, events, handler) {
-    events.forEach(e => element.addEventListener(e, handler));
 }
 
 function random(min, max) {

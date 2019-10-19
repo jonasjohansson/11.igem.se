@@ -1,21 +1,19 @@
+
 <head>
     <title>{{ metadata.title }} {{ title }}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css"  type="text/css" rel="stylesheet">
     {% set css %} {% include "assets/css/template.css" %} {% include "assets/css/style.css" %} {% include "assets/css/wiki.css" %} {% include "assets/css/svg.css" %} {% endset %}
     <style>{{ css | cssmin | safe }}</style>
-    {% set js %}  {% include "assets/js/app.js" %} {% endset %}
-    <script>{{ js | jsmin | safe }}</script>
 </head>
-<header>
-   <div id="nav">
-        <div>
-            <a href="/wiki/">Home</a>
-        </div>
+<div id="header">
+   <header>
+        <a href="/wiki/" class="logo"><img src="/static/img/logo/esther-black.svg"></a>
         <div>
             <span>Project</span>
             <nav>
@@ -53,6 +51,6 @@
                 <a href="/wiki/public-engagement/">Public Engagement</a>
             </nav>
         </div>
-    </div>
-</header>
-<div class="header-faux">x</div>
+    </header>
+</div>
+<div id="header-faux"></div>
