@@ -175,6 +175,8 @@ We would like to thank all the SGEM members and the board of this Non Profit Org
 
 We want to thank other iGEM teams and members that we have met throughout this year, for the fun times that we spent with them and their initiatives to organize events, so that we could meet more iGEMers. Especially, iGEM South Denmark University, for organizing the Biobrick Workshop; iGEM Copenhagen, for organizing the Nordic iGEM Conference; iGEM Vilnius for organizing and covering the expenses for us to attend the Biohackathon; and iGEM Bonn, for organizing the iGEM Spring Bonn Festival and for inviting us to have our meme seminar.
 
+Thank you Beckmans college of design for lending your facilities for meetings, project video documentation and internal events.
+
 Thank you as well to all the teams that collaborated with us, such as iGEM Eindhoven, iGEM Lund, iGEM Uppsala, and their delicious crayfish dinner, iGEM Technion, iGEM Carroll HS, and iGEM Dusseldorf.
 
 Last, but not least, we would like to thank our former iGEM Stockholm 2019 Team Leader, Eden Black, for his tremendous help during the first months of our iGEM journey, and his enormous dedication to the design our project. You helped build up our team and inspired all of us with your dedication and determination. Esther would not have been possible without you.
