@@ -293,15 +293,12 @@ aside nav div {
     transition: all 300ms ease-in-out;
 }
 
-aside nav a.h1 div {
-}
-
 aside nav a.h2 div {
-    text-indent: 1rem;
+    /*text-indent: 1rem;*/
 }
 
 aside nav a.h3 div {
-    text-indent: 2rem;
+    text-indent: 1rem;
 }
 
 /* TABLES */

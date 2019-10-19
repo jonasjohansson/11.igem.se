@@ -13,12 +13,6 @@ tags: wiki
 
 For many, science and art are considered vastly distant from one another, but a scientist knows that their work requires individual artistry, and an artist in many ways understand the science within their art. The Synthetic Biology Art Exhibition took place in Stockholm, 25 meters below the surface in the old nuclear reactor R1. Artistic expressions from all corners were accepted, everything from audiovisual video works to petri-dish multiplayer experiences. Some were funny and beautiful, while others were disturbing and thought-provoking. Everyone was eligible to participate regardless of the artistic prowess or expertise of synthetic biology. From the artworks submitted, 5 winners were rewarded with a presentation in Osqledaren online (KTH magazine) as well as Medicor online (KI magazine).
 
-<!-- -   🏆 Triple Helix Feeling by Sergio Pachon-Dotor and Y. Vladimir Pabon-Martinez
--   🥇 Osmos Kosmos by Linda Nurk
--   🥇 Being a Dove & Making Senses by Maria Euler
--   🥇 Slime Mould Chess by Håkan Lidbo
--   🥇 Mechamorphosis / Energy / Reaction by Basstian -->
-
 [→ Read more about the art exhibition and view the booklet with all the artists]()
 
 ## Lab-on-wheels
@@ -71,8 +65,6 @@ Joanna Applequist gave us an introduction to intellectual property and provided 
 
 On the other hand, Jesper discusses some moral trade-offs in the development and use of biotechnology. We talked about how possibilities of biotechnology, such as making human beings resistant to harmful or deadly viruses, be weighed against moral constraints such as, for instance, not using fetuses for research purposes. He also made us question our selves about the values that are at stake and how should society deal with such moral trade-offs.
 
----
-
 ## Summer Research School Visit
 
 {% div 'sub' %} 25 June {% enddiv %}
@@ -86,8 +78,6 @@ _Four of the students raised their hands, and claimed that they would be okay wi
 The day started off with a security briefing and presentation of ourselves. Then we divided the students into three different groups, and the groups alternated lectures with lab classes.
 
 ![](/static/img/wiki/public_engagement-astra_02.jpg)
-
----
 
 ## World Water Week
 
@@ -107,8 +97,6 @@ Rebecca, Anali and Stella from our team were invited to speak on the Swedish mor
 
 ![](/static/img/wiki/public_engagement-news.jpg)
 
----
-
 ## pixid _Let's play!_
 
 {% div 'sub' %} Ongoing {% enddiv %}
@@ -126,8 +114,6 @@ For children, these cards can also be used as a memory game, or as a visual comp
 [↓ Get the game and start playing!]()
 
 ![](/static/img/wiki/public_engagement-pixid_02.jpg)
-
----
 
 ## Biomimetics summer project 2020
 
