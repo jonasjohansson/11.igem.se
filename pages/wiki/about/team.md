@@ -32,4 +32,3 @@ cover: /static/img/wiki/about/team-01.jpg
 
 {% enddiv %}
 
-![](/static/img/wiki/about/team-02.jpg)

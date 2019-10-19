@@ -21,7 +21,7 @@ var SBOL = {
     ],
     colors: ['#c71881', '#f6937e', '#2a255f'],
     range: [0, 80, 5, 90],
-    size: [5, 20],
+    size: [10, 20],
     offset: 20,
     strokeWidth: 5,
     count: 0,
