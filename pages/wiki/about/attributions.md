@@ -47,15 +47,15 @@ tags: wiki
 
 **Leif Handberg**. Associate Professor at the Division of Media Technology and Interaction Design. Granted us access to the R1 nuclear reactor at KTH for the Synthetic Biology Art Exhibition.
 
-**International Committee**. \*\*\*\*Karolinska Institutet. Gave us the financial support to organize a coffee hour at Karolinska Institutet, which allowed us to promote the iGEM competition, our Art Exhibition and recruit people for the ambassador program.
+**International Committee**. Karolinska Institutet. Gave us the financial support to organize a coffee hour at Karolinska Institutet, which allowed us to promote the iGEM competition, our Art Exhibition and recruit people for the ambassador program.
 
-**Jasper Bloemen**. \*\*\*\*Founder of Glimps bio fabrication lab in Ghent. Visited us and presented their work, and has since then been supporting and co-creating the 2020 summer education initiative.
+**Jasper Bloemen**. Founder of Glimps bio fabrication lab in Ghent. Visited us and presented their work, and has since then been supporting and co-creating the 2020 summer education initiative.
 
 **Jesper Ahlin Marceta**. Ph.D. Divison of Philosophy at KTH Royal Institute of Technology. She accepted to be one of our speakers at our Bioethics and Biolegislation event.
 
-**Joanna Appelquist**. \*\*\*\*Ph.D. and European Patent Attorney at Valea AB. She accepted to be one of our speakers at our Bioethics and Biolegislation event and helped us evaluate the patenting process.
+**Joanna Appelquist**. Ph.D. and European Patent Attorney at Valea AB. She accepted to be one of our speakers at our Bioethics and Biolegislation event and helped us evaluate the patenting process.
 
-**Mo Segad**. \*\*\*\*Chair of the Stockholm University Young Faculty Organization. Provided us with the space for the Bioethics and Biolegislation event and helped us promote it among students and faculty members.
+**Mo Segad**. Chair of the Stockholm University Young Faculty Organization. Provided us with the space for the Bioethics and Biolegislation event and helped us promote it among students and faculty members.
 
 **Atlasskolan**. An international elementary school in Sweden. They welcomed us with open arms for our 3 DEMO school project and showed a keen interest in science.
 
@@ -93,7 +93,7 @@ Anders Nilson(reseracher, SU), Christian Giske ( researcher, KI), Anni-Maria Ör
 
 **Tsamatina Rentouli and Hannah Norback**. iGEM 2018 members. They supported our team during the World Water Week.
 
-**Graham F Hatfull**. \*\*\*\*Principal Investigator at the Department of Biological Sciences, University of Pittsburgh. He provided us with papers on how to safely engineer temperate phages to be used in phage therapy.
+**Graham F Hatfull**. Principal Investigator at the Department of Biological Sciences, University of Pittsburgh. He provided us with papers on how to safely engineer temperate phages to be used in phage therapy.
 
 **Mindaugas Raitelaitis,** a former member of iGEM Stockholm 2019, he helped us to fill the Safety Form.
 
