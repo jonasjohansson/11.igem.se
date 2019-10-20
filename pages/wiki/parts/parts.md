@@ -4,7 +4,7 @@ permalink: /wiki/parts/
 tags: wiki
 ---
 
-> While working on Esther we created several new basic and composite parts listed below. To learn about their use and function visit our [Design page](https://www.notion.so/jonasjohansson/Design-f4c539ce345245f280bb8dc169a7f65f).
+> While working on Esther we created several new basic and composite parts listed below. To learn about their use and function visit our [Design page](/wiki/design/).
 
 ## New basic parts
 

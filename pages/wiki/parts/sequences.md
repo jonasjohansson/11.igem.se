@@ -1,18 +1,20 @@
 ---
-title: Sequences
+title: Primers
 preamble:
-permalink: /wiki/sequences/
+permalink: /wiki/primers/
 tags: wiki
 ---
 
+> We've used several primers to amplify and alter our bricks that we have. Below you can find a whole list of primers sorted by their use!
+
 ## Amplification primers
 
-| Name                    | Sequence                                             |
-| ----------------------- | ---------------------------------------------------- |
-| Amplification1_F        | GACGCCAGGTTGAAT-GAATTCGCGGCCGCTT                     |
-| Amplification1_R        | CCGTATTTGGAGGTA-CTGCAGCGGCCGCTA                      |
-| Amplification_Brick2_F: | GACGCCAGGTTGAAT-GAATTCGCGGCCGCTTCTAGAACATTGATTATTTGC |
-| Amplification_Brick2_R: | CCGTATTTGGAGGTA-CTGCAGCGGCCGCTACTAGTAGCT             |
+| Name                   | Sequence                                             |
+| ---------------------- | ---------------------------------------------------- |
+| Amplification1_F       | GACGCCAGGTTGAAT-GAATTCGCGGCCGCTT                     |
+| Amplification1_R       | CCGTATTTGGAGGTA-CTGCAGCGGCCGCTA                      |
+| Amplification_Brick2_F | GACGCCAGGTTGAAT-GAATTCGCGGCCGCTTCTAGAACATTGATTATTTGC |
+| Amplification_Brick2_R | CCGTATTTGGAGGTA-CTGCAGCGGCCGCTACTAGTAGCT             |
 
 ## Sequencing primers
 
