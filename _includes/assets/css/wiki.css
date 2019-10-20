@@ -396,12 +396,34 @@ th {
 
 .cover {
     position: relative;
-    height: 80vh;
+    height: calc(100vh - 3.5rem);
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 4rem;
+}
+
+.cover:after {
+    content: '↓';
+    display: block;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    font-size: 60px;
+    animation: go-down 2000ms ease-in-out infinite;
+}
+
+@keyframes go-down {
+    0% {
+        transform: translate(0, -40px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
 }
 
 .cover > * {
