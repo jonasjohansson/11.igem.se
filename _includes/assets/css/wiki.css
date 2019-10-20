@@ -11,6 +11,22 @@
 #esther article section:first-child {
     display: none;
 }
+table {
+    display: table !important;
+    table-layout: fixed;
+}
+td,
+th {
+    padding: 0.5rem;
+}
+table,
+thead,
+tbody,
+th,
+td {
+    width: 100%;
+    word-wrap: break-word;
+}
 
 html {
     position: absolute;
