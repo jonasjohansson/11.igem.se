@@ -113,8 +113,6 @@ We would like to thank all the speakers that accepted to participate in our docu
 
 **Graham F Hatfull**. Principal Investigator at the Department of Biological Sciences, University of Pittsburgh. He provided us with papers on how to safely engineer temperate phages to be used in phage therapy.
 
-**Mindaugas Raitelaitis,** a former member of iGEM Stockholm 2019, he helped us to fill the Safety Form.
-
 ## Entrepreneurship Support
 
 **Tobias Beck.** Economy Graduate at Stockholm University. He gave us guidance in social media growth strategy and helped our finance team with the launch of our crowdfunding campaign.
@@ -178,6 +176,8 @@ We want to thank other iGEM teams and members that we have met throughout this y
 Thank you Beckmans college of design for lending your facilities for meetings, project video documentation and internal events.
 
 Thank you as well to all the teams that collaborated with us, such as iGEM Eindhoven, iGEM Lund, iGEM Uppsala, and their delicious crayfish dinner, iGEM Technion, iGEM Carroll HS, and iGEM Dusseldorf.
+
+Also a big thanks to Mindaugas Raitelaitis**,** a former member of iGEM Stockholm 2019 who has helped tremendously during the initial brainstorming and project development, as well as the Safety issues around working with the P2 phage.
 
 Last, but not least, we would like to thank our former iGEM Stockholm 2019 Team Leader, Eden Black, for his tremendous help during the first months of our iGEM journey, and his enormous dedication to the design our project. You helped build up our team and inspired all of us with your dedication and determination. Esther would not have been possible without you.
 

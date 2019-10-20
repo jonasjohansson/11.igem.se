@@ -142,16 +142,16 @@ h4 {
     font-weight: 300;
 }
 
-.image {
+figure.image {
     cursor: zoom-in;
 }
 
-.image img {
+figure.image img {
     width: 100%;
     transition: all 200ms ease-in-out;
 }
 
-.image:active img {
+figure.image:active img {
     width: 140%;
     margin-left: -20%;
 }

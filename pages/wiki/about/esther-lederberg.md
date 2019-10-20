@@ -27,6 +27,8 @@ Esther helped discover a lot. Not only did this remarkable woman discover temper
 
 She did not get the recognition she deserved throughout her life, and our project would not be possible without her research, and so we dedicate our work to her, and to all women in science!
 
+## References
+
 1. [https://www.whatisbiotechnology.org/index.php/people/summary/Lederberg_Esther](https://www.whatisbiotechnology.org/index.php/people/summary/Lederberg_Esther)
 2. [https://time.com/longform/esther-lederberg/](https://time.com/longform/esther-lederberg/)
 
