@@ -27,7 +27,7 @@ section > *:not(:last-child) {
 	margin-bottom: calc(var(--base) * 1.5);
 }
 
-nav a {
+nav > a {
 	display: table;
 }
 

@@ -74,7 +74,7 @@ p img {
     width: 100%;
 }
 
-ol {
+h2#references ~ ol {
     font-size: 80%;
     opacity: 0.5;
 }
@@ -168,6 +168,7 @@ article {
     transform-style: preserve-3d;
     /*transition: transform 200ms ease-in-out;*/
     /*transform: translate(0, 4rem);*/
+    padding-bottom: 4rem;
 }
 
 /* header */

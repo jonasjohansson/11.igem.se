@@ -19,29 +19,33 @@ In our modeling project, we managed to achieve these goals:
 
 ## Introduction
 
-### Bistability
+One of the fundamental characteristics that some biological systems exhibit is bistability. In a dynamical system, bistability means that the system has two equilibrium states, characterized by distinct gene expression profiles (Figure 1). Some examples include the lactose operon repressor system, the genetic toggle switch, and the bacteriophage λ genetic switch. A bacteriophage genetic switch is characterized by its ability to switch between 'lytic-lysogeny states' depending upon the kind of regulator that is expressed, making it a bistable system. In bistable systems, small perturbations cause the system to return to the original state, while more significant perturbations lead to "state switching." (1)
 
-One of the fundamental characteristics that some biological systems exhibit is bistability. In a dynamical system, bistability means that the system has two equilibrium states, characterized by distinct gene expression profiles. Some examples include the lactose operon repressor system, the genetic toggle switch, and the bacteriophage λ genetic switch. A bacteriophage genetic switch is characterized by its ability to switch between 'lytic-lysogeny states' depending upon the kind of regulator that is expressed, making it a bistable system. In bistable systems, small perturbations cause the system to return to the original state, while more significant perturbations lead to "state switching." (1)
+{% image "/static/img/wiki/project/model-01.png", "Figure 1. Bistability is a property of a system that contains two local energy minima." %}
 
-{% image "/static/img/wiki/project/model-01.png", "Figure 1: Bistability is a property of a system that contains two local energy minima." %}
+Another example of a system with bistable behavior is bacteriophage P2, which is our system of interest in project Esther. As described in [Design](/wiki/design/), the switch between the lytic and lysogenic states in bacteriophage P2 is controlled by a simple transcriptional switch. The C protein, responsible for the lysogenic state, autoregulates the Pc promoter and represses the Pe promoter as a dimer while the Cox protein, responsible for the lytic state, represses both promoters as a tetramer (Figure 2). We plan to use two different plasmids to simulate different parts of this system. The first plasmid is the Switch plasmid, and the second plasmid is the Model plasmid.
 
-Another example of a system with bistable behavior is bacteriophage P2, which is our system of interest in *Esther.*
-
-### P2 genetic switch system
-
-The switch between the lytic and lysogenic phase in bacteriophage P2 is controlled by a simple transcriptional switch. It uses the concentration of two repressor proteins to maintain a particular state, and when the concentration of these repressor proteins shifts, then these repressor proteins shift, the phage switches cycle switches cycles. What the natural trigger to this is, is unknown. The transcriptional switch is illustrated in Figure 2. The C protein expression is regulated by the Pc promoter, while the Cox protein expression is controlled by the Pe promoter. The former triggers the lysogenic cycle while the latter triggers the lytic. The C protein autoregulates the Pc promoter and represses the Pe promoter as a dimer while the Cox protein represses both promoters as a tetramer. (2)
+[](https://www.notion.so/769313af890b43c98cadaa5167f263c2#913a0b1dfb194abb88a3f128d4899b6d)
 
 {% image "/static/img/wiki/project/model-02.png", "Figure 2: An illustration of the transcriptional switch. We see the C protein repress both the Pc and Pe promoters as a dimer. We see Cox repress both promoters as a tetramer." %}
 
-The product we wish to create is a stable bacterial carrier of the P2 phage and a switch plasmid, which is inducing the lysogenic (passive, inactive) phase in the phage. Thus, the initial state of the product is a carrier of the genetic material of the P2 phage that can survive within the digestion tract of humans. When the carrier reaches the pathogenic target, a signal within the carrier is triggered, and the switch induces the lytic (offensive, active) phase in the phage. At this point, there is a high concentration of phages near the target, which in turn should ward off the infection as a whole. The plan is to use two different plasmids to simulate different parts of the system. [The first plasmid is the switch plasmid, and the second plasmid is the model plasmid](/wiki/design/).
+To characterize and better understand these systems, we have applied deterministic and stochastic modeling to study them. Deterministic models are based on defining the dynamics of proteins involved with ordinary differential equations, while stochastic models also take into account the influence of both intrinsic and extrinsic noise.
 
-### Deterministic and stochastic modeling
-
-To characterize and better understand systems as the ones described above, one can apply deterministic and stochastic modeling to study them. Deterministic models are based on defining the dynamics of proteins involved with ordinary differential equations, while stochastic models also take into account the influence of both intrinsic and extrinsic noise. Here, we present deterministic and stochastic models that we have developed by applying rate laws to the various biochemical reactions involved in the systems.
+## Workflow
 
 ![](/static/img/wiki/project/model-03.png)
 
-[Model development](/wiki/model-development/) [Model simulation](/wiki/model-simulation/) [Model analysis](/wiki/model-analysis/)
+### Model Development
+
+Deterministic and stochastic models that have been developed by applying rate laws to the various biochemical reactions involved in the systems. [→ Learn more](/wiki/model-development/)
+
+### Model Simulation
+
+Simulation of our plasmid systems according to the models we developed above. We present graphs of protein dynamics as well as steady state analysis for both deterministic and stochastic settings. [→ Learn more](/wiki/model-simulation/)
+
+### Model Analysis
+
+Analysis of a bifurcation analysis for P2 genetic switch in order to explore its bistability, as well as sensitivity analysis for both plasmid systems to determine the influence of various parameters. [→ Learn more](/wiki/model-analysis/)
 
 ## Conclusions
 
@@ -54,3 +58,5 @@ To characterize and better understand systems as the ones described above, one c
 1. Bednarz M, Halliday JA, Herman C, Golding I. Revisiting bistability in the lysis/lysogeny circuit of bacteriophage lambda. PloS one. 2014 Jun 25;9(6):e100876.
 2. Renberg-Eriksson SK, Ahlgren-Berg A, DeGrooth J, Haggård-Ljungquist E. Characterization of the developmental switch region of bacteriophage P2 Hy dis. Virology. 2001 Nov 25;290(2):199-210.
 3. Mestivier D, Boelle P-Y, Pakdaman K, Richard A, Comet J-P, Hutzler G, et al. modeling of λ phage genetic switch. :109.
+
+All code was written in Python and MATLAB, [click to download](https://2019.igem.org/wiki/images/8/8d/T--Stockholm--model-github.zip).

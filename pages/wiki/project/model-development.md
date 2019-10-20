@@ -7,35 +7,33 @@ tags: wiki
 
 ## P2 genetic switch
 
-We started modelling the P2 genetic switch by describing the system graphically in terms of C protein dynamics, based on a similar approach applied to bacteriophage λ, as described by Mestivier et al. (3)
+We started modeling the P2 genetic switch by describing the system graphically in terms of C protein dynamics, based on a similar approach applied to bacteriophage λ, as described by Mestivier et al. (3)
 
-[](https://www.notion.so/ed7982c9b21e494e9791de03e5bcfe46#125fbca748694f7c9347ea7130a530d7)
-
-Figure 3. _Graphical representation of P2 genetic switch system_
+{% image "/static/img/wiki/project/model-development-01.png", "Figure 1. Graphical representation of P2 genetic switch system." %}
 
 Based on the graphical representation, we derived differential equations for each of the reactions that the C protein is involved in. Notation: x - concentration of C; y - concentration of C2 (c protein dimer).
 
-1. _Degradation of C protein_
+1. Degradation of C protein
 
     $$  \frac{dx}{dt}=-k_0x$$
 
-2. _Dimerization of C protein_
+2. Dimerization of C protein
 
     $$  \frac{dx}{dt}=-k_{12}x^2+2k_{21}y;\ \frac{dy}{dt}=k_{12}x^2-k_{21}y$$
 
-3. _Synthesis of C protein_
+3. Synthesis of C protein
 
     $$  \frac{dx}{dt}=nk_tD_0P$$
 
-4. _Binding of C dimer to Pc promoter at low concentrations_
+4. Binding of C dimer to Pc promoter at low concentrations
 
     $$  \frac{dy}{dt}=-k_1yD_0+k_{-1}D_1;\ \frac{dD_0}{dt}=-k_1yD_0+k_{-1}D_1;\ \frac{dD_1}{dt}=k_1yD_0-k_{-1}D_1$$
 
-5. _Stimulated synthesis of C protein_
+5. Stimulated synthesis of C protein
 
     $$  \frac{dx}{dt}=nk_{t2}D_1P$$
 
-6. _Binding of C dimer to Pc promoter at high concentrations_
+6. Binding of C dimer to Pc promoter at high concentrations
 
 $$  \frac{dy}{dt}=-k_2yD_1+k_{-2}D_2;\ \frac{dD_1}{dt}=-k_2yD_1+k_{-2}D_2;\ \frac{dD_2}{dt}=k_2yD_1-k_{-2}D_2\ $$
 
@@ -133,25 +131,23 @@ We adopt this approach to derive our general stochastic model with a τ value of
 
 $$x\left(t+\tau\right)={x}\left(t\right)+\mathcal{P}\left[\frac{1+\tau u x^2}{1+ux^2+\sigma u^2x^4}\tau\right]-\mathcal{P}\left[\gamma x\tau\right]$$
 
-We implement this approach in Python, using numpy.random.poisson function (see our GitHub page).
+We implement this approach in Python, using numpy.random.poisson function.
 
-## Model plasmid
+### Model plasmid
 
-[](https://www.notion.so/ed7982c9b21e494e9791de03e5bcfe46#88d0d034b4de49eeb3131ac7566e5f7d)
-
-Figure 4. _Graphical representation of Model Plasmid_
+{% image "/static/img/wiki/project/model-development-01.png", "Figure 2. Graphical representation of Model Plasmid." %}
 
 Based on the graphical representation, we have derived the following differential equations. Notation: x - concentration of C; y- concentration of C2; m - concentration of Cox; n - concentration of Cox4.
 
-1. _Synthesis of C protein_
+1. Synthesis of C protein
 
     $$\frac{dx}{dt}=nk_{t1}D_1P$$
 
-2. _Degradation of C protein_
+2. Degradation of C protein
 
     $$\frac{dx}{dt}=-k_0x$$
 
-3. _Binding of arabinose_
+3. Binding of arabinose
 
     $$\frac{d[arabinose]}{dt}=-k_1D_0[arabinose]+k_{-1}D_1$$
 
@@ -159,27 +155,27 @@ Based on the graphical representation, we have derived the following differentia
 
     $$\frac{dD_1}{dt}=k_1D_0[arabinose]-k{-1}D_1$$
 
-4. _Dimerization of C protein_
+4. Dimerization of C protein
 
     $$\frac{dx}{dt}=-k_{12}x^2+2k_{21}y$$
 
     $$\frac{dy}{dt}=k_{12}x^2-k_{21}y$$
 
-5. _Synthesis of Cox from Pe promoter_
+5. Synthesis of Cox from Pe promoter
 
     $$\frac{dm}{dt}=Nk_{t2}D_1P$$
 
-6. _Tetramerization of Cox_
+6. Tetramerization of Cox
 
     $$\frac{dm}{dt}=-k_{14}m^4+4k_{41}n$$
 
     $$\frac{dn}{dt}=k_{14}m^4-k_{41}n$$
 
-7. _Degradation of Cox_
+7. Degradation of Cox
 
     $$\frac{dm}{dt}=-k_0m$$
 
-8. _Binding of C2 at low concentrations to Pe promoter_
+8. Binding of C2 at low concentrations to Pe promoter
 
     $$\frac{dy}{dt}=-k_2D_1y+k_{-2}D_3$$
 
@@ -187,11 +183,11 @@ Based on the graphical representation, we have derived the following differentia
 
     $$\frac{dD_3}{dt}=k_2D_1y-k_{-2}D_3$$
 
-9. _Slowed synthesis of Cox because of C2 binding_
+9. Slowed synthesis of Cox because of C2 binding
 
     $$\frac{dm}{dt}=Nk_{t3}D_3P$$
 
-10. _Binding of Cox4 at low concentrations to Pe promoter_
+10. Binding of Cox4 at low concentrations to Pe promoter
 
     $$\frac{dn}{dt}=-k_3D_1n+k_{-3}D_2$$
 
@@ -199,11 +195,11 @@ Based on the graphical representation, we have derived the following differentia
 
     $$\frac{dD_2}{dt}=k_3D_1n-k_{-3}D_2$$
 
-11. _Slowed synthesis of Cox because of Cox4 binding to Pe promoter_
+11. Slowed synthesis of Cox because of Cox4 binding to Pe promoter
 
     $$\frac{dm}{dt}=Nk_{t4}D_2P$$
 
-12. _Binding of C2 at high concentrations to Pe_
+12. Binding of C2 at high concentrations to Pe
 
     $$\frac{dy}{dt}=-k_4D_3y+k_{-4}D_5$$
 
@@ -211,15 +207,15 @@ Based on the graphical representation, we have derived the following differentia
 
     $$\frac{dD_5}{dt}=k_4D_3y-k_{-4}D_5$$
 
-13. _Binding of Cox4 leading to inhibited synthesis_
+13. Binding of Cox4 leading to inhibited synthesis
 
     $$\frac{dn}{dt}=-k_5D_3n+k_{-5}D_6$$
 
     $$\frac{dD_3}{dt}=-k_5D_3n+k_{-5}D_6$$
 
-    $$\frac{{\rm dD}_6}{dt}=k_5D_3n-k_{-5}D_6$$
+    $$\frac{dD_6}{dt}=k_5D_3n-k_{-5}D_6$$
 
-14. _Binding of C2 leading to inhibited synthesis_
+14. Binding of C2 leading to inhibited synthesis
 
     $$\frac{dy}{dt}=-k_6D_2y+k_{-6}D_6$$
 
@@ -227,7 +223,7 @@ Based on the graphical representation, we have derived the following differentia
 
     $$\frac{dD_6}{dt}=k_6D_2y-k_{-6}D_6$$
 
-15. _Binding of Cox4 at high concentrations to Pe_
+15. Binding of Cox4 at high concentrations to Pe
 
 $$\frac{dn}{dt}=-k_7D_2n+k_{-7}D_4$$
 
@@ -309,15 +305,13 @@ $$\alpha=\frac{k_0}{w};\ \beta=\frac{k_{02}}{w}$$
 
 The final models are:
 
-$$\frac{dx}{dt}=\frac{K_{t1}K_1[arabinose]}{1+[arabinose](K_1+K_3K_1m^4+K_2K_1K_Dx^2+K_7K_3K_5K_T^2m^8+K_4K_2K_1K_D^2x^4+K_5K_2K_1K_Dx^2K_Tm^4)}-αx$$
+$$\frac{dx}{dt}=\frac{K_{t1}K_1[arabinose]}{1+\[arabinose](K_1+K_3K_1m^4+K_2K_1K_Dx^2+K_7K_3K_5K_T^2m^8+K_4K_2K_1K_D^2x^4+K_5K_2K_1K_Dx^2K_Tm^4)}-αx$$
 
-$$\frac{dm}{dt}=\frac{[arabinose](K_{t2}K_1+k_{t3}K_1K_2K_Dx^2+k_{t4}K_1K_3K_Tm^4)}{1+[arabinose](K_1+K_3K_1m^4+K_2K_1K_Dx^2+K_7K_3K_5K_T^2m^8+K_4K_2K_1K_D^2x^4+K_5K_2K_1K_Dx^2K_Tm^4)}-βm$$
+$$\frac{dm}{dt}=\frac{\[arabinose](K_{t2}K_1+k_{t3}K_1K_2K_Dx^2+k_{t4}K_1K_3K_Tm^4)}{1+\[arabinose](K_1+K_3K_1m^4+K_2K_1K_Dx^2+K_7K_3K_5K_T^2m^8+K_4K_2K_1K_D^2x^4+K_5K_2K_1K_Dx^2K_Tm^4)}-βm$$
 
-## Switch plasmid
+### Switch plasmid
 
-[](https://www.notion.so/ed7982c9b21e494e9791de03e5bcfe46#705d1e66450c4746a0fa1548307a2595)
-
-Figure 5. _Graphical representation of the Switch Plasmid_
+{% image "/static/img/wiki/project/model-development-03.png", "Figure 3. Graphical representation of the Switch Plasmid." %}
 
 Based on the graphical representation, we have derived the following differential equations for each of the reactions in the network. Notation: x - concentration of C; m - concentration of Cox; r - concentrattion of tetR, q - concentration of tetR2.
 
@@ -450,3 +444,5 @@ $$\frac{dx}{dt}=\frac{k_{t1}+k_{t3}K_1K_Dr^2}{1+K_3[arabinose]+K_1K_Dr^2+K_D^2K_
 $$\frac{dm}{dt}=\frac{k_{t2}K_3[arabinose]}{1+K_3[arabinose]+K_1K_Dr^2+K_D^2K_1K_2r^4}-βx$$
 
 $$\frac{dr}{dt}=\frac{k_{t2}K_3[arabinose]}{1+K_3[arabinose]+K_1K_Dr^2+K_D^2K_1K_2r^4}-γx$$
+
+← [Return to Model](/wiki/model)
