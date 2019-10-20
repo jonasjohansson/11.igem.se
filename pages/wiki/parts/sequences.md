@@ -29,7 +29,7 @@ tags: wiki
 
 ## New amplification primers
 
-| New                    | Sequence                                             |
+| Name                   | Sequence                                             |
 | ---------------------- | ---------------------------------------------------- |
 | Max_primer_BB1/BB1.2_F | GACGCCAGGTTGAAT-GAATTCGCGGCCGCTTCTAGAATTTCAG         |
 | Max_primer_BB1/BB1.2_R | CCGTATTTGGAGGTA-CTGCAGCGGCCGCTACTAGTATGG             |
@@ -42,7 +42,6 @@ tags: wiki
 
 | Name             | Sequence                                    |
 | ---------------- | ------------------------------------------- |
-| Q5 Tm for primer | Ta = Tm_lower+1°C                           |
 | OE_1_1+2_F_0008  | CGCCAGGTTGAATGAATTCGC                       |
 | OE_1_1+2_R_0009  | CAAATAATCAATGTTGGCCGGCTTGACGG               |
 | OE_2_1+2_F_00010 | GTCAAGCCGGCCAACATTGATTATTTGCACGGCGTCAC      |
@@ -89,30 +88,30 @@ tags: wiki
 
 ## Deletion primer
 
-| Name         | Sequence                       |
-| ------------ | ------------------------------ |
-| Delete BB1 F | CTAGGACTGAGCTAGCCGTCAAGCC      |
-| Delete BB1 R | GTTGAACAGTACGAACGTGCCGAGG      |
-| Delete BB2 F | TTTGTAACAGCTGCTGGGATTACACATGGC |
-| Delete BB2 R | CGGCTTGACGGCTAGCTCAGTCC        |
+| Name  | Sequence                       |
+| ----- | ------------------------------ |
+| BB1 F | CTAGGACTGAGCTAGCCGTCAAGCC      |
+| BB1 R | GTTGAACAGTACGAACGTGCCGAGG      |
+| BB2 F | TTTGTAACAGCTGCTGGGATTACACATGGC |
+| BB2 R | CGGCTTGACGGCTAGCTCAGTCC        |
 
 ## Primer to add RBS
 
-| Name              | Sequence                                        |
-| ----------------- | ----------------------------------------------- |
-| add RBS3 to RFP F | AGCCATCTAGTACGTCATGTCTTTCTTATTATTTGTCGTCGTCG    |
-| add RBS3 to RFP R | ATGTGACCGACTGTGAATCTG                           |
-| add RBS3 to GFP F | ACTAGATGCGTAAAGGAGAAGAACTTTTCACTGGAGTTGTCC      |
-| add RBS3 to GFP R | ACGTCATGTCTTTCTTATTACAGATCTTCTTCGCTAATCAGTTTCTG |
+| Name          | Sequence                                        |
+| ------------- | ----------------------------------------------- |
+| RBS3 to RFP F | AGCCATCTAGTACGTCATGTCTTTCTTATTATTTGTCGTCGTCG    |
+| RBS3 to RFP R | ATGTGACCGACTGTGAATCTG                           |
+| RBS3 to GFP F | ACTAGATGCGTAAAGGAGAAGAACTTTTCACTGGAGTTGTCC      |
+| RBS3 to GFP R | ACGTCATGTCTTTCTTATTACAGATCTTCTTCGCTAATCAGTTTCTG |
 
 ## NO-Sensing System Primers
 
-| Name           | Sequence                                                  |
-| -------------- | --------------------------------------------------------- |
-| Amp1           | ATCGCTAATGTGAGCCCATC                                      |
-| Amp2           | ATGTGACCGACTGTGAATCTG                                     |
-| Cutout F       | CCCATCGTGGTCCTCAGATA                                      |
-| Cutout R       | CTGCAGCGGCCGCTACTAGTAGTACTTCGCCACTAATTCCACA               |
-| Sens_Opti F    | ATCGCTAATGTGAGCCCATCGTGGTCC                               |
-| Sens_Opti R    | CAATGTGACCGACTGTGAATCTGCAGCGG                             |
-| Alternative_1: | CAGATATGAATTCGCGGCCGCTTCTAGAGTGTGGAATTAGTGGCGAAGTACGATTCC |
+| Name          | Sequence                                                  |
+| ------------- | --------------------------------------------------------- |
+| Amp1          | ATCGCTAATGTGAGCCCATC                                      |
+| Amp2          | ATGTGACCGACTGTGAATCTG                                     |
+| Cutout F      | CCCATCGTGGTCCTCAGATA                                      |
+| Cutout R      | CTGCAGCGGCCGCTACTAGTAGTACTTCGCCACTAATTCCACA               |
+| Sens_Opti F   | ATCGCTAATGTGAGCCCATCGTGGTCC                               |
+| Sens_Opti R   | CAATGTGACCGACTGTGAATCTGCAGCGG                             |
+| Alternative_1 | CAGATATGAATTCGCGGCCGCTTCTAGAGTGTGGAATTAGTGGCGAAGTACGATTCC |
