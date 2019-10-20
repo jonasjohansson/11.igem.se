@@ -5,7 +5,7 @@ permalink: /wiki/outlook/
 tags: wiki
 ---
 
-> We ask ourselves this question many times! There are plenty of things to consider when developing new technology, such as the safety of your product (link to Safety & Phages), the potential market space (link to Business Model), and how our product will be perceived by the general public (link to Integrated Human Practices). On this page, we want to take a look at how a future world would look like for Esther, going from the very beginning of the manufacturing process, continuing with diagnosis, and finally, how our treatment can be administered to the patient.
+> There are plenty of things to consider when developing new technology, such as the [safety of your product](/wiki/safety/), the potential market space, and [how our product will be perceived by the general public](/wiki/human-practices/). On this page, we want to take a look at how a future world would look like for Esther, going from the very beginning of the manufacturing process, continuing with diagnosis, and finally, how our treatment can be administered to the patient.
 
 ![](/static/img/wiki/project/outlook-01.png)
 
@@ -25,13 +25,13 @@ The survival of the probiotics in the GI tract has to be secured until it reache
 
 ![](/static/img/wiki/project/outlook-03.png)
 
-Moreover, the strain has to be genetically stable, cultivable on a large scale, and viable in combination with supplements or other food products (1). According to requirements in Canada and Italy, a minimum amount of 10^9 of colony-forming units is required to provide health benefits (2). In addition, there is no report that a higher dose is detrimental. Probiotics are usually stored in ambient temperature and humidity; however, it could cause a loss of viability compared to frozen storage. Therefore, over 10^9 has to be added to reach the target dose.
+Moreover, the strain has to be genetically stable, cultivable on a large scale, and viable in combination with supplements or other food products. (1) According to requirements in Canada and Italy, a minimum amount of 10^9 of colony-forming units is required to provide health benefits. (2) In addition, there is no report that a higher dose is detrimental. Probiotics are usually stored in ambient temperature and humidity; however, it could cause a loss of viability compared to frozen storage. Therefore, over 10^9 has to be added to reach the target dose.
 
 ### Quality control & upscaling
 
 Let’s get a bit more specific. Quality control testing is required to verify that the product is free of contaminants and that it includes only pure strain, so it may be prepared for a large scale manufacturing process. Frozen glycerol stock containing the plasmid switch will be directly inoculated to the fermentation containers. The containers will not have any nitrogen source, as recommended by regular standard protocols.
 
-Then, the centrifugation step will allow to separate cells from the medium and obtain them in high concentration. The obtained highly concentrated bacteria will be infected by the modified phages, and we will proceed with the preservation techniques. The cryoprotectants and lyoprotectants added to the cells allow lyophilization of the end product. The lyophilized material is then blended with excipients, forming the final product as a tablet. The second round of quality control testing is applied to check for the high quality of end-product and contamination. The lyophilized bacteria tablets have to be stored at 40°C temperature to extend the shelf-life for three months (3).
+Then, the centrifugation step will allow to separate cells from the medium and obtain them in high concentration. The obtained highly concentrated bacteria will be infected by the modified phages, and we will proceed with the preservation techniques. The {% define 'cryoprotectants', 'A cryoprotectant is a substance used to protect biological tissue from freezing damage' %} and {% define 'lyoprotectants', 'A substance added to something undergoing lyophilization in order to prevent damage' %} added to the cells allow {% define 'lyophilization', 'Lyophilization is a water removal process typically used to preserve perishable materials, to extend shelf life or make the material more convenient for transport.' %} of the end product. The lyophilized material is then blended with excipients, forming the final product as a tablet. The second round of quality control testing is applied to check for the high quality of end-product and contamination. The lyophilized bacteria tablets have to be stored at 40°C temperature to extend the shelf-life for three months. (3)
 
 ![](/static/img/wiki/project/outlook-04.png)
 
@@ -67,19 +67,19 @@ As part of our visit to Georgia, we also asked them how we could improve Esther 
 
 Though our project focuses explicitly on delivering phages towards gut inflammation in which we envision using a NO-sensing system, the system could be modified to suit other plausible potential applications:
 
-1. Methicillin resistant Staphylococcus Aureus (MRSA):
+1\) Methicillin resistant Staphylococcus Aureus (MRSA):
 
 MRSA is known to be one of the most common antibiotic-resistant bacteria in hospital settings. It is responsible for contracting life-threatening infections at surgical sites, skin, and bloodstream. It is not just resistant to methicillin but also amoxicillin, penicillin, and oxacillin. The prime reason for resistance to β-lactam antibiotics is the expression of the enzyme PC1β-lactamase. A similar sensing system highly specific for this enzyme could be adopted to create lytic phages against MRSAs. (4)
 
-2. Pseudomonas Aeruginosa in Lung Infections:
+2\) Pseudomonas Aeruginosa in Lung Infections:
 
 Cystic fibrosis and other lung disorders generally caused by P. Aeruginosa infection confer antibiotic resistance due to antibiotic activating enzymes such as β-lactamases and other quinolone efflux proteins. (5) Another possible mechanism of acquiring resistance is biofilm formation by extracellular amino-peptidases, a quorum-sensing regulated enzyme. Hence, a sensing system recognizing these enzymes or specific molecules involved in the biofilm formation can turn phages lytic. (6)
 
-3. Antibiotic Resistant Gonorrhea:
+3\) Antibiotic Resistant Gonorrhea:
 
 There are several STIs caused by a wide variety of bacteria. One of the most notorious STI facing antibiotic resistance currently is Neisseria gonorrhoeae (7). A primary reason for resistance against Neisseria gonorrhoeae infection is its ability to produce penicillinase. It is mediated by TEM-1 type beta-lactamase, which falls under the third general category of β- lactam resistance. A similar sensing system targeting this enzyme might be a potential application of treating UTI infections. (8)
 
-4. Antibiotic Resistance in Acute Respiratory Infections (ARI):
+4\) Antibiotic Resistance in Acute Respiratory Infections (ARI):
 
 Haemophilus influenzae is one of the major bacterial pathogens responsible for acute respiratory infections such as pneumonia. This is mainly resistant to antibiotics penicillin, cefuroxime, clarithromycin, amoxicillin, etc. Similar to P. Aeruginosa, the primary cause of resistance is seen to be due to β-lactamases, predominantly mediated by TEM-1 or ROB-1 β-lactamases. A similar approach to targeting this enzyme using Esther serves as a potential solution of treating respiratory infections. (9)
 

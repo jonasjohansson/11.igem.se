@@ -77,6 +77,7 @@ p img {
 h2#references ~ ol {
     font-size: 80%;
     opacity: 0.5;
+    padding-left: 0;
 }
 
 /*p a {
@@ -141,9 +142,18 @@ h4 {
     font-weight: 300;
 }
 
-p.image {
-    width: 130%;
-    margin-left: -15%;
+.image {
+    cursor: zoom-in;
+}
+
+.image img {
+    width: 100%;
+    transition: all 200ms ease-in-out;
+}
+
+.image:active img {
+    width: 140%;
+    margin-left: -20%;
 }
 
 p.slideshow {
@@ -363,7 +373,7 @@ th {
     top: 0;
     left: 0;
     width: 100%;
-    height: 1rem;
+    height: 0.5rem;
     z-index: 110;
     /*pointer-events: none;*/
     /*mix-blend-mode: difference;*/
@@ -375,7 +385,7 @@ th {
     top: 0;
     left: 0;
     width: 0;
-    background-image: linear-gradient(45deg, #1c2342, #c71881);
+    background-image: linear-gradient(45deg, white, black);
     height: 100%;
 }
 
@@ -518,6 +528,22 @@ footer:after {
     }
 }
 
+.callout {
+    padding: 1rem;
+    box-sizing: border-box;
+    outline: 1px solid rgba(0, 0, 0, 0.04);
+    background-color: rgba(0, 0, 0, 0.02);
+    display: flex;
+}
+
+.callout .emoji {
+    padding-right: 1rem;
+}
+
+.definition {
+    cursor: help;
+    border-bottom: 1px dotted black;
+}
 .page .title {
     padding: 2rem 0;
     font-size: 24px;

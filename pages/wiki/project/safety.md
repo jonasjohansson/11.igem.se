@@ -7,9 +7,9 @@ tags: wiki
 
 > One of the biggest questions among researchers, policymakers, and stakeholders regarding Phage Therapy is: how safe is it? Our team considers of extreme importance to understand the implications of this new therapy, and to integrate these concerns into our project to make sure we develop a treatment that is safe to use.
 
-We have divided this question into two categories: 1) How safe it is to use temperate phages for Phage Therapy, and 2) how safe it is to treat patients using Esther.
+<!-- {% callout "💡" %} We have divided this question into two categories: 1) How safe it is to use temperate phages for Phage Therapy, and 2) how safe it is to treat patients using Esther. {% endcallout %} -->
 
-## About the safety of temperate phages - their effect on resistance
+## About the safety of temperate phages
 
 Temperate phages can be a source of genetic transduction, a rare occurrence in which, at the moment of encapsulation, bacterial DNA gets trapped in the bacteriophage’s capsule. If the phage then infects other bacteria and activates the lysogenic cycle, it can integrate DNA from the donor into the receptor, therefore providing new genes.
 
@@ -17,15 +17,15 @@ Transduction can be a vehicle to exchange resistance genes, or genes to increase
 
 ![](/static/img/wiki/project/safety-01.png)
 
-For this purpose, we spoke to professor Graham F. Hatfull, the first and only researcher up to date, to engineer a temperate bacteriophage to be clinically used in the treatment of a patient with an antibiotic-resistant infection of Mycobacterium abscessus (2). For the treatment, they genetically modified the temperate phage Zoej and made it obligated lytic by removing its repressor gene 45, which was responsible for keeping the phage at the lysogenic cycle (3).
+For this purpose, we spoke to professor Graham F. Hatfull, the first and only researcher up to date, to engineer a temperate bacteriophage to be clinically used in the treatment of a patient with an antibiotic-resistant infection of Mycobacterium abscessus. (2) For the treatment, they genetically modified the temperate phage Zoej and made it obligated lytic by removing its repressor gene 45, which was responsible for keeping the phage at the lysogenic cycle. (3)
 
 ![](/static/img/wiki/project/safety-02.png)
 
-This helped us confirm the safety of our project design (link to design). The repressor protein for our P2 phage is the C protein. Moreover, it has been previously shown that removal of this protein will block the activation of the lysogenic cycle. (4) By eliminating the C protein from our P2 phage, we make sure that it cannot enter the lysogenic cycle in another host, preventing transduction and the exchange of resistance genes.
+This helped us confirm the safety of our [project design](/wiki/design/). The repressor protein for our P2 phage is the C protein. Moreover, it has been previously shown that removal of this protein will block the activation of the lysogenic cycle. (4) By eliminating the C protein from our P2 phage, we make sure that it cannot enter the lysogenic cycle in another host, preventing transduction and the exchange of resistance genes.
 
-## Humans & Esther – effects on health
+## Humans and Esther
 
-Esther consists of two parts – the vehicle bacteria and the P2 phage (link to Project Design). It is crucial to evaluate the impact of these two types of organisms on human health separately since they have different characteristics.
+Esther consists of two parts – the vehicle bacteria and the P2 phage. It is crucial to evaluate the impact of these two types of organisms on human health separately since they have different characteristics.
 
 ### The phage
 
@@ -43,7 +43,7 @@ The bacterial component in Esther will be used as a delivery method for the loca
 
 Because exogenous bacteria can be the source of an inflammatory reaction, it is important to understand how the body reacts to the use of Esther. Studies have shown that EcN does not exhibit toxicity after administration to germ-free mice and conventional mice (9). It showed anti-inflammatory effects in sepsis-induced mice. (10)
 
-These results, however, do not apply to certain mutations causing immunodeficiency (9), and therefore, it is important to consider the genetic background of the patient before administering Esther. [To learn more about EcN, visit our Outlook page!](/wiki/outlook/)
+These results, however, do not apply to certain mutations causing immunodeficiency (9), and therefore, it is important to consider the genetic background of the patient before administering Esther. [To learn more about EcN, visit Outlook!](/wiki/outlook/)
 
 ![](/static/img/wiki/project/safety-04.png)
 

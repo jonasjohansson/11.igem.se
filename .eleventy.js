@@ -28,6 +28,14 @@ module.exports = function(eleventyConfig) {
 		return `<figure class="image"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
 	});
 
+	eleventyConfig.addShortcode('define', function(word, definition = '') {
+		return `<span class="definition" title="${definition}">${word}</span>`;
+	});
+
+	eleventyConfig.addPairedShortcode('callout', function(content, emoji = '') {
+		return `<div class="callout"><span class="emoji">${emoji}</span>${content}</div>`;
+	});
+
 	eleventyConfig.addPairedShortcode('slideshow', function(content) {
 		return `<div class="slideshow">${content}</div>`;
 	});
