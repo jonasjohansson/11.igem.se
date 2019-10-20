@@ -5,7 +5,9 @@ permalink: /wiki/contribution/
 tags: wiki
 ---
 
-Our team has chosen to characterize briobrick [BBa_K611059](http://parts.igem.org/Part:BBa_K611059), which is composed of two separate expression units. On the one hand, we have a pBad promoter, followed by a Ribosome Binding Site (RBS) and the tetR gene. Expression of tetR can be activated by adding different concentrations of arabinose, which will bind to AraC3 and allow for transcription of the following genes. On the other hand, we have ptet promoter variant #9, followed by an RBS and a GFP protein. When tetR binds to ptet promoter, it inhibits the expression of GFP.
+## Background information
+
+Our team has chosen to characterize biobrick BBa_K611059, which is composed of two separate expression units. On the one hand, we have a pBad promoter, followed by a Ribosome Binding Site (RBS) and the tetR gene. Expression of tetR can be activated by adding different concentrations of arabinose, which will bind to AraC3 and allow for transcription of the following genes. On the other hand, we have ptet promoter variant #9, followed by an RBS and a GFP protein. When tetR binds to ptet promoter, it inhibits the expression of GFP.
 
 Therefore, in the absence of arabinose, this construct will produce GFP protein, which can be detected by its fluorescence. When adding arabinose, tetR will be produced, which will repress the expression of GFP and thus, decrease the fluorescent signal.
 
@@ -15,7 +17,7 @@ Therefore, in the absence of arabinose, this construct will produce GFP protein,
 
 We aim to study the expression of this biobrick under different conditions.
 
-First, we will study the effect of adding different concentrations of arabinose, ranging from 0µM to 1uM. We hypothesize that GFP expression negatively correlates with the concentration of arabinose. In other words, when we increase the amount of arabinose, we increase the amount of TetR repressor, and therefore, GFP expression is decreased.
+First, we will study the effect of adding different concentrations of arabinose, ranging from 0µM to 1M. We hypothesize that GFP expression negatively correlates with the concentration of arabinose. In other words, when we increase the amount of arabinose, we increase the amount of TetR repressor, and therefore, GFP expression is decreased.
 
 Secondly, we will study the change of expression over time. This will allow us to observe whether the repression of GFP expression is stable or unstable. We hypothesize that at time 0 - right after adding arabinose - the GFP expression will be similar to that of the control (no arabinose). Fluorescence will decrease over time until it reaches a stable state - which would indicate that the repression is quite stable - or it increases again - which would suggest that the repression is unstable.
 
@@ -56,12 +58,6 @@ Transform TOP10 cells with C3- BBa_K611059 plasmid from the distribution kit, ac
 ### Restriction cloning of AraC3-BBa_K611059
 
 After performing overnight cultures with TOP10 C3- BBa_K611059 plate and TOP 10 AraC3 plate, we purified the plasmid and measured the concentration using a nanodrop. Hereafter, we proceeded with digestion. Because the size of biobrick BBa_K611059 is similar to that of the C3 vector, we needed a way other than size to separate the digestion products. For that, we used the SacI enzyme, which cut the C3 vector in the middle, allowing us to separate the final product by size in an agarose gel.
-
-Therefore, we performed 2 separate digestions. The first was a single digestion 1 µg C3-BBa_K611059 with SacI, 15 minutes at 37 degrees.
-
-### Restriction cloning of AraC3-BBa_K611059
-
-After performing overnight cultures with TOP10 C3- BBa_K611059 plate and TOP 10 AraC3 plate, we purified the plasmid and measured the concentration using a nano drop. After this, we proceeded with digestion. Because the size of biobrick BBa_K611059 is similar to that of C3 vector, we needed a way other than size to separate the digestion products. For that, we used SacI enzyme, that cut the C3 vector in the middle, allowing us to separate the final product by size in an agarose gel.
 
 Therefore, we performed 2 separate digestions. The first was a single digestion 1 µg C3-BBa_K611059 with SacI, 15 minutes at 37 degrees.
 
@@ -110,22 +106,20 @@ Finally, we performed ligation in both the 1:3 ratio and 1:5 ratio. Ligated at r
 
 ### GFP measurement using FLUOstar
 
-After transformation into TOP 10 cells, we seeded the E.Coli and cultured them overnight. The next day, we were able to pick which colony had successfully been transformed with a BBa_K611059 briobrick by placing the plate on top of UV light. This excites the GFP protein, resulting in a green-shiny colony visible to the eye (results not shown due to low quality of camera). We obtained an overnight culture of 2 successfully cloned AraC3 BBa_K611059 colonies, an overnight culture of a C3-BBa_K611059 colony and an overnight culture of AraC3 colony (negative control).
+After transformation into TOP 10 cells, we seeded the E.Coli and cultured them overnight. The next day, we were able to pick which colony had successfully been transformed with a BBa_K611059 biobrick by placing the plate on top of UV light. This excites the GFP protein, resulting in a green-shiny colony visible to the eye (results not shown due to low quality of camera). We obtained an overnight culture of two successfully cloned AraC3 BBa_K611059 colonies, an overnight culture of a C3-BBa_K611059 colony, and an overnight culture of AraC3 colony (negative control).
 
-We prepared a 1M agarose stock solution diluted in LB media containing chloramphenicol, which we used to create the different exponential dilutions. Then, we performed the following steps to set up the 96 well plate with the different concentrations:
+We prepared a 1M arabinose stock solution diluted in LB media containing chloramphenicol, which we used to create the different exponential dilutions. Then, we performed the following steps to set up the 96 well plates with different concentrations:
 
 -   Blank (LB+ chloramphenicol only with different concentrations of arabinose)
--   For the Top10 AraC3 (negative control) and the C3 BBaK611059 colony
-    -   Aliquot 7 eppendorf tube with enough for 250 µl Top10-AraC3 cells OD = 0.4.
+    -   For the Top10 AraC3 (negative control) and the C3 BBa_K611059 colonyAliquot 7 Eppendorf tube with enough for 250 µl Top10-AraC3 cells OD = 0.4.
     -   Spin down the tubes and discard the supernatant.
     -   Resuspend the cells in 200 µl of each of the arabinose-adjusted-media.
     -   Load 200 µl of the samples according to the table below.
--   For colony 1 of TOP 10 AraC3 BBaK611059 (repeat same for colony 2)
-    -   Aliquot 7 tube with enough for 500 µl Top10- BB cells OD= 0.15
+    -   For colony 1 of TOP 10 AraC3 BBa_K611059 (repeat same for colony 2)Aliquot 7 tube with enough for 500 µl Top10- BB cells OD= 0.15
     -   Spin down the tubes and discard the supernatant.
     -   Resuspend the cells in 500 µl of each of the arabinose-adjusted-media.
     -   Load 200 µl of the samples according to the table below (in duplicates)
--   For standard curve → follow protocol from Measurement kit
+-   For standard curve → follow the protocol from Measurement kit
 
 The distribution on the 96 x well plate was as followed:
 
@@ -143,24 +137,26 @@ The distribution on the 96 x well plate was as followed:
 -   C- = negative control (AraC3)
 -   C+ = C3 BBa_K611059 colony
 -   23 = colony 1 in replicates
--   27 = colony 2 in replicates.
+-   27 = colony 2 in replicates
 
-Last row: measurement kit (from less concentrated to more concentrated). Measurements were taken every 15 minutes over 5 hours.
+Last row: measurement kit (from less concentrated to more concentrated)
+
+Measurements were taken every 15 minutes over 5 hours.
 
 ## Results
 
-{% image "/static/img/wiki/project/contribution-03.jpeg", "Figure 1: agarose gel showing results from double digestion of biobrick BBa_K611059 (A) and a negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way we were able to separate the backbone from the biobrick (upper band)." %}
+{% image "/static/img/wiki/project/contribution-03.jpeg", "Figure 1. agarose gel showing results from double digestion of biobrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the biobrick (upper band)." %}
 
-{% image "/static/img/wiki/project/contribution-04.jpeg", "Figure 2: AraC3- BBa_K611059 fluorescence over time and under different concentrations of arabinose (n=2)" %}
+{% image "/static/img/wiki/project/contribution-04.jpeg", "Figure 2. Agarose gel showing results from double digestion of biobrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the biobrick (upper band)." %}
 
-{% image "/static/img/wiki/project/contribution-05.jpeg", "Figure 3: comparison between C3-BBa_K611059 and AraC3- BBa_K611059 fluorescence over time and incubated on 1M (n=2)" %}
+{% image "/static/img/wiki/project/contribution-05.jpeg", "Figure 3. Comparison between C3-BBa_K611059 and AraC3- BBa_K611059 fluorescence over time and incubated on 1M (n=2)." %}
 
 ## Discussion
 
-Our results seem to be congruent with our hypothesis. As we can observe in figure 2, fluorescence decreases with higher concentrations of arabinose, so there seems to be a negative correlation. Therefore, our first hypothesis is confirmed.
+Our results seem to be congruent with our hypothesis. As we can observe in Figure 2, fluorescence decreases with higher concentrations of arabinose, so there appears to be a negative correlation. Therefore, our first hypothesis is confirmed.
 
-According to our second hypothesis, fluorescence would decrease over time, until it reached a plateau. Our results don’t seem to reach a plateau, and in fact, we can observe that fluorescence increases at low concentrations of arabinose. An increase in fluorescence can be explained by bacterial growth - the more bacteria divide, the more GFP they will produce. The system seems to reach an equilibrium point around 100µM, were the rate of cell growth-GFP production seems to be equal to the amount of inhibition by pbad-tetR. This result can be useful for systems where an stable production of a protein over time is required. Teams could design their construct by introducing the sequence of their desired protein instead of GFP, therefore, obtaining a stable expression of their protein over time, even if bacteria multiply.
+According to our second hypothesis, fluorescence would decrease over time until it reached a plateau. Our results don’t seem to reach a plateau, and in fact, we can observe that fluorescence increases at low concentrations of arabinose. An increase in fluorescence can be explained by bacterial growth - the more bacteria divide, the more GFP they will produce. The system seems to reach an equilibrium point around 100µM, where the rate of cell growth-GFP production appears to be equal to the amount of inhibition by pbad-tetR. This result can be useful for systems where a stable production of a protein over time is required. Teams could design their construct by introducing the sequence of their desired protein instead of GFP, therefore, obtaining a stable expression of their protein over time, even if bacteria multiply.
 
-In order to repress the system totally, one should either test for higher concentration of arabinose (more than 1M) or testing the system for a longer time period (longer than 5 hours). One possible outcome is that the pbad promoter is not strong enough to express as much tetR as required to repress the system, so saturation with arabinose will not decrease the expression of GFP. In this case, we recommend future teams that wish to further characterize this system to perform a similar experiment but including different concentrations of anhydrotetracycline (ATc) or its analogue, doxycycline (dox). This inhibitors bind to TetR protein and inhibit its function, this is, TetR can no longer bind to ptet and inhibit the expression of GFP. This would allow the team to understand how much concentration of TetR is necessary to repress the system.
+To repress the system totally, one should either test for a higher concentration of arabinose (more than 1M) or testing the system for a more extended period (longer than 5 hours). One possible outcome is that the pbad promoter is not strong enough to express as much tetR as required to repress the system, so saturation with arabinose will not decrease the expression of GFP. In this case, we recommend future teams that wish to characterize this system further to perform a similar experiment but including different concentrations of anhydrotetracycline (ATc) or its analog, doxycycline (dox). This inhibitor bind to TetR protein and inhibit its function so TetR can no longer bind to ptet and inhibit the expression of GFP. This would allow the team to understand how much concentration of TetR is necessary to repress the system.
 
-Last, but not least, our system shows increased GFP production when AraC protein is overexpressed, as observed in figure 3. AraC protein binds to pBad promoter and in the presence of arabinose, it promotes gene expression. These results seem to correspond to our third hypothesis, and it demonstrates that overexpression of AraC protein is required to achieve higher promoter strenght . Therefore, it is recommended for future teams using this system and who wish to achieve higher production of protein to change the backbone of the biobrick to one containing the AraC gene.
+Last, but not least, our system shows increased GFP production when AraC protein is overexpressed, as observed in Figure 3. AraC protein binds to pBad promoter, and in the presence of arabinose, it promotes gene expression. These results seem to correspond to our third hypothesis, and it demonstrates that overexpression of AraC protein is required to achieve higher promoter strength. Therefore, it is recommended for future teams using this system and who wish to make higher production of protein to change the backbone of the biobrick to one containing the AraC gene.
