@@ -5,87 +5,134 @@ permalink: /wiki/notebook/
 tags: wiki
 ---
 
-### Protocols
+[](https://www.notion.so/43f62212507445a992050f386b8c1095#6785487b926747edb56270635013a5c0)
 
--   PCR
--   Digestion
--   Ligation and Transformation
--   Flourescence spectrometry
--   Absorbance spectrometry
--   Westernblot
+> From early June to late October we have worked hard in the lab to realize Esther. Here, you can find all of the protocols used, a timeline of important points in the process, as well as the lab notes themselves.
 
-### Workflow
+## Dictionary
 
-...
+During our laboratory work, we assigned nicknames to our biobricks for the sake of simplicity. This table will allow the reader to understand what BioBrick we are mentioning in our notebook.
 
-12/6 p15A with kanamycin resistance was chosen as backbone.
+[Untitled](https://www.notion.so/0fdd18780fc8435990bfb93655286b3a)
 
-12/6 We discovered that ordered biobricks were lacking RBS and Terminators
+## Protocols
 
-26/6 Four new updated biobricks arrive with primers that will insert overhangs past the prefix and suffix.
+## PCR
 
-27/6 The growth curve protocol to grow C1757 had an additional step of washing which contaminated my cells.
+[Taq Colony PCR Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#0990c9f567824b41b3fc21ff56a4f17e)
 
-27/6 Cells were diluted too much, and the Spectrophotometer could not measure below OD 0.1.
+[Q5 PCR Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#acb95051e2e54fe68f55c823642a0cf5)
 
-28/6 We discover that Our restriction enzymes could not attach to the restriction sites as there were too few basepairs past the prefix and suffix, we order primers that will add overhangs
+## Digestion
 
-1/7 We switch from p15A to the C3 and C5 plasmids that have chloramphenicol instead of kanamycin and are easier to handle.
+[Digestion Protocol AraC3 Vector and BioBricks.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#e33081c8021a46aab639f4b541ac0f4b)
 
-2/7 Amplification optimization with old Q5 enzyme, finding the correct annealing temperature
+[Digestion Protocol C3 Vector and BioBricks.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#0835733b696c42a28fe2d4376111dc5d)
 
-2/7 After amplification we had many unspecific bands. We used gel purification to a large extent to purify the correct band and lost a lot of DNA.
+## Ligation and Transformation
 
-2/7 Successful growth of C1757
+[Ligation and Transformation Protocol AraC3 and C3 vectors.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#d6a8404d4f0e46339aa263380b2beb89)
 
-2/7 Competent cells of C1757 cells by CaCl2 treatment, transformation was unsuccessful
+## HIFI Cloning
 
-2/7 we decided to start using the new bricks
+Manufacturers protocol:
 
-5/7We used very little DNA for ligations and exceeded the total reaction volume recommended by the provider.
+[NEBuilder HiFi DNA Assembly Reaction Protocol](https://international.neb.com/protocols/2014/11/26/nebuilder-hifi-dna-assembly-reaction-protocol)
 
-5/7 Next Nerea did competent C1757 cells by the KCM protocol and it worked.
+Alterations on the manufacturers protocol:
 
-6/7 We do ligation with T4 ligase for 10 min according to the provider which did not work.
+Create inserts with complementary ends to the vector, by either amplifying the vector or the inserts. a Total amount of max 200fmol DNA, with 50ng of Vector is mixed with HIFI master mix and incubated at 50°C for 15 minutes. Of the 20µl ligation reaction 2µl were mixed with 6µl of water and 2µl 5x KCM. After one minute on Ice this mix was used for transofmration by heatshock with 10µl of KCM competent cells.
 
-8/7 Brick 1.2 and Brick 3 are amplified but not brick 1 and 2, we ordered more specific primers
+[HIFI cloning.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#629d112231354c7fbcc17f2f6b5032bf)
 
-Ute Römling our PI notice that we have forgotten to include AraC in constructs containing pBAd.
+## Fluorescence spectrometry
 
-9/7 We isolate AraC3 construct plate 5 M18 - 3 transformations were unsuccessful
+[Fluorescence Spectrometry Method.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#194d585bda674cac9686cb525905c51f)
 
-We order primers for overlap extension and will try a different cloning method
+## Flow cytometry
 
-10/7 Aman our pHd gave us the advice to do larger PCR reactions, not to purify after digestion, use T4 ligase at 16C overnight and not to exceed the total reaction volume of 20ul and to try different molar rations. And to use much bigger volumes of insert and vector.
+[Flow Cytometry Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#14e32e9104a849429f99f61ca4ca21da)
 
-11/7 We realize we need empty C3 vector as control and we start to digest C3 with notI.
+## Absorbance spectrometry
 
-14/7 We recruit more members to the lab
+[Absorbance Spectrometry.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#1e1f275b5c914b03b5e6033de7babdca)
 
-15/7 We isolate AraC3 from plate 4 well 21E)
+## KCM Competent Cells
 
-16/7-22/7 Eventually we tried to clone all biobricks into either the C3 or AraC3 vector We tried 1:3 ratio and 1:5 ratio and there is a lot of background signaling.
+[KCM Competent Cells Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#499afaa82e6148e6b6ddb1254ce206b7)
 
-18/7We did restriction cloning of BB1 into the C3 backbone. The colonies appeared red and charactarization started. Sequencing results revealed that we had not inserted our desired brick.
+## Westernblot
 
-25/7 We ran out of Q5 and used Phusion ad Pfu polymerases to do colony pcr. Pfu PCR was unsuccessful at the chosen annealing temperature. All colonies were negative.
+[WESTERN-BLOT-Amans-protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#f7bcb8f4770f481a890c96fcfdc13ce7)
 
-31/7 We tried a new method of colony PCR with an initial cell lysis of colonies at 95 degrees for 10 minutes.
+## Overlap Extension
 
-31/7 We now try to dephosphorylate our vector to decrease background signaling.
+[OE-PCR protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#cdb71d9b40764019a5f05b54d6022e5c)
 
-5/8 We successfully clone brick 1.2 into AraC3 thanks to dephosphorylation.
+[Overlap Extension Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#bd2aba113c0848cbaf2d18853d9e4f6e)
 
-13/8 When a second biobrick tried to be added only half of the brick was inserted, suggesting that there were some shorter fragments in the mix.
+Q5 Site Directed Mutagenesis
 
-19/8 We decrease the time of digestion from 2h to 15 min to minimize star activity
+[Q5® Site-Directed Mutagenesis Kit Protocol (E0554)](https://international.neb.com/protocols/2013/01/26/q5-site-directed-mutagenesis-kit-protocol-e0554)
 
-26/8 We see in an agarose gel that amplification of BB3 suddenly produces some shorter unspecific bands.
+## Workflow
 
-3/9 Some of the previous positive colonies of AraC3 BB1.2, were cultured and the plasmids isolated. After sequencing it appeared there was an extensive deletion in the RFP sequence and 2-3 new stopcodons had appeared.
+### June
 
-9/9 Johan our PI recommends that we change the cloning assembly technique and that we should refrain from doing overlap extension since it is less likely you will get it to work with short overlaps.
+-   12/6 p15A with kanamycin resistance was chosen as backbone.
+-   12/6 Improved biobricks with RBS and Terminators were ordered.
+-   26/6 Improved biobricks arrived with primers that will insert overhangs past the prefix and suffix.
+-   27/6 Altered growth curve protocol for E.coli C1757 to reduce chance of contamination.
+-   28/6 Ordered primers that add basepairs past the prefix and suffix, to facilitate better binding sites for restriction enzymes.
 
-11/9 Transformation with NEB hiFi assembly kit
+### July
 
-20/9 Successful cloning of our bricks
+-   1/7 Switch from p15A to the C3 and C5 plasmids that have chloramphenicol instead of kanamycin and are easier to handle.
+-   5/7 Successfully created competent C1757 cells using the KCM protocol.
+-   6/7 Ligation with T4 ligase for 10 min according to the manufacturer protocol did not work.
+-   8/7 Brick 1.2 and Brick 3 are amplified but not brick 1 and 2, we ordered more specific primers.
+
+    An advisor suggested including AraC in constructs containing pBAd.
+
+-   9/7 New primers for overlap extension ordered and will a different cloning method will be tried.
+-   10/7 We were advised to do larger PCR reactions, not to purify after digestion, use T4 ligase at 16C overnight and not to exceed the total reaction volume of 20ul and to try different molar rations. And to use much bigger volumes of insert and vector.
+-   15/7 AraC3 was isolated from The iGEM kit, to be used as the standard cloning vector.
+-   16/7-22/7 We tried to clone all biobricks into either the C3 or AraC3 vector in 1:3 ratio and 1:5 ratio and there is a lot of background signaling.
+-   18/7 Charactarization started. Sequencing results revealed that we had not inserted our desired brick.
+-   25/7 Used Phusion ad Pfu polymerases to do colony pcr. Pfu PCR was unsuccessful at the chosen annealing temperature. All colonies were negative.
+-   31/7 Added an initial cell lysis step of colonies to the Colony PCR protocol.
+-   31/7 In order to reduce the background signaling, we have tried to dephosphorylate our vector.
+
+### August
+
+-   5/8 Successfully cloned brick 1.2 into AraC3 thanks to dephosphorylation.
+-   13/8 Adding a second biobrick to the previously created construct failed. Expected it to be caused by non-specifically digested biobricks.
+-   19/8 Time of digestion decreased from 2h to 15 min to minimize star activity.
+-   26/8 Gelelectrophoresis of BB3 suddenly produces some shorter unspecific bands.
+
+### September
+
+-   3/9 Some of the previous positive colonies of AraC3 BB1.2, were cultured and the plasmids isolated. After sequencing, it appeared there was an extensive deletion in the RFP sequence and 2-3 new stop codons had appeared.
+-   9/9 One of our advisors recommended that we change the cloning assembly technique, as well as to refrain from doing overlap extension since it is less likely you will get it to work with short overlaps. We started working with Hi-Fi cloning.
+-   14/9 To reduce the amount of background the template concentration was reduced.
+-   16/9 We successfully cloned BB1.2 and the Switch plasmid. Low background noise visible.
+-   20/9 Cloning of Model plasmid not successful due to unspecific PCR products in both inserts.
+-   23/9 Sequencing confirmed successful cloning of Switch plasmid.
+-   26/9 Created new inserts for cloning of Model plasmid.
+
+### October
+
+-   3/10 Site directed mutagenisis in Switch plasmid to create BB1 and BB22 in separate plasmids.
+-   4/10 Screening of colonies of BB1 and BB2
+-   8/10 Sequencing confirmed that the sequences of BB1, BB2, BB1.2, BB3 and AraC3 were correct. The sequencing of Model plasmid showed variations on the expected sequence.
+-   10/10 Adding full RBS to BB1 and BB2.
+-   16/10 Construct arrived and was transformed
+-   18/10 Flow Cytometry and Western blot were performed on induced (Arabinose 0.2%) and non-induced BB1, BB2, Switch Plasmid, AraC3.
+
+## Detailed lab notes
+
+[Notebook Plasmid A and Plasmid B Characterization · Benchling.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#1919fc859a384d008d658514339258cd)
+
+[HiFI cloning · Benchling.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#6abf216bd73c4168ac9463447f234ef8)
+
+[](https://www.notion.so/43f62212507445a992050f386b8c1095#874a391e490e450a8c6f764b9a081b98)
