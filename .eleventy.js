@@ -21,7 +21,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addShortcode('video', function(path, poster = '', description = '') {
-		return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" autoplay loop playsinline controls></video><figcaption>${description}</figcaption></figure>`;
+		return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" loop playsinline controls></video><figcaption>${description}</figcaption></figure>`;
 	});
 
 	eleventyConfig.addShortcode('audio', function(path) {
