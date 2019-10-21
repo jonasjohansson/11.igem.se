@@ -11,7 +11,7 @@ tags: wiki
 
 This plasmid was designed to be a functional system, and it is a core component of our project. Here, C protein is expressed constitutively; but upon an arabinose stimulus, expression will switch from predominantly C-protein to cox protein expression.
 
-![](/static/img/wiki/project/demonstrate-01.png)
+![](https://2019.igem.org/wiki/images/d/d4/T--Stockholm--demonstrate-01.png)
 
 In the design of our switch construct we added two different techniques of characterization, both with FLAG tag and c-Myc tags for Western Blot and GFP & RFP fluorescent reporters for FLUOstar/ Flow Cytometry.
 
@@ -23,9 +23,9 @@ This way we could get more reliable results, as we would have two methods of con
 
 Our team was able to demonstrate how the Switch plasmid works using a Western Blot. We can observe how protein C-Flag is highly expressed in the absence of arabinose (see **Figure 1**). When the concentration of arabinose increases we can observe a decrease in C-Flag.
 
-{% image "/static/img/wiki/project/demonstrate-02.png", "Figure 1. Western Blot shows Switch plasmid under different arabinose concentrations (0%, 0.1% and 0.4%). L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
+{% image "https://2019.igem.org/wiki/images/b/bd/T--Stockholm--demonstrate-02.png", "**Figure 1.** Western blot shows Switch plasmid under different arabinose concentrations (0%, 0.1% and 0.4%). L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
 
-Figure 1 demonstrates that:
+**Figure 1** demonstrates that:
 
 1. C protein-Flag works as expected under a constitutive promoter.
 2. TetR is expressed when adding arabinose, as expected under a pbad promoter. TetR has successfully repressed C protein-Flag protein expression, as expected from the interaction with TetR Operator. We can deduce this from the decline in C protein -Flag expression
