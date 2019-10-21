@@ -64,13 +64,13 @@ nav {
 
 @font-face {
 	font-family: 'Nimbus';
-	src: url('/_includes/assets/NimbusSansDOT-LighExte.woff2') format('woff2');
+	src: url('https://2019.igem.org/wiki/images/1/16/T--Stockholm--nsdotle.woff') format('woff2');
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Nimbus';
-	src: url('/_includes/assets/NimbusSansDOT-ReguExte.woff2') format('woff2');
+	src: url('https://2019.igem.org/wiki/images/1/14/T--Stockholm--nsdotre.woff') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }

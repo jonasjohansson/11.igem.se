@@ -7,7 +7,7 @@ tags: wiki
 
 > All work included in this project, unless otherwise specified, has been carried out, analyzed and reported by the iGEM Stockholm 2019 team. However, despite all our evident work and effort, these achievements could not have been possible without the support of all our supervisors, instructors, and advisors. Therefore, we want to deeply thank them for all their support and guidance on this page. Each of them has contributed to different chapters of our whole story, we hope you have enjoyed it as we did.
 
-![](/static/img/wiki/about/attributions-01.png)
+![](https://2019.igem.org/wiki/images/e/eb/T--Stockholm--attributions-01.png)
 
 ## Supervisors
 
@@ -177,7 +177,7 @@ Thank you Beckmans college of design for lending your facilities for meetings, p
 
 Thank you as well to all the teams that collaborated with us, such as iGEM Eindhoven, iGEM Lund, iGEM Uppsala, and their delicious crayfish dinner, iGEM Technion, iGEM Carroll HS, and iGEM Dusseldorf.
 
-Also a big thanks to Mindaugas Raitelaitis**,** a former member of iGEM Stockholm 2019 who has helped tremendously during the initial brainstorming and project development, as well as the Safety issues around working with the P2 phage.
+Also a big thanks to Mindaugas Raitelaitis, a former member of iGEM Stockholm 2019 who has helped tremendously during the initial brainstorming and project development, as well as the Safety issues around working with the P2 phage.
 
 Last, but not least, we would like to thank our former iGEM Stockholm 2019 Team Leader, Eden Black, for his tremendous help during the first months of our iGEM journey, and his enormous dedication to the design our project. You helped build up our team and inspired all of us with your dedication and determination. Esther would not have been possible without you.
 

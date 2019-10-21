@@ -3,8 +3,8 @@ title: esther
 preamble:
 permalink: /wiki/
 tags: wiki
-cover: /static/img/wiki/trailer3.mp4
-cover_content: <img src="/static/img/logo/esther.svg" />
+cover: https://2019.igem.org/wiki/images/4/4a/T--Stockholm--trailer.mp4
+cover_content: <img src="https://2019.igem.org/wiki/images/c/cc/T--Stockholm--esther-black.svg" />
 ---
 
 ## Esther
@@ -27,4 +27,4 @@ For our project to fully succeed, we need to combine imagination and information
 
 Discover all our [cross-team collaborations](/wiki/collaborations) and [educational work](/wiki/public-engagement/).
 
-{% video '/static/img/wiki/trailer.mp4' %}
+{% video 'https://2019.igem.org/wiki/images/3/38/T--Stockholm--igem-stockholm-project-video.mp4' %}

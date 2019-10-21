@@ -9,57 +9,57 @@ tags: wiki
 
 ## Academic Sponsors
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#24d4477d11f044cf9bcb704883b697b9)
+![](https://2019.igem.org/wiki/images/3/34/T--Stockholm--kth_logo.svg.png)
 
 We want to thank the School of Chemistry, Biotechnology, and Health of KTH Royal Institute of Technology for being once again the primary financial support of the iGEM Stockholm Team. It was a pleasure to work in the course labs that they kindly made available to us.
 
 KTH Royal Institute of Technology, founded in 1827, is Sweden's largest technical research and learning institution. KTH has grown to become one of Europe's leading technical and engineering universities. The five campuses around Stockholm, gather more than 12,000 students and 8 of them are part of iGEM Stockholm. (1)
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#1f24573c57a34a2c9c94ba0c30a395cf)
+![](https://2019.igem.org/wiki/images/f/fa/T--Stockholm--ki_logo.png)
 
 We want to thank Karolinska Institutet for their very generous support. It was a pleasure to be able to use their facilities for our meetings and events. Karolinska Institutet, founded in 1810, is one of the world's leading and most prestigious medical universities in the world. Around 6,000 students take medical courses in Stockholm. Since 1901, the Nobel Assembly at KI awards the Nobel Prize in Physiology or Medicine. (2)
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#17f870cd62de4603bb04ff6574104648)
+![](https://2019.igem.org/wiki/images/a/a3/T--Stockholm--karolinska_innovations.jpg)
 
 KI Innovations is an incubator and a wholly-owned subsidiary of Karolinska Institutet's holding company. KI innovations evaluate and verifies promising projects and encourage business growth by offering education, professional networks, financing, and expertise. (3)
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#978eddc3e64f458685bb40831ad2afbe)
+![](https://2019.igem.org/wiki/images/2/24/T--Stockholm--drivhuset_logo.png)
 
 Drivhuset Stockholm helps entrepreneurs to develop their skills and to embrace their innovative ideas. Through a structured process developed in collaboration with Chalmers School of Entrepreneurship, Drivhuset applies the business development method Loopa. (4)
 
 ## Corporate Sponsors
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#e516dc9be5b14f37a107e96b63d33769)
+![](https://2019.igem.org/wiki/images/2/29/T--Stockholm--recipharm_logo.png)
 
 This year, we were happy to initiate a constructive and productive partnership with the Swedish company Recipharm. Recipharm was established in Sweden in 1995 and has since grown to become a leading Contract Development and Manufacturing Organisation (CDMO). For over 20 years, they have focused on supporting pharmaceutical companies in taking their products from early development through to commercial manufacturing. (5) We had the pleasure of being invited to the Recipharm Environmental International Award. This award acknowledges the best environmental practice or innovation within the pharmaceutical and health care industries or academia.
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#5704a0330e05480a9c866efa2ed1f2ff)
+![](https://2019.igem.org/wiki/images/3/37/T--Stockholm--bio-techne_logo.png)
 
-**Bio-Techne** is an American holding company that empowers researchers in Life Sciences and Clinical Diagnostics by providing high-quality reagents, instruments, custom manufacturing, and testing services. (6) They have offered us free products from their brands R&D Systems and Novus Biological.
+Bio-Techne is an American holding company that empowers researchers in Life Sciences and Clinical Diagnostics by providing high-quality reagents, instruments, custom manufacturing, and testing services. (6) They have offered us free products from their brands R&D Systems and Novus Biological.
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#a25995a5b1d94c679b2e85402522586e)
+![](https://2019.igem.org/wiki/images/f/f0/T--Stockholm--snapgene_logo.png)
 
-**SnapGene** offers cost-efficient and easy-to-use software to meet the needs of molecular biologists and enables natural planning of their cloning procedures. (7) We were happy to receive free licenses to their software for our whole team.
+SnapGene offers cost-efficient and easy-to-use software to meet the needs of molecular biologists and enables natural planning of their cloning procedures. (7) We were happy to receive free licenses to their software for our whole team.
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#7e5b33ca7a204ad6ba133a14627b9176)
+![](https://2019.igem.org/wiki/images/e/ec/T--Stockholm--microsynth_logo.png)
 
 Microsynth, founded in 1989, is a leading European company in the area of nucleic acid synthesis, sequencing & analysis. (8)
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#ca02b3a9fe7a4b6caa7e468c92ab71f5)
+![](https://2019.igem.org/wiki/images/1/1a/T--Stockholm--thermofisher.png)
 
-**Thermo Fisher Scientific** is an American biotechnology product development company. They help their customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market, and increase laboratory productivity. (9)
+Thermo Fisher Scientific is an American biotechnology product development company. They help their customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market, and increase laboratory productivity. (9)
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#96b41abd7dfe46d38b56d48e4d0a91e7)
+![](https://2019.igem.org/wiki/images/6/6c/T--Stockholm--neb_logo.png)
 
 New England Biolabs is a recognized world leader company in the discovery and production of enzymes for molecular biology applications. (10)
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#ac8dccd8f5b349b8abb6e7943b739379)
+![](https://2019.igem.org/wiki/images/a/a4/T--Stockholm--promega_logo.jpg)
 
 Promega, with a portfolio of more than 4,000 products, is a global leader in innovative solutions and technical support to scientists. (11)
 
 ## Private donors
 
-[](https://www.notion.so/85deaedb23464f238521ad27be038c31#5b988a9cb3634e9886b8dc6557147490)
+![](https://2019.igem.org/wiki/images/8/82/T--Stockholm--indiegogo_logo.png)
 
 We have reached out to the general public to raise funds for our project Esther on the crowdfunding platform Indiegogo. We took the opportunity to raise awareness about antibiotic resistance and explained the potential of phage therapy. We want to thank all our backers personally for contributing to our project:
 

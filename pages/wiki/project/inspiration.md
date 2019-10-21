@@ -21,4 +21,6 @@ Elisabeth had done her research during the 70s, 80s, and 90s, a time where antib
 
 As an ode to the famous microbiologist and expert in phages, Esther Lederberg, and after all the women in science that like Elisabeth, keep fighting no matter the obstacles, we have named our project, Esther.
 
+## References
+
 1. Ventola CL. The Antibiotic Resistance Crisis Part 1 : Causes and Threats. P&T. 2015;40(4):277–83.
