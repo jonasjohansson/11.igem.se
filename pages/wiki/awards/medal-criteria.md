@@ -1,6 +1,6 @@
 ---
-title: Medial criteria
-permalink: /wiki/medial-criteria/
+title: Medal criteria
+permalink: /wiki/medal-criteria/
 tags: wiki
 ---
 
