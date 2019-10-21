@@ -9,7 +9,7 @@ tags: wiki
 
 ## BioBrick
 
-{% div 'sub' %} 13-15 April<br>iGEM DTU Copenhagen 👋 {% enddiv %}
+{% div 'sub' %} 13-15 April<br>iGEM DTU Copenhagen{% enddiv %}
 
 We were invited by DTU Copenhagen to participate in a BioBrick tutorial! Many nordic teams from Denmark, Finland, Norway, and Sweden gathered to learn more about cloning standards, the 3A assembly method. It was a great opportunity to meet the other Nordic teams for the first time and share experiences about the first iGEM months. Practical lab sessions, a pitching workshop, and a seminar about Wiki design effectively helped us in our journey. This was an ideal opportunity to connect, especially with the iGEM teams of Lund, Copenhagen, and Uppsala, which we continued collaborating with. The professional network nurtured and in some aspects, initiated will be a continued source of value for our future iGEM teams.
 
@@ -17,7 +17,7 @@ We were invited by DTU Copenhagen to participate in a BioBrick tutorial! Many no
 
 ## Bonn Spring Festival
 
-{% div 'sub' %} 3-5 May<br>iGEM Bonn 🙌 {% enddiv %}
+{% div 'sub' %} 3-5 May<br>iGEM Bonn{% enddiv %}
 
 Did you know that the term “memetics” was first proposed by evolutionary biologist Richard Dawkins in 1976? He then offered a theory regarding how cultural information evolves and is transmitted from person to person. iGEM Spring Festival, organized by iGEM Bonn celebrated this by using memes to communicate science. iGEM Memes has gained much attention over the last year, all thanks to the creator, iGEM Stockholm 2018. We seized the moment to present our project-poster and gained valuable feedback, along with several great memes to add to the collection!
 
@@ -25,7 +25,7 @@ Did you know that the term “memetics” was first proposed by evolutionary bio
 
 ## Nordic iGEM Conference
 
-{% div 'sub' %} 17-18 May<br>University of Copenhagen 👏 {% enddiv %}
+{% div 'sub' %} 17-18 May<br>University of Copenhagen{% enddiv %}
 
 In beautiful June, as studies end and lab work begins, the iGEM DTU Copenhagen team hosted the Nordic iGEM conference NiC. All Nordic teams that took part were allowed to pitch their project, practice being on stage, and receive feedback from their peers. This was one of the first opportunities to present to a broad audience of scientific minds. Exciting! Beyond the pitch, there was also a poster exhibition and presentation, and apart from the professional feedback we received, we were able to make friends, some of which turned into strong collaborations like the ones with Lund for Synthethics and Uppsala for Bench to Bedside event.
 
@@ -51,7 +51,7 @@ iGEM Düsseldorf has been organizing a "Postcard Collaboration" for multiple yea
 
 ## Biohackathon
 
-{% div 'sub' %} 2 Aug<br>iGEM Vilnius 🙏 {% enddiv %}
+{% div 'sub' %} 2 Aug<br>iGEM Vilnius{% enddiv %}
 
 Four members of the iGEM Stockholm team participated in the 2019 hackathon in Vilnius, a three-day immersion into biosafety and security of data, synthetic biology, lab efficiency, and life sciences education.
 
@@ -73,7 +73,7 @@ You got us this round! :)
 
 ## The Voice iGEM contest
 
-{% div 'sub' %} 13 Aug<br>iGEM Wageningen UR 🙏 {% enddiv %}
+{% div 'sub' %} 13 Aug<br>iGEM Wageningen UR{% enddiv %}
 
 Three members of iGEM Stockholm together with an esteemed friend, Sebastian Montén, together created this version of The Winner Takes It All by the Swedish Eurovision Song Contest Winning music group ABBA. The parody lyrics are inspired by the iGEM Competition written by our team member Stella Axelsson. This submission was sent to Robert Hooftman of the iGEM Wageningen UR team.
 
@@ -107,7 +107,7 @@ We decided to start a collaboration with iGEM TU Eindhoven, who have been develo
 
 ## Bench to Bedside
 
-{% div 'sub' %} 18 Sep<br>iGEM Uppsala 👌{% enddiv %}
+{% div 'sub' %} 18 Sep<br>iGEM Uppsala{% enddiv %}
 
 The expression "Bench to bedside" literally means the translation of clinical research and explorations into commercial products for human welfare. With this vision, we collaborated with iGEM Uppsala to organize a bio-entrepreneurship event at Karolinska Institutet to promote entrepreneurship in iGEM. The inspiring talk by our keynote speaker, Anna Svantes, a business developer at Organofuel Sweden AB and a prototyping workshop facilitated by Cecilie Hilmer, a Design Thinking coach at Stockholm School of Entrepreneurship and Karolinska Institutet resulted in gaining valuable insights into the realistic. Some of these were seeking synergies between the two different projects to promote a sense of greater good and building basic prototypes that could be potentially used as a framework for a prospective minimum viable product.
 
