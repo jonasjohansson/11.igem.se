@@ -93,10 +93,7 @@ Q5 Site Directed Mutagenesis
 -   1/7 Switch from p15A to the C3 and C5 plasmids that have chloramphenicol instead of kanamycin and are easier to handle.
 -   5/7 Successfully created competent C1757 cells using the KCM protocol.
 -   6/7 Ligation with T4 ligase for 10 min according to the manufacturer protocol did not work.
--   8/7 Brick 1.2 and Brick 3 are amplified but not brick 1 and 2, we ordered more specific primers.
-
-An advisor suggested including AraC in constructs containing pBAd.
-
+-   8/7 Brick 1.2 and Brick 3 are amplified but not brick 1 and 2, we ordered more specific primers. An advisor suggested including AraC in constructs containing pBAd.
 -   9/7 New primers for overlap extension ordered and will a different cloning method will be tried.
 -   10/7 We were advised to do larger PCR reactions, not to purify after digestion, use T4 ligase at 16C overnight and not to exceed the total reaction volume of 20ul and to try different molar rations. And to use much bigger volumes of insert and vector.
 -   15/7 AraC3 was isolated from The iGEM kit, to be used as the standard cloning vector.

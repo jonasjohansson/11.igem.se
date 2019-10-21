@@ -13,7 +13,7 @@ To translate our idea into results, we characterized every biobrick as listed in
 
 Here, you can find the most important findings for each BioBrick, and we urge you to follow the links found after each section for in-depth analysis.
 
-![](/static/img/wiki/project/results-01.jpeg)
+![](https://2019.igem.org/wiki/images/e/e3/T--Stockholm--results-01.jpeg)
 
 ## The Switch Plasmid
 
@@ -26,6 +26,8 @@ The second part of our project was the creation of a [**Model Plasmid**](/wiki/r
 ## Discussion
 
 When we discovered that fluorescence spectrophotometry could not detect fluorescence from our reporters, we began to investigate… We analyzed the sequences of our construct and saw that everything had been inserted, although, the RBS sequences were 4bp too short.
+
+![](https://2019.igem.org/wiki/images/3/36/T--Stockholm--results-02.jpg)
 
 ### A new hope
 

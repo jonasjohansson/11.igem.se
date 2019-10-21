@@ -9,11 +9,9 @@ tags: wiki
 
 Since their discovery, antibiotics have been valuable for public health and science. But its future is looking grim as antibiotic resistance is increasing, and the discovery speed of new antibiotics is decreasing, threating the efficiency of the treatment (no secret to the iGEM community). The World Health Organisation recommends we focus on sanitation, optimizing their use, and that we educate on this issue. (1) Although these recommendations are necessary and would help to slow down the process, they don't solve the problem.
 
-The fact is, antibiotics are not a sustainable treatment. It takes a long time and abundant economic resources to produce new antibiotics. They are a burden to the environment and hard to eliminate from the sewage system, and still, bacteria will eventually become resistant to them.
+The fact is, antibiotics are not a sustainable treatment. It takes a long time and abundant economic resources to produce new antibiotics. They are a burden to the environment and hard to eliminate from the sewage system, and still, bacteria will eventually become resistant to them. Many pharmaceutical companies, such as [Novartis and AstraZeneca](/wiki/human-practices), are withdrawing their antibiotic programs, leaving the general population without an effective solution.
 
 Phage therapy, on the other hand, is a more sustainable approach. This treatment utilizes the natural capacity of bacteriophages, a special type of viruses, to kill bacteria. The phage injects its DNA into the target bacteria, where it will replicate and form new bacteriophages. The high number of phages will cause the bacteria to burst, killing it and releasing new viruses to the environment.
-
-Finding a new phage is much easier than developing a new antibiotic; one could simply isolate them from sewage or infection samples, as they are widely accessible. (2) Moreover, phages are naturally abundant in the environment, making them an eco-friendly alternative in terms of waste management. Bacteriophages and bacteria have, since the beginning of their existence, co-evolved. This coevolution ensures that there will always be a phage that can infect the bacteria of interest. (3) Overall, these reasons make phage therapy a sustainable approach to combat bacterial infections.
 
 ## The hurdles of bacteria
 
@@ -21,9 +19,18 @@ Typically, phage therapy involves the administration of a bacteriophage cocktail
 
 When administered, phages disperse in our body, where they encounter many barriers. The majority are inhibited by our immune system; some are degraded in the stomach due to high acidity, while others attach to circulating bacterial cell debris, and thus get activated prematurely. Therefore, the amount of phages reaching their intended target is diminished due to all of these barriers.
 
+## The becoming of Esther
+
+So, how could we provide a solution? Looking for research groups in this area, we found Anders Nilsson’s research group at Stockholm University. His group specializes in bacteriophage research to better understand these viruses, and he had written some articles about Phage Therapy, although never worked directly on this application. Members from our team met with Anders and Elisabeth Haggård-Ljungquist, a retired professor and scientist who had spent her career studying the P2 temperate phage.
+
+Elisabeth had done her research during the 70s, 80s, and 90s, a time where antibiotic resistance was not such a pressing threat. She found many obstacles to perform her research with bacteriophages, and when she went abroad to continue with her work, she also found barriers as being a woman in science. Her stories, words, and tips not only helped us gain a better understand of the P2 phage and its switch; she also inspired us to keep trying despite all possible obstacles.
+
+As an ode to the famous microbiologist and expert in phages, Esther Lederberg, and after all the women in science that like Elisabeth, keep fighting no matter the obstacles, we have named our project, Esther.
+
 ## A new tool for treating bacterial infections
 
 Esther gives a spin to traditional phage therapy! Instead of using conventional lytic phages, we propose the use of temperate phages, that will remain dormant inside a vehicle bacteria. This non-pathogenic bacteria will be ingested by the patient, traveling throughout the gastrointestinal tract until it has reached the site of infection. Only then will the phages turn lytic and will be released right where the pathogenic bacteria are.
+
 One of the main issues with temperate phages is the chance of becoming lysogenic after infecting the target bacteria. This could invoke resistance to the phage in the target bacteria, as the phage DNA is now found in the bacterial genome. We tackled this issue by using genetically modified phages that lack one of the proteins required to keep them in the lysogenic state. Instead, this protein is provided by our Switch plasmid. By doing so, the phage will only be lysogenic in the vehicle bacteria, as any other target bacteria would lack the gene required for this state.
 
 ![](/static/img/wiki/project/description-01.png)
