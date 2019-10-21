@@ -11,7 +11,7 @@ tags: wiki
 
 For many, science and art are considered vastly distant from one another, but a scientist knows that their work requires individual artistry, and an artist in many ways understand the science within their art. The Synthetic Biology Art Exhibition took place in Stockholm, 25 meters below the surface in the old nuclear reactor R1. Artistic expressions from all corners were accepted, everything from audiovisual video works to petri-dish multiplayer experiences. Some were funny and beautiful, while others were disturbing and thought-provoking. Everyone was eligible to participate regardless of the artistic prowess or expertise of synthetic biology. From the artworks submitted, 5 winners were rewarded with a presentation in Osqledaren online (KTH magazine) as well as Medicor online (KI magazine).
 
-[→ Read more about the art exhibition and view the booklet with all the artists]()
+[→ Read more about the art exhibition and view the booklet with all the artists](/wiki/art-exhibition/)
 
 ## Lab-on-wheels
 
@@ -71,11 +71,13 @@ A collaboration between us, iGEM Lund and Astra Zeneca Summer Research School or
 
 We invited the 52 students of the Astra Zeneca Summer Research School, to learn about our projects, their applications as well as synthetic biology. These students in grade 8-9 of upper secondary school and year 1-2 of High School, were eager to learn and asked many curious questions. iGEM Stockholm took the opportunity to ask the students if they would be willing to try Phage Therapy and if so, in what way.
 
+![](https://2019.igem.org/wiki/images/4/4f/T--Stockholm--public_engagement-astra_01.jpeg)
+
 _Four of the students raised their hands, and claimed that they would be okay with consuming our product. Out of them, a girl said she would like to eat it, another girl agreed and said the would also approve to consume. Then a boy said he would accept our treatment if he did not have another alternative to cure his infection, and a girl said she would take our product if she could drink it._
 
 The day started off with a security briefing and presentation of ourselves. Then we divided the students into three different groups, and the groups alternated lectures with lab classes.
 
-![](/static/img/wiki/public_engagement-astra_02.jpg)
+![](https://2019.igem.org/wiki/images/e/e2/T--Stockholm--public_engagement-astra_02.jpeg)
 
 ## World Water Week
 
@@ -85,7 +87,9 @@ When it comes to that which keeps us afloat, the World Water Week (WWW) is one o
 
 During WWW, we were also allowed to introduce our project to professionals and receive comments from specialists. Further, valuable feedback was obtained, which was of importance in the further shaping of our project. Perspectives upon the functioning in different physiological conditions, such as ¿low pH? , were obtained. Later on in the lab, this would be demonstrated by experiments that showed that effectively in these conditions, there is no adequate response.
 
-![](/static/img/wiki/public_engagement-world_water_week_01.jpg)
+![](https://2019.igem.org/wiki/images/d/d3/T--Stockholm--public_engagement-world_water_week_01.jpeg)
+
+![](https://2019.igem.org/wiki/images/b/b7/T--Stockholm--public_engagement-world_water_week_02.jpeg)
 
 ## National Television Morning News Visit
 
