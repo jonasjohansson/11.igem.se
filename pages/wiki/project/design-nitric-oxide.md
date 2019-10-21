@@ -9,11 +9,11 @@ tags: wiki
 
 Nitric oxide (NO), in the past considered a potentially toxic chemical, is now known to play an important role in cell-to-cell communication throughout the body. It is physiologically produced by Nitric Oxide Synthetase enzymes (NOS) using L-arginine as substrate. Once produced, it can freely diffuse across cell membranes.
 
-Constitutive NO production by the endothelial NOS isoform (eNOS) is crucial for intestinal homeostasis since it regulates many functions of the intestinal mucosa and epithelial cells (2). In case of tissue damage and inflammation, NO is produced in much higher quantities by upregulation of the inducible NOS isoform (iNOS). This is a mechanism implicated in inflammatory responses and -particularly in the gut- it also serves as a host defense mechanism against pathogenic bacteria. (1)
+Constitutive NO production by the endothelial NOS isoform (eNOS) is crucial for intestinal homeostasis since it regulates many functions of the intestinal mucosa and epithelial cells <sup>2</sup>. In case of tissue damage and inflammation, NO is produced in much higher quantities by upregulation of the inducible NOS isoform (iNOS). This is a mechanism implicated in inflammatory responses and -particularly in the gut- it also serves as a host defense mechanism against pathogenic bacteria. <sup>1</sup>
 
-It has been suggested that NO can be a reliable biomarker of gut inflammatory conditions such as irritable bowel disease, ulcerative colitis, and Crohn’s disease. (2,3) In patients with active ulcerative colitis, NO levels were found more than 100 times higher than in healthy controls (4), showing an enormous NO elevation at the inflammation site.
+It has been suggested that NO can be a reliable biomarker of gut inflammatory conditions such as irritable bowel disease, ulcerative colitis, and Crohn’s disease. <sup>2,3</sup> In patients with active ulcerative colitis, NO levels were found more than 100 times higher than in healthy controls <sup>4</sup>, showing an enormous NO elevation at the inflammation site.
 
-Not surprisingly, bacteria have evolved their own NO regulatory systems to avoid cytotoxicity caused by the host’s NO induction. Bacteria can sense NO, through various pathways, and detoxify the molecule using reductases. (5) We are focusing on a NO-sensing system for E.coli since this will be our carrier-bacteria to deliver the phages to the site of infection.
+Not surprisingly, bacteria have evolved their own NO regulatory systems to avoid cytotoxicity caused by the host’s NO induction. Bacteria can sense NO, through various pathways, and detoxify the molecule using reductases. <sup>5</sup> We are focusing on a NO-sensing system for E.coli since this will be our carrier-bacteria to deliver the phages to the site of infection.
 
 Our goal is to include this sensing system into our already existing Switch plasmid. For such purpose, we have designed the following construct.
 
