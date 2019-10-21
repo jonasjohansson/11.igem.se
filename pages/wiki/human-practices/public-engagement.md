@@ -11,6 +11,10 @@ tags: wiki
 
 For many, science and art are considered vastly distant from one another, but a scientist knows that their work requires individual artistry, and an artist in many ways understand the science within their art. The Synthetic Biology Art Exhibition took place in Stockholm, 25 meters below the surface in the old nuclear reactor R1. Artistic expressions from all corners were accepted, everything from audiovisual video works to petri-dish multiplayer experiences. Some were funny and beautiful, while others were disturbing and thought-provoking. Everyone was eligible to participate regardless of the artistic prowess or expertise of synthetic biology. From the artworks submitted, 5 winners were rewarded with a presentation in Osqledaren online (KTH magazine) as well as Medicor online (KI magazine).
 
+![](https://2019.igem.org/wiki/images/1/17/T--Stockholm--public_engagement-art_exhibition-01.jpg)
+
+![](https://2019.igem.org/wiki/images/d/da/T--Stockholm--public_engagement-art_exhibition-02.jpg)
+
 [→ Read more about the art exhibition and view the booklet with all the artists](/wiki/art-exhibition/)
 
 ## Lab-on-wheels
@@ -19,9 +23,9 @@ For many, science and art are considered vastly distant from one another, but a 
 
 An interactive workshop, organized as part of the Art Exhibition, where participants would extract DNA from strawberries with everyday items such as dish soap, salt, rubbing alcohol, plastic bags, coffee filter, and toothpicks. When done, the visitors could keep their extracted DNA in an Eppendorf tube!
 
-When speaking about DNA, we have found that the idea of it is too abstract. In the lab-on-wheels session, we invited visitors to isolate DNA and hold it in their hands. We also demonstrated general lab equipment such as pipettes and microtubes so they could experience the lab atmosphere. The strawberries were crushed inside a plastic bag together with a mixture of water, salt, and dish soap. The mixture was finally filtered through a coffee filter to retrieve the DNA in the strawberry juice. The visitors could see their isolated DNA inside the microtube after ethanol addition.
-
 ![](https://2019.igem.org/wiki/images/4/4b/T--Stockholm--public_engagement-lab_01.png)
+
+When speaking about DNA, we have found that the idea of it is too abstract. In the lab-on-wheels session, we invited visitors to isolate DNA and hold it in their hands. We also demonstrated general lab equipment such as pipettes and microtubes so they could experience the lab atmosphere. The strawberries were crushed inside a plastic bag together with a mixture of water, salt, and dish soap. The mixture was finally filtered through a coffee filter to retrieve the DNA in the strawberry juice. The visitors could see their isolated DNA inside the microtube after ethanol addition.
 
 ## Promega Takeover
 
