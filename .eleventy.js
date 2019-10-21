@@ -24,6 +24,10 @@ module.exports = function(eleventyConfig) {
 		return `<figure class="video"><video src="${path}" poster="${poster}" width="960" height="540" muted autoplay loop playsinline></video><figcaption>${description}</figcaption></figure>`;
 	});
 
+	eleventyConfig.addShortcode('audio', function(path) {
+		return `<audio src="${path}"></audio>`;
+	});
+
 	eleventyConfig.addShortcode('image', function(path, description = '') {
 		return `<figure class="image"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
 	});
@@ -43,7 +47,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addShortcode('hero', function(path, content = '') {
 		var isVideo = path.match(/.(mp4|webm|ogv)/i) ? true : false;
 		if (isVideo) {
-			return `<div class="cover video"><video src="${path}" width="960" height="540" muted autoplay loop playsinline></video>${content}</div>`;
+			return `<div class="cover video"><video src="${path}" width="960" height="540" autoplay loop playsinline></video>${content}</div>`;
 		} else {
 			return `<div class="cover image"><img src="${path}">${content}</div>`;
 		}

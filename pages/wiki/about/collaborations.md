@@ -39,6 +39,14 @@ In beautiful June, as studies end and lab work begins, the iGEM DTU Copenhagen t
 
 Working with the iGEM wiki is no trivial task. We carried out workshops internally, which resulted in articles detailing the process, later shared with the community. Another team took it further and [made their own wiki for the wiki](https://2019.igem.org/Team:US_AFRL_CarrollHS/WikiGuide). We are happy to have had the opportunity to collaborate and do our best to help others learning code!
 
+## Postcard Collaboration
+
+{% div 'sub' %} 31 July—<br>iGEM Düsseldorf {% enddiv %}
+
+iGEM Düsseldorf has been organizing a "Postcard Collaboration" for multiple years in a row. In this challenge, iGEM teams have to design a postcard that explains their project and send 50 copies by snail mail to iGEM Düsseldorf. Then, they distribute them among participating teams, so that each gets a copy of the postcards from teams all around the world. This year, we provided our own postcard, and they also participated in our Synthetic Biology Art Exhibition by mailing us previous postcards that we displayed at the venue. Such a terrific way to know about all the projects!
+
+![](https://2019.igem.org/wiki/images/6/63/T--Stockholm--collaboration-dusseldorf-01.jpeg)
+
 ## Biohackathon
 
 {% div 'sub' %} 2 Aug<br>iGEM Vilnius 🙏 {% enddiv %}
@@ -49,9 +57,21 @@ During the stay, a software was developed to make it easier to browse the iGEM r
 
 We are looking forward to more and more teams using our software to enable easy in-silico bio brick assembly, leading to more successful projects and contribute to synthetic biology. Multiple iterations enabled the addition of more functionalities and henceforth, nomination for the best software track.
 
+![](https://2019.igem.org/wiki/images/e/ee/T--Stockholm--collaboration-collaboration-biohackathon-01.jpeg)
+
+## The Voice iGEM contest
+
+{% div 'sub' %} 13 Aug<br>iGEM Wageningen UR 🙏 {% enddiv %}
+
+Three members of iGEM Stockholm together with an esteemed friend, Sebastian Montén, together created this version of The Winner Takes It All by the Swedish Eurovision Song Contest Winning music group ABBA. The parody lyrics are inspired by the iGEM Competition written by our team member Stella Axelsson. This submission was sent to Robert Hooftman of the iGEM Wageningen UR team.
+
+{% audio 'https://2019.igem.org/wiki/images/5/5b/T--Stockholm--winner_takes_it_all.mp3' %}
+
 ## Synthetics®
 
 {% div 'sub' %} 20 Aug<br>iGEM Lund {% enddiv %}
+
+![](https://2019.igem.org/wiki/images/5/59/T--Stockholm--integrated-16.png)
 
 In a collaboration between Stockholm and Lund we began the international initative Synthethics®. A project posing ethical questions to raise awareness within biology and genetic engineering. The desired outcome? To discover the potential risks that the new-era biotechnology and medicine might have in store for us. Synthetic biology is a promising field and has a potentially prosperous future, but it entails areas of research that expose us to severe risks and detrimental outcomes. Therefore, we were avid to gather the opinions of people from all professions, cultures, and ideologies. We customized a set of questions that represented a fraction of the possible dilemmas for both experts in this field and the general public. They were requested to delve into their imagination when answering the questions.
 
@@ -80,4 +100,3 @@ The expression "Bench to bedside" literally means the translation of clinical re
 ![](https://2019.igem.org/wiki/images/8/85/T--Stockholm--colaboration-bench-1.jpeg)
 
 ![](https://2019.igem.org/wiki/images/2/28/T--Stockholm--colaboration-bench-2.jpeg)
-
