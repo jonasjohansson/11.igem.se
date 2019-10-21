@@ -75,7 +75,9 @@ p img {
 }
 
 p a {
-    color: var(--pink;);
+    color: var(--pink);
+    border-bottom: 1px solid var(--pink);
+    padding-bottom: 1px;
 }
 
 h2#references ~ ol {
