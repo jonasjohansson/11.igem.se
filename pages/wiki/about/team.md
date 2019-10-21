@@ -2,7 +2,7 @@
 title: Team
 permalink: /wiki/team/
 tags: wiki
-cover: /static/img/wiki/about/team-01.jpg
+cover: https://2019.igem.org/wiki/images/e/e7/T--Stockholm--team-01.jpg
 ---
 
 > Esther was invented and made possible by colourful and fantastic team of people. With 🇪🇸🇬🇷🇸🇪🇰🇿🇮🇳🇮🇩🇳🇱🇫🇷🇱🇹🇮🇩🇦🇷🇮🇳🇨🇳🇩🇪 diverse backgrounds and perspectives we went from ambitious strangers to dedicated creators, and most importantly, became great friends.
@@ -32,3 +32,5 @@ cover: /static/img/wiki/about/team-01.jpg
 {% endfor %}
 
 {% enddiv %}
+
+![](https://2019.igem.org/wiki/images/a/a0/T--Stockholm--team-02.jpg)

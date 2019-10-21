@@ -5,7 +5,7 @@
   "members": [
     {
       "name": "Nerea Capon",
-      "image": "/static/img/wiki/about/team-nerea.jpg",
+      "image": "https://2019.igem.org/wiki/images/8/8f/T--Stockholm--team-nerea.jpg",
       "role": "Team Leader",
       "school": "Stockholm University",
       "program": "MSc. Neurochemistry and Molecular Neurobiology",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Andriana Mantzafou",
-      "image": "/static/img/wiki/about/team-andriana.jpg",
+      "image": "https://2019.igem.org/wiki/images/e/e5/T--Stockholm--team-andriana.jpg",
       "role": "Wet lab and Project Development",
       "school": "Stockholm University and Karolinska Institutet ",
       "program": "MS. Neurochemistry with Molecular Neurobiology",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Ayleen Burt",
-      "image": "/static/img/wiki/about/team-ayleen.jpg",
+      "image": "https://2019.igem.org/wiki/images/c/c9/T--Stockholm--team-ayleen.jpg",
       "role": "Media and Design, Wet Lab",
       "school": "KTH Royal Institute of Technology",
       "program": "BSc. Biotechnology",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Azhar Gazizova",
-      "image": "/static/img/wiki/about/team-azhar.jpg",
+      "image": "https://2019.igem.org/wiki/images/7/78/T--Stockholm--team-azhar.jpg",
       "role": "Wet lab and Project Development",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Itisha Adhikari",
-      "image": "/static/img/wiki/about/team-itisha.jpg",
+      "image": "https://2019.igem.org/wiki/images/b/bb/T--Stockholm--team-itisha.jpg",
       "role": "Project Development and Human Practices ",
       "school": "Karolinska Institutet",
       "program": "MSc. Bio-entrepreneurship",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Jonas Johansson",
-      "image": "/static/img/wiki/about/team-jonas.jpg",
+      "image": "https://2019.igem.org/wiki/images/4/46/T--Stockholm--team-jonas.jpg",
       "role": "Media and Design, Wiki",
       "school": "Beckmans college of Design, Hyper Island",
       "program": "Lecturer, Industry Leader",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Joost Bergman",
-      "image": "/static/img/wiki/about/team-joost.jpg",
+      "image": "https://2019.igem.org/wiki/images/b/b1/T--Stockholm--team-joost.jpg",
       "role": "Finance and Wiki",
       "school": "Karolinska Institutet",
       "program": "MSc. Biomedicine",
@@ -68,7 +68,7 @@
     },
     {
       "name": "Anali De Luca",
-      "image": "/static/img/wiki/about/team-anali.jpg",
+      "image": "https://2019.igem.org/wiki/images/5/5c/T--Stockholm--team-anali.jpg",
       "role": "Dry lab and Educational Human Practices",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Industrial and Environmental Biotechnology",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Lisa Faye",
-      "image": "/static/img/wiki/about/team-lisa.jpg",
+      "image": "https://2019.igem.org/wiki/images/2/2c/T--Stockholm--team-lisa.jpg",
       "role": "Finance and Media",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Medical Biotechnology",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Milda Valiukonyte",
-      "image": "/static/img/wiki/about/team-milda.jpg",
+      "image": "https://2019.igem.org/wiki/images/3/32/T--Stockholm--team-milda.jpg",
       "role": "Dry lab and Project Development",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Rebecca de Sousa",
-      "image": "/static/img/wiki/about/team-rebecca.jpg",
+      "image": "https://2019.igem.org/wiki/images/a/a0/T--Stockholm--team-rebecca.jpg",
       "role": "Finance and Wet lab",
       "school": "Karolinska Institutet",
       "program": "MSc. Biomedicine",
@@ -104,7 +104,7 @@
     },
     {
       "name": "Roudlotul Jannah",
-      "image": "/static/img/wiki/about/team-jannah.jpg",
+      "image": "https://2019.igem.org/wiki/images/9/92/T--Stockholm--team-jannah.jpg",
       "role": "Project development and Human Practices",
       "school": "KTH Royal Institute of Technology, Karolinska Institutet and Stockholm University",
       "program": "MSc. Molecular Techniques in Life Sciences",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Sabina Monge-Navarro Otero",
-      "image": "/static/img/wiki/about/team-sabina.jpg",
+      "image": "https://2019.igem.org/wiki/images/a/a7/T--Stockholm--team-sabina.jpg",
       "role": "Human Practices",
       "school": "Karolinska Institutet ",
       "program": "MSc. Biomedicine",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Sanchari Choudhury",
-      "image": "/static/img/wiki/about/team-sanchari.jpg",
+      "image": "https://2019.igem.org/wiki/images/2/21/T--Stockholm--team-sanchari.jpg",
       "role": "Dry lab and Project Development",
       "school": "Karolinska Insitutet",
       "program": "MSc. Biomedicine",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Tianqi Zhang",
-      "image": "/static/img/wiki/about/team-tianqi.jpg",
+      "image": "https://2019.igem.org/wiki/images/1/19/T--Stockholm--team-tianqi.jpg",
       "role": "Project development and Human Practices ",
       "school": "Karolinska Institutet ",
       "program": "MSc. Biomedicine",
@@ -149,7 +149,7 @@
     },
     {
       "name": "Tobias Willi",
-      "image": "/static/img/wiki/about/team-tobi.jpg",
+      "image": "https://2019.igem.org/wiki/images/8/8f/T--Stockholm--team-tobi.jpg",
       "role": "Wet lab and construct design ",
       "school": "KTH Royal Institute of Technology",
       "program": "MSc. Medical Biotechnology",
