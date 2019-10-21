@@ -5,6 +5,8 @@ permalink: /wiki/results-switch-plasmid/
 tags: wiki
 ---
 
+![](/static/img/wiki/project/results-switch-plasmid-00.png)
+
 ## Background
 
 -   This plasmid was designed to be a functional system were one stimulus would trigger a switch in the expression from predominantly C-protein to the activation of cox protein expression.
