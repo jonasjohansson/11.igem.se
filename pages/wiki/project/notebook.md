@@ -1,6 +1,6 @@
 ---
 title: Notebook
-preamble: iGEM Stockholm 2019
+preamble:
 permalink: /wiki/notebook/
 tags: wiki
 ---

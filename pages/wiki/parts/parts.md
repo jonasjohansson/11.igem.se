@@ -4,7 +4,7 @@ permalink: /wiki/parts/
 tags: wiki
 ---
 
-> While working on Esther we created several new basic and composite parts listed below. To learn about their use and function visit our [Design page](/wiki/design/).
+> While working on Esther we created several new basic and composite parts listed below. To learn about their use and function [visit our Design](/wiki/design/).
 
 ## New basic parts
 
