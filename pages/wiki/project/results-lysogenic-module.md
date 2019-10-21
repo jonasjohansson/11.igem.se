@@ -5,7 +5,7 @@ permalink: /wiki/results-lysogenic-module/
 tags: wiki
 ---
 
-> [http://parts.igem.org/Part:BBa_K3024004](http://parts.igem.org/Part:BBa_K3024004) ![](/static/img/wiki/project/results-lysogenic-module-01.png)
+> ![](/static/img/wiki/project/results-lysogenic-module-01.png) [http://parts.igem.org/Part:BBa_K3024004](http://parts.igem.org/Part:BBa_K3024004)
 
 ## Background
 
@@ -44,7 +44,7 @@ The growth curve shows an arabinose dependent toxicity in these cells. Arabinose
 
 {% image "/static/img/wiki/project/results-lysogenic-module-02.jpeg", "Figure 1. Growth curve of the BBa_K3024004 in different arabinose concentrations (0%,-0.4%) over the course of 10 hours. AraC3, empty vector was used as negative control. Absorbance OD600 was measured in 5 min cycles in a FluOstar plate reader, set to orbital shaking before each cycle." %}
 
-## Fluorescence readout
+### Fluorescence readout
 
 {% image "/static/img/wiki/project/results-lysogenic-module-03.jpeg", "Figure 2. ClariOstar measurement of mRFP(ex:550-20/em:605-40). Cells were grown in a plate-reader at 37°C for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates of BBa_K3024004. AraC3 empty vector was used as negative control. As a positive control we used the RFP coding device, BBa_J04450 in the pB1C3 backbone." %}
 

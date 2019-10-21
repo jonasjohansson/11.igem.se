@@ -5,7 +5,7 @@ permalink: /wiki/results-lytic-module/
 tags: wiki
 ---
 
-> [http://parts.igem.org/Part:BBa_K3024011](http://parts.igem.org/Part:BBa_K3024011) ![](/static/img/wiki/project/results-lytic-module-01.png)
+> ![](/static/img/wiki/project/results-lytic-module-01.png) [http://parts.igem.org/Part:BBa_K3024011](http://parts.igem.org/Part:BBa_K3024011)
 
 ## Background
 
