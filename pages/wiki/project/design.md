@@ -33,7 +33,7 @@ As mentioned before, due to safety reasons we were not able to work with phages 
 
 If you would like to learn more about what components are included in our plasmids, keep reading!
 
-### AraC3; The backbone of our system
+### AraC3 - The backbone of our system
 
 AraC is a natural E.coli protein and regulator of the pBad promoter. In the absence of arabinose, it inhibits the expression of pBad, but in the presence of arabinose, it promotes the expression. This is of interest to us, as it makes for easy regulation of pBad and thus our system. We cannot guarantee that the endogenous expression of araC is enough to fully inhibit the high copy number plasmid we use, which is why we decided to add a copy of the araC gene to our system.
 
