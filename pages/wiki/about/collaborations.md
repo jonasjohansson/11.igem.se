@@ -21,6 +21,8 @@ We were invited by DTU Copenhagen to participate in a BioBrick tutorial! Many no
 
 Did you know that the term “memetics” was first proposed by evolutionary biologist Richard Dawkins in 1976? He then offered a theory regarding how cultural information evolves and is transmitted from person to person. iGEM Spring Festival, organized by iGEM Bonn celebrated this by using memes to communicate science. iGEM Memes has gained much attention over the last year, all thanks to the creator, iGEM Stockholm 2018. We seized the moment to present our project-poster and gained valuable feedback, along with several great memes to add to the collection!
 
+![](https://2019.igem.org/wiki/images/0/04/T--Stockholm--collaborations-bonn_spring_festival.jpg)
+
 ## Nordic iGEM Conference
 
 {% div 'sub' %} 17-18 May<br>University of Copenhagen 👏 {% enddiv %}
