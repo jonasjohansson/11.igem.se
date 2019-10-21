@@ -80,6 +80,11 @@ p a {
     padding-bottom: 1px;
 }
 
+p a:hover {
+    color: var(--blue);
+    border-bottom-color: var(--blue);
+}
+
 h2#references ~ ol {
     font-size: 80%;
     opacity: 0.5;
