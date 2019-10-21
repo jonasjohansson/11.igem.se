@@ -74,13 +74,13 @@ p img {
     width: 100%;
 }
 
-p a {
+section a {
     color: var(--pink);
     border-bottom: 1px solid var(--pink);
     padding-bottom: 1px;
 }
 
-p a:hover {
+section a:hover {
     color: var(--blue);
     border-bottom-color: var(--blue);
 }

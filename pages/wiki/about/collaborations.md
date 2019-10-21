@@ -11,7 +11,9 @@ tags: wiki
 
 {% div 'sub' %} 13-15 April<br>iGEM DTU Copenhagen 👋 {% enddiv %}
 
-We were invited by DTU Copenhagen to participate in a BioBrick tutorial where many nordic teams gathered to learn about which cloning standards to follow, how to use 3A assembly to assemble the bricks and also a team sharing session. The practical lab experience, pitching workshop, and a seminar on creating the wiki page effectively helped us in creating our own. This was an ideal opportunity to connect, especially with the iGEM teams of Lund, Copenhagen, and Uppsala, which we continued collaborating with. The professional network nurtured and in some aspects, initiated will be a continued source of value for our future iGEM teams.
+We were invited by DTU Copenhagen to participate in a BioBrick tutorial! Many nordic teams from Denmark, Finland, Norway, and Sweden gathered to learn more about cloning standards, the 3A assembly method. It was a great opportunity to meet the other Nordic teams for the first time and share experiences about the first iGEM months. Practical lab sessions, a pitching workshop, and a seminar about Wiki design effectively helped us in our journey. This was an ideal opportunity to connect, especially with the iGEM teams of Lund, Copenhagen, and Uppsala, which we continued collaborating with. The professional network nurtured and in some aspects, initiated will be a continued source of value for our future iGEM teams.
+
+![](https://2019.igem.org/wiki/images/d/d3/T--Stockholm--public_engagement-biobrick_tutorial.jpg)
 
 ## Bonn Spring Festival
 
