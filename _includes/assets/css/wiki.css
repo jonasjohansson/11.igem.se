@@ -406,6 +406,7 @@ th {
 
 #esther .cover video {
     filter: saturate(0.5) contrast(1.25);
+    z-index: -1;
 }
 
 #esther .cover img {
