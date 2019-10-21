@@ -33,14 +33,14 @@ var SBOL = {
     wrap: ''
 };
 
-// var el = document.createElement('div');
-// el.id = 'svg';
-// document.body.appendChild(el);
-// SBOL.wrap = el;
+var el = document.createElement('div');
+el.id = 'svg';
+document.body.appendChild(el);
+SBOL.wrap = el;
 
-// setInterval(() => {
-//     addShape();
-// }, SBOL.wait);
+setInterval(() => {
+    addShape();
+}, SBOL.wait);
 
 function addShape() {
     if (SBOL.count >= SBOL.max) return;
