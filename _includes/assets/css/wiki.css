@@ -195,7 +195,7 @@ article {
 /* header */
 
 #header {
-    z-index: 100;
+    z-index: 150;
     /*position: fixed;*/
     position: sticky;
     top: 0;
