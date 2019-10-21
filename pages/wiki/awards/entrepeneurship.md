@@ -108,16 +108,11 @@ We, as a potential startup has strategized extensively on how we are going to su
 ## References
 
 1. Immune To Drugs: Antimicrobial Resistance Could Kill 10 Million A Year [Internet]. Forbes.com. 2019 [cited 21 October 2019]. Available from: https://www.forbes.com/sites/nicolefisher/2019/05/22/immune-to-drugs-antimicrobial-resistance-could-kill-10-million-a-year/#3e4e0a167833
-2. [https://www.genengnews.com/insights/as-novartis-exits-who-will-make-new-antibiotics/](https://www.genengnews.com/insights/as-novartis-exits-who-will-make-new-antibiotics/)
-3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/
-4. https://www.credenceresearch.com/report/bacteriophage-market
-5. https://www.sciencemag.org/news/2017/09/are-antibiotics-turning-livestock-superbug-factories
-6. https://www.pnas.org/content/115/15/E3463
-7. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/
-8. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3412693/
-9. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775060/
-10. https://www.micreos.com/blog/Are-we-ready-to-recognise-the-potential-of-antibiotic-alternatives.aspx
-11. [https://www.grandviewresearch.com/press-release/global-antibiotic-market](https://www.grandviewresearch.com/press-release/global-antibiotic-market)
-12. [https://www.grandviewresearch.com/industry-analysis/personalized-medicine-market](https://www.grandviewresearch.com/industry-analysis/personalized-medicine-market)
-13. [https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/](https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/)
-14. [https://www.goldsteinresearch.com/report/anti-microbial-peptides-market-outlook-2024-global-opportunity-and-demand-analysis-market-forecast-2016-2024](https://www.goldsteinresearch.com/report/anti-microbial-peptides-market-outlook-2024-global-opportunity-and-demand-analysis-market-forecast-2016-2024)
+2. LeMieux, J. (2019). As Novartis Exits, Who Will Make New Antibiotics?. [online] GEN - Genetic Engineering and Biotechnology News. Available at: [https://www.genengnews.com/insights/as-novartis-exits-who-will-make-new-antibiotics/](https://www.genengnews.com/insights/as-novartis-exits-who-will-make-new-antibiotics/) [Accessed 21 Oct. 2019].
+3. Ventola CL. The Antibiotic Resistance Crisis Part 1 : Causes and Threats. P&T. 2015;40(4):277–83.
+4. Credence Research, h. (2019). Bacteriophage Market Size, Share, Trend, Growth And Forecast To 2026. [online][credenceresearch.com](http://credenceresearch.com/). Available at: [https://www.credenceresearch.com/report/bacteriophage-market](https://www.credenceresearch.com/report/bacteriophage-market) [Accessed 21 Oct. 2019].
+5. Guglielmi, G. (2019). Are antibiotics turning livestock into superbug factories?. [online] Science | AAAS. Available at: [https://www.sciencemag.org/news/2017/09/are-antibiotics-turning-livestock-superbug-factories](https://www.sciencemag.org/news/2017/09/are-antibiotics-turning-livestock-superbug-factories) [Accessed 21 Oct. 2019].
+6. [Micreos.com](http://micreos.com/). (2019). Are we ready to recognise the potential of antibiotic alternatives? - [Micreos.com](http://micreos.com/). [online] Available at: [https://www.micreos.com/blog/Are-we-ready-to-recognise-the-potential-of-antibiotic-alternatives.aspx](https://www.micreos.com/blog/Are-we-ready-to-recognise-the-potential-of-antibiotic-alternatives.aspx) [Accessed 21 Oct. 2019].
+7. [Grandviewresearch.com](http://grandviewresearch.com/). (2019). Antibiotics Market Size Worth \$62.06 Billion By 2026 | CAGR: 4.0%. [online] Available at: [https://www.grandviewresearch.com/press-release/global-antibiotic-market](https://www.grandviewresearch.com/press-release/global-antibiotic-market) [Accessed 21 Oct. 2019].
+8. Doughman, E. (2019). Global Vaccine Market Revenue to Reach \$59.2 Billion by 2020 - Pharmaceutical Processing World. [online] Pharmaceutical Processing World. Available at: [https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/](https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/) [Accessed 21 Oct. 2019].
+9. Goldstain research. (2019). Anti Microbial Peptides Market Outlook 2024: Global Opportunity And Demand Analysis, Market Forecast, 2016-2024. [online] Available at: [https://www.goldsteinresearch.com/report/anti-microbial-peptides-market-outlook-2024-global-opportunity-and-demand-analysis-market-forecast-2016-2024](https://www.goldsteinresearch.com/report/anti-microbial-peptides-market-outlook-2024-global-opportunity-and-demand-analysis-market-forecast-2016-2024) [Accessed 21 Oct. 2019].

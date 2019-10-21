@@ -161,7 +161,7 @@ Finally, we met the Business Manager, **Nikoloz Ratishvili**, and the Director o
 
 ![](/static/img/wiki/human-practices/integrated-21.jpg)
 
-## Final Conclusions
+## Final conclusions
 
 Integrated Human Practices was a key component of our project. The information, feedback, and suggestions we obtained from the different experts, policymakers, company representatives, and public stakeholders helped us shape Esther. From brainstorming, to project development, to safety checks, to business development and product delivery, this journey would not have been possible without our Integrated Human Practices team and the valuable conversations they had with all the players mentioned above. We would like to thank everyone that took a few minutes, hours, and even days to help this group of students turn their idea into a tangible project.
 
