@@ -42,7 +42,7 @@ The western blot experiment of the Inducible cox characterization construct show
 
 ### Fluorescence readout
 
-{% image "/static/img/wiki/project/results-lytic-module-03.jpg", "Figure 5. ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader under permissive and non-permissive conditions (0%-0.4% arabinose) for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
+{% image "/static/img/wiki/project/results-lytic-module-03.jpeg", "Figure 5. ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader under permissive and non-permissive conditions (0%-0.4% arabinose) for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
 
 ### Western blot
 
