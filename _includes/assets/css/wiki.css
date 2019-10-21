@@ -102,11 +102,11 @@ h1 {
     text-align: center;
     padding: 5rem 0;
     line-height: 1;
-    background: linear-gradient(-45deg, var(--pink), blue);
+    /*background: linear-gradient(-45deg, var(--pink), blue);
     background-size: 300% 300%;
     animation: gradient 20s ease-in-out infinite;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;*/
 }
 
 @keyframes gradient {
