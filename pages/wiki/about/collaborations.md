@@ -61,9 +61,13 @@ In a collaboration between Stockholm and Lund we began the international initati
 
 We collaborated with the Technion team from Israel, where we were invited to join the One Minute Video Challenge. The goal of this collaboration was to reach out to the general public, budding science communities, and fellow iGEM teams to expose them to various social problems that each team was working with this year. Apart from building an excellent iGEM network, this was a fun opportunity to inspire our future iGEM teams with the fantastic potential projects they could take forward and for ourselves to learn the skill of the elevator pitch.
 
+{% video 'https://2019.igem.org/wiki/images/d/d2/T--Stockholm--colaboration-video.mp4' %}
+
 ## Fast Diagnosis
 
 {% div 'sub' %} Sep—<br>iGEM TU Eindhoven {% enddiv %}
+
+![](https://2019.igem.org/wiki/images/4/4f/T--Stockholm--collaboration-eindhoven-01.png)
 
 We decided to start a collaboration with iGEM TU Eindhoven, who have been developing a fast diagnosis system. Their system uses lytic phages to indirectly detect which bacteria are causing the infection. This system presents a double win to us, because not only it will tell us what bacteria is causing the infection, it will also show us what phage can be used in Esther for effective treatment. We realized that our phages could be integrated into their system, as we have engineered them to be obligated lytic. In the future, we would like to design a library of phages that can be ready for use. These phages will be used for diagnosis, and once identified which phage is amplified in the patient sample, it will be prepared to be administered to the patient using Esther. Thus, the combination of Esther with Eindhoven’s diagnosis system will cut down the action time and make the process more simplistic, both to the patient and the doctor.
 
@@ -73,4 +77,7 @@ We decided to start a collaboration with iGEM TU Eindhoven, who have been develo
 
 The expression "Bench to bedside" literally means the translation of clinical research and explorations into commercial products for human welfare. With this vision, we collaborated with iGEM Uppsala to organize a bio-entrepreneurship event at Karolinska Institutet to promote entrepreneurship in iGEM. The inspiring talk by our keynote speaker, Anna Svantes, a business developer at Organofuel Sweden AB and a prototyping workshop facilitated by Cecilie Hilmer, a Design Thinking coach at Stockholm School of Entrepreneurship and Karolinska Institutet resulted in gaining valuable insights into the realistic. Some of these were seeking synergies between the two different projects to promote a sense of greater good and building basic prototypes that could be potentially used as a framework for a prospective minimum viable product.
 
+![](https://2019.igem.org/wiki/images/8/85/T--Stockholm--colaboration-bench-1.jpeg)
+
+![](https://2019.igem.org/wiki/images/2/28/T--Stockholm--colaboration-bench-2.jpeg)
 
