@@ -23,7 +23,7 @@ Secondly, we will study the change of expression over time. This will allow us t
 
 Lastly, we will compare the behavior of this BioBrick in two different backbones: the standard B1C3 backbone and a vector constitutively expressing AraC3. We hypothesize that the C3- BBa_K611059 construct will show lower expression of GFP, due to the overexpression of the pBAD promoter but not its regulator, AraC3. If our hypothesis is correct, the AraC3- BBa_K611059 construct will show stronger repression of GFP, since we will also overexpress the AraC3 protein, which will allow for a higher expression of the TetR repressor protein.
 
-![](https://2019.igem.org/wiki/images/9/9c/T--Stockholm--contribution-02.png)
+{% image "![](https://2019.igem.org/wiki/images/9/9c/T--Stockholm--contribution-02.png)", "Visual characterization of our hypothesis." %}
 
 ## Material
 
