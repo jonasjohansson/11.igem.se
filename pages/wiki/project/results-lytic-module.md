@@ -1,6 +1,6 @@
 ---
 title: Inducible Cox characterization construct
-preamble: Lysogenic module
+preamble: Lytic module
 permalink: /wiki/results-lytic-module/
 tags: wiki
 ---

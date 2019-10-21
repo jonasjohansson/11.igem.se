@@ -37,7 +37,7 @@ If you would like to learn more about what components are included in our plasmi
 
 AraC is a natural E.coli protein and regulator of the pBad promoter. In the absence of arabinose, it inhibits the expression of pBad, but in the presence of arabinose, it promotes the expression. This is of interest to us, as it makes for easy regulation of pBad and thus our system. We cannot guarantee that the endogenous expression of araC is enough to fully inhibit the high copy number plasmid we use, which is why we decided to add a copy of the araC gene to our system.
 
-All parts were cloned into the B1C3 high-copy plasmid [[https://parts.igem.org/Part:pSB1C3](https://parts.igem.org/Part:pSB1C3)] which includes the araC gene. Parts that did not contain pBad we
+All parts were cloned into the B1C3 high-copy plasmid [https://parts.igem.org/Part:pSB1C3](https://parts.igem.org/Part:pSB1C3) which includes the araC gene. Parts that did not contain pBad we
 
 ## Our Switch Plasmid
 
@@ -48,8 +48,8 @@ By adding arabinose we can induce cox expression. We also express tetR, since it
 {% image "https://2019.igem.org/wiki/images/6/69/T--Stockholm--design-03.png", "The Switch Plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic." %}
 
 For further information on the two BioBricks that made up this plasmid click below:
-[C-protein Characterization Construct](/wiki/results/)
-[Inducible cox Characterization Construct](/wiki/results/)
+[C-protein Characterization Construct](/wiki/results-inducible-c-protein/)
+[Inducible cox Characterization Construct](/wiki/results-lytic-module/)
 
 ## Model Plasmid
 
@@ -60,15 +60,15 @@ Therefore, the Model Plasmid allows us to study how much C protein is required t
 {% image "https://2019.igem.org/wiki/images/b/be/T--Stockholm--design-04.png", "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage." %}
 
 For further information on the two BioBricks that made up this plasmid click below:
-[Inducible C-protein construct](/wiki/results/)
-[Phage Genome Simulation Module](/wiki/results/)
+[Inducible C-protein construct](/wiki/results-inducible-c-protein/)
+[Phage Genome Simulation Module](/wiki/results-phage-genome-simulation-module/)
 
 ## The Sensing System
 
 Our goal was to activate our system and promote the lytic cycle only when the vehicle bacteria have reached the site of infection, to make our treatment specific and efficient. Inspired by natural inflammation-detecting systems in E. coli, we chose to adopt a nitric oxide (NO)-induced transcriptional module to our project's main design. Nitric Oxide is a molecule released by our body as a sign of inflammation, and therefore, it will be found at high concentrations at the site of infection. In this design, we create a composite part that detects nitric oxide (NO-sensing promoter) that we can characterize and use in our Switch Plasmid instead of pBad promoter. Thus, instead of inducing the Switch with arabinose, we can induce it with Nitric Oxide, simulating how our system would work as a treatment.
 
 For a more detailed explaination of how this would work and how we would design it into our system, click below:
-[Nitric Oxide as a sign of inflammation](/wiki/results/)
+[Nitric Oxide as a sign of inflammation](/wiki/design-nitric-oxide/)
 
 ## Final remarks
 
