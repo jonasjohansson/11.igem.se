@@ -65,35 +65,37 @@ As we are now aware that Sweden is more than ready to support the development of
 
 ### Interviewing experts for the documentary
 
-With this in mind, we decided to tackle the lack of awareness by creating a documentary that could be easily understood by people from different backgrounds and ages. The purpose of this documentary was not to promote our iGEM team or our project. Instead, we focused on providing reliable information in the form of interviews, so that the general population could learn more about phage therapy. We believe that this initiative should be continued by future teams working with phage therapy so that the information can spread to other countries and more people. Read more about our documentary [here](https://www.notion.so/Documentary-cdae0eead070455d994d0beebe0151c6) and watch it here.
+With this in mind, we decided to tackle the lack of awareness by creating a documentary that could be easily understood by people from different backgrounds and ages. The purpose of this documentary was not to promote our iGEM team or our project. Instead, we focused on providing reliable information in the form of interviews, so that the general population could learn more about phage therapy. We believe that this initiative should be continued by future teams working with phage therapy so that the information can spread to other countries and more people. Read more about [our documentary](/wiki/documentary/)!
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#1a14fd1106924275b51c38d9f5e1fb57)
+![](/static/img/wiki/human-practices/documentary-02.png)
 
 By interviewing people for the documentary, we learned new things about phage therapy ourselves. It helped us understand the necessity of collaboration between researchers and clinical institutions in order to be able to test the clinical efficacy of phage therapy.
 
 ### Playing with the public stakeholders
 
 Creating a documentary and speaking about phage therapy on TV were great starting points to raise awareness about Phage Therapy. But we wanted to spark curiosity within people, and give room for questions and conversations, so we left the 2D TV screen and went out to the streets! To make it fun, we designed a card game in which people would have to select images that would associate with a topic we proposed. The drawings and the topics were all related to Human Health, Antibiotics and Phage Therapy. We called this game [Pixid](https://www.notion.so/Pixid-32d121bf858842d1b150e4e665c628e4). You can flip it upside down and it will still be the same name, Pixid!
+
 Pixid was a great game to start a dialogue between our team and the general public. While playing, we proposed the topics in the form of questions, and let the players discuss between them or in teams what images they associated with the question. In the end, we would ask why they chose that specific card and tried to understand their thought process. There were no wrong or right answers, only the opinion of the general public.
+
 We believe these activities are important, not only because it helps us understand the opinion of the general public regarding our product, but also because it helps people understand that science can be accessible for everyone, and that everyone can participate in the making of science.
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#9c9198142dc04868a00b0a5bfed2f66d)
+![](/static/img/wiki/human-practices/integrated-06.jpg)
 
 ## It might be Fall, but we rise up!
 
 ### Let's talk business!
 
-Our team was incredibly pleased to speak with **Minmin Yen**, CEO, and founder of PhagePro ([https://www.phageproinc.com](https://www.phageproinc.com/)). Her start-up developed ProphaLytic-VC, an orally dosed preparation of bacteriophages that are specifically targeted towards epidemic strains of cholera. She has recently been included in the *35 innovators under 35* list ([https://www.technologyreview.com/lists/innovators-under-35/2019/](https://www.technologyreview.com/lists/innovators-under-35/2019/)).
+Our team was incredibly pleased to speak with **Minmin Yen**, CEO, and founder of [PhagePro](https://www.phageproinc.com/). Her start-up developed ProphaLytic-VC, an orally dosed preparation of bacteriophages that are specifically targeted towards epidemic strains of cholera. She has recently been included in the [35 innovators under 35 list](https://www.technologyreview.com/lists/innovators-under-35/2019/).
 
 Thanks to Minmin, we were able to learn more about how a research project can become a startup, and what obstacles she encountered when marketing and selling phage therapy. Inspired by her story, we analyzed what would be the next steps for our project to become a startup.
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#b54a428f69124239a595342119cbaea5)
+![](/static/img/logo/phagepro.png)
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#ee4263cf0fe74e0b84ce152f2583223b)
+![](/static/img/wiki/human-practices/integrated-07.jpg)
 
 We scheduled a meeting with **Drivhuset** and the **Stockholm University Innovations Office**, who evaluated Esther and proposed us two main focus points, that are essential at the beginning of any startup: Intellectual Property and Prototyping. In other words, show your idea, protect your idea!
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#cfe71af4ddfb42d08396ced7d6fa38e7)
+![](/static/img/wiki/human-practices/integrated-08.jpg)
 
 ### Protect your idea
 
@@ -101,9 +103,9 @@ Intellectual Property and its _modus operandi_ was a big question mark for our t
 
 For evaluating the novelty of our idea, and to understand the implications of Freedom to Operate (FTO) and infringement, we spoke with **Joanna Applequist**, a European Patent Attorney at Valea AB. With her help, we learned what the requirements would be for patenting Esther. Later on, we discussed this idea with the **SU Innovations Office** and **Drivhuset**, who could provide us with grants to perform the first steps for filing a patent. However, given the current state of phage therapy in Sweden and in Europe, we saw no immediate market benefit, as it is not regulated like common drugs in most European countries. In those countries where it is - France, The Netherlands, and Belgium- it is only given as a compassionate treatment, which would not produce enough benefit to keep up a patent for the next upcoming years.
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#fd56d17632694ad5a60ac5adc9ff75d2)
+![](/static/img/wiki/human-practices/integrated-09.jpg)
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#c061244e310f4dce94a1260ea325c2db)
+![](/static/img/wiki/human-practices/integrated-10.jpg)
 
 ### Show your idea
 
@@ -113,53 +115,51 @@ So, we collaborated with **iGEM Uppsala** to organize a Bioentrepreneurship even
 
 At the heart of the framework for innovation is design methodology, the Double Diamond – a clear, comprehensive, and visual description of the design process. The latter session, lead by Design Thinking Coach Cecilie Hilmer, was focused on design thinking and learning how we can use the Double Diamond Model of Design Thinking. To make a product that would fit in well into a user-driven society, the importance of assessing the problem in-depth, to fully understand the goal of our product, and prototyping to get useful user feedback. Later, we went on to create basic prototypes of iGEM projects and gained some valuable insight on how to bring our product to existence in an effective way. It was a very creative and fun afternoon, where both iGEM Uppsala and iGEM Stockholm were able to obtain feedback about how to further mold their product to be successful in the market!
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#49c473849b394ee585ba8b6bf737826c)
+<!-- ![](/static/img/wiki/human-practices/integrated-11.png)
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#64b09f38de584eadbc5090525f289c78)
+![](/static/img/wiki/human-practices/integrated-12.png) -->
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#a3ccdb7cb4ba4ba2a05cad33f72791c0)
+![](/static/img/wiki/human-practices/integrated-13.png)
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#e83df2e7cbf44c49a101faafd4f9dbe1)
+![](/static/img/wiki/human-practices/integrated-14.jpg)
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#e13c58c7956344abb3c82d429e8e3a29)
+![](/static/img/wiki/human-practices/integrated-15.jpg)
 
 ### Taking the next step - SynthEthics (we have trademarked the name)
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#96ee4cfb13414e9f91c9412a841c258f)
+![](/static/img/wiki/human-practices/integrated-16.png)
 
 An interview with a policy expert from the Swedish Pharma Association, **Bengt Mattson**, led us to realize that regulations surrounding synthetic biology and the use of GMOs are the greatest barriers for projects such as ours. These regulations are driven by the current ethical points of view in society. We realized that we might need to take some special ethical considerations before selling "Genetically Modified Microorganisms". In collaboration with **iGEM Lund**, we investigated the current situation to formulate questions for the general public and experts. This would enable the collection of insights from the general public as well as researchers specialized in this area. The questions were designed differently according to the target group. For the ease of public survey, we made yes/no questions and elaborative questions for the experts in the field. The objective of this project was to initiate a legislative draft that could take into consideration the ethics which are not standardized and, therefore, a limiting factor in the use of GMOs and synthetic biology.
 
 The feedback obtained was vital not only for the future of synthetic biology but also regarding the future launch of Esther into society.
 
-To read more go to link for collaborations!
+To read more go to [collaborations](/wiki/collaborations/)!
 
 ## Our trip to Georgia - shaping the future of Esther
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#f905b722af3f448faf64d95e5b29b329)
+After speaking with researchers, policymakers, and business representatives, it was time to observe how Esther would work in a hospital set up. Unfortunately, phage therapy is not provided as a treatment in Sweden, which is why we tried our best to contact people from the **Eliava Phage Therapy Centre** in Georgia. After months of trying, two members from our team, Itisha and Nerea, were finally able to travel to Georgia to visit the [Eliava Phage Therapy Centre](https://eliavaphagetherapy.com/).
 
-After speaking with researchers, policymakers, and business representatives, it was time to observe how Esther would work in a hospital set up. Unfortunately, phage therapy is not provided as a treatment in Sweden, which is why we tried our best to contact people from the **Eliava Phage Therapy Centre** in Georgia. After months of trying, two members from our team, Itisha and Nerea, were finally able to travel to Georgia to visit the Eliava Phage Therapy Centre ([https://eliavaphagetherapy.com](https://eliavaphagetherapy.com/)).
-
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#237236c332f04326ac0d7e234c427e03)
+![](/static/img/wiki/human-practices/integrated-17.jpg)
 
 Eliava Phage Therapy Centre has been the largest global center of phage expertise for more than 80 years. They also showcase a success rate exceeding 80% in treating patients with multi-drug resistance from over 65 countries, including Canada, USA, France, UK, Germany, China, India and many more. This motivated us to find out what and how exactly were they so successful in doing so and where Esther can fit, as a product, in aiding their treatment.
 
 We visited the clinic where patients are consulted, and interviewed a Dutch patient who had traveled from the Netherlands to get treated for a foot infection. Misdiagnosis and overconsumption of wrong antibiotics had led him to suffer from an antibiotic-resistant pathogen, and the risk of losing his leg forever. He expressed his excitement with the treatment to us, as just after 2 days of receiving a phage cocktail, his swelling had considerably reduced. He concluded his story by saying that he would very much like to see this treatment being accessible in European countries, which motivated us to continue the journey that we had chosen.
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#55ec1d1f94ec4414814f5b2b65d010ab)
+![](/static/img/wiki/human-practices/integrated-18.jpg)
 
 Speaking with a young doctor, **Mariam Dadiani**, we learned that its not just about providing a product but training physicians to be more skilled in diagnosing and practicing phage therapy. She had been educated about this treatment during Medical School, as a student in Georgia, and she said that other physicians were aware of this treatment as well. Furthermore, she helped us to understand the importance of the right diagnosis and what the process of receiving Phage Therapy at the Eliava Center looks like for an international visitor.
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#f4831e953c244771a455fd4481afb560)
+![](/static/img/wiki/human-practices/integrated-19.jpg)
 
 We visited research labs, where they screened phages and patient samples, which resulted in insights on how we could extract our phage strains by using simple yet sophisticated techniques like bacteriological essays and phage sensitivity testing. They used these results to not only provide the patient with an appropriate cocktail of phages but simultaneously add these strains to the most extensive phage library currently available.
 
 The magnificent phage library stored literature from eminent phage researchers from all around the world for more than 100 years. This only validated our initial testimony that phage research has existed for around a century and only needed to be revamped.
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#9e50e24c624e4c54aecb2d2d79d50295)
+![](/static/img/wiki/human-practices/integrated-20.jpg)
 
 Finally, we met the Business Manager, **Nikoloz Ratishvili**, and the Director of the Eliava Institute, **Dr. Mzia Kutateladze**, who explained to us the scope and the market potential of phage therapy. They supported our project with extremely crucial feedback on the use of temperate phages. They believe that natural phages work well now, but genetically modified phages may bring an array of improved functionalities to the table. They were particularly impressed with our efforts in the public engagement and education sector since awareness about phage therapy is the biggest challenge, according to them.
 
-[](https://www.notion.so/4ab4cfc1bf1b49da8ed38306192d7443#dd3514301ae649f7b936328ac018694c)
+![](/static/img/wiki/human-practices/integrated-21.jpg)
 
 ## Final Conclusions
 
