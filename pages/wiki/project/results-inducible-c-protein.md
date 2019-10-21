@@ -5,9 +5,7 @@ permalink: /wiki/results-inducible-c-protein/
 tags: wiki
 ---
 
-[http://parts.igem.org/Part:BBa_K3024009](http://parts.igem.org/Part:BBa_K3024009)
-
-[](https://www.notion.so/63a6815ded3e4fa8a8cc8ba38e045f19#715273d4e82b4865b2256a6e55407734)
+> [http://parts.igem.org/Part:BBa_K3024009](http://parts.igem.org/Part:BBa_K3024009) [](https://www.notion.so/63a6815ded3e4fa8a8cc8ba38e045f19#715273d4e82b4865b2256a6e55407734)
 
 ## Background
 

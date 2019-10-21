@@ -23,7 +23,10 @@ When administered, phages disperse in our body, where they encounter many barrie
 
 ## A new tool for treating bacterial infections
 
-Esther gives a spin to traditional phage therapy! Instead of using conventional lytic phages, we propose the use of temperate phages, that will remain dormant inside a vehicle bacteria. This non-pathogenic bacteria will be ingested by the patient, traveling throughout the gastrointestinal tract until it has reached the site of infection. Only then will the phages turn lytic and will be released right where the pathogenic bacteria are. One of the main issues with temperate phages is the chance of becoming lysogenic after infecting the target bacteria. This could invoke resistance to the phage in the target bacteria, as the phage DNA is now found in the bacterial genome. We tackled this issue by using genetically modified phages that lack one of the proteins required to keep them in the lysogenic state. Instead, this protein is provided by our Switch plasmid. By doing so, the phage will only be lysogenic in the vehicle bacteria, as any other target bacteria would lack the gene required for this state.
+Esther gives a spin to traditional phage therapy! Instead of using conventional lytic phages, we propose the use of temperate phages, that will remain dormant inside a vehicle bacteria. This non-pathogenic bacteria will be ingested by the patient, traveling throughout the gastrointestinal tract until it has reached the site of infection. Only then will the phages turn lytic and will be released right where the pathogenic bacteria are.
+One of the main issues with temperate phages is the chance of becoming lysogenic after infecting the target bacteria. This could invoke resistance to the phage in the target bacteria, as the phage DNA is now found in the bacterial genome. We tackled this issue by using genetically modified phages that lack one of the proteins required to keep them in the lysogenic state. Instead, this protein is provided by our Switch plasmid. By doing so, the phage will only be lysogenic in the vehicle bacteria, as any other target bacteria would lack the gene required for this state.
+
+![](/static/img/wiki/project/description-01.png)
 
 Before we go any further, it is important to understand the life cycles of a temperate phage. This includes a lytic phase, most commonly used in phage therapy; and a lysogenic phase. Each type comes with some distinct features.
 
@@ -35,7 +38,9 @@ When a phage follows the lytic cycle, it injects its DNA into a bacterial host. 
 
 During the lysogenic cycle, the phage integrates its DNA directly into the bacterial genome, becoming a prophage. Upon a certain stimulus, often environmental factors, the prophage is released from the DNA, entering the lytic cycle.
 
-Our project makes use of the temperate phage, because if its dormant properties. To get into the details of how we plan to (ab)use this system, continue to our project [✓ Design](https://www.notion.so/f4c539ce-3452-45f2-80bb-8dc169a7f65f)! If you want, feel free to skip to the [✓ Outlook](https://www.notion.so/31b0d1eb-186c-4856-b7a0-0e0b897a754e) to discover the potential of Esther and phage therapy.
+Our project makes use of the temperate phage, because if its dormant properties. To get into the details of how we plan to (ab)use this system, continue to our project [Design](/wiki/design/)! If you want, feel free to skip to the [Outlook](/wiki/design/) to discover the potential of Esther and phage therapy.
+
+![](/static/img/wiki/project/description-02.png)
 
 ## References
 

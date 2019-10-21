@@ -45,7 +45,7 @@ Simulation of our plasmid systems according to the models we developed above. We
 
 ### Model Analysis
 
-Analysis of a bifurcation analysis for P2 genetic switch in order to explore its bistability, as well as sensitivity analysis for both plasmid systems to determine the influence of various parameters. [→ Learn more](/wiki/model-analysis/)
+Bifurcation analysis for P2 genetic switch in order to explore its bistability, as well as sensitivity analysis for both plasmid systems to determine the influence of various parameters. [→ Learn more](/wiki/model-analysis/)
 
 ## Conclusions
 

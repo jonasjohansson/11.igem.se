@@ -5,89 +5,48 @@ permalink: /wiki/results/
 tags: wiki
 ---
 
-## C protein characterization construct
+To translate our idea into results, we characterized every biobrick as listed in [Basic & Composite](https://www.notion.so/ad4a787e-b1c6-4c63-823c-96f13cb4a04a) and described in [Design](https://www.notion.so/f4c539ce-3452-45f2-80bb-8dc169a7f65f). All of the bricks were transformed into TOP10 cells and tested for the following parameters:
 
-{% div 'sub' %} Lysogenic module {% enddiv %}
+-   Growth curve/Toxicity of the constructs
+-   Fluorescent fingerprint using spectrophotometry and flow cytometry
+-   Protein expression using Western Blot
 
-{% div "group" %}
+Here, you can find the most important findings for each BioBrick, and we urge you to follow the links found after each section for in-depth analysis.
 
-### Background
+## The Switch Plasmid
 
--   Strong constitutive promoter (pTet) which can be inhibited by TetR.
--   C protein gene fused with FLAG tag, RFP protein as a reporter
--   pTet is a lot stronger than Pe promoter (promoter of cox) hence it should force the phages in lysogeny.
+The first part of our project revolves around creating the Switch Plasmid, a simulation of our inducible switch to force the P2 phage into the lysogenic cycle. For this to happen, we constructed two modules, the lysogenic C-protein Characterization Construct and the lytic Inducible Cox Characterization Construct. As we tested the lysogenic module, we saw no RFP expression through spectrophotometric analysis. Yet with western blot, we detected a constitutive C-protein expression, which confirmed that the bricks work as expected. As the lytic module was characterized, we saw arabinose-dependent toxicity which was not present in the control. Furthermore, no expression of neither GFP nor the cox-protein was found. When combined in the Switch plasmid, we concluded from the western blot that there is a distinct expression of C-protein in non-induced samples and upon induction an increase in the cox expression, confirming that the switch works!
 
-{% enddiv %}
+[C-protein Characterization Construct (Lysogenic module)](/wiki/results-lysogenic-module/)
 
-{% div "group" %}
+[Inducible cox characterization construct (Lytic module)](/wiki/results-lytic-module/)
 
-### Aims
+[Switch plasmid](/wiki/results-switch-plasmid/)
 
--   Characterization of the expression of C protein from its constitutive promoter pTet.
+## The Model Plasmid
 
-{% enddiv %}
+The second part of our project was the creation of a Model Plasmid to simulate the P2 genome and its reaction to the induction of the switch. We combined two modules; the Inducible C-protein Construct and the Phage Genome Simulation Module. The first module enabled careful control of the C-protein expression. Western blot results showed that overexpression of C-protein was achieved at levels of induction above 0.4% arabinose. In line with our expectations, C-protein increased upon arabinose induction. Then, we created the second module that would mimic the phage switch genome. We showed that cox-protein is expressed on a stable level. However, we experienced issues in the detection of fluorescence.
 
-{% div "group" %}
+[Inducible C-protein construct](https://www.notion.so/63a6815ded3e4fa8a8cc8ba38e045f19)
 
-### Achievements
+[Phage genome simulation module ](https://www.notion.so/5e1b526eda904bcc98a2448ecfff340e)
 
--   Detection of C protein expression by Western blot.
--   The reporter gene is not expressed.
+[Model plasmid](https://www.notion.so/edb52884fd2c4db8be0a51d82cd85db0)
 
-{% enddiv %}
+## Discussion
 
-## Results
+When we discovered that fluorescence spectrophotometry could not detect fluorescence from our reporters, we began to investigate… We analyzed the sequences of our construct and saw that everything had been inserted, although, the RBS sequences were 4bp too short.
 
-On one hand we wanted to understand how the C protein expression varied over time and whether its expression differed between the exponential and stationary growth phase of the bacteria. We also wanted to analyze the strength of the pTet promoter and confirm that C-protein indeed would be expressed constitutively within the cells.
+### A new hope
 
-In order to characterize the expression of C protein from the pTet promoter we used two different methods for protein expression analyzes; Western blot and Fluorescence spectometry. Firstly, we transformed top10 bacteria with our construct, this construct was successfully transformed 3rd of October 2019 using the Hi-Fi assembly kit from NEB (New England BioLabs). Then, we analyzed the growth of our bacteria and checked for possible toxicity from overexpressing C-protein. The bacteria were grown for 5 hours at 37°C, with a starting optical density of 0.05 for all samples. Samples for Western blot were collected at three timepoints.
+We ordered a new **Switch Plasmid** construct containing the correct RBS sequences; furthermore, we ordered primers to correct for the RBS sequences for [BBa_K3024004](http://parts.igem.org/Part:BBa_K3024004) and [BBa_K3024011](http://parts.igem.org/Part:BBa_K3024011), two of our composite parts. With the new constructs, we again did not see an apparent increase in the fluorescence signaling. Considering that we still couldn't detect the fluorescence, we discussed whether some single cells might be expressing low levels of fluorescence. Johan Rockberg, our PI, helped us set up a flow cytometry experiment to measure the fluorescence from single cells within a population. For the **Switch Plasmid**, we noticed that upon arabinose induction, it expressed higher levels of RFP, which correlated with the results seen from the western blot results. Because we did not detect a significant shift in expression of RFP/GFP upon induction, we assume that the missing base pairs in the RBS were not the issue.
 
-The C-protein of our construct is coupled with a flag-tag which enabled us to stain for the protein in a Western blot. Samples were stained with anti-flag-tag and anti-RFP, anti-GAPDH was used as loading control. The C protein and RFP proteins are in a cis-construct but have separate RBS. In this way we could understand whether the cis-construct was coupled in such a way that the concentration of RFP was comparable to that of C-protein. In which case, we hoped that we would only need to measure fluorescence to understand the relative expression levels.
+Maximillian Karlander, a Ph.D. student, recommended transforming our constructs in a different bacterial strain that is a more efficient expression strain. We transformed the **Switch Plasmid** in BL21 E.coli and analyzed the level of fluorescence in the ClariOstar plate reader using the previous protocol. There was no evident difference in neither expression nor growth of the two strains.
 
-Secondly, we started measuring the cultures in a platereader and performed fluorescence spectrometry. As a positive control we used the RFP coding device, BBa_J04450 in the pB1C3 backbone isolated from the 2019 kit. Negative control was the empty AraC3 vector transformed in top10 cells. Cells were grown for 12 hours in the plate reader, the cycle interval was set at 5 min with orbital shaking before each cycle. Then we ploted the fluorescence intensity over time.
+Another theory was that the degradation tag fused to the reporter genes caused a quick targeting and degradation of newly formed RFP/GFP, which would prevent detection. Interestingly, the maturation time for RFP is quite slow, meaning that although the protein is transcribed, it takes time before it emits a fluorescent signal.
 
-The C protein characterization construct did not show any significant level of protein expression compared to the controls. The westernblot showed that C-protein was highly expressed as seen in Fig 3 but there was no expression of RFP visible in the westernblot.
+### Planning ahead
 
-{% div "group" %}
+To further investigate, we would perform RT-qPCR to assess whether there are detectable levels of the RFP/GFP mRNA transcripts. We aim to understand if the problem of expression originates from the translation or transcription. Ultimately, if there was a problem with the transcription, the cis- or tris-construct design should be considered as a non-functional concept!
 
-### Growth curve
-
-![]()
-
-Fig 1. FluOstar readout. Absorbance OD600 measured at a cycle interval of 5 min, 120 cycles. Blank; media. Samples: top10 cells transformed with BBa_K
-
-{% enddiv %}
-
-{% div "group" %}
-
-#### Fluorescence Readout
-
-![]()
-
-Fig 2. ClariOstar readout measurement.
-
-{% enddiv %}
-
-{% div "group" %}
-
-#### Westernblot
-
-![]()
-
-Fig 3. Western blot showing C-exp at two different time points. Anti-flag, anti RFP
-
-{% enddiv %}
-
----
-
-[Lysogenic Module](../results-lysogenic-module)
-
-[Lytic Module](../results-lytic-module)
-
-[Switch Plasmid](../results-switch-plasmid)
-
-[Inducible C Protein](../results-inducible-c-protein)
-
-[Phage Genome Simulation Module](../results-phage-genome-simulation-module)
-
-[Model plasmid](../results-model-plasmid)
+On continuing the project, we would make all parts of the construct functional and further evaluate the protein expression using other characterization methods. We would also work on the integration of the envisioned sensing system with the **Switch Plasmid**. We would test the induction of bacteria in different pH concentrations similar to the gastric and intestinal fluids. Last but not least, we would aim to test the system with the P2 knockout phage.
