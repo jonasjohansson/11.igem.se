@@ -1,6 +1,6 @@
 ---
-title: Entrepeneurship
-permalink: /wiki/entrepeneurship/
+title: Medial criteria
+permalink: /wiki/medial-criteria/
 tags: wiki
 ---
 
