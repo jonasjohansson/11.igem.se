@@ -47,7 +47,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addShortcode('hero', function(path, content = '') {
 		var isVideo = path.match(/.(mp4|webm|ogv)/i) ? true : false;
 		if (isVideo) {
-			return `<div class="cover video"><video src="${path}" width="960" height="540" autoplay loop playsinline></video>${content}</div>`;
+			return `<div class="cover video"><video src="${path}" width="960" height="540" autoplay loop playsinline controls></video>${content}</div>`;
 		} else {
 			return `<div class="cover image"><img src="${path}">${content}</div>`;
 		}
