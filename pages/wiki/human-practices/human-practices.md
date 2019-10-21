@@ -13,7 +13,7 @@ Integrated Human Practices has been key in the development of Esther. Through th
 
 At the beginning of our journey, we arranged a brainstorming session to look for problems that affect society and that could be solved using synthetic biology. We divided ourselves into small groups and each had to select a problem that they would focus on. This was followed by another brainstorming session to come up with possible solutions to tackle these problems. During this time, our team members contacted multiple experts, which helped them shape their project proposals. Many interesting ideas were brought to the table: an enzyme to degrade microplastics, a diagnosis system for early detection of multiple sclerosis, a molecular system to determine bacterial infections... With so many different options, it was difficult to pick just one.
 
-We decided to invite a panel of experts who could provide us an unbiased viewpoint on each of our proposals. The panel included **senior researchers** **at Karolinska Institutet, Stockholm University and KTH Royal Institute of Technology**, as well as **members of SGEM** (Stockholm iGEM alumni network). The different members of our team had to present and defend their projects in front of these experts using the NABC approach, developed by the Stanford Research Institute to frame the development and communication of innovative solutions.
+We decided to invite a panel of experts who could provide us an unbiased viewpoint on each of our proposals. The panel included **senior researchers at Karolinska Institutet, Stockholm University and KTH Royal Institute of Technology**, as well as **members of SGEM** (Stockholm iGEM alumni network). The different members of our team had to present and defend their projects in front of these experts using the NABC approach, developed by the Stanford Research Institute to frame the development and communication of innovative solutions.
 
 ![](/static/img/wiki/human-practices/integrated-02.png)
 
@@ -135,7 +135,7 @@ An interview with a policy expert from the Swedish Pharma Association, **Bengt M
 
 The feedback obtained was vital not only for the future of synthetic biology but also regarding the future launch of Esther into society.
 
-To read more go to [collaborations](/wiki/collaborations/)!
+To read more go to [the SynthEthics project page](/wiki/synthethics/)!
 
 ## Our trip to Georgia
 

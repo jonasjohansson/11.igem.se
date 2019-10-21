@@ -75,6 +75,8 @@ Three members of iGEM Stockholm together with an esteemed friend, Sebastian Mont
 
 In a collaboration between Stockholm and Lund we began the international initative Synthethics®. A project posing ethical questions to raise awareness within biology and genetic engineering. The desired outcome? To discover the potential risks that the new-era biotechnology and medicine might have in store for us. Synthetic biology is a promising field and has a potentially prosperous future, but it entails areas of research that expose us to severe risks and detrimental outcomes. Therefore, we were avid to gather the opinions of people from all professions, cultures, and ideologies. We customized a set of questions that represented a fraction of the possible dilemmas for both experts in this field and the general public. They were requested to delve into their imagination when answering the questions.
 
+[→ Learn more about our trademarked initiative!](/wiki/synthethics/)
+
 ## 1 Minute challenge
 
 {% div 'sub' %} 26 Aug<br>iGEM Technion ✌ {% enddiv %}
