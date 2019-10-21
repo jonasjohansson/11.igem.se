@@ -216,7 +216,8 @@ article {
 
 header {
     width: 100%;
-    max-width: calc(80ex + 2rem);
+    /*max-width: calc(80ex + 2rem);*/
+    width: 100%;
     margin: 0 auto;
     display: inline-block;
     text-align: left;
@@ -247,7 +248,7 @@ header > * {
 
 header > * {
     float: left;
-    width: 25%;
+    width: 15%;
     padding: 1rem;
     overflow: hidden;
     /*background-color: white;*/
