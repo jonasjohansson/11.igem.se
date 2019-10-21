@@ -47,7 +47,7 @@ These results, however, do not apply to certain mutations causing immunodeficien
 
 ## Conclusions
 
-As we have seen, neither the use of phages nor Escherichia coli Nilson 1917 has shown adverse effects so far. However, for our product to be proved safe, in-vivo studies should be performed. An excellent way to monitor the distribution of Esther throughout a mammalian body would be to mimic the experiment by Otero et al. <sup>6</sup>, adding different fluorochrome tags to our vehicle bacteria and our phage. This would allow us to observe whether our Switch gets activated before it reaches the site of infection and whether E. coli Nilson can easily travel throughout the gut carrying the Switch plasmid.
+As we have seen, neither the use of phages nor Escherichia coli Nilson 1917 has shown adverse effects so far. However, for our product to be proved safe, in-vivo studies should be performed. An excellent way to monitor the distribution of Esther throughout a mammalian body would be to mimic the experiment by Otero et al. <sup>6</sup>, adding different fluorochrome tags to our vehicle bacteria and our phage. This would allow us to observe whether our Switch gets activated before it reaches the site of infection and whether E. coli Nilson can easily travel throughout the gut carrying the Switch Plasmid.
 
 ## References
 

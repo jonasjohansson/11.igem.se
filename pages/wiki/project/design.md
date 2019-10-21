@@ -7,7 +7,7 @@ tags: wiki
 
 > Our team has [designed a delivery system](/wiki/description/) that carries temperate phages right to the site of infection. Once there, our molecular switch will trigger the phage to burst out of the carrier, infecting the surrounding bacteria. This will increase the effective dose of phages, allowing them to avoid barriers that would otherwise limit their efficiency in phage therapy.
 
-To understand how this system works, we will introduce the P2 phage switch, the source of our inspiration. For our project, we took molecular components of this switch to create our own Switch Plasmid, which will also be explained on this page. Due to safety restrictions, we were not allowed to use phages in the lab, which is why we had to simulate our phage using the Model Plasmid, which would help us to experimentally test our switch plasmid. The **Switch Plasmid** will be activated when there is inflammation, so we will also briefly explain our **Sensing System**.
+To understand how this system works, we will introduce the P2 phage switch, the source of our inspiration. For our project, we took molecular components of this switch to create our own Switch Plasmid, which will also be explained on this page. Due to safety restrictions, we were not allowed to use phages in the lab, which is why we had to simulate our phage using the Model Plasmid, which would help us to experimentally test our Switch Plasmid. The **Switch Plasmid** will be activated when there is inflammation, so we will also briefly explain our **Sensing System**.
 
 ## The P2 Switch
 
@@ -17,17 +17,17 @@ We chose the P2 phage switch because it is a simple system consisting of two pro
 
 To add to the equation, the C protein represses the Pe promoter, whereas cox protein represses the Pc promoter. (1)
 
-![](/static/img/wiki/project/design-01.png)
+![](https://2019.igem.org/wiki/images/f/f3/T--Stockholm--design-01.png)
 
 ### How to control the switch
 
 To take control of the switch we focus on delC P2 phages that lack the C gene, and thus the C protein. These phages are obligatory lytic, since the C protein is in charge of regulating downstream targets that promote lysogeny. (1) Instead, we will express the C protein on a plasmid that will be carried by the vehicle bacteria. When the phage enters our carrier bacteria, the plasmid will express high levels of C protein, causing the phage to immediately enter lysogeny (based on interviews with experts, unpublished research).
 
-![](/static/img/wiki/project/design-02.png)
+![](https://2019.igem.org/wiki/images/4/48/T--Stockholm--design-02.png)
 
 By including the genes of the C protein inside the plasmid, we can control its expression using different promoters, which in turn allows us to control the cycle of the phage. The pathogenic bacteria that our phage targets, do not produce C protein by themselves, as they lack our plasmid carrying C protein. This prevents the phages from going into lysogeny. Instead, they will remain lytic and continue on this cycle until there are no more target bacteria left. We have designed it this way to add a safety feature to our project, as this ensures no resistance against the phage is developed.
 
-![](/static/img/wiki/project/design-03.png)
+![](https://2019.igem.org/wiki/images/6/69/T--Stockholm--design-03.png)
 
 As mentioned before, due to safety reasons we were not able to work with phages in our lab. As a consequence, we cannot count on cell lysis to prove that we induced the lytic cycle with our system. Instead, we use reporter genes that represent lysogenic or lytic expression profiles.
 
@@ -39,25 +39,25 @@ AraC is a natural E.coli protein and regulator of the pBad promoter. In the abse
 
 All parts were cloned into the B1C3 high-copy plasmid [[https://parts.igem.org/Part:pSB1C3](https://parts.igem.org/Part:pSB1C3)] which includes the araC gene. Parts that did not contain pBad we
 
-## Our Switch plasmid
+## Our Switch Plasmid
 
-Our **Switch plasmid** is composed of two BioBricks. When the cell is transfected with this plasmid, it expresses C protein constitutively. This will represent our "lysogenic profile", which we can see from a high RFP expression and low or none GFP. Alternatively, we can also detect C expression using anti-Flag antibody, since our C protein has been designed to contain a flag tag.
+Our **Switch Plasmid** is composed of two BioBricks. When the cell is transfected with this plasmid, it expresses C protein constitutively. This will represent our "lysogenic profile", which we can see from a high RFP expression and low or none GFP. Alternatively, we can also detect C expression using anti-Flag antibody, since our C protein has been designed to contain a flag tag.
 
 By adding arabinose we can induce cox expression. We also express tetR, since it is located under the same promoter. TetR strongly inhibits tetO, and in consequence, C production stops. We will be able to detect this change by measuring the increase of GFP and decrease of RFP, which would signal a “lytic profile”. Alternatively, we can also use anti-cMyc antibody, that will bind to the cMyc tag that has been added to the cox protein.
 
-{% image "/static/img/wiki/project/design-03.png", "The switch plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic." %}
+{% image "https://2019.igem.org/wiki/images/6/69/T--Stockholm--design-03.png", "The Switch Plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic." %}
 
 For further information on the two BioBricks that made up this plasmid click below:
 [C-protein Characterization Construct](/wiki/results/)
 [Inducible cox Characterization Construct](/wiki/results/)
 
-## Model plasmid
+## Model Plasmid
 
-Our Model has been designed as a substitute for our phages since we were not allowed to work with them in the lab. In this plasmid, cox is downstream of Pe promoter, where C binds to repress expression. This arrangement simulates the conditions found on the delC P2 phage, as the C protein provided by our Switch plasmid will have to repress the expression of cox in the phage.
+Our Model has been designed as a substitute for our phages since we were not allowed to work with them in the lab. In this plasmid, cox is downstream of Pe promoter, where C binds to repress expression. This arrangement simulates the conditions found on the delC P2 phage, as the C protein provided by our Switch Plasmid will have to repress the expression of cox in the phage.
 
-Therefore, the Model plasmid allows us to study how much C protein is required to repress the expression of cox. Using different concentrations of arabinose, we can create a gradient in the expression of C, and test how this influences the Pe promoter. As an outcome, we could measure the change in expression of YFP, or alternatively, use an anti-cMyc antibody.
+Therefore, the Model Plasmid allows us to study how much C protein is required to repress the expression of cox. Using different concentrations of arabinose, we can create a gradient in the expression of C, and test how this influences the Pe promoter. As an outcome, we could measure the change in expression of YFP, or alternatively, use an anti-cMyc antibody.
 
-{% image "/static/img/wiki/project/design-04.png", "The model plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage." %}
+{% image "/static/img/wiki/project/design-04.png", "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage." %}
 
 For further information on the two BioBricks that made up this plasmid click below:
 [Inducible C-protein construct](/wiki/results/)
@@ -65,7 +65,7 @@ For further information on the two BioBricks that made up this plasmid click bel
 
 ## The Sensing System
 
-Our goal was to activate our system and promote the lytic cycle only when the vehicle bacteria have reached the site of infection, to make our treatment specific and efficient. Inspired by natural inflammation-detecting systems in E. coli, we chose to adopt a nitric oxide (NO)-induced transcriptional module to our project's main design. Nitric Oxide is a molecule released by our body as a sign of inflammation, and therefore, it will be found at high concentrations at the site of infection. In this design, we create a composite part that detects nitric oxide (NO-sensing promoter) that we can characterize and use in our Switch plasmid instead of pBad promoter. Thus, instead of inducing the Switch with arabinose, we can induce it with Nitric Oxide, simulating how our system would work as a treatment.
+Our goal was to activate our system and promote the lytic cycle only when the vehicle bacteria have reached the site of infection, to make our treatment specific and efficient. Inspired by natural inflammation-detecting systems in E. coli, we chose to adopt a nitric oxide (NO)-induced transcriptional module to our project's main design. Nitric Oxide is a molecule released by our body as a sign of inflammation, and therefore, it will be found at high concentrations at the site of infection. In this design, we create a composite part that detects nitric oxide (NO-sensing promoter) that we can characterize and use in our Switch Plasmid instead of pBad promoter. Thus, instead of inducing the Switch with arabinose, we can induce it with Nitric Oxide, simulating how our system would work as a treatment.
 
 For a more detailed explaination of how this would work and how we would design it into our system, click below:
 [Nitric Oxide as a sign of inflammation](/wiki/results/)

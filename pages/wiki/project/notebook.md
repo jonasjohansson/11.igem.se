@@ -115,16 +115,16 @@ Q5 Site Directed Mutagenesis
 -   3/9 Some of the previous positive colonies of AraC3 BB1.2, were cultured and the plasmids isolated. After sequencing, it appeared there was an extensive deletion in the RFP sequence and 2-3 new stop codons had appeared.
 -   9/9 One of our advisors recommended that we change the cloning assembly technique, as well as to refrain from doing overlap extension since it is less likely you will get it to work with short overlaps. We started working with Hi-Fi cloning.
 -   14/9 To reduce the amount of background the template concentration was reduced.
--   16/9 We successfully cloned BB1.2 and the Switch plasmid. Low background noise visible.
--   20/9 Cloning of Model plasmid not successful due to unspecific PCR products in both inserts.
--   23/9 Sequencing confirmed successful cloning of Switch plasmid.
--   26/9 Created new inserts for cloning of Model plasmid.
+-   16/9 We successfully cloned BB1.2 and the Switch Plasmid. Low background noise visible.
+-   20/9 Cloning of Model Plasmid not successful due to unspecific PCR products in both inserts.
+-   23/9 Sequencing confirmed successful cloning of Switch Plasmid.
+-   26/9 Created new inserts for cloning of Model Plasmid.
 
 ### October
 
--   3/10 Site-directed mutagenesis in Switch plasmid to create BB1 and BB22 in separate plasmids.
+-   3/10 Site-directed mutagenesis in Switch Plasmid to create BB1 and BB22 in separate plasmids.
 -   4/10 Screening of colonies of BB1 and BB2
--   8/10 Sequencing confirmed that the sequences of BB1, BB2, BB1.2, BB3, and AraC3 were correct. The sequencing of the Model plasmid showed variations on the expected sequence.
+-   8/10 Sequencing confirmed that the sequences of BB1, BB2, BB1.2, BB3, and AraC3 were correct. The sequencing of the Model Plasmid showed variations on the expected sequence.
 -   10/10 Adding full RBS to BB1 and BB2.
 -   16/10 Construct arrived and was transformed
 -   18/10 Flow Cytometry and western blot were performed on induced (Arabinose 0.2%) and non-induced BB1, BB2, Switch Plasmid, AraC3.

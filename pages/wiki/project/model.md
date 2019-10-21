@@ -23,7 +23,7 @@ One of the fundamental characteristics that some biological systems exhibit is b
 
 {% image "/static/img/wiki/project/model-01.png", "Figure 1. Bistability is a property of a system that contains two local energy minima." %}
 
-Another example of a system with bistable behavior is bacteriophage P2, which is our system of interest in project Esther. As described in [Design](/wiki/design/), the switch between the lytic and lysogenic states in bacteriophage P2 is controlled by a simple transcriptional switch. The C protein, responsible for the lysogenic state, autoregulates the Pc promoter and represses the Pe promoter as a dimer while the Cox protein, responsible for the lytic state, represses both promoters as a tetramer (Figure 2). We plan to use two different plasmids to simulate different parts of this system. The first plasmid is the Switch plasmid, and the second plasmid is the Model plasmid.
+Another example of a system with bistable behavior is bacteriophage P2, which is our system of interest in project Esther. As described in [Design](/wiki/design/), the switch between the lytic and lysogenic states in bacteriophage P2 is controlled by a simple transcriptional switch. The C protein, responsible for the lysogenic state, autoregulates the Pc promoter and represses the Pe promoter as a dimer while the Cox protein, responsible for the lytic state, represses both promoters as a tetramer (Figure 2). We plan to use two different plasmids to simulate different parts of this system. The first plasmid is the Switch Plasmid, and the second plasmid is the Model Plasmid.
 
 [](https://www.notion.so/769313af890b43c98cadaa5167f263c2#913a0b1dfb194abb88a3f128d4899b6d)
 

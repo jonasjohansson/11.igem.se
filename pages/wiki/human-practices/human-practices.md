@@ -39,7 +39,7 @@ During brainstorming and project development we ran into some ideas that were pr
 
 ### Safety Considerations
 
-Because of the high risk of contamination and strict regulations, we were not able to use bacteriophages in our laboratory. Therefore, we came up with an alternative - to create a model plasmid that would behave as our bacteriophage and would still allow us to test our switch.
+Because of the high risk of contamination and strict regulations, we were not able to use bacteriophages in our laboratory. Therefore, we came up with an alternative - to create a Model Plasmid that would behave as our bacteriophage and would still allow us to test our switch.
 
 The safety of our product was something we did not want to compromise. This was also to fulfill the guidelines of iGEM Human Practices which expect from a project to be responsible and good for the world. When reading about the safety concerns of phage therapy, we realized that temperate phages are not used for this purpose, because they may potentially contribute to antibiotic resistance through horizontal gene transfer. However, we came across a news article that claimed the use of an engineered temperate phage to treat a patient in the US. Curious to learn more, we talked to **Graham F. Hatfull**, the principal investigator of the study, who provided us more documentation about how they did it. (1) His input helped us to understand that our plasmid switch was safe to use, as we were also using a phage that lacks the repressive protein. (2)
 

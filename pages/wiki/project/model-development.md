@@ -133,7 +133,7 @@ $$x\left(t+\tau\right)={x}\left(t\right)+\mathcal{P}\left[\frac{1+\tau u x^2}{1+
 
 We implement this approach in Python, using numpy.random.poisson function.
 
-### Model plasmid
+### Model Plasmid
 
 {% image "/static/img/wiki/project/model-development-01.png", "Figure 2. Graphical representation of Model Plasmid." %}
 
@@ -309,7 +309,7 @@ $$\frac{dx}{dt}=\frac{K_{t1}K_1[arabinose]}{1+\[arabinose](K_1+K_3K_1m^4+K_2K_1K
 
 $$\frac{dm}{dt}=\frac{\[arabinose](K_{t2}K_1+k_{t3}K_1K_2K_Dx^2+k_{t4}K_1K_3K_Tm^4)}{1+\[arabinose](K_1+K_3K_1m^4+K_2K_1K_Dx^2+K_7K_3K_5K_T^2m^8+K_4K_2K_1K_D^2x^4+K_5K_2K_1K_Dx^2K_Tm^4)}-βm$$
 
-### Switch plasmid
+### Switch Plasmid
 
 {% image "/static/img/wiki/project/model-development-03.png", "Figure 3. Graphical representation of the Switch Plasmid." %}
 

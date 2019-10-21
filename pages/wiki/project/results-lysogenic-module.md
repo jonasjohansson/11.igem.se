@@ -9,7 +9,7 @@ tags: wiki
 
 ## Background
 
-This composite part is formed by the constitutive promoter J23119, followed by two tet-Operators, and the gene that encodes for C-protein fused with FLAG-tag (DYKDDDDK epitope). This tag allows us to detect C protein with immunological techniques since there is no antibody against C commercially available. Finally, RFP gene is expressed downstream as a real-time cell reporter. This module is part of the Switch plasmid that would be transformed into the carrier bacteria prior to being infected with the delC P2 strain. When used in our switch the strong C-protein overexpression should force the phages to enter lysogeny.
+This composite part is formed by the constitutive promoter J23119, followed by two tet-Operators, and the gene that encodes for C-protein fused with FLAG-tag (DYKDDDDK epitope). This tag allows us to detect C protein with immunological techniques since there is no antibody against C commercially available. Finally, RFP gene is expressed downstream as a real-time cell reporter. This module is part of the Switch Plasmid that would be transformed into the carrier bacteria prior to being infected with the delC P2 strain. When used in our switch the strong C-protein overexpression should force the phages to enter lysogeny.
 
 A few details about this BioBrick:
 
