@@ -131,8 +131,6 @@ Q5 Site Directed Mutagenesis
 
 ## Detailed lab notes
 
-[Notebook Plasmid A and Plasmid B Characterization · Benchling.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#1919fc859a384d008d658514339258cd)
+[Notebook Plasmid A and Plasmid B Characterization (Benchling).pdf](https://2019.igem.org/wiki/images/8/8e/T--Stockholm--notebook-plasmid-a-and-plasmid-b-characterization.pdf)
 
-[HiFI cloning · Benchling.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#6abf216bd73c4168ac9463447f234ef8)
-
-[](https://www.notion.so/43f62212507445a992050f386b8c1095#874a391e490e450a8c6f764b9a081b98)
+[HiFI cloning (Benchling).pdf](https://2019.igem.org/wiki/images/3/31/T--Stockholm--notebook-hifi-cloning.pdf)
