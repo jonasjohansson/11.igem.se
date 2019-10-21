@@ -145,11 +145,11 @@ Measurements were taken every 15 minutes over 5 hours.
 
 ## Results
 
-{% image "https://2019.igem.org/wiki/images/6/68/T--Stockholm--contribution-03.jpeg", "**Figure 1.** agarose gel showing results from double digestion of BioBrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the BioBrick (upper band)." %}
+{% image "https://2019.igem.org/wiki/images/6/68/T--Stockholm--contribution-03.jpeg", "Figure 1. agarose gel showing results from double digestion of BioBrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the BioBrick (upper band)." %}
 
-{% image "https://2019.igem.org/wiki/images/b/be/T--Stockholm--contribution-04.jpeg", "**Figure 2.** Agarose gel showing results from double digestion of BioBrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the BioBrick (upper band)." %}
+{% image "https://2019.igem.org/wiki/images/b/be/T--Stockholm--contribution-04.jpeg", "Figure 2. Agarose gel showing results from double digestion of BioBrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the BioBrick (upper band)." %}
 
-{% image "https://2019.igem.org/wiki/images/a/a3/T--Stockholm--contribution-05.jpeg", "**Figure 3.** Comparison between C3-BBa_K611059 and AraC3- BBa_K611059 fluorescence over time and incubated on 1M (n=2)." %}
+{% image "https://2019.igem.org/wiki/images/a/a3/T--Stockholm--contribution-05.jpeg", "Figure 3. Comparison between C3-BBa_K611059 and AraC3- BBa_K611059 fluorescence over time and incubated on 1M (n=2)." %}
 
 ## Discussion
 
