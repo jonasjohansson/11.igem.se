@@ -5,8 +5,6 @@ permalink: /wiki/public-engagement/
 tags: wiki
 ---
 
-> The Education & Public Engagement Prize recognizes excellent efforts to engage communities in influencing activities in synthetic biology. For this prize, teams may cover topics that extend beyond their particular project and may focus on serving other communities. This more “outward facing” work is recognized through this prize as important but different from the project-focused work of integrated human practices.
-
 ## Art Exhibition
 
 {% div 'sub' %} 13-15 May {% enddiv %}
@@ -95,7 +93,7 @@ During WWW, we were also allowed to introduce our project to professionals and r
 
 Rebecca, Anali and Stella from our team were invited to speak on the Swedish morning news programme Nyhetsmorgon. We used this platform to reach out to the whole of Sweden as a part of our marketing strategy for raising awareness. We talked about the menace that antibiotic abuse/misuse has created in the form of resistance of the pathogens and how Esther contributed to improving the efficiency of phage therapy in combating antibiotic resistance. We had aimed to catch the attention of the policymakers, government and research institutions who are of significant importance in bringing out phage therapy as a first-line treatment in the future.
 
-![](/static/img/wiki/public_engagement-news.jpg)
+![](https://2019.igem.org/wiki/images/b/bd/T--Stockholm--public_engagement-news.jpeg)
 
 ## pixid _Let's play!_
 
