@@ -39,7 +39,7 @@ In the end, we received very positive feedback from Darcia's team, who were insp
 
 Synthetic biology is, relatively speaking, a new field of science, and so the general knowledge is low. To make an impact, we wanted to inspire and inform youth, and so we came up with the Three Demographic School Project (3 Demo) where we would visit schools and students of different ages. We began with Linköping, where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
 
-![](/static/img/wiki/public_engagement-school_01.jpg)
+![](https://2019.igem.org/wiki/images/d/de/T--Stockholm--public_engagement-school_01.jpeg)
 
 We asked the classes, "what do you know about bacteria?", and followed up with a short lesson that led to great discussions about the central dogma, replication, and epigenetics. These kids are not to be taken lightly…
 
@@ -47,11 +47,11 @@ Then followed our two exercises, observing bacteria through a microscope and the
 
 Creating a fun and engaging introduction to Synthetic Biology is a great challenge, and something we would like to continue developing. We had a great experience at Atlasskolan and experienced a <sup>high</sup> sense of engagement and curiosity, one of the children even asked it was possible to join!
 
-![](/static/img/wiki/public_engagement-school_02.jpg) ![](/static/img/wiki/public_engagement-school_04.jpg)
+![](https://2019.igem.org/wiki/images/c/ce/T--Stockholm--public_engagement-school_02.jpeg) ![](https://2019.igem.org/wiki/images/1/1a/T--Stockholm--public_engagement-school_04.jpeg)
 
 A month later we went closer to home and, together with SGEM (our alumni organization), visited [Norra Real](https://norrarealsgymnasium.stockholm.se/), the most eldest of public high schools in Stockholm to inspire future high school team. We visite the natural science program and their second year, research-oriented class.
 
-![](/static/img/wiki/public_engagement-school_05.jpg)
+![](https://2019.igem.org/wiki/images/b/b2/T--Stockholm--public_engagement-school_05.jpeg)
 
 ## Bioethics and Biolegislation
 
