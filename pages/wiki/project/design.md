@@ -41,13 +41,13 @@ All parts were cloned into the B1C3 high-copy plasmid [[https://parts.igem.org/P
 
 ## Our Switch plasmid
 
-Our **Switch plasmid** is composed of two biobricks. When the cell is transfected with this plasmid, it expresses C protein constitutively. This will represent our "lysogenic profile", which we can see from a high RFP expression and low or none GFP. Alternatively, we can also detect C expression using anti-Flag antibody, since our C protein has been designed to contain a flag tag.
+Our **Switch plasmid** is composed of two BioBricks. When the cell is transfected with this plasmid, it expresses C protein constitutively. This will represent our "lysogenic profile", which we can see from a high RFP expression and low or none GFP. Alternatively, we can also detect C expression using anti-Flag antibody, since our C protein has been designed to contain a flag tag.
 
 By adding arabinose we can induce cox expression. We also express tetR, since it is located under the same promoter. TetR strongly inhibits tetO, and in consequence, C production stops. We will be able to detect this change by measuring the increase of GFP and decrease of RFP, which would signal a “lytic profile”. Alternatively, we can also use anti-cMyc antibody, that will bind to the cMyc tag that has been added to the cox protein.
 
 {% image "/static/img/wiki/project/design-03.png", "The switch plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic." %}
 
-For further information on the two biobricks that made up this plasmid click below:
+For further information on the two BioBricks that made up this plasmid click below:
 [C-protein Characterization Construct](/wiki/results/)
 [Inducible cox Characterization Construct](/wiki/results/)
 
@@ -59,7 +59,7 @@ Therefore, the Model plasmid allows us to study how much C protein is required t
 
 {% image "/static/img/wiki/project/design-04.png", "The model plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage." %}
 
-For further information on the two biobricks that made up this plasmid click below:
+For further information on the two BioBricks that made up this plasmid click below:
 [Inducible C-protein construct](/wiki/results/)
 [Phage Genome Simulation Module](/wiki/results/)
 

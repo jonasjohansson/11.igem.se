@@ -13,17 +13,15 @@ This plasmid was designed to be a functional system, and it is a core component 
 
 ![](https://2019.igem.org/wiki/images/d/d4/T--Stockholm--demonstrate-01.png)
 
-In the design of our switch construct we added two different techniques of characterization, both with FLAG tag and c-Myc tags for Western Blot and GFP & RFP fluorescent reporters for FLUOstar/ Flow Cytometry.
+In the design of our switch construct we added two different techniques of characterization, both with FLAG tag and c-Myc tags for western blot and GFP & RFP fluorescent reporters for FLUOstar/ Flow Cytometry.
 
-This way we could get more reliable results, as we would have two methods of confirmation. Our [Results](/wiki/results/) shows how our fluorescence experiments did not succeed and we have hypothesized that there could be issues with the fluorescence signal of the reporter protein. However, we were able to demonstrate protein expression with Western Blot.
-
-<!-- {% image "/static/img/wiki/project/demonstrate-01.png", "The switch plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic." %} -->
+This way we could get more reliable results, as we would have two methods of confirmation. Our [Results](/wiki/results/) shows how our fluorescence experiments did not succeed and we have hypothesized that there could be issues with the fluorescence signal of the reporter protein. However, we were able to demonstrate protein expression with western blot.
 
 ## Measuring C protein dynamics
 
-Our team was able to demonstrate how the Switch plasmid works using a Western Blot. We can observe how protein C-Flag is highly expressed in the absence of arabinose (see **Figure 1**). When the concentration of arabinose increases we can observe a decrease in C-Flag.
+Our team was able to demonstrate how the Switch plasmid works using a western blot. We can observe how protein C-Flag is highly expressed in the absence of arabinose (see **Figure 1**). When the concentration of arabinose increases we can observe a decrease in C-Flag.
 
-{% image "https://2019.igem.org/wiki/images/b/bd/T--Stockholm--demonstrate-02.png", "**Figure 1.** Western blot shows Switch plasmid under different arabinose concentrations (0%, 0.1% and 0.4%). L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
+{% image "https://2019.igem.org/wiki/images/b/bd/T--Stockholm--demonstrate-02.png", "**Figure 1.** western blot shows Switch plasmid under different arabinose concentrations (0%, 0.1% and 0.4%). L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
 
 **Figure 1** demonstrates that:
 
@@ -43,9 +41,9 @@ As for the expression of RFP, we unfortunately observe many unspecific bands, wh
 
 ## Measuring cox protein dynamics
 
-{% image "/static/img/wiki/project/demonstrate-03.png", "Figure 2. Western Blot shows Switch plasmid under different arabinose concentrations. L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
+{% image "/static/img/wiki/project/demonstrate-03.png", "Figure 2. western blot shows Switch plasmid under different arabinose concentrations. L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
 
-In Figure 2 we can observe a different Western Blot. We used the same samples as were used for the Western Blot in Figure 1, but in this case, the staining was made with different antibodies. We can observe an increase in expression of both GFP and cox-cMyc that correspond to an increase in arabinose. These two genes are under the same pBAD promoter, which expression is induced by adding arabinose, so our results seem to correspond with our design.
+In Figure 2 we can observe a different western blot. We used the same samples as were used for the western blot in Figure 1, but in this case, the staining was made with different antibodies. We can observe an increase in expression of both GFP and cox-cMyc that correspond to an increase in arabinose. These two genes are under the same pBAD promoter, which expression is induced by adding arabinose, so our results seem to correspond with our design.
 
 As mentioned above, we cannot know whether this increase in expression would be enough to trigger the lytic cycle, which we could have tested using our Model plasmid. If it would have turned out that more cox protein expression is needed, we could modify the following parameters:
 

@@ -11,7 +11,7 @@ tags: wiki
 
 A module consisting of the Pe promoter, the downstream cox gene fused with c-Myc-tag, followed by a YFP reporter. It has been used to simulate the delC P2 phage genome and the dynamics between the C-protein and the native cox promoter, Pe. This enabled us to investigate the level of cox expressed by this promoter over time. This brick can be combined with other bricks to test the external influence on cox expression. See Model Plasmid.
 
-A few details about this biobrick:
+A few details about this BioBrick:
 
 -   c-Myc-tag is fused to cox protein to allow for protein pull down in the future.
 -   YFP is not fused with cox-protein to prevent impairment of Cox-protein kinetics or function.
@@ -31,7 +31,7 @@ A few details about this biobrick:
 
 In the transcriptional switch of the P2 bacteriophage, the Pe promoter is naturally followed by the cox-gene which is transcribed upon its activation. Additionally, the cox has a positive feedback on its own promoter Pe, increasing its own production. The Pe promoter is slightly more expressive than the Pc promoter. Additionally, the C-protein has a weaker inhibitory effect on the Pe promoter and this tilts the switch toward lysis.
 
-To understand whether we can influence the Pe promoter and turn this relatively strong promoter off, we wanted to understand more about the protein expression from this promoter. We created the biobrick using the switch sequence reported in the literature on NCBI. The composite part was transformed in top10 bacteria and the protein expression was evaluated. In the context of the phage, there is likely signaling that influences the expression of the promoter. This brick was assessed in bacteria and can only show expression levels *in vitro*.
+To understand whether we can influence the Pe promoter and turn this relatively strong promoter off, we wanted to understand more about the protein expression from this promoter. We created the BioBrick using the switch sequence reported in the literature on NCBI. The composite part was transformed in top10 bacteria and the protein expression was evaluated. In the context of the phage, there is likely signaling that influences the expression of the promoter. This brick was assessed in bacteria and can only show expression levels *in vitro*.
 
 The growth of TOP10 cells transformed with the phage simulation construct showed no evident toxicity. Growing cells in various arabinose concentrations did not make a difference. The cox protein in our construct was fused to a c-Myc tag. In the western blot, we can see that cox is expressed in all timepoints, cox expression from the Pe promoter seems to be constant.
 
@@ -47,6 +47,6 @@ The phage simulation model served the purpose of mimicking a small part of the s
 
 {% image "https://2019.igem.org/wiki/images/2/22/T--Stockholm--results-phage-genome-03.jpeg", "**Figure 16.** ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
 
-### Western blot
+### western blot
 
 {% image "https://2019.igem.org/wiki/images/c/c3/T--Stockholm--results-phage-genome-04.jpeg", "**Figure 16.** ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}

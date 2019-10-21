@@ -11,7 +11,7 @@ tags: wiki
 
 This composite part is formed by the constitutive promoter J23119, followed by two tet-Operators, and the gene that encodes for C-protein fused with FLAG-tag (DYKDDDDK epitope). This tag allows us to detect C protein with immunological techniques since there is no antibody against C commercially available. Finally, RFP gene is expressed downstream as a real-time cell reporter. This module is part of the Switch plasmid that would be transformed into the carrier bacteria prior to being infected with the delC P2 strain. When used in our switch the strong C-protein overexpression should force the phages to enter lysogeny.
 
-A few details about this biobrick:
+A few details about this BioBrick:
 
 -   Flag-tag is fused to C protein to allow for protein pull-down assays in the future.
 -   RFP was not fused with the C-gene to prevent changes in the kinetics or function of C-protein.
@@ -32,7 +32,7 @@ A few details about this biobrick:
 
 On the one hand, we wanted to understand how the C-protein expression varied over time and whether its expression differed between the exponential and stationary growth phase of the bacteria. We also wanted to analyze the strength of the pTet promoter and confirm that C-protein indeed would be expressed constitutively within the cells.
 
-To characterize the expression of C-protein from the pTet promoter, we used two different methods for protein expression analyzes; Western blot and Fluorescence spectrophotometry. First, we transformed TOP10 bacteria with our construct. This construct was successfully transformed using the Hi-Fi assembly kit from New England BioLabs. Then, we analyzed the growth of our bacteria and checked for possible toxicity from overexpressing C-protein. The bacteria were grown for 5 hours at 37°C, with a starting optical density of OD 0.05 for all samples. Samples for western blot were collected at three timepoints; after 180 min, 240 min, and 300 min.
+To characterize the expression of C-protein from the pTet promoter, we used two different methods for protein expression analyzes; western blot and Fluorescence spectrophotometry. First, we transformed TOP10 bacteria with our construct. This construct was successfully transformed using the Hi-Fi assembly kit from New England BioLabs. Then, we analyzed the growth of our bacteria and checked for possible toxicity from overexpressing C-protein. The bacteria were grown for 5 hours at 37°C, with a starting optical density of OD 0.05 for all samples. Samples for western blot were collected at three timepoints; after 180 min, 240 min, and 300 min.
 
 The C-protein of our construct is coupled with a flag-tag, which enabled us to stain for the protein in a western blot. Samples were stained with anti-flag and anti-RFP, anti-GAPDH was used as a loading control. The C-gene and RFP coding sequence are in a cis-construct with each other but have separate RBS sequences which may alter the protein translation. Therefore, we were interested to know whether the concentration of RFP was comparable to that of C-protein. In which case, we hoped that we would only need to measure fluorescence to understand the relative expression levels.
 
@@ -48,6 +48,6 @@ The growth curve shows an arabinose dependent toxicity in these cells. Arabinose
 
 {% image "https://2019.igem.org/wiki/images/9/94/T--Stockholm--results-lysogenic-module-03.jpeg", "**Figure 2.** ClariOstar measurement of mRFP(ex:550-20/em:605-40). Cells were grown in a plate-reader at 37°C for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates of BBa_K3024004. AraC3 empty vector was used as negative control. As a positive control we used the RFP coding device, BBa_J04450 in the pB1C3 backbone." %}
 
-### Western blot
+### western blot
 
-{% image "https://2019.igem.org/wiki/images/3/37/T--Stockholm--results-lysogenic-module-04.jpeg", "**Figure 3.** Western blot of BBa_K3024004. Transfected TOP10 cells were grown in LB-media for 5 hours at 37°C. Samples were collected at 1. 180 min, 2. 240 min and 3. 300 min. L= ladder -C= negative control. +C x= positive control for RFP only. Anti-GAPDH was used as a loading control." %}
+{% image "https://2019.igem.org/wiki/images/3/37/T--Stockholm--results-lysogenic-module-04.jpeg", "**Figure 3.** western blot of BBa_K3024004. Transfected TOP10 cells were grown in LB-media for 5 hours at 37°C. Samples were collected at 1. 180 min, 2. 240 min and 3. 300 min. L= ladder -C= negative control. +C x= positive control for RFP only. Anti-GAPDH was used as a loading control." %}

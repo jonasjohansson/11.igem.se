@@ -45,7 +45,7 @@ Ideally, we would replace the pBad promoter with a promoter that would trigger a
 
 {% image "/static/img/wiki/project/results-switch-plasmid-02.png", "**Figure 8.** In this figure we can compare the fluorescence of the switch plasmid over time. ClariOstar measurement of mRFP(ex:550-20/em:605-40) and GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. The multi-chromatic setting allowed us to measure GFP and RFP from the same wells at each interval. Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%). AraC3 empty vector was used as negative control. As a positive control for RFP we used the RFP coding device, BBa_J04450 in the pB1C3 backbone. As a positive control for GFP fluorescein dye was used." %}
 
-### Western blot
+### western blot
 
 {% image "/static/img/wiki/project/results-switch-plasmid-03.png", "**Figure 9.** TOP10 bacteria transformed with Switch Plasmid were grown for 5 hours at 37°C in LB-media under permissive and non-permissive conditions. Samples were collected in stationary phase at time 300 min. L= ladder -C= negative control +C=positive control for RFP only. Anti-GAPDH was used as a loading control." %}
 

@@ -5,11 +5,11 @@ permalink: /wiki/results/
 tags: wiki
 ---
 
-To translate our idea into results, we characterized every biobrick as listed in [Basic & Composite](https://www.notion.so/ad4a787e-b1c6-4c63-823c-96f13cb4a04a) and described in [Design](https://www.notion.so/f4c539ce-3452-45f2-80bb-8dc169a7f65f). All of the bricks were transformed into TOP10 cells and tested for the following parameters:
+To translate our idea into results, we characterized every BioBrick as listed in [Basic & Composite](https://www.notion.so/ad4a787e-b1c6-4c63-823c-96f13cb4a04a) and described in [Design](https://www.notion.so/f4c539ce-3452-45f2-80bb-8dc169a7f65f). All of the bricks were transformed into TOP10 cells and tested for the following parameters:
 
 -   Growth curve/Toxicity of the constructs
 -   Fluorescent fingerprint using spectrophotometry and flow cytometry
--   Protein expression using Western Blot
+-   Protein expression using western blot
 
 Here, you can find the most important findings for each BioBrick, and we urge you to follow the links found after each section for in-depth analysis.
 
@@ -21,7 +21,7 @@ The first part of our project revolves around creating the [**Switch Plasmid**](
 
 ## The Model Plasmid
 
-The second part of our project was the creation of a [**Model Plasmid**](/wiki/results-model-plasmid/) to simulate the P2 genome and its reaction to the induction of the switch. We combined two modules; the [**Inducible C-protein construct**](/wiki/results-inducible-c-protein/) and the [**Phage genome simulation module**](/wiki/results-phage-genome-simulation-module/). The first module enabled careful control of the C-protein expression. Western blot results showed that overexpression of C-protein was achieved at levels of induction above 0.4% arabinose. In line with our expectations, C-protein increased upon arabinose induction. Then, we created the second module that would mimic the phage switch genome. We showed that cox-protein is expressed on a stable level. However, we experienced issues in the detection of fluorescence.
+The second part of our project was the creation of a [**Model Plasmid**](/wiki/results-model-plasmid/) to simulate the P2 genome and its reaction to the induction of the switch. We combined two modules; the [**Inducible C-protein construct**](/wiki/results-inducible-c-protein/) and the [**Phage genome simulation module**](/wiki/results-phage-genome-simulation-module/). The first module enabled careful control of the C-protein expression. western blot results showed that overexpression of C-protein was achieved at levels of induction above 0.4% arabinose. In line with our expectations, C-protein increased upon arabinose induction. Then, we created the second module that would mimic the phage switch genome. We showed that cox-protein is expressed on a stable level. However, we experienced issues in the detection of fluorescence.
 
 ## Discussion
 
