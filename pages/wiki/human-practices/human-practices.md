@@ -5,7 +5,7 @@ permalink: /wiki/human-practices/
 tags: wiki
 ---
 
-Integrated Human Practices has been key in the development of Esther. Through the opinions of four different sectors - research, public stakeholders, legal authorities and industry - we were able to get invaluable feedback which enabled us to better shape our idea. Later on, they helped us evaluate the market potential of our product and the legitimacy of it as an alternative to antibiotics.
+> Integrated Human Practices has been key in the development of Esther. Through the opinions of four different sectors - research, public stakeholders, legal authorities and industry - we were able to get invaluable feedback which enabled us to better shape our idea. Later on, they helped us evaluate the market potential of our product and the legitimacy of it as an alternative to antibiotics.
 
 ![](https://2019.igem.org/wiki/images/2/2c/T--Stockholm--integrated-01.png)
 
