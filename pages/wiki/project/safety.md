@@ -29,6 +29,8 @@ Esther consists of two parts – the vehicle bacteria and the P2 phage. It is cr
 
 ### The phage
 
+![](https://2019.igem.org/wiki/images/c/c5/T--Stockholm--safety-03.png)
+
 We have all heard about the microbiome, but did you know that we also have a phageome? Bacteriophages are, in fact, one of the most common and diverse organisms in our gut flora. Often, phages form symbiotic alliances with the microbiome to protect them against invasive pathogens. We can also find them adhere to mucus layers, providing us with an antimicrobial defense mechanism. <sup>5</sup> Even though not all phages are candidates for this role, these findings show that our bodies are already familiar with these organisms, whom they benefit from.
 
 Esther delivers phages directly to the site of infection, in this case, the gut, were other phages are already present. Thus, it is important to understand what happens to the phages after they have been delivered to the intestine. An in-vivo study by Otero et al. <sup>6</sup>, using fluorescence-labeled phages encapsulated in a lipid vesicle and delivered orally, concludes that no bacteriophages could be observed in other organs or tissues other than those in the Gastro-Intestinal tract. Their experiments also show that non-encapsulated phages can easily cross the Gastro-Intestinal barrier and accumulate in organs such as the liver or the kidneys, while encapsulated phages didn’t show significant accumulation.
