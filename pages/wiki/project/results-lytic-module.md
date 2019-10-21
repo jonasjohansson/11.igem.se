@@ -38,12 +38,12 @@ The western blot experiment of the Inducible cox characterization construct show
 
 ### Growth curve
 
-{% image "/static/img/wiki/project/results-lytic-module-02.jpeg", "Figure 4. Growth curve of the BBa_K3024011 in different arabinose concentrations (0%,-0.4%) over the course of 10 hours. AraC3, empty vector was used as negative control. Absorbance OD600 was measured in 5 min cycles in a FluOstar plate reader, set to orbital shaking before each cycle." %}
+{% image "https://2019.igem.org/wiki/images/b/b3/T--Stockholm--results-lytic-module-02.jpeg", "Figure 4. Growth curve of the BBa_K3024011 in different arabinose concentrations (0%,-0.4%) over the course of 10 hours. AraC3, empty vector was used as negative control. Absorbance OD600 was measured in 5 min cycles in a FluOstar plate reader, set to orbital shaking before each cycle." %}
 
 ### Fluorescence readout
 
-{% image "/static/img/wiki/project/results-lytic-module-03.jpeg", "Figure 5. ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader under permissive and non-permissive conditions (0%-0.4% arabinose) for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
+{% image "https://2019.igem.org/wiki/images/3/31/T--Stockholm--results-lytic-module-03.jpeg", "Figure 5. ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader under permissive and non-permissive conditions (0%-0.4% arabinose) for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
 
 ### Western blot
 
-{% image "/static/img/wiki/project/results-lytic-module-04.png", "Figure 6. TOP10 bacteria transformed with BBa_K3024011 were grown for 5 hours at 37°C in LB-media under permissive and non-permissive conditions. Samples were collected in stationary phase at time 300 min. L= ladder -C= negative control +C=positive control for GFP only. Anti-GAPDH was used as a loading control. To the right, we compared BBa_K3024011 and switch plasmid expression." %}
+{% image "https://2019.igem.org/wiki/images/d/d0/T--Stockholm--results-lytic-module-04.png", "Figure 6. TOP10 bacteria transformed with BBa_K3024011 were grown for 5 hours at 37°C in LB-media under permissive and non-permissive conditions. Samples were collected in stationary phase at time 300 min. L= ladder -C= negative control +C=positive control for GFP only. Anti-GAPDH was used as a loading control. To the right, we compared BBa_K3024011 and switch plasmid expression." %}
