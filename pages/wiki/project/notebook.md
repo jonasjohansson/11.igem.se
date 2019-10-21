@@ -5,35 +5,38 @@ permalink: /wiki/notebook/
 tags: wiki
 ---
 
-[](https://www.notion.so/43f62212507445a992050f386b8c1095#6785487b926747edb56270635013a5c0)
-
 > From early June to late October we have worked hard in the lab to realize Esther. Here, you can find all of the protocols used, a timeline of important points in the process, as well as the lab notes themselves.
 
 ## Dictionary
 
 During our laboratory work, we assigned nicknames to our biobricks for the sake of simplicity. This table will allow the reader to understand what BioBrick we are mentioning in our notebook.
 
-[Untitled](https://www.notion.so/0fdd18780fc8435990bfb93655286b3a)
+| Notebook name | Wiki name                                                 | Registry Link                           |
+| ------------- | --------------------------------------------------------- | --------------------------------------- |
+| BB1           | C-protein Characterization Construct (Lysogenic module)   | http://parts.igem.org/Part:BBa_K3024004 |
+| BB1.2         | Inducible C-protein construct - Regulate lysogenic module | http://parts.igem.org/Part:BBa_K3024009 |
+| BB2           | Inducible cox characterization construct (Lytic module)   | http://parts.igem.org/Part:BBa_K3024011 |
+| BB3           | Phage genome simulation module                            | http://parts.igem.org/Part:BBa_K3024012 |
 
 ## Protocols
 
-## PCR
+### PCR
 
 [Taq Colony PCR Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#0990c9f567824b41b3fc21ff56a4f17e)
 
 [Q5 PCR Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#acb95051e2e54fe68f55c823642a0cf5)
 
-## Digestion
+### Digestion
 
 [Digestion Protocol AraC3 Vector and BioBricks.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#e33081c8021a46aab639f4b541ac0f4b)
 
 [Digestion Protocol C3 Vector and BioBricks.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#0835733b696c42a28fe2d4376111dc5d)
 
-## Ligation and Transformation
+### Ligation and Transformation
 
 [Ligation and Transformation Protocol AraC3 and C3 vectors.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#d6a8404d4f0e46339aa263380b2beb89)
 
-## HIFI Cloning
+### HIFI Cloning
 
 Manufacturers protocol:
 
@@ -41,31 +44,31 @@ Manufacturers protocol:
 
 Alterations on the manufacturers protocol:
 
-Create inserts with complementary ends to the vector, by either amplifying the vector or the inserts. a Total amount of max 200fmol DNA, with 50ng of Vector is mixed with HIFI master mix and incubated at 50°C for 15 minutes. Of the 20µl ligation reaction 2µl were mixed with 6µl of water and 2µl 5x KCM. After one minute on Ice this mix was used for transofmration by heatshock with 10µl of KCM competent cells.
+Create inserts with complementary ends to the vector, by either amplifying the vector or the inserts. a Total amount of max 200fmol DNA, with 50ng of Vector, is mixed with the HIFI master mix and incubated at 50°C for 15 minutes. Of the 20µl ligation reaction, 2µl were mixed with 6µl of water and 2µl 5x KCM. After one minute on Ice, this mix was used for transformation by heat-shock with 10µl of KCM competent cells.
 
 [HIFI cloning.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#629d112231354c7fbcc17f2f6b5032bf)
 
-## Fluorescence spectrometry
+### Fluorescence spectrometry
 
 [Fluorescence Spectrometry Method.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#194d585bda674cac9686cb525905c51f)
 
-## Flow cytometry
+### Flow cytometry
 
 [Flow Cytometry Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#14e32e9104a849429f99f61ca4ca21da)
 
-## Absorbance spectrometry
+### Absorbance spectrometry
 
 [Absorbance Spectrometry.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#1e1f275b5c914b03b5e6033de7babdca)
 
-## KCM Competent Cells
+### KCM Competent Cells
 
 [KCM Competent Cells Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#499afaa82e6148e6b6ddb1254ce206b7)
 
-## Westernblot
+### Westernblot
 
 [WESTERN-BLOT-Amans-protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#f7bcb8f4770f481a890c96fcfdc13ce7)
 
-## Overlap Extension
+### Overlap Extension
 
 [OE-PCR protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#cdb71d9b40764019a5f05b54d6022e5c)
 
@@ -92,7 +95,7 @@ Q5 Site Directed Mutagenesis
 -   6/7 Ligation with T4 ligase for 10 min according to the manufacturer protocol did not work.
 -   8/7 Brick 1.2 and Brick 3 are amplified but not brick 1 and 2, we ordered more specific primers.
 
-    An advisor suggested including AraC in constructs containing pBAd.
+An advisor suggested including AraC in constructs containing pBAd.
 
 -   9/7 New primers for overlap extension ordered and will a different cloning method will be tried.
 -   10/7 We were advised to do larger PCR reactions, not to purify after digestion, use T4 ligase at 16C overnight and not to exceed the total reaction volume of 20ul and to try different molar rations. And to use much bigger volumes of insert and vector.
@@ -122,9 +125,9 @@ Q5 Site Directed Mutagenesis
 
 ### October
 
--   3/10 Site directed mutagenisis in Switch plasmid to create BB1 and BB22 in separate plasmids.
+-   3/10 Site-directed mutagenesis in Switch plasmid to create BB1 and BB22 in separate plasmids.
 -   4/10 Screening of colonies of BB1 and BB2
--   8/10 Sequencing confirmed that the sequences of BB1, BB2, BB1.2, BB3 and AraC3 were correct. The sequencing of Model plasmid showed variations on the expected sequence.
+-   8/10 Sequencing confirmed that the sequences of BB1, BB2, BB1.2, BB3, and AraC3 were correct. The sequencing of the Model plasmid showed variations on the expected sequence.
 -   10/10 Adding full RBS to BB1 and BB2.
 -   16/10 Construct arrived and was transformed
 -   18/10 Flow Cytometry and Western blot were performed on induced (Arabinose 0.2%) and non-induced BB1, BB2, Switch Plasmid, AraC3.
