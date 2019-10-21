@@ -1,7 +1,7 @@
 ---
-title: Collaborations
+title: Documentary
 preamble:
-permalink: /wiki/collaborations/
+permalink: /wiki/documentary/
 tags: wiki
 ---
 
