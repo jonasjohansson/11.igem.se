@@ -5,6 +5,8 @@ permalink: /wiki/results-model-plasmid/
 tags: wiki
 ---
 
+![](/static/img/wiki/project/results-model-plasmid-01.png)
+
 ## Background
 
 -   This plasmid was designed in order to investigate at which level of expression C-protein inhibits the Pe promoter. We wanted to see if we could find the threshold where there is sufficient level of C-protein to keep phages in lysogeny and if this expression level was achieved by the pTet constitutive promoter.
