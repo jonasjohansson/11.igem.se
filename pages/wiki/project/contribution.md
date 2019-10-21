@@ -11,7 +11,7 @@ Our team has chosen to characterize biobrick BBa_K611059, which is composed of t
 
 Therefore, in the absence of arabinose, this construct will produce GFP protein, which can be detected by its fluorescence. When adding arabinose, tetR will be produced, which will repress the expression of GFP and thus, decrease the fluorescent signal.
 
-![](/static/img/wiki/project/contribution-01.png)
+![](https://2019.igem.org/wiki/images/c/cb/T--Stockholm--contribution-01.png)
 
 ## Aim and hypothesis
 
@@ -23,7 +23,7 @@ Secondly, we will study the change of expression over time. This will allow us t
 
 Lastly, we will compare the behavior of this biobrick in two different backbones: the standard B1C3 backbone and a vector constitutively expressing AraC3. We hypothesize that the C3- BBa_K611059 construct will show lower expression of GFP, due to the overexpression of the pBAD promoter but not its regulator, AraC3. If our hypothesis is correct, the AraC3- BBa_K611059 construct will show stronger repression of GFP, since we will also overexpress the AraC3 protein, which will allow for a higher expression of the TetR repressor protein.
 
-![](/static/img/wiki/project/contribution-02.png)
+![](https://2019.igem.org/wiki/images/9/9c/T--Stockholm--contribution-02.png)
 
 ## Material
 
@@ -145,18 +145,18 @@ Measurements were taken every 15 minutes over 5 hours.
 
 ## Results
 
-{% image "/static/img/wiki/project/contribution-03.jpeg", "Figure 1. agarose gel showing results from double digestion of biobrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the biobrick (upper band)." %}
+{% image "https://2019.igem.org/wiki/images/6/68/T--Stockholm--contribution-03.jpeg", "**Figure 1.** agarose gel showing results from double digestion of biobrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the biobrick (upper band)." %}
 
-{% image "/static/img/wiki/project/contribution-04.jpeg", "Figure 2. Agarose gel showing results from double digestion of biobrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the biobrick (upper band)." %}
+{% image "https://2019.igem.org/wiki/images/b/be/T--Stockholm--contribution-04.jpeg", "**Figure 2.** Agarose gel showing results from double digestion of biobrick BBa_K611059 (A) and negative control (B). In column A, we can see 2 smaller bands (1.2 kB and 0.8 kB), which correspond to the digestion of the backbone with SacI. This way, we were able to separate the backbone from the biobrick (upper band)." %}
 
-{% image "/static/img/wiki/project/contribution-05.jpeg", "Figure 3. Comparison between C3-BBa_K611059 and AraC3- BBa_K611059 fluorescence over time and incubated on 1M (n=2)." %}
+{% image "https://2019.igem.org/wiki/images/a/a3/T--Stockholm--contribution-05.jpeg", "**Figure 3.** Comparison between C3-BBa_K611059 and AraC3- BBa_K611059 fluorescence over time and incubated on 1M (n=2)." %}
 
 ## Discussion
 
-Our results seem to be congruent with our hypothesis. As we can observe in Figure 2, fluorescence decreases with higher concentrations of arabinose, so there appears to be a negative correlation. Therefore, our first hypothesis is confirmed.
+Our results seem to be congruent with our hypothesis. As we can observe in **Figure 2**, fluorescence decreases with higher concentrations of arabinose, so there appears to be a negative correlation. Therefore, our first hypothesis is confirmed.
 
 According to our second hypothesis, fluorescence would decrease over time until it reached a plateau. Our results don’t seem to reach a plateau, and in fact, we can observe that fluorescence increases at low concentrations of arabinose. An increase in fluorescence can be explained by bacterial growth - the more bacteria divide, the more GFP they will produce. The system seems to reach an equilibrium point around 100µM, where the rate of cell growth-GFP production appears to be equal to the amount of inhibition by pbad-tetR. This result can be useful for systems where a stable production of a protein over time is required. Teams could design their construct by introducing the sequence of their desired protein instead of GFP, therefore, obtaining a stable expression of their protein over time, even if bacteria multiply.
 
 To repress the system totally, one should either test for a higher concentration of arabinose (more than 1M) or testing the system for a more extended period (longer than 5 hours). One possible outcome is that the pbad promoter is not strong enough to express as much tetR as required to repress the system, so saturation with arabinose will not decrease the expression of GFP. In this case, we recommend future teams that wish to characterize this system further to perform a similar experiment but including different concentrations of anhydrotetracycline (ATc) or its analog, doxycycline (dox). This inhibitor bind to TetR protein and inhibit its function so TetR can no longer bind to ptet and inhibit the expression of GFP. This would allow the team to understand how much concentration of TetR is necessary to repress the system.
 
-Last, but not least, our system shows increased GFP production when AraC protein is overexpressed, as observed in Figure 3. AraC protein binds to pBad promoter, and in the presence of arabinose, it promotes gene expression. These results seem to correspond to our third hypothesis, and it demonstrates that overexpression of AraC protein is required to achieve higher promoter strength. Therefore, it is recommended for future teams using this system and who wish to make higher production of protein to change the backbone of the biobrick to one containing the AraC gene.
+Last, but not least, our system shows increased GFP production when AraC protein is overexpressed, as observed in **Figure 3**. AraC protein binds to pBad promoter, and in the presence of arabinose, it promotes gene expression. These results seem to correspond to our third hypothesis, and it demonstrates that overexpression of AraC protein is required to achieve higher promoter strength. Therefore, it is recommended for future teams using this system and who wish to make higher production of protein to change the backbone of the biobrick to one containing the AraC gene.
