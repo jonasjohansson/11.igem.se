@@ -79,7 +79,7 @@ Three members of iGEM Stockholm together with an esteemed friend, Sebastian Mont
 
 {% audio 'https://2019.igem.org/wiki/images/5/5b/T--Stockholm--winner_takes_it_all.mp3' %}
 
-## Synthetics®
+## Synthetics
 
 {% div 'sub' %} 20 Aug<br>iGEM Lund {% enddiv %}
 
