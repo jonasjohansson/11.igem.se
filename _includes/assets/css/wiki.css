@@ -74,6 +74,10 @@ p img {
     width: 100%;
 }
 
+p a {
+    color: var(--pink;);
+}
+
 h2#references ~ ol {
     font-size: 80%;
     opacity: 0.5;

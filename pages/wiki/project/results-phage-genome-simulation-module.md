@@ -5,7 +5,7 @@ permalink: /wiki/results-phage-genome-simulation-module/
 tags: wiki
 ---
 
-> [http://parts.igem.org/Part:BBa_K3024012](http://parts.igem.org/Part:BBa_K3024012) ![](/static/img/wiki/project/results-phage-genome-01.png)
+> ![](https://2019.igem.org/wiki/images/6/6e/T--Stockholm--results-phage-genome-01.png) [http://parts.igem.org/Part:BBa_K3024012](http://parts.igem.org/Part:BBa_K3024012)
 
 ## Background
 
@@ -41,12 +41,12 @@ The phage simulation model served the purpose of mimicking a small part of the s
 
 ### Growth curve
 
-{% image "/static/img/wiki/project/results-phage-genome-02.jpeg", "Figure 15. Growth curve of the Phage genome simulation module in different Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%) over the course of 10 hours. AraC3, empty vector was used as negative control. Absorbance OD600 was measured in 5 min cycles in a FluOstar plate reader, set to orbital shaking before each cycle." %}
+{% image "https://2019.igem.org/wiki/images/0/03/T--Stockholm--results-phage-genome-02.jpeg", "**Figure 15.** Growth curve of the Phage genome simulation module in different Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%) over the course of 10 hours. AraC3, empty vector was used as negative control. Absorbance OD600 was measured in 5 min cycles in a FluOstar plate reader, set to orbital shaking before each cycle." %}
 
 ### Fluorescence readout
 
-{% image "/static/img/wiki/project/results-phage-genome-03.jpeg", "Figure 16. ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
+{% image "https://2019.igem.org/wiki/images/2/22/T--Stockholm--results-phage-genome-03.jpeg", "**Figure 16.** ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
 
 ### Western blot
 
-{% image "/static/img/wiki/project/results-phage-genome-04.jpg", "Figure 16. ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
+{% image "https://2019.igem.org/wiki/images/c/c3/T--Stockholm--results-phage-genome-04.jpeg", "**Figure 16.** ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}

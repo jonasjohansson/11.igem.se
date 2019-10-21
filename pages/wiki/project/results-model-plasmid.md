@@ -5,7 +5,7 @@ permalink: /wiki/results-model-plasmid/
 tags: wiki
 ---
 
-![](/static/img/wiki/project/results-model-plasmid-01.png)
+![](https://2019.igem.org/wiki/images/9/94/T--Stockholm--results-model-plasmid-01.png)
 
 ## Background
 

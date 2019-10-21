@@ -5,7 +5,7 @@ permalink: /wiki/results-switch-plasmid/
 tags: wiki
 ---
 
-![](/static/img/wiki/project/results-switch-plasmid-00.png)
+![](https://2019.igem.org/wiki/images/9/95/T--Stockholm--results-switch-plasmid-00.png)
 
 ## Background
 
@@ -39,20 +39,20 @@ Ideally, we would replace the pBad promoter with a promoter that would trigger a
 
 ### Growth curve
 
-{% image "/static/img/wiki/project/results-switch-plasmid-01.jpeg", "Figure 7. In this figure, we can observe the growth curve of the Switch Plasmid at 37°C in different Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%) over the course of 10 hours. AraC3 was used as negative control and contains TOP10 cells transformed with the empty backbone. Absorbance was measured every 5 min. The results were normalized over two replicates." %}
+{% image "/static/img/wiki/project/results-switch-plasmid-01.jpeg", "**Figure 7.** In this figure, we can observe the growth curve of the Switch Plasmid at 37°C in different Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%) over the course of 10 hours. AraC3 was used as negative control and contains TOP10 cells transformed with the empty backbone. Absorbance was measured every 5 min. The results were normalized over two replicates." %}
 
 ### Fluorescence readout
 
-{% image "/static/img/wiki/project/results-switch-plasmid-02.png", "Figure 8. In this figure we can compare the fluorescence of the switch plasmid over time. ClariOstar measurement of mRFP(ex:550-20/em:605-40) and GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. The multi-chromatic setting allowed us to measure GFP and RFP from the same wells at each interval. Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%). AraC3 empty vector was used as negative control. As a positive control for RFP we used the RFP coding device, BBa_J04450 in the pB1C3 backbone. As a positive control for GFP fluorescein dye was used." %}
+{% image "/static/img/wiki/project/results-switch-plasmid-02.png", "**Figure 8.** In this figure we can compare the fluorescence of the switch plasmid over time. ClariOstar measurement of mRFP(ex:550-20/em:605-40) and GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. The multi-chromatic setting allowed us to measure GFP and RFP from the same wells at each interval. Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%). AraC3 empty vector was used as negative control. As a positive control for RFP we used the RFP coding device, BBa_J04450 in the pB1C3 backbone. As a positive control for GFP fluorescein dye was used." %}
 
 ### Western blot
 
-{% image "/static/img/wiki/project/results-switch-plasmid-03.png", "Figure 9. TOP10 bacteria transformed with Switch Plasmid were grown for 5 hours at 37°C in LB-media under permissive and non-permissive conditions. Samples were collected in stationary phase at time 300 min. L= ladder -C= negative control +C=positive control for RFP only. Anti-GAPDH was used as a loading control." %}
+{% image "/static/img/wiki/project/results-switch-plasmid-03.png", "**Figure 9.** TOP10 bacteria transformed with Switch Plasmid were grown for 5 hours at 37°C in LB-media under permissive and non-permissive conditions. Samples were collected in stationary phase at time 300 min. L= ladder -C= negative control +C=positive control for RFP only. Anti-GAPDH was used as a loading control." %}
 
-{% image "/static/img/wiki/project/results-switch-plasmid-04.png", "Figure 10. The following samples have corrected RBS sequences. Samples were grown in permissive and non-permissive conditions for 5 hours, samples were collected at stationary phase. b1= C-protein Characterization Construct, b2= Inducible Cox Characterization Construct, SP2= Switch plasmid 2 contains both b1 and b2. L= ladder, C-= Negative control, +/- = 0.2% / 0% arabinose. Anti-GAPDH was used as a loading control" %}
+{% image "/static/img/wiki/project/results-switch-plasmid-04.png", "**Figure 10.** The following samples have corrected RBS sequences. Samples were grown in permissive and non-permissive conditions for 5 hours, samples were collected at stationary phase. b1= C-protein Characterization Construct, b2= Inducible Cox Characterization Construct, SP2= Switch plasmid 2 contains both b1 and b2. L= ladder, C-= Negative control, +/- = 0.2% / 0% arabinose. Anti-GAPDH was used as a loading control" %}
 
 ### Flow cytometry
 
-![](/static/img/wiki/project/results-switch-plasmid-05.png)
+![](https://2019.igem.org/wiki/images/d/dd/T--Stockholm--results-switch-plasmid-05.png)
 
-{% image "/static/img/wiki/project/results-switch-plasmid-06.png", "Figure 11. Images showing the gating of sample populations. Flow cytometry, Upper panel: FL1=GFP-filter, Lower panel: FL2=RFP-filter, Green: The induced samples, Red: Non-induced samples, Upper panel: the control samples (empty AraC3 vector), Lower panel: Switch plasmid. Samples were induced with 0.2% arabinose for 4.5 hours prior to analyses." %}
+{% image "/static/img/wiki/project/results-switch-plasmid-06.png", "**Figure 11.** Images showing the gating of sample populations. Flow cytometry, Upper panel: FL1=GFP-filter, Lower panel: FL2=RFP-filter, Green: The induced samples, Red: Non-induced samples, Upper panel: the control samples (empty AraC3 vector), Lower panel: Switch plasmid. Samples were induced with 0.2% arabinose for 4.5 hours prior to analyses." %}
