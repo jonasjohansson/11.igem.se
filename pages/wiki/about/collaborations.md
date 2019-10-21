@@ -39,6 +39,8 @@ In beautiful June, as studies end and lab work begins, the iGEM DTU Copenhagen t
 
 Working with the iGEM wiki is no trivial task. We carried out workshops internally, which resulted in articles detailing the process, later shared with the community. Another team took it further and [made their own wiki for the wiki](https://2019.igem.org/Team:US_AFRL_CarrollHS/WikiGuide). We are happy to have had the opportunity to collaborate and do our best to help others learning code!
 
+Get Wiki wise and get the [⤓ Wiki Web Workshop 1](https://2019.igem.org/wiki/images/c/c9/T--Stockholm--wiki-web-workshop-1.pdf) and [ ⤓ Wiki Web Workshop 2](https://2019.igem.org/wiki/images/f/f2/T--Stockholm--wiki-web-workshop-2.pdf)
+
 ## Postcard Collaboration
 
 {% div 'sub' %} 31 July—<br>iGEM Düsseldorf {% enddiv %}

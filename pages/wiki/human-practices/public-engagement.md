@@ -117,8 +117,6 @@ As a powerful educational tool, the cards can provide visualization about what m
 
 For children, these cards can also be used as a memory game, or as a visual complement in explaining the story behind our project.
 
-[↓ Get the game and start playing!]()
-
 ![](https://2019.igem.org/wiki/images/c/c1/T--Stockholm--public_engagement-pixid_02.jpeg)
 
 ## Biomimetics summer project 2020
