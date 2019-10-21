@@ -47,7 +47,7 @@ tags: wiki
 
 **Leif Handberg**. Associate Professor at the Division of Media Technology and Interaction Design. Granted us access to the R1 nuclear reactor at KTH for the Synthetic Biology Art Exhibition.
 
-**International Committee**. Karolinska Institutet. Gave us the financial support to organize a coffee hour at Karolinska Institutet, which allowed us to promote the iGEM competition, our Art Exhibition, and recruit people for the ambassador program.
+**International Committee**. Medicinska Föreningen. Gave us the financial support to organize a coffee hour at Karolinska Institutet, which allowed us to promote the iGEM competition, our Art Exhibition, and recruit people for the ambassador program.
 
 **Jasper Bloemen**. Founder of Glimps bio fabrication lab in Ghent. Visited us and presented their work, and has since then been supporting and co-creating the 2020 summer education initiative.
 
