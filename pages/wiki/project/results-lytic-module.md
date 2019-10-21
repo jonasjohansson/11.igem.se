@@ -46,8 +46,4 @@ The western blot experiment of the Inducible cox characterization construct show
 
 ### Western blot
 
-![](/static/img/wiki/project/results-lytic-module-04.jpg)
-
-![](/static/img/wiki/project/results-lytic-module-05.jpg)
-
-Figure 6. TOP10 bacteria transformed with BBa_K3024011 were grown for 5 hours at 37°C in LB-media under permissive and non-permissive conditions. Samples were collected in stationary phase at time 300 min. L= ladder -C= negative control +C=positive control for GFP only. Anti-GAPDH was used as a loading control. To the right, we compared BBa_K3024011 and switch plasmid expression.
+{% image "/static/img/wiki/project/results-lytic-module-03.png", "Figure 6. TOP10 bacteria transformed with BBa_K3024011 were grown for 5 hours at 37°C in LB-media under permissive and non-permissive conditions. Samples were collected in stationary phase at time 300 min. L= ladder -C= negative control +C=positive control for GFP only. Anti-GAPDH was used as a loading control. To the right, we compared BBa_K3024011 and switch plasmid expression." %}

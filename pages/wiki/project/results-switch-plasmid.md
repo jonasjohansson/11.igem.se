@@ -39,7 +39,7 @@ Ideally, we would replace the pBad promoter with a promoter that would trigger a
 
 {% image "/static/img/wiki/project/results-switch-plasmid-01.jpeg", "Figure 7. In this figure, we can observe the growth curve of the Switch Plasmid at 37°C in different Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%) over the course of 10 hours. AraC3 was used as negative control and contains TOP10 cells transformed with the empty backbone. Absorbance was measured every 5 min. The results were normalized over two replicates." %}
 
-### Fluorescence Readout
+### Fluorescence readout
 
 {% image "/static/img/wiki/project/results-switch-plasmid-02.png", "Figure 8. In this figure we can compare the fluorescence of the switch plasmid over time. ClariOstar measurement of mRFP(ex:550-20/em:605-40) and GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. The multi-chromatic setting allowed us to measure GFP and RFP from the same wells at each interval. Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%). AraC3 empty vector was used as negative control. As a positive control for RFP we used the RFP coding device, BBa_J04450 in the pB1C3 backbone. As a positive control for GFP fluorescein dye was used." %}
 
