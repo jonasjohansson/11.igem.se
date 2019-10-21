@@ -22,19 +22,19 @@ During our laboratory work, we assigned nicknames to our BioBricks for the sake 
 
 ### PCR
 
-[Taq Colony PCR Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#0990c9f567824b41b3fc21ff56a4f17e)
+[Taq Colony PCR Protocol.pdf](https://2019.igem.org/wiki/images/1/10/T--Stockholm--Taq_Colony_PCR_Protocol.pdf)
 
-[Q5 PCR Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#acb95051e2e54fe68f55c823642a0cf5)
+[Q5 PCR Protocol.pdf](https://2019.igem.org/wiki/images/1/1f/T--Stockholm--Q5_PCR_Protocol.pdf)
 
 ### Digestion
 
-[Digestion Protocol AraC3 Vector and BioBricks.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#e33081c8021a46aab639f4b541ac0f4b)
+[Digestion Protocol AraC3 Vector and BioBricks.pdf](https://2019.igem.org/wiki/images/9/94/T--Stockholm--Digestion_Protocol_AraC3_Vector_and_BioBricks.pdf)
 
-[Digestion Protocol C3 Vector and BioBricks.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#0835733b696c42a28fe2d4376111dc5d)
+[Digestion Protocol C3 Vector and BioBricks.pdf](https://2019.igem.org/wiki/images/e/eb/T--Stockholm--Digestion_Protocol_C3_Vector_and_BioBricks.pdf)
 
 ### Ligation and Transformation
 
-[Ligation and Transformation Protocol AraC3 and C3 vectors.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#d6a8404d4f0e46339aa263380b2beb89)
+[Ligation and Transformation Protocol AraC3 and C3 vectors.pdf](https://2019.igem.org/wiki/images/7/70/T--Stockholm--Ligation_and_Transformation_Protocol_AraC3_and_C3_vectors.pdf)
 
 ### HIFI Cloning
 
@@ -46,33 +46,33 @@ Alterations on the manufacturers protocol:
 
 Create inserts with complementary ends to the vector, by either amplifying the vector or the inserts. a Total amount of max 200fmol DNA, with 50ng of Vector, is mixed with the HIFI master mix and incubated at 50°C for 15 minutes. Of the 20µl ligation reaction, 2µl were mixed with 6µl of water and 2µl 5x KCM. After one minute on Ice, this mix was used for transformation by heat-shock with 10µl of KCM competent cells.
 
-[HIFI cloning.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#629d112231354c7fbcc17f2f6b5032bf)
+[HIFI cloning.pdf](https://2019.igem.org/wiki/images/0/04/T--Stockholm--HIFI_cloning.pdf)
 
 ### Fluorescence spectrometry
 
-[Fluorescence Spectrometry Method.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#194d585bda674cac9686cb525905c51f)
+[Fluorescence Spectrometry Method.pdf](https://2019.igem.org/wiki/images/c/c6/T--Stockholm--Fluorescence_Spectrometry_Method.pdf)
 
 ### Flow cytometry
 
-[Flow Cytometry Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#14e32e9104a849429f99f61ca4ca21da)
+[Flow Cytometry Protocol.pdf](https://2019.igem.org/wiki/images/7/73/T--Stockholm--Flow_Cytometry_Protocol.pdf)
 
 ### Absorbance spectrometry
 
-[Absorbance Spectrometry.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#1e1f275b5c914b03b5e6033de7babdca)
+[Absorbance Spectrometry.pdf](https://2019.igem.org/wiki/images/4/47/T--Stockholm--Absorbance_Spectrometry.pdf)
 
 ### KCM Competent Cells
 
-[KCM Competent Cells Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#499afaa82e6148e6b6ddb1254ce206b7)
+[KCM Competent Cells Protocol.pdf](https://2019.igem.org/wiki/images/7/75/T--Stockholm--KCM_Competent_Cells_Protocol.pdf)
 
-### Westernblot
+### Western blot
 
-[WESTERN-BLOT-Amans-protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#f7bcb8f4770f481a890c96fcfdc13ce7)
+[Western blot Protocol.pdf](https://2019.igem.org/wiki/images/0/0b/T--Stockholm--Western_Blot.pdf)
 
 ### Overlap Extension
 
-[OE-PCR protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#cdb71d9b40764019a5f05b54d6022e5c)
+[OE-PCR protocol.pdf](https://2019.igem.org/wiki/images/3/3b/T--Stockholm--OE-PCR_protocol.pdf)
 
-[Overlap Extension Protocol.pdf](https://www.notion.so/43f62212507445a992050f386b8c1095#bd2aba113c0848cbaf2d18853d9e4f6e)
+[Overlap Extension Protocol.pdf](https://2019.igem.org/wiki/images/6/69/T--Stockholm--Overlap_Extension_Protocol.pdf)
 
 Q5 Site Directed Mutagenesis
 
