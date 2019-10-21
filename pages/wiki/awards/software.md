@@ -16,7 +16,7 @@ We decided to spend the hackathon creating [Brick](https://brick.bio/), a drag-
 
 _Brick had many names… Brick by Brick, Gene Hackman, Brick and Morty… In the end, the domain name we found settled it. Our favorite space-time continuum and alternative dimensions explorers may make a comeback…_
 
-![](https://miro.medium.com/max/4504/1*GylF45G922-0tKmXeTAZSA.png)
+![](https://2019.igem.org/wiki/images/4/4f/T--Stockholm--software-01.png)
 
 Brick functions well in all modern desktop browsers, as well as on mobile, albeit a bit less smooth. It’s receiving its data from a manually constructed database and contains relevant links for the curious. The downside of our current database solution is that it’s not immediately the actual iGEM inventory, but this could be easily fixed through collaboration with the main organization.
 
@@ -26,11 +26,11 @@ Brick functions well in all modern desktop browsers, as well as on mobile, albei
 
 We decided early on that we wanted “form to follow function”. We began by outlining the application using Whimsical, a collaborative design tool. After not even an hour we had a rough wireframe going.
 
-![](https://miro.medium.com/max/2192/1*7Uyjutz-UpO1zmlqUzB3JQ.png)
+![](https://2019.igem.org/wiki/images/2/27/T--Stockholm--software-02.png)
 
-![](https://miro.medium.com/max/1776/1*RzAj-a4bwqsa5JgKQj_3Ag.png)
+![](https://2019.igem.org/wiki/images/d/d4/T--Stockholm--software-03.png)
 
-![](https://miro.medium.com/max/1884/1*9N8pHMQisgA7tZ6QfEfdgQ.png)
+![](https://2019.igem.org/wiki/images/2/22/T--Stockholm--software-04.png)
 
 The idea of using drag-and-drop of the bricks was emphasized in this phase, and several iterations of this functionality would later be used. Using Whimsical we could also quickly get an understanding of the content flow on mobile, which would have to be reduced.
 
@@ -40,7 +40,7 @@ Having this outline made developing the application much easier!
 
 The absolute fastest way of building a database is not setting up a MySQL or similar, it’s using Google Spreadsheet, making it public, and then fetching the results as JSON. And that’s what we did.
 
-![](https://miro.medium.com/max/4960/1*9AE0dj2BEvVeMDIKeAR6DA.png)
+![](https://2019.igem.org/wiki/images/1/16/T--Stockholm--software-05.png)
 
 In order to fetch the JSON we used the library [Parse GSX by Drumwolf](https://github.com/drumwolf/parse-gsx) but others such as [GSX2JSON](http://gsx2json.com/) would also work.
 
