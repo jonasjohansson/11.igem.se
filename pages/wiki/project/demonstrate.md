@@ -21,9 +21,9 @@ This way we could get more reliable results, as we would have two methods of con
 
 Our team was able to demonstrate how the Switch Plasmid works using a western blot. We can observe how protein C-Flag is highly expressed in the absence of arabinose (see **Figure 1**). When the concentration of arabinose increases we can observe a decrease in C-Flag.
 
-{% image "https://2019.igem.org/wiki/images/b/bd/T--Stockholm--demonstrate-02.png", "**Figure 1.** western blot shows Switch Plasmid under different arabinose concentrations (0%, 0.1% and 0.4%). L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
+{% image "https://2019.igem.org/wiki/images/b/bd/T--Stockholm--demonstrate-02.png", "Figure 1. western blot shows Switch Plasmid under different arabinose concentrations (0%, 0.1% and 0.4%). L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
 
-**Figure 1** demonstrates that:
+Figure 1 demonstrates that:
 
 1. C protein-Flag works as expected under a constitutive promoter.
 2. TetR is expressed when adding arabinose, as expected under a pbad promoter. TetR has successfully repressed C protein-Flag protein expression, as expected from the interaction with TetR Operator. We can deduce this from the decline in C protein -Flag expression
