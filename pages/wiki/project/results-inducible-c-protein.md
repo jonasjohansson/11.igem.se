@@ -36,12 +36,12 @@ The growth of the Inducible C-protein construct does not show an arabinose depen
 
 ### Growth curve
 
-{% image "https://2019.igem.org/wiki/images/5/5c/T--Stockholm--results-inducible-c-protein-02.jpeg", "**Figure 12.** Growth curve of the Inducible C-protein Construct in different Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%) over the course of 10 hours. AraC3, empty vector was used as negative control. Absorbance OD600 was measured in 5 min cycles in a FluOstar plate reader, set to orbital shaking before each cycle." %}
+{% image "https://2019.igem.org/wiki/images/5/5c/T--Stockholm--results-inducible-c-protein-02.jpeg", "Figure 12. Growth curve of the Inducible C-protein Construct in different Arabinose concentrations (0%, 0.05%, 0.1%, 0.2%, 0.4%) over the course of 10 hours. AraC3, empty vector was used as negative control. Absorbance OD600 was measured in 5 min cycles in a FluOstar plate reader, set to orbital shaking before each cycle." %}
 
 ### Fluorescence readout
 
-{% image "https://2019.igem.org/wiki/images/7/7e/T--Stockholm--results-inducible-c-protein-03.jpeg", "**Figure 13.** ClariOstar measurement of mRFP(ex:550-20/em:605-40). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Arabinose concentration(0%-0.4%) used for induction. AraC3 empty vector was used as negative control. As a positive control we used TOP10 cells transformed with the RFP coding device, BBa_J04450 in the pB1C3 backbone." %}
+{% image "https://2019.igem.org/wiki/images/7/7e/T--Stockholm--results-inducible-c-protein-03.jpeg", "Figure 13. ClariOstar measurement of mRFP(ex:550-20/em:605-40). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Arabinose concentration(0%-0.4%) used for induction. AraC3 empty vector was used as negative control. As a positive control we used TOP10 cells transformed with the RFP coding device, BBa_J04450 in the pB1C3 backbone." %}
 
-### western blot
+### Western blot
 
-{% image "https://2019.igem.org/wiki/images/0/04/T--Stockholm--results-inducible-c-protein-04.jpeg", "**Figure 14.** western blot of BBa_K3024009. Transfected TOP10 cells were grown in LB-media with different concentrations of arabinose from starting OD 0.05 for 5 hours at 37°C. Samples were collected at stationary phase after 300 min.  L= ladder -C= negative control. +C= positive control for RFP only. Anti-GAPDH was used as a loading control." %}
+{% image "https://2019.igem.org/wiki/images/0/04/T--Stockholm--results-inducible-c-protein-04.jpeg", "Figure 14. western blot of BBa_K3024009. Transfected TOP10 cells were grown in LB-media with different concentrations of arabinose from starting OD 0.05 for 5 hours at 37°C. Samples were collected at stationary phase after 300 min.  L= ladder -C= negative control. +C= positive control for RFP only. Anti-GAPDH was used as a loading control." %}
