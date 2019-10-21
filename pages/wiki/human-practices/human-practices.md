@@ -117,9 +117,9 @@ So, we collaborated with **iGEM Uppsala** to organize a Bioentrepreneurship even
 
 At the heart of the framework for innovation is design methodology, the Double Diamond – a clear, comprehensive, and visual description of the design process. The latter session, lead by Design Thinking Coach Cecilie Hilmer, was focused on design thinking and learning how we can use the Double Diamond Model of Design Thinking. To make a product that would fit in well into a user-driven society, the importance of assessing the problem in-depth, to fully understand the goal of our product, and prototyping to get useful user feedback. Later, we went on to create basic prototypes of iGEM projects and gained some valuable insight on how to bring our product to existence in an effective way. It was a very creative and fun afternoon, where both iGEM Uppsala and iGEM Stockholm were able to obtain feedback about how to further mold their product to be successful in the market!
 
-<!-- ![](/static/img/wiki/human-practices/integrated-11.png)
+<!-- ![](https://2019.igem.org/wiki/images/c/ce/T--Stockholm--integrated-11.png)
 
-![](/static/img/wiki/human-practices/integrated-12.png) -->
+![](https://2019.igem.org/wiki/images/f/fe/T--Stockholm--integrated-12.png) -->
 
 ![](https://2019.igem.org/wiki/images/9/9c/T--Stockholm--integrated-13.png)
 
