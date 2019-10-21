@@ -65,6 +65,8 @@ We got the chance to learn about biotechnological innovation and bioethics in an
 
 Joanna Applequist gave us an introduction to intellectual property and provided an overview of aspects to consider when pursuing a patent for an invention. She also explained to us the patentability criteria focusing on the life science field and talked about the process of drafting and prosecuting patent applications. Importantly, Joanna provided a list of dos and don’ts for inventors who wanted to secure intellectual property rights to their technology.
 
+![](https://2019.igem.org/wiki/images/8/83/T--Stockholm--bioethicslegislation-01.jpeg)
+
 On the other hand, Jesper discusses some moral trade-offs in the development and use of biotechnology. We talked about how possibilities of biotechnology, such as making human beings resistant to harmful or deadly viruses, be weighed against moral constraints such as, for instance, not using fetuses for research purposes. He also made us question our selves about the values that are at stake and how should society deal with such moral trade-offs.
 
 ## Summer Research School Visit

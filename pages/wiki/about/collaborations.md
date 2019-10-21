@@ -35,7 +35,7 @@ In beautiful June, as studies end and lab work begins, the iGEM DTU Copenhagen t
 
 ## Wiki Guide
 
-{% div 'sub' %} July—<br>iGEM US AFRL CarrolHS {% enddiv %}
+{% div 'sub' %} July<br>iGEM US AFRL CarrolHS {% enddiv %}
 
 Working with the iGEM wiki is no trivial task. We carried out workshops internally, which resulted in articles detailing the process, later shared with the community. Another team took it further and [made their own wiki for the wiki](https://2019.igem.org/Team:US_AFRL_CarrollHS/WikiGuide). We are happy to have had the opportunity to collaborate and do our best to help others learning code!
 
@@ -43,7 +43,7 @@ Get Wiki wise and get the [⤓ Wiki Web Workshop 1](https://2019.igem.org/wiki/i
 
 ## Postcard Collaboration
 
-{% div 'sub' %} 31 July—<br>iGEM Düsseldorf {% enddiv %}
+{% div 'sub' %} 31 July<br>iGEM Düsseldorf {% enddiv %}
 
 iGEM Düsseldorf has been organizing a "Postcard Collaboration" for multiple years in a row. In this challenge, iGEM teams have to design a postcard that explains their project and send 50 copies by snail mail to iGEM Düsseldorf. Then, they distribute them among participating teams, so that each gets a copy of the postcards from teams all around the world. This year, we provided our own postcard, and they also participated in our Synthetic Biology Art Exhibition by mailing us previous postcards that we displayed at the venue. Such a terrific way to know about all the projects!
 
@@ -55,11 +55,21 @@ iGEM Düsseldorf has been organizing a "Postcard Collaboration" for multiple yea
 
 Four members of the iGEM Stockholm team participated in the 2019 hackathon in Vilnius, a three-day immersion into biosafety and security of data, synthetic biology, lab efficiency, and life sciences education.
 
+![](https://2019.igem.org/wiki/images/0/0c/T--Stockholm--biohackathon-presentation.jpg)
+
 During the stay, a software was developed to make it easier to browse the iGEM registry, assemble constructs automatically to avoid human error, and by doing this, creating a new database with functional constructs. Despite time constraints at the bio hackathon, we were able to establish the principle of proof. However, our team saw this as an opportunity to take forward the challenge and mold it into a software that could be used for real-world applications in synthetic biology.
 
 We are looking forward to more and more teams using our software to enable easy in-silico bio brick assembly, leading to more successful projects and contribute to synthetic biology. Multiple iterations enabled the addition of more functionalities and henceforth, nomination for the best software track.
 
-![](https://2019.igem.org/wiki/images/e/ee/T--Stockholm--collaboration-collaboration-biohackathon-01.jpeg)
+We are looking forward to future hackathons and software development challenges, and until then — congratulations to the winning teams:
+
+-   🥇 Team Artificia
+-   🥈 Team Vilnius Coding School practice
+-   🥉 Team Hello World
+
+You got us this round! :)
+
+![](https://2019.igem.org/wiki/images/d/d9/T--Stockholm--biohackathon-stella-milda.jpg)
 
 ## The Voice iGEM contest
 
