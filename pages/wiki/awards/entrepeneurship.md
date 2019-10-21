@@ -14,7 +14,7 @@ Therefore, we define our need as the development of an effective alternative to 
 
 ## Proposition of value
 
-![](/static/img/wiki/awards/entrepeneurship-01.png)
+![](https://2019.igem.org/wiki/images/c/c6/T--Stockholm--entrepeneurship-01.png)
 
 Esther gives a spin to traditional phage therapy! Instead of using conventional lytic phages, we propose the use of temperate phages, that will remain dormant inside a vehicle bacteria. This non-pathogenic bacteria will be ingested by the patient, traveling throughout the gastrointestinal tract until it reaches the site of infection. Only then will the phages turn lytic and will be released right where the pathogenic bacteria are, increasing the therapeutic effect. To learn more about the design of Esther, [please visit this link](/wiki/design/).
 
@@ -22,17 +22,17 @@ Our product will not only reduce treatment costs but will be able to stand on it
 
 ## SWOT analysis
 
-![](/static/img/wiki/awards/entrepeneurship-02.png)
+![](https://2019.igem.org/wiki/images/c/cc/T--Stockholm--entrepeneurship-02.png)
 
 To better understand the market landscape we used a SWOT analysis, identifying Strengths, Weaknesses, Opportunities, and Threats. The strengths and weaknesses are internal factors from our own product and help us visualize where we can succeed and where we can improve. The opportunities and threats are characteristics of the potential market and help us evaluate what situations Esther will face.
 
 ## Stakeholder analysis
 
-![](/static/img/wiki/awards/entrepeneurship-03.png)
+![](https://2019.igem.org/wiki/images/0/0c/T--Stockholm--entrepeneurship-03.png)
 
 We performed a stakeholder analysis to assess the key players involved in the market, and their relevance according to their power and interest. This was built taking into account their roles and overall impact on our project.
 
-![](/static/img/wiki/awards/entrepeneurship-04.png)
+![](https://2019.igem.org/wiki/images/a/a0/T--Stockholm--entrepeneurship-04.png)
 
 The key observations from the stakeholder analysis are:
 
@@ -44,7 +44,7 @@ The key observations from the stakeholder analysis are:
 
 The global bacteriophage market had touched US\$ 567.9 Million in 2017, forecasted to grow by CAGR of 3.9% from 2018 to 2026. In 2016, **North America** had a 37% share of the global market and became the largest regional market for bacteriophage. The key attributes that led us to select this market were a strongly established research infrastructure and existence of potential pipeline for phage therapy.
 
-**Europe** is the second-largest market due to wide application of bacteriophage in food and environmental fields and stable presence of phage therapy in regions such as Georgia, Poland, and Belgium. Our alternate market, **Asia Pacific** is expected to witness the fastest progress in the global market; credits to the rapidly evolving biotechnology infrastructure, evolving agriculture practices, and equally supportive government initiatives (4)
+**Europe** is the second-largest market due to wide application of bacteriophage in food and environmental fields and stable presence of phage therapy in regions such as Georgia, Poland, and Belgium. Our alternate market, **Asia Pacific** is expected to witness the fastest progress in the global market; credits to the rapidly evolving biotechnology infrastructure, evolving agriculture practices, and equally supportive government initiatives1 <sup>4</sup>
 
 ### 1. Current trends
 
@@ -56,7 +56,7 @@ At present, food & beverages occupy the largest revenue share in the global bact
 
 ### 3. Market size
 
-![](/static/img/wiki/awards/entrepeneurship-05.png)
+![](https://2019.igem.org/wiki/images/4/44/T--Stockholm--entrepeneurship-05.png)
 
 1. The total potential market includes the antibiotic use in livestock and patient care in humans which accounted for 131,000 tons per year. (5)
 2. The available market focuses on the application in humans. More than 34.8 billion defined daily doses (DDDs) of antibiotics were used worldwide in 2015 (0.5 DDD is 500 mg). (6)
@@ -67,17 +67,17 @@ At present, food & beverages occupy the largest revenue share in the global bact
 
 ### Competitive Assessment
 
-![](/static/img/wiki/awards/entrepeneurship-06.png)
+![](https://2019.igem.org/wiki/images/f/f2/T--Stockholm--entrepeneurship-06.png)
 
 In order to identify the key competitors to our products, we evaluate their values to determine the strengths and weaknesses and their relevance in order to determine our position in the market. This was built taking into account their roles and overall impact on our project.
 
-![](/static/img/wiki/awards/entrepeneurship-07.png)
+![](https://2019.igem.org/wiki/images/9/99/T--Stockholm--entrepeneurship-07.png)
 
 ### Economic evaluation
 
 There are already existing products similar to ours which are sold as viles. We thought that in order to gain reasonable profit from our innovative product and still keep it within a reasonable pricing range to be sold to hospitals and clinics for $20. The rationale behind this was that antibiotic treatments cost a patient an average of $18 whereas Phage Therapy Centers sell the 5 viable pack at around \$22.3. We don't intend to be as cheap as antibiotics and neither outrun the existing businesses in phage therapy especially phage therapy centers, for the reason of market positioning and to reduce the market entry barrier.
 
-![](/static/img/wiki/awards/entrepeneurship-08.png)
+![](https://2019.igem.org/wiki/images/1/1a/T--Stockholm--entrepeneurship-08.png)
 
 Professionals in academia and industry were very receptive to the introduction of ESTHER into the market and even though some skepticism about the use of a GMO as therapeutic by the general public, this might be a highly cost-effective solution in the near future which pharmaceutical and phage companies might be willing to invest in the near future.
 
@@ -85,17 +85,17 @@ Phage Therapy today is used as a compassionate treatment. The initial cost of in
 
 ### Gap analysis
 
-![](/static/img/wiki/awards/entrepeneurship-09.png)
+![](https://2019.igem.org/wiki/images/e/ee/T--Stockholm--entrepeneurship-09.png)
 
 Our product is in development stage at the moment. We will require to transform the plasmid into the bacteriophage in question and further on test the NO sensing system. The next step, once this is shown to have worked would be to move on to design the administration route and the bacterial vehicle, or serum, in which it would be administered in. Subsequently, clinical trials would be the logical step previous to our product launch, being correlated with the safety and effectiveness of the treatment and lead us to further improvements in our product.
 
-![](/static/img/wiki/awards/entrepeneurship-10.png)
+![](https://2019.igem.org/wiki/images/d/d1/T--Stockholm--entrepeneurship-10.png)
 
 ## Funding strategy
 
 We, as a potential startup has strategized extensively on how we are going to sustain in the coming years. We have divided our strategy for the next 5 years and we have successfully achieved the first phase of funding through crowdfunding around SEK 15000 on Indiegogo and university grants like the Stockholm University grant of SEK 25,000 for developing our prototype. Universities like Karolinska Institutet, KTH Royal Institute of Technology and Stockholm University along with many other companies have sponsored our initial study in the laboratory.
 
-![](/static/img/wiki/awards/entrepeneurship-11.png)
+![](https://2019.igem.org/wiki/images/2/27/T--Stockholm--entrepeneurship-11.png)
 
 ### Our vision
 
@@ -103,7 +103,7 @@ We, as a potential startup has strategized extensively on how we are going to su
 
 **A Business model** is the blueprint of the logic behind this vision. To be able to actualize this vision and as a part of our strategy to attract potential investors, we developed a business model that can offer a concise tool for evaluating the business and keeping the key points highly visible to us, our team and other stakeholders. For this, we have used the Business Model Canvas initially proposed by Alexander Osterwalder.
 
-![](/static/img/wiki/awards/entrepeneurship-12.png)
+![](https://2019.igem.org/wiki/images/9/95/T--Stockholm--entrepeneurship-12.png)
 
 ## References
 
