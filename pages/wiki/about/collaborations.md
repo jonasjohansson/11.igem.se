@@ -29,6 +29,8 @@ Did you know that the term “memetics” was first proposed by evolutionary bio
 
 In beautiful June, as studies end and lab work begins, the iGEM DTU Copenhagen team hosted the Nordic iGEM conference NiC. All Nordic teams that took part were allowed to pitch their project, practice being on stage, and receive feedback from their peers. This was one of the first opportunities to present to a broad audience of scientific minds. Exciting! Beyond the pitch, there was also a poster exhibition and presentation, and apart from the professional feedback we received, we were able to make friends, some of which turned into strong collaborations like the ones with Lund for Synthethics and Uppsala for Bench to Bedside event.
 
+![](https://2019.igem.org/wiki/images/1/10/T--Stockholm--collaborations-nic-01.jpg)
+
 ![](https://2019.igem.org/wiki/images/e/e7/T--Stockholm--collaborations-nic-02.jpg)
 
 ## Wiki Guide

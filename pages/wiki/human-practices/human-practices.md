@@ -45,7 +45,9 @@ The safety of our product was something we did not want to compromise. This was 
 
 Furthermore, we were also given the opportunity to discuss the safety of Esther once released to the environment or the water system during the **World Water Week.** Researchers, policymakers, business and other stakeholders from all over the world get together to discuss the future of our most valuable resource: water. Our team and the iGEM Stockholm 2018 team was invited to participate in a panel discussion called "Water, Health, Antibiotic Resistance: Probing One-Health and Rights-Based Approaches", and we were also able to showcase our project in a booth.
 
-![](/static/img/wiki/human-practices/public_engagement-world_water_week_01.jpg)
+![](https://2019.igem.org/wiki/images/d/d3/T--Stockholm--public_engagement-world_water_week_01.jpeg)
+
+![](https://2019.igem.org/wiki/images/b/b7/T--Stockholm--public_engagement-world_water_week_02.jpeg)
 
 ## What time is it? Is summertime!
 
@@ -61,25 +63,25 @@ During this period, we contacted ([Platinea](http://www.platinea.se/)), a multis
 
 As we are now aware that Sweden is more than ready to support the development of new treatment approaches for bacterial infections, we wanted to understand the necessity of informing the public about it. Antibiotic resistance and its implication is a subject well known among our society, as demonstrated by the results of a questionnaire from the ([iGEM Munich 2018 team](http://2018.igem.org/Team:Munich/Human_Practices)), but phage therapy remains unheard of. A member of our team, Itisha Adhikari met iGEM Munich team during summer, to find out more about their rationale behind this questionnaire. As an outcome of this meeting, we all concluded that public education is of great importance for the successful implementation of new treatments.
 
-![](/static/img/wiki/human-practices/integrated-05.jpg)
+![](https://2019.igem.org/wiki/images/9/9b/T--Stockholm--integrated-05.jpeg)
 
 ### Interviewing experts for the documentary
 
 With this in mind, we decided to tackle the lack of awareness by creating a documentary that could be easily understood by people from different backgrounds and ages. The purpose of this documentary was not to promote our iGEM team or our project. Instead, we focused on providing reliable information in the form of interviews, so that the general population could learn more about phage therapy. We believe that this initiative should be continued by future teams working with phage therapy so that the information can spread to other countries and more people. Read more about [our documentary](/wiki/documentary/)!
 
-![](/static/img/wiki/human-practices/documentary-02.png)
+![](https://2019.igem.org/wiki/images/f/fb/T--Stockholm--documentary-02.png)
 
 By interviewing people for the documentary, we learned new things about phage therapy ourselves. It helped us understand the necessity of collaboration between researchers and clinical institutions in order to be able to test the clinical efficacy of phage therapy.
 
 ### Playing with the public stakeholders
 
-Creating a documentary and speaking about phage therapy on TV were great starting points to raise awareness about Phage Therapy. But we wanted to spark curiosity within people, and give room for questions and conversations, so we left the 2D TV screen and went out to the streets! To make it fun, we designed a card game in which people would have to select images that would associate with a topic we proposed. The drawings and the topics were all related to Human Health, Antibiotics and Phage Therapy. We called this game [Pixid](https://www.notion.so/Pixid-32d121bf858842d1b150e4e665c628e4). You can flip it upside down and it will still be the same name, Pixid!
+Creating a documentary and speaking about phage therapy on TV were great starting points to raise awareness about Phage Therapy. But we wanted to spark curiosity within people, and give room for questions and conversations, so we left the 2D TV screen and went out to the streets! To make it fun, we designed a card game in which people would have to select images that would associate with a topic we proposed. The drawings and the topics were all related to Human Health, Antibiotics and Phage Therapy. We called this game [Pixid](/wiki/public-engagement#pixid). You can flip it upside down and it will still be the same name, Pixid!
 
 Pixid was a great game to start a dialogue between our team and the general public. While playing, we proposed the topics in the form of questions, and let the players discuss between them or in teams what images they associated with the question. In the end, we would ask why they chose that specific card and tried to understand their thought process. There were no wrong or right answers, only the opinion of the general public.
 
 We believe these activities are important, not only because it helps us understand the opinion of the general public regarding our product, but also because it helps people understand that science can be accessible for everyone, and that everyone can participate in the making of science.
 
-![](/static/img/wiki/human-practices/integrated-06.jpg)
+![](https://2019.igem.org/wiki/images/4/4d/T--Stockholm--integrated-06.png)
 
 ## It might be Fall, but we rise up!
 
@@ -91,11 +93,11 @@ Thanks to Minmin, we were able to learn more about how a research project can be
 
 ![](/static/img/logo/phagepro.png)
 
-![](/static/img/wiki/human-practices/integrated-07.jpg)
+![](https://2019.igem.org/wiki/images/8/85/T--Stockholm--integrated-07.jpeg)
 
 We scheduled a meeting with **Drivhuset** and the **Stockholm University Innovations Office**, who evaluated Esther and proposed us two main focus points, that are essential at the beginning of any startup: Intellectual Property and Prototyping. In other words, show your idea, protect your idea!
 
-![](/static/img/wiki/human-practices/integrated-08.jpg)
+![](https://2019.igem.org/wiki/images/4/45/T--Stockholm--integrated-08.png)
 
 ### Protect your idea
 
@@ -103,9 +105,9 @@ Intellectual Property and its _modus operandi_ was a big question mark for our t
 
 For evaluating the novelty of our idea, and to understand the implications of Freedom to Operate (FTO) and infringement, we spoke with **Joanna Applequist**, a European Patent Attorney at Valea AB. With her help, we learned what the requirements would be for patenting Esther. Later on, we discussed this idea with the **SU Innovations Office** and **Drivhuset**, who could provide us with grants to perform the first steps for filing a patent. However, given the current state of phage therapy in Sweden and in Europe, we saw no immediate market benefit, as it is not regulated like common drugs in most European countries. In those countries where it is - France, The Netherlands, and Belgium- it is only given as a compassionate treatment, which would not produce enough benefit to keep up a patent for the next upcoming years.
 
-![](/static/img/wiki/human-practices/integrated-09.jpg)
+![](https://2019.igem.org/wiki/images/8/83/T--Stockholm--integrated-09.jpeg)
 
-![](/static/img/wiki/human-practices/integrated-10.jpg)
+![](https://2019.igem.org/wiki/images/0/0e/T--Stockholm--integrated-10.jpeg)
 
 ### Show your idea
 
@@ -119,15 +121,15 @@ At the heart of the framework for innovation is design methodology, the Double D
 
 ![](/static/img/wiki/human-practices/integrated-12.png) -->
 
-![](/static/img/wiki/human-practices/integrated-13.png)
+![](https://2019.igem.org/wiki/images/9/9c/T--Stockholm--integrated-13.png)
 
-![](/static/img/wiki/human-practices/integrated-14.jpg)
+![](https://2019.igem.org/wiki/images/d/d1/T--Stockholm--integrated-14.jpeg)
 
-![](/static/img/wiki/human-practices/integrated-15.jpg)
+![](https://2019.igem.org/wiki/images/f/fa/T--Stockholm--integrated-15.jpeg)
 
-### Taking the next step - SynthEthics (we have trademarked the name)
+### SynthEthics®
 
-![](/static/img/wiki/human-practices/integrated-16.png)
+![](https://2019.igem.org/wiki/images/5/59/T--Stockholm--integrated-16.png)
 
 An interview with a policy expert from the Swedish Pharma Association, **Bengt Mattson**, led us to realize that regulations surrounding synthetic biology and the use of GMOs are the greatest barriers for projects such as ours. These regulations are driven by the current ethical points of view in society. We realized that we might need to take some special ethical considerations before selling "Genetically Modified Microorganisms". In collaboration with **iGEM Lund**, we investigated the current situation to formulate questions for the general public and experts. This would enable the collection of insights from the general public as well as researchers specialized in this area. The questions were designed differently according to the target group. For the ease of public survey, we made yes/no questions and elaborative questions for the experts in the field. The objective of this project was to initiate a legislative draft that could take into consideration the ethics which are not standardized and, therefore, a limiting factor in the use of GMOs and synthetic biology.
 
@@ -135,31 +137,31 @@ The feedback obtained was vital not only for the future of synthetic biology but
 
 To read more go to [collaborations](/wiki/collaborations/)!
 
-## Our trip to Georgia - shaping the future of Esther
+## Our trip to Georgia
 
 After speaking with researchers, policymakers, and business representatives, it was time to observe how Esther would work in a hospital set up. Unfortunately, phage therapy is not provided as a treatment in Sweden, which is why we tried our best to contact people from the **Eliava Phage Therapy Centre** in Georgia. After months of trying, two members from our team, Itisha and Nerea, were finally able to travel to Georgia to visit the [Eliava Phage Therapy Centre](https://eliavaphagetherapy.com/).
 
-![](/static/img/wiki/human-practices/integrated-17.jpg)
+![](https://2019.igem.org/wiki/images/1/1a/T--Stockholm--integrated-17.jpeg)
 
 Eliava Phage Therapy Centre has been the largest global center of phage expertise for more than 80 years. They also showcase a success rate exceeding 80% in treating patients with multi-drug resistance from over 65 countries, including Canada, USA, France, UK, Germany, China, India and many more. This motivated us to find out what and how exactly were they so successful in doing so and where Esther can fit, as a product, in aiding their treatment.
 
 We visited the clinic where patients are consulted, and interviewed a Dutch patient who had traveled from the Netherlands to get treated for a foot infection. Misdiagnosis and overconsumption of wrong antibiotics had led him to suffer from an antibiotic-resistant pathogen, and the risk of losing his leg forever. He expressed his excitement with the treatment to us, as just after 2 days of receiving a phage cocktail, his swelling had considerably reduced. He concluded his story by saying that he would very much like to see this treatment being accessible in European countries, which motivated us to continue the journey that we had chosen.
 
-![](/static/img/wiki/human-practices/integrated-18.jpg)
+![](https://2019.igem.org/wiki/images/d/df/T--Stockholm--integrated-18.jpeg)
 
 Speaking with a young doctor, **Mariam Dadiani**, we learned that its not just about providing a product but training physicians to be more skilled in diagnosing and practicing phage therapy. She had been educated about this treatment during Medical School, as a student in Georgia, and she said that other physicians were aware of this treatment as well. Furthermore, she helped us to understand the importance of the right diagnosis and what the process of receiving Phage Therapy at the Eliava Center looks like for an international visitor.
 
-![](/static/img/wiki/human-practices/integrated-19.jpg)
+![](https://2019.igem.org/wiki/images/1/13/T--Stockholm--integrated-19.jpeg)
 
 We visited research labs, where they screened phages and patient samples, which resulted in insights on how we could extract our phage strains by using simple yet sophisticated techniques like bacteriological essays and phage sensitivity testing. They used these results to not only provide the patient with an appropriate cocktail of phages but simultaneously add these strains to the most extensive phage library currently available.
 
 The magnificent phage library stored literature from eminent phage researchers from all around the world for more than 100 years. This only validated our initial testimony that phage research has existed for around a century and only needed to be revamped.
 
-![](/static/img/wiki/human-practices/integrated-20.jpg)
+![](https://2019.igem.org/wiki/images/0/0c/T--Stockholm--integrated-20.jpeg)
 
 Finally, we met the Business Manager, **Nikoloz Ratishvili**, and the Director of the Eliava Institute, **Dr. Mzia Kutateladze**, who explained to us the scope and the market potential of phage therapy. They supported our project with extremely crucial feedback on the use of temperate phages. They believe that natural phages work well now, but genetically modified phages may bring an array of improved functionalities to the table. They were particularly impressed with our efforts in the public engagement and education sector since awareness about phage therapy is the biggest challenge, according to them.
 
-![](/static/img/wiki/human-practices/integrated-21.jpg)
+![](https://2019.igem.org/wiki/images/4/47/T--Stockholm--integrated-21.jpeg)
 
 ## Final conclusions
 
