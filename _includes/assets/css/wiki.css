@@ -526,6 +526,10 @@ footer:after {
         column-count: 2;
         margin-bottom: 1rem;
     }
+    h3 {
+        text-transform: uppercase;
+        text-align: center;
+    }
 }
 
 .callout {

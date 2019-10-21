@@ -27,11 +27,11 @@ The first part of our project revolves around creating the Switch Plasmid, a sim
 
 The second part of our project was the creation of a Model Plasmid to simulate the P2 genome and its reaction to the induction of the switch. We combined two modules; the Inducible C-protein Construct and the Phage Genome Simulation Module. The first module enabled careful control of the C-protein expression. Western blot results showed that overexpression of C-protein was achieved at levels of induction above 0.4% arabinose. In line with our expectations, C-protein increased upon arabinose induction. Then, we created the second module that would mimic the phage switch genome. We showed that cox-protein is expressed on a stable level. However, we experienced issues in the detection of fluorescence.
 
-[Inducible C-protein construct](https://www.notion.so/63a6815ded3e4fa8a8cc8ba38e045f19)
+[Inducible C-protein construct](/wiki/results-inducible-c-protein/)
 
-[Phage genome simulation module ](https://www.notion.so/5e1b526eda904bcc98a2448ecfff340e)
+[Phage genome simulation module ](/wiki/results-phage-genome-simulation-module/)
 
-[Model plasmid](https://www.notion.so/edb52884fd2c4db8be0a51d82cd85db0)
+[Model plasmid](/wiki/results-model-plasmid/)
 
 ## Discussion
 
