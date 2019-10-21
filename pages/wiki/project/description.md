@@ -1,5 +1,5 @@
 ---
-title: Project Description
+title: Project Description & Inspiration
 preamble:
 permalink: /wiki/description/
 tags: wiki
