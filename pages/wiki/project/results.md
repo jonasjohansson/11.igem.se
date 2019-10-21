@@ -13,7 +13,7 @@ To translate our idea into results, we characterized every biobrick as listed in
 
 Here, you can find the most important findings for each BioBrick, and we urge you to follow the links found after each section for in-depth analysis.
 
-![](/static/img/wiki/awards/results-01.png)
+![](/static/img/wiki/project/results-01.jpeg)
 
 ## The Switch Plasmid
 
