@@ -89,7 +89,7 @@ In a collaboration between Stockholm and Lund we began the international initati
 
 [→ Learn more about our trademarked initiative!](/wiki/synthethics/)
 
-## One Minute challenge
+## One Minute Video Challenge
 
 {% div 'sub' %} 26 Aug<br>iGEM Technion ✌ {% enddiv %}
 
