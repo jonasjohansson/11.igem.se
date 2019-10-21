@@ -7,3 +7,4 @@
     {% set css %} {% include "assets/css/template.css" %} {% include "assets/css/style.css" %} {% include "assets/css/svg.css" %} {% endset %}
     <style>{{ css | cssmin | safe }}</style>
 </head>
+<body id="{{ title | slug }}" class="{{ section }}">

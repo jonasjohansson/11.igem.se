@@ -16,7 +16,7 @@
     {% endset %}
     <style>{{ css | cssmin | safe }}</style>
 </head>
-<body>
+<body id="{{ title | slug }}" class="{{ section }}">
     <div id="header">
        <header>
             <a href="/wiki/" class="logo">home</a>

@@ -99,11 +99,11 @@ Rebecca, Anali and Stella from our team were invited to speak on the Swedish mor
 
 {% div 'sub' %} Ongoing {% enddiv %}
 
-Biology should be fun and interactive, so we created a game to interact with the non-scientific community. We had seen positive responses from the [boardgame Plasmido by iGEM Stockholm 2019](http://2018.igem.org/Team:Stockholm/Public_Engagement#boardgame) and decided to launch our own card game pixid (yes, it's an anagram). The name is simple with **pix** coming from *picture* and **id** from *it*. This means **picture it!**
+Biology should be fun and interactive, so we created a game to interact with the non-scientific community. We had seen positive responses from the [boardgame Plasmido by iGEM Stockholm 2018](http://2018.igem.org/Team:Stockholm/Public_Engagement#boardgame) and decided to launch our own card game pixid (yes, it's an anagram). The name is simple with **pix** coming from *picture* and **id** from *it*. This means **picture it!**
 
 Pixid is accessible to all generations and to players with a different cultural background as the cards are picture-based. The game aims at raising attention and awareness around antibiotic resistance. Some basic questions like "What represents sickness to you?" are asked to the players. The questions progressively become more specific to our project. Using the provided scoring board, the player will be given a point if their guess is one of the possible answers. The best answer chosen from the survey will be given 2 points. Some players mentioned that this playful approach is so fun that they are motivated to get the highest score.
 
-![](/static/img/wiki/public_engagement-pixid_01.jpg)
+![](https://2019.igem.org/wiki/images/6/6a/T--Stockholm--public_engagement-pixid_01.jpeg)
 
 As a powerful educational tool, the cards can provide visualization about what might happen in the nature when we take antibiotic. One of the kids agrees that we need to take only one pill per day if we get sick after being told the story of sea creatures become sad because the medicine (antibiotics) enters into their home. So, she doesn't want to make the sea creatures sad so she only take one pill as the doctor prescribed.
 
@@ -111,7 +111,7 @@ For children, these cards can also be used as a memory game, or as a visual comp
 
 [↓ Get the game and start playing!]()
 
-![](/static/img/wiki/public_engagement-pixid_02.jpg)
+![](https://2019.igem.org/wiki/images/c/c1/T--Stockholm--public_engagement-pixid_02.jpeg)
 
 ## Biomimetics summer project 2020
 
