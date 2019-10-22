@@ -41,8 +41,6 @@ tags: wiki
 
 ![](https://2019.igem.org/wiki/images/6/6c/T--Stockholm--191013_Art_Exhibition_Booklet_10_JJ16.jpeg)
 
-![](https://2019.igem.org/wiki/images/6/6c/T--Stockholm--191013_Art_Exhibition_Booklet_10_JJ16.jpeg)
-
 ![](https://2019.igem.org/wiki/images/1/11/T--Stockholm--191013_Art_Exhibition_Booklet_10_JJ17.jpeg)
 
 ![](https://2019.igem.org/wiki/images/3/38/T--Stockholm--191013_Art_Exhibition_Booklet_10_JJ18.jpeg)
