@@ -57,9 +57,7 @@ Four members of the iGEM Stockholm team participated in the 2019 hackathon in V
 
 ![](https://2019.igem.org/wiki/images/0/0c/T--Stockholm--biohackathon-presentation.jpg)
 
-During the stay, a software was developed to make it easier to browse the iGEM registry, assemble constructs automatically to avoid human error, and by doing this, creating a new database with functional constructs. Despite time constraints at the bio hackathon, we were able to establish the principle of proof. However, our team saw this as an opportunity to take forward the challenge and mold it into a software that could be used for real-world applications in synthetic biology.
-
-We are looking forward to more and more teams using our software to enable easy in-silico bio brick assembly, leading to more successful projects and contribute to synthetic biology. Multiple iterations enabled the addition of more functionalities and henceforth, nomination for the best software track.
+During the stay, we [developed Brick 🧱](/wiki/software/) A software making it easier to browse the iGEM registry, assemble constructs automatically to avoid human error, and by doing this, creating a new database with functional constructs. Despite time constraints at the bio hackathon, we were able to establish the principle of proof. However, our team saw this as an opportunity to take forward the challenge and mold it into a software that could be used for real-world applications in synthetic biology.
 
 We are looking forward to future hackathons and software development challenges, and until then — congratulations to the winning teams:
 
