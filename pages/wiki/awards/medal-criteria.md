@@ -35,4 +35,4 @@ tags: wiki
 
 -   [Integrated Human Practices:](/wiki/human-practices/) Through the opinions of four different sectors we were able to get invaluable feedback which enabled us to better shape our product. ✓
 -   [Model your Project](/wiki/model/): Successfully modeled our system and implemented it in our wet lab work ✓
--   [Demonstrate](/wiki/demonstration/) ✓
+-   [Demonstrate](/wiki/demonstrate/) ✓
