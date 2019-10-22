@@ -28,8 +28,8 @@ module.exports = function(eleventyConfig) {
 		return `<audio src="${path}"></audio>`;
 	});
 
-	eleventyConfig.addShortcode('image', function(path, description = '') {
-		return `<figure class="image"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
+	eleventyConfig.addShortcode('image', function(path, description = '', className = '') {
+		return `<figure class="image ${className}"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
 	});
 
 	eleventyConfig.addShortcode('define', function(word, definition = '') {

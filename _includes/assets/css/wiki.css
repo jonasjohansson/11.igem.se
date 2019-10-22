@@ -122,23 +122,31 @@ h4 {
     font-weight: 300;
 }
 
-figure.image {
+/*.image {
     cursor: zoom-in;
-}
+}*/
 
-figure.image img {
+.image img {
+    display: block;
+    margin: 0 auto;
     width: 100%;
-    transition: all 200ms ease-in-out;
+    /*transition: all 200ms ease-in-out;*/
+}
+.image.small img {
+    width: 50%;
 }
 
-figure.image:active img {
-    /*width: 140%;*/
-    /*margin-left: -20%;*/
-}
+/*.image:active img {
+    width: 100%;
+}*/
 
 p.slideshow {
     display: flex;
     overflow-x: scroll;
+}
+figcaption {
+    padding-top: 2rem;
+    opacity: 0.5;
 }
 
 p.slideshow img:not(:first-child) {
@@ -281,7 +289,7 @@ aside {
     position: fixed !important;
     padding: 1rem;
     position: relative;
-    top: 50%;
+    top: 60%;
     transform: translateY(-50%);
     box-sizing: border-box;
     font-size: 90%;

@@ -19,7 +19,7 @@ To add to the equation, the C protein represses the Pe promoter, whereas cox pro
 
 ![](https://2019.igem.org/wiki/images/f/f3/T--Stockholm--design-01.png)
 
-### How to control the switch
+### Controlling the switch
 
 To take control of the switch we focus on delC P2 phages that lack the C gene, and thus the C protein. These phages are obligatory lytic, since the C protein is in charge of regulating downstream targets that promote lysogeny. (1) Instead, we will express the C protein on a plasmid that will be carried by the vehicle bacteria. When the phage enters our carrier bacteria, the plasmid will express high levels of C protein, causing the phage to immediately enter lysogeny (based on interviews with experts, unpublished research).
 
@@ -33,7 +33,7 @@ As mentioned before, due to safety reasons we were not able to work with phages 
 
 If you would like to learn more about what components are included in our plasmids, keep reading!
 
-### AraC3 - The backbone of our system
+### Backbone of our system
 
 AraC is a natural E.coli protein and regulator of the pBad promoter. In the absence of arabinose, it inhibits the expression of pBad, but in the presence of arabinose, it promotes the expression. This is of interest to us, as it makes for easy regulation of pBad and thus our system. We cannot guarantee that the endogenous expression of araC is enough to fully inhibit the high copy number plasmid we use, which is why we decided to add a copy of the araC gene to our system.
 
@@ -57,7 +57,7 @@ Our Model has been designed as a substitute for our phages since we were not all
 
 Therefore, the Model Plasmid allows us to study how much C protein is required to repress the expression of cox. Using different concentrations of arabinose, we can create a gradient in the expression of C, and test how this influences the Pe promoter. As an outcome, we could measure the change in expression of YFP, or alternatively, use an anti-cMyc antibody.
 
-{% image "https://2019.igem.org/wiki/images/b/be/T--Stockholm--design-04.png", "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage." %}
+{% image "https://2019.igem.org/wiki/images/b/be/T--Stockholm--design-04.png", "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage.", 'small' %}
 
 For further information on the two BioBricks that made up this plasmid click below:
 [Inducible C-protein construct](/wiki/results-inducible-c-protein/)
