@@ -21,10 +21,10 @@ Phage therapy is an excellent addition to antibiotics, as they also kill infecti
 
 Read our [inspiration](/wiki/inspiration/) and [project!](/wiki/design/).
 
+{% image "https://2019.igem.org/wiki/images/c/c5/T--Stockholm--safety-03.png", "", 'hard-left' %}
+
 ## More eyes on me
 
 For our project to fully succeed, we need to combine imagination and information, while having more hands-on-lab exploring phage therapy and the ethical questions that follow. Through the year we have had the opportunity to speak about synthetic biology with students in both primary and high school, as well as take part in an interview and short debate on national television. We have organized an art exhibition inviting local artists and scientists to show their perspective on synthetic biology through painting, installations, film and more, and are determined to continue
 
 Discover all our [cross-team collaborations](/wiki/collaborations) and [educational work](/wiki/public-engagement/).
-
-{% video 'https://2019.igem.org/wiki/images/3/38/T--Stockholm--igem-stockholm-project-video.mp4' %}

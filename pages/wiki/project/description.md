@@ -5,6 +5,8 @@ permalink: /wiki/description/
 tags: wiki
 ---
 
+{% video 'https://2019.igem.org/wiki/images/3/38/T--Stockholm--igem-stockholm-project-video.mp4#t=8' %}
+
 ## Winter is coming
 
 Since their discovery, antibiotics have been valuable for public health and science. But its future is looking grim as antibiotic resistance is increasing, and the discovery speed of new antibiotics is decreasing, threating the efficiency of the treatment (no secret to the iGEM community). The World Health Organisation recommends we focus on sanitation, optimizing their use, and that we educate on this issue. <sup>1</sup> Although these recommendations are necessary and would help to slow down the process, they don't solve the problem.
@@ -23,7 +25,7 @@ When administered, phages disperse in our body, where they encounter many barrie
 
 ## The becoming of Esther
 
-{% image "https://2019.igem.org/wiki/images/6/67/T--Stockholm--inspiration-2.png", "", 'right' %}
+{% image "https://2019.igem.org/wiki/images/6/67/T--Stockholm--inspiration-2.png", "", 'hard-right' %}
 
 So, how could we provide a solution? Looking for research groups in this area, we found Anders Nilsson’s research group at Stockholm University. His group specializes in bacteriophage research to better understand these viruses, and he had written some articles about Phage Therapy, although never worked directly on this application. Members from our team met with Anders and Elisabeth Haggård-Ljungquist, a retired professor and scientist who had spent her career studying the P2 temperate phage.
 

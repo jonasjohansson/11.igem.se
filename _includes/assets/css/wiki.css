@@ -143,6 +143,22 @@ h4 {
     float: right;
 }
 
+.hard-right {
+    position: absolute;
+    right: 0;
+    opacity: 0.4;
+    width: 30%;
+    margin-top: -20%;
+}
+
+.hard-left {
+    position: absolute;
+    left: 0;
+    opacity: 0.3;
+    width: 40%;
+    margin-top: -20%;
+}
+
 .image.left img,
 .image.right img {
     width: 50%;
@@ -201,7 +217,7 @@ article {
     top: 0;
     left: 0;
     right: 0;
-    height: 3.5rem;
+    /*height: 3.5rem;*/
     height: auto;
     font-size: 80%;
     text-align: center;
@@ -216,17 +232,21 @@ article {
 }
 
 #header-faux {
-    height: 3.5rem;
+    /*height: 3.5rem;*/
 }
 
 header {
-    width: 100%;
+    /*width: 100%;*/
     /*max-width: calc(80ex + 2rem);*/
-    width: 100%;
+    width: calc(100% - 100px);
+    /*width: 100%;*/
     margin: 0 auto;
-    display: inline-block;
+    float: right;
+    /*display: inline-block;*/
+    display: flex;
     text-align: left;
     background-color: var(--blue);
+    white-space: nowrap;
 }
 
 #header:hover {
@@ -242,35 +262,13 @@ header {
 #header:not(:hover) ~ article {
 }
 
-#header-faux {
-    /*display: none;*/
-}
-
-#header-faux,
 header > * {
-    /*height: 3rem;*/
-}
-
-header > * {
-    float: left;
-    width: 15%;
-    padding: 1rem;
-    /*overflow: hidden;*/
-    /*background-color: white;*/
+    width: 20%;
+    padding: 0.5rem 1rem;
 }
 
 header nav {
     width: 100vw;
-    /*margin-top: 1rem;*/
-}
-
-header div {
-    /*text-align: center;*/
-}
-
-header div:hover nav {
-    /*width: 100%;*/
-    /*height: auto;*/
 }
 
 header div:not(:hover) nav {
@@ -285,24 +283,26 @@ header span {
     opacity: 0.8;
     /*white-space: nowrap;*/
     /*text-overflow:ellipsis;*/
-    white-space: pre-line;
+    /*white-space: pre-line;*/
 }
 
 /* logo */
 
-header .logo img {
-    width: auto;
-    height: 100%;
-    height: 1rem;
-}
-
-header .logo img {
-    transform-style: preserve-3d;
+.logo {
+    float: left;
+    width: 100px;
+    box-sizing: border-box;
+    padding: 0.3rem;
+    /*padding-bottom: 0;*/
     transition: transform 400ms ease-in-out;
 }
 
-header .logo img:hover {
-    transform: rotateY(180deg);
+.logo:hover {
+    transform: rotate(180deg);
+}
+
+.logo img {
+    width: auto;
 }
 
 /* aside */
@@ -474,15 +474,8 @@ th {
 footer {
     /*display: none;*/
     width: 100%;
-    padding: 2rem;
+    padding: 0.7rem;
     background-color: var(--blue);
-}
-
-#social {
-    float: left;
-    width: 50%;
-    max-width: 500px;
-    display: table;
 }
 
 footer:after {
@@ -492,19 +485,13 @@ footer:after {
 }
 
 #logos {
-    float: right;
-    width: 50%;
-    min-width: 500px;
-    max-width: 700px;
-    display: table;
+    width: 100%%;
 }
 
-#social > *,
 #logos > * {
     vertical-align: middle;
     padding: 0 0.5rem;
-    width: calc(20% - 1rem);
-    width: 20%;
+    width: 10%;
     display: inline-table;
     text-align: center;
 }
