@@ -23,6 +23,8 @@ When administered, phages disperse in our body, where they encounter many barrie
 
 ## The becoming of Esther
 
+{% image "https://2019.igem.org/wiki/images/6/67/T--Stockholm--inspiration-2.png", "", 'right' %}
+
 So, how could we provide a solution? Looking for research groups in this area, we found Anders Nilsson’s research group at Stockholm University. His group specializes in bacteriophage research to better understand these viruses, and he had written some articles about Phage Therapy, although never worked directly on this application. Members from our team met with Anders and Elisabeth Haggård-Ljungquist, a retired professor and scientist who had spent her career studying the P2 temperate phage.
 
 Elisabeth had done her research during the 70s, 80s, and 90s, a time where antibiotic resistance was not such a pressing threat. She found many obstacles to perform her research with bacteriophages, and when she went abroad to continue with her work, she also found barriers as being a woman in science. Her stories, words, and tips not only helped us gain a better understand of the P2 phage and its switch; she also inspired us to keep trying despite all possible obstacles.

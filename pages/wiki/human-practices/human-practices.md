@@ -91,9 +91,7 @@ Our team was incredibly pleased to speak with **Minmin Yen**, CEO, and founder o
 
 Thanks to Minmin, we were able to learn more about how a research project can become a startup, and what obstacles she encountered when marketing and selling phage therapy. Inspired by her story, we analyzed what would be the next steps for our project to become a startup.
 
-![](/static/img/logo/phagepro.png)
-
-![](https://2019.igem.org/wiki/images/8/85/T--Stockholm--integrated-07.jpeg)
+{% image "https://2019.igem.org/wiki/images/f/f1/T--Stockholm--phagepro.png", "", 'smaller' %}
 
 We scheduled a meeting with **Drivhuset** and the **Stockholm University Innovations Office**, who evaluated Esther and proposed us two main focus points, that are essential at the beginning of any startup: Intellectual Property and Prototyping. In other words, show your idea, protect your idea!
 
@@ -104,16 +102,20 @@ We scheduled a meeting with **Drivhuset** and the **Stockholm University Innovat
 Intellectual Property and its _modus operandi_ was a big question mark for our team. Previously in May, we organized a Bioethics and Bio-legislation event (link to Education Human Practices), for which we contacted multiple experts. Even though this event had been initially created to inform students about the crucial role that these two fields play in research and product development, we ended up finding the information useful for the development of our own start-up.
 
 For evaluating the novelty of our idea, and to understand the implications of Freedom to Operate (FTO) and infringement, we spoke with **Joanna Applequist**, a European Patent Attorney at Valea AB. With her help, we learned what the requirements would be for patenting Esther. Later on, we discussed this idea with the **SU Innovations Office** and **Drivhuset**, who could provide us with grants to perform the first steps for filing a patent. However, given the current state of phage therapy in Sweden and in Europe, we saw no immediate market benefit, as it is not regulated like common drugs in most European countries. In those countries where it is - France, The Netherlands, and Belgium- it is only given as a compassionate treatment, which would not produce enough benefit to keep up a patent for the next upcoming years.
+{% image "https://2019.igem.org/wiki/images/0/0e/T--Stockholm--integrated-10.jpeg", "", 'smaller' %}
 
-![](https://2019.igem.org/wiki/images/8/83/T--Stockholm--integrated-09.jpeg)
-
-![](https://2019.igem.org/wiki/images/0/0e/T--Stockholm--integrated-10.jpeg)
+{% image "https://2019.igem.org/wiki/images/8/83/T--Stockholm--integrated-09.jpeg", "", 'smaller' %}
 
 ### Show your idea
 
 Prototyping is a pivotal step to bring out a product to the market, as it allows you to test how the user will perceive it before investing high amounts of money in manufacturing and distributing. But how do we know this? Truth is, we didn't, but we knew that if we wanted to bring Esther out from the lab and into the market, we needed the experts' help.
 
+![](https://2019.igem.org/wiki/images/9/9c/T--Stockholm--integrated-13.png)
+
 So, we collaborated with **iGEM Uppsala** to organize a Bioentrepreneurship event called **Bench to Bedside**. This event was held on September 18th, 2019, at Karolinska Institutet. Our keynote speaker was Anna Svantes, the business developer of Organofuel AB, Sweden, who discussed her journey and how her team conceived the start-up. Their business idea was introduced, and the science behind their technology was discussed briefly. The goal was to provide inspiration to our audience on how to bring their scientific ideas to life and a well-functioning business. As well as promoting the entrepreneurial and innovative side of science beyond iGEM.
+
+{% image "https://2019.igem.org/wiki/images/d/d1/T--Stockholm--integrated-14.jpeg", "", 'left' %}
+{% image "https://2019.igem.org/wiki/images/f/fa/T--Stockholm--integrated-15.jpeg", "", 'right' %}
 
 At the heart of the framework for innovation is design methodology, the Double Diamond – a clear, comprehensive, and visual description of the design process. The latter session, lead by Design Thinking Coach Cecilie Hilmer, was focused on design thinking and learning how we can use the Double Diamond Model of Design Thinking. To make a product that would fit in well into a user-driven society, the importance of assessing the problem in-depth, to fully understand the goal of our product, and prototyping to get useful user feedback. Later, we went on to create basic prototypes of iGEM projects and gained some valuable insight on how to bring our product to existence in an effective way. It was a very creative and fun afternoon, where both iGEM Uppsala and iGEM Stockholm were able to obtain feedback about how to further mold their product to be successful in the market!
 
@@ -121,18 +123,11 @@ At the heart of the framework for innovation is design methodology, the Double D
 
 ![](https://2019.igem.org/wiki/images/f/fe/T--Stockholm--integrated-12.png) -->
 
-![](https://2019.igem.org/wiki/images/9/9c/T--Stockholm--integrated-13.png)
-
-![](https://2019.igem.org/wiki/images/d/d1/T--Stockholm--integrated-14.jpeg)
-
-![](https://2019.igem.org/wiki/images/f/fa/T--Stockholm--integrated-15.jpeg)
-
 ### SynthEthics®
-
-![](https://2019.igem.org/wiki/images/5/59/T--Stockholm--integrated-16.png)
 
 An interview with a policy expert from the Swedish Pharma Association, **Bengt Mattson**, led us to realize that regulations surrounding synthetic biology and the use of GMOs are the greatest barriers for projects such as ours. These regulations are driven by the current ethical points of view in society. We realized that we might need to take some special ethical considerations before selling "Genetically Modified Microorganisms". In collaboration with **iGEM Lund**, we investigated the current situation to formulate questions for the general public and experts. This would enable the collection of insights from the general public as well as researchers specialized in this area. The questions were designed differently according to the target group. For the ease of public survey, we made yes/no questions and elaborative questions for the experts in the field. The objective of this project was to initiate a legislative draft that could take into consideration the ethics which are not standardized and, therefore, a limiting factor in the use of GMOs and synthetic biology.
 
+![](https://2019.igem.org/wiki/images/5/59/T--Stockholm--integrated-16.png)
 The feedback obtained was vital not only for the future of synthetic biology but also regarding the future launch of Esther into society.
 
 To read more go to [the SynthEthics project page](/wiki/synthethics/)!
@@ -161,7 +156,7 @@ The magnificent phage library stored literature from eminent phage researchers f
 
 Finally, we met the Business Manager, **Nikoloz Ratishvili**, and the Director of the Eliava Institute, **Dr. Mzia Kutateladze**, who explained to us the scope and the market potential of phage therapy. They supported our project with extremely crucial feedback on the use of temperate phages. They believe that natural phages work well now, but genetically modified phages may bring an array of improved functionalities to the table. They were particularly impressed with our efforts in the public engagement and education sector since awareness about phage therapy is the biggest challenge, according to them.
 
-![](https://2019.igem.org/wiki/images/4/47/T--Stockholm--integrated-21.jpeg)
+![](https://2019.igem.org/wiki/images/6/66/T--Stockholm--integrated-31.jpg)
 
 ## Final conclusions
 

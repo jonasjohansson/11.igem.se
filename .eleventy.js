@@ -29,7 +29,11 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addShortcode('image', function(path, description = '', className = '') {
-		return `<figure class="image ${className}"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
+		if (description == '') {
+			return `<figure class="image ${className}"><img src="${path}"></figure>`;
+		} else {
+			return `<figure class="image ${className}"><img src="${path}"><figcaption>${description}</figcaption></figure>`;
+		}
 	});
 
 	eleventyConfig.addShortcode('define', function(word, definition = '') {

@@ -57,7 +57,7 @@ Our Model has been designed as a substitute for our phages since we were not all
 
 Therefore, the Model Plasmid allows us to study how much C protein is required to repress the expression of cox. Using different concentrations of arabinose, we can create a gradient in the expression of C, and test how this influences the Pe promoter. As an outcome, we could measure the change in expression of YFP, or alternatively, use an anti-cMyc antibody.
 
-{% image "https://2019.igem.org/wiki/images/9/94/T--Stockholm--results-model-plasmid-01.png, "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage.", 'small' %}
+{% image "https://2019.igem.org/wiki/images/9/94/T--Stockholm--results-model-plasmid-01.png", "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage.", "small" %}
 
 For further information on the two BioBricks that made up this plasmid click below:
 [Inducible C-protein construct](/wiki/results-inducible-c-protein/)
