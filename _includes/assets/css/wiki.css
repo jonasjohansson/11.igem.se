@@ -311,6 +311,8 @@ aside nav {
 aside nav a:not(:last-of-type):before {
     counter-increment: link;
     content: counters(link, '.', decimal-leading-zero) ' ';
+    /*width: 0;*/
+    /*display: inline-block;*/
 }
 
 aside nav div {

@@ -35,11 +35,11 @@ Thanks to the incredible job of our Media team on our Instagram account, promoti
 
 In the end, we received very positive feedback from Darcia's team, who were inspired by the idea and decided to continue with the TakeOver idea and propose it to other iGEM teams. Given the success of the exhibition, we were interviewed by Jordan Villanueva, Sr. Science Writer at Promega, who [wrote an article about us and the event](https://www.promegaconnections.com/igem-stockholm-blending-art-and-synthetic-biology/).
 
-## 3 Demo school project
+## Demo school project
 
 {% div 'sub' %} 7 May — 5 June {% enddiv %}
 
-Synthetic biology is, relatively speaking, a new field of science, and so the general knowledge is low. To make an impact, we wanted to inspire and inform youth, and so we came up with the Three Demographic School Project (3 Demo) where we would visit schools and students of different ages. We began with Linköping, where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
+Synthetic biology is, relatively speaking, a new field of science, and so the general knowledge is low. To make an impact, we wanted to inspire and inform youth, and so we came up with the School Project where we would visit schools and students of different ages. We began with Linköping, where we visited Atlasskolan and met with a total of 100 students ages 6 to 12! We know that talking is not the best way to build excitement, and synthetic biology is hands-on, so we prepared two exercises; Learning about microscopes and drawing bacteria.
 
 ![](https://2019.igem.org/wiki/images/d/de/T--Stockholm--public_engagement-school_01.jpeg)
 
