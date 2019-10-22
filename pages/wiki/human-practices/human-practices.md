@@ -123,7 +123,7 @@ At the heart of the framework for innovation is design methodology, the Double D
 
 ![](https://2019.igem.org/wiki/images/f/fe/T--Stockholm--integrated-12.png) -->
 
-### SynthEthics®
+### SynthEthics
 
 An interview with a policy expert from the Swedish Pharma Association, **Bengt Mattson**, led us to realize that regulations surrounding synthetic biology and the use of GMOs are the greatest barriers for projects such as ours. These regulations are driven by the current ethical points of view in society. We realized that we might need to take some special ethical considerations before selling "Genetically Modified Microorganisms". In collaboration with **iGEM Lund**, we investigated the current situation to formulate questions for the general public and experts. This would enable the collection of insights from the general public as well as researchers specialized in this area. The questions were designed differently according to the target group. For the ease of public survey, we made yes/no questions and elaborative questions for the experts in the field. The objective of this project was to initiate a legislative draft that could take into consideration the ethics which are not standardized and, therefore, a limiting factor in the use of GMOs and synthetic biology.
 

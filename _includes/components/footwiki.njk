@@ -2,24 +2,27 @@
     {% if title == 'esther' %}
     <footer>
         <div id="logos">
-           <img style="width:50%" src="/static/img/logo/Kth_logo_white.png">
-           <img src="/static/img/logo/recipharm_logo_white.png">
-           <img src="/static/img/logo/snapgene_logo_white.png">
-           <img style="width:80%" src="/static/img/logo/microsynth_logo_white.png">
-           <img style="width:80%" src="/static/img/logo/promega_logo_white.png">
-           <img style="width:80%" src="/static/img/logo/ki_logo_white.png">
+           <span><img style="width:50%" src="https://2019.igem.org/wiki/images/b/b6/T--Stockholm--Kth_logo_white.png"></span>
+           <span><img src="https://2019.igem.org/wiki/images/7/7f/T--Stockholm--recipharm_logo_white.png"></span>
+           <span><img src="https://2019.igem.org/wiki/images/e/ef/T--Stockholm--snapgene_logo_white.png"></span>
+           <span><img style="width:80%" src="https://2019.igem.org/wiki/images/6/62/T--Stockholm--microsynth_logo_white.png"></span>
+           <span><img style="width:80%" src="https://2019.igem.org/wiki/images/0/06/T--Stockholm--promega_logo_white.png"></span>
+           <span><img style="width:80%" src="https://2019.igem.org/wiki/images/0/02/T--Stockholm--ki_logo_white-01.png"></span>
             <div>
-               <img  style="margin-bottom:0.5rem;" src="/static/img/logo/drivhuset_logo_white.png">
-               <img src="/static/img/logo/ki_innovations_logo_white.png">
+               <span><img  style="margin-bottom:0.5rem;" src="https://2019.igem.org/wiki/images/1/1b/T--Stockholm--drivhuset_logo_white.png"></span>
+               <span><img src="https://2019.igem.org/wiki/images/2/25/T--Stockholm--ki_innovations_logo_white.png"></span>
             </div>
-           <img src="/static/img/logo/bio-techne_logo_white.png">
-           <img src="/static/img/logo/thermofisher_logo_white.png">
-           <img src="/static/img/logo/neb_logo_white.png">
+           <span><img src="https://2019.igem.org/wiki/images/9/92/T--Stockholm--bio-techne_logo_white.png"></span>
+           <span><img src="https://2019.igem.org/wiki/images/5/57/T--Stockholm--thermofisher_logo_white.png"></span>
+           <span><img src="https://2019.igem.org/wiki/images/2/23/T--Stockholm--neb_logo_white.png"></span>
         </div>
     </footer>	
     {% endif  %}
 
-    {% set js %}  {% include "assets/js/app.js" %} {% endset %}
+    {% set js %}
+        {% include "assets/js/smoothscroll.min.js" %}
+        {% include "assets/js/app.js" %}
+    {% endset %}
     <script>{{ js | jsmin | safe }}</script>
 </body>
 </html>
