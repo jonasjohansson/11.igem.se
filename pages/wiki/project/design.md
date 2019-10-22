@@ -39,13 +39,13 @@ AraC is a natural E.coli protein and regulator of the pBad promoter. In the abse
 
 All parts were cloned into the B1C3 high-copy plasmid [https://parts.igem.org/Part:pSB1C3](https://parts.igem.org/Part:pSB1C3) which includes the araC gene. Parts that did not contain pBad we
 
-## Our Switch Plasmid
+## Switch Plasmid
 
 Our **Switch Plasmid** is composed of two BioBricks. When the cell is transfected with this plasmid, it expresses C protein constitutively. This will represent our "lysogenic profile", which we can see from a high RFP expression and low or none GFP. Alternatively, we can also detect C expression using anti-Flag antibody, since our C protein has been designed to contain a flag tag.
 
 By adding arabinose we can induce cox expression. We also express tetR, since it is located under the same promoter. TetR strongly inhibits tetO, and in consequence, C production stops. We will be able to detect this change by measuring the increase of GFP and decrease of RFP, which would signal a “lytic profile”. Alternatively, we can also use anti-cMyc antibody, that will bind to the cMyc tag that has been added to the cox protein.
 
-{% image "https://2019.igem.org/wiki/images/6/69/T--Stockholm--design-03.png", "The Switch Plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic." %}
+{% image "https://2019.igem.org/wiki/images/9/95/T--Stockholm--results-switch-plasmid-00.png", "The Switch Plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic.", 'small' %}
 
 For further information on the two BioBricks that made up this plasmid click below:
 [C-protein Characterization Construct](/wiki/results-inducible-c-protein/)
@@ -57,7 +57,7 @@ Our Model has been designed as a substitute for our phages since we were not all
 
 Therefore, the Model Plasmid allows us to study how much C protein is required to repress the expression of cox. Using different concentrations of arabinose, we can create a gradient in the expression of C, and test how this influences the Pe promoter. As an outcome, we could measure the change in expression of YFP, or alternatively, use an anti-cMyc antibody.
 
-{% image "https://2019.igem.org/wiki/images/b/be/T--Stockholm--design-04.png", "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage.", 'small' %}
+{% image "https://2019.igem.org/wiki/images/9/94/T--Stockholm--results-model-plasmid-01.png, "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage.", 'small' %}
 
 For further information on the two BioBricks that made up this plasmid click below:
 [Inducible C-protein construct](/wiki/results-inducible-c-protein/)
