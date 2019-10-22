@@ -34,11 +34,8 @@ html {
     left: 0;
     right: 0;
     overflow-x: hidden;
-    /*color: var(--dark);*/
     background-color: var(--light);
-    /*scroll-behavior: smooth;*/
     color: var(--blue);
-    /*font-size: 90%;*/
     counter-reset: link;
 }
 
@@ -57,7 +54,6 @@ main:after {
 
 blockquote {
     padding: 0;
-    /*margin: 0;*/
     padding-bottom: 5rem;
     padding: 5rem 0;
     box-sizing: border-box;
@@ -91,34 +87,11 @@ h2#references ~ ol {
     padding-left: 0;
 }
 
-/*p a {
-    background: -webkit-linear-gradient(45deg, red, blue);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}*/
-
 h1 {
     font-size: 2.6rem;
     text-align: center;
     padding: 5rem 0;
     line-height: 1;
-    /*background: linear-gradient(-45deg, var(--pink), blue);
-    background-size: 300% 300%;
-    animation: gradient 20s ease-in-out infinite;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;*/
-}
-
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
 }
 
 h2 {
@@ -132,10 +105,6 @@ h2 + .sub {
     text-align: left;
 }
 
-/*h2:not(:target) + div {
-    display: none;
-}
-*/
 .sub {
     display: block;
     font-style: normal;
@@ -196,22 +165,27 @@ article {
 
 #header {
     z-index: 150;
-    /*position: fixed;*/
-    position: sticky;
+    position: fixed;
+    /*position: sticky;*/
     top: 0;
     left: 0;
     right: 0;
     height: 3.5rem;
+    height: auto;
     font-size: 80%;
     text-align: center;
-    background-color: var(--blue);
     color: var(--light);
     /*background-color: #fdfdfd;*/
     /*color: var(--dark);*/
     box-shadow: inset black 0 -10px 40px -30px;
     transition: height 300ms ease-in-out;
     overflow: hidden;
+    background-color: var(--blue);
     /*will-change: height;*/
+}
+
+#header-faux {
+    height: 3.5rem;
 }
 
 header {
@@ -221,11 +195,11 @@ header {
     margin: 0 auto;
     display: inline-block;
     text-align: left;
+    background-color: var(--blue);
 }
 
 #header:hover {
     /*height: auto;*/
-    height: 14rem;
     /*max-height: 100%;*/
 }
 
@@ -238,7 +212,7 @@ header {
 }
 
 #header-faux {
-    display: none;
+    /*display: none;*/
 }
 
 #header-faux,
@@ -250,11 +224,12 @@ header > * {
     float: left;
     width: 15%;
     padding: 1rem;
-    overflow: hidden;
+    /*overflow: hidden;*/
     /*background-color: white;*/
 }
 
 header nav {
+    width: 100vw;
     /*margin-top: 1rem;*/
 }
 
@@ -262,12 +237,13 @@ header div {
     /*text-align: center;*/
 }
 
-header div:hover {
-    height: auto;
+header div:hover nav {
+    /*width: 100%;*/
+    /*height: auto;*/
 }
 
 header div:not(:hover) nav {
-    /*display: none;*/
+    display: none;
 }
 
 header span {
