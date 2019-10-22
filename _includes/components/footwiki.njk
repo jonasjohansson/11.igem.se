@@ -1,4 +1,23 @@
-	
+
+    {% if title == 'esther' %}
+    <footer>
+        <div id="logos">
+            <a href="#"><img style="width:50%" src="/static/img/logo/Kth_logo_white.png"></a>
+            <a href="#"><img src="/static/img/logo/recipharm_logo_white.png"></a>
+            <a href="#"><img src="/static/img/logo/snapgene_logo_white.png"></a>
+            <a href="#"><img style="width:80%" src="/static/img/logo/microsynth_logo_white.png"></a>
+            <a href="#"><img style="width:80%" src="/static/img/logo/promega_logo_white.png"></a>
+            <a href="#"><img style="width:80%" src="/static/img/logo/ki_logo_white.png"></a>
+            <div>
+                <a href="#"><img  style="margin-bottom:0.5rem;" src="/static/img/logo/drivhuset_logo_white.png"></a>
+                <a href="#"><img src="/static/img/logo/ki_innovations_logo_white.png"></a>
+            </div>
+            <a href="#"><img src="/static/img/logo/bio-techne_logo_white.png"></a>
+            <a href="#"><img src="/static/img/logo/thermofisher_logo_white.png"></a>
+            <a href="#"><img src="/static/img/logo/neb_logo_white.png"></a>
+        </div>
+    </footer>	
+    {% endif  %}
 
     {% set js %}  {% include "assets/js/app.js" %} {% endset %}
     <script>{{ js | jsmin | safe }}</script>

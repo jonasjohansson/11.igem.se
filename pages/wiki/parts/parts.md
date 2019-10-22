@@ -19,8 +19,8 @@ tags: wiki
 
 ## Composite parts
 
-1. pBAD tetO ([BBa_K3024010](http://parts.igem.org/Part:BBa_K3024010))
-2. BB1 ([BBa_K3024004](http://parts.igem.org/Part:BBa_K3024004))
-3. BB1.2 ([BBa_K3024009](http://parts.igem.org/Part:BBa_K3024009))
-4. BB2 ([BBa_K3024011](http://parts.igem.org/Part:BBa_K3024011))
-5. BB3 ([BBa_K3024012](http://parts.igem.org/Part:BBa_K3024012))
+-   pBAD tetO ([BBa_K3024010](http://parts.igem.org/Part:BBa_K3024010))
+-   BB1 ([BBa_K3024004](http://parts.igem.org/Part:BBa_K3024004))
+-   BB1.2 ([BBa_K3024009](http://parts.igem.org/Part:BBa_K3024009))
+-   BB2 ([BBa_K3024011](http://parts.igem.org/Part:BBa_K3024011))
+-   BB3 ([BBa_K3024012](http://parts.igem.org/Part:BBa_K3024012))
