@@ -49,4 +49,4 @@ The phage simulation model served the purpose of mimicking a small part of the s
 
 ### Western blot
 
-{% image "https://2019.igem.org/wiki/images/c/c3/T--Stockholm--results-phage-genome-04.jpeg", "Figure 16. ClariOstar measurement of GFP(ex:488-14/em:535-30). Cells were grown in a plate-reader for 10 hours, 120 cycles with 5 min intervals, 20 flashes for each cycle. Samples 0%-0.4% are replicates. AraC3 empty vector was used as negative control. Flourescin dye was used as positive control for GFP." %}
+{% image "https://2019.igem.org/wiki/images/c/c3/T--Stockholm--results-phage-genome-04.jpeg", "Figure 17. TOP10 bacteria transformed with the Phage genome simulation module were grown for 5 hours in LB-media at 37°C. Samples were collected at 1. 180 min, 2. 240 min and 3. 300 min.  L= ladder -C= negative control. Anti-GAPDH was used as a loading control." %}

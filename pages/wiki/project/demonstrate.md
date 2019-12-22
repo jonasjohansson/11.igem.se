@@ -5,7 +5,7 @@ permalink: /wiki/demonstrate/
 tags: wiki
 ---
 
-> Our team has [designed a delivery system](/wiki/description/) that carries temperate phages right to the site of infection. Once there, our molecular switch will trigger the phage to burst out of the carrier, infecting the surrounding bacteria. This will increase the effective dose of phages, allowing them to avoid barriers that would otherwise limit their efficiency in phage therapy.
+> Our team has [designed a delivery system](/Team:Stockholm/Description) that carries temperate phages right to the site of infection. Once there, our molecular switch will trigger the phage to burst out of the carrier, infecting the surrounding bacteria. This will increase the effective dose of phages, allowing them to avoid barriers that would otherwise limit their efficiency in phage therapy.
 
 ## The Switch Plasmid
 
@@ -15,7 +15,7 @@ This plasmid was designed to be a functional system, and it is a core component 
 
 In the design of our switch construct we added two different techniques of characterization, both with FLAG tag and c-Myc tags for western blot and GFP & RFP fluorescent reporters for FLUOstar/ Flow Cytometry.
 
-This way we could get more reliable results, as we would have two methods of confirmation. Our [Results](/wiki/results/) shows how our fluorescence experiments did not succeed and we have hypothesized that there could be issues with the fluorescence signal of the reporter protein. However, we were able to demonstrate protein expression with western blot.
+This way we could get more reliable results, as we would have two methods of confirmation. Our [Results](/Team:Stockholm/Results) shows how our fluorescence experiments did not succeed and we have hypothesized that there could be issues with the fluorescence signal of the reporter protein. However, we were able to demonstrate protein expression with western blot.
 
 ## Measuring C protein dynamics
 
@@ -41,7 +41,7 @@ As for the expression of RFP, we unfortunately observe many unspecific bands, wh
 
 ## Measuring cox protein dynamics
 
-{% image "/static/img/wiki/project/demonstrate-03.png", "Figure 2. western blot shows Switch Plasmid under different arabinose concentrations. L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
+{% image "https://2019.igem.org/wiki/images/b/b9/T--Stockholm--demonstrate-03.png", "Figure 2. western blot shows Switch Plasmid under different arabinose concentrations. L= ladder, C-= Negative control. No loading control was added, as we had previously seen in our results that the GAPDH antibody interfered with GFP antibody and created many unspecific bands." %}
 
 In Figure 2 we can observe a different western blot. We used the same samples as were used for the western blot in Figure 1, but in this case, the staining was made with different antibodies. We can observe an increase in expression of both GFP and cox-cMyc that correspond to an increase in arabinose. These two genes are under the same pBAD promoter, which expression is induced by adding arabinose, so our results seem to correspond with our design.
 

@@ -5,13 +5,11 @@ permalink: /wiki/description/
 tags: wiki
 ---
 
-{% video 'https://2019.igem.org/wiki/images/3/38/T--Stockholm--igem-stockholm-project-video.mp4#t=8' %}
-
 ## Winter is coming
 
 Since their discovery, antibiotics have been valuable for public health and science. But its future is looking grim as antibiotic resistance is increasing, and the discovery speed of new antibiotics is decreasing, threating the efficiency of the treatment (no secret to the iGEM community). The World Health Organisation recommends we focus on sanitation, optimizing their use, and that we educate on this issue. <sup>1</sup> Although these recommendations are necessary and would help to slow down the process, they don't solve the problem.
 
-The fact is, antibiotics are not a sustainable treatment. It takes a long time and abundant economic resources to produce new antibiotics. They are a burden to the environment and hard to eliminate from the sewage system, and still, bacteria will eventually become resistant to them. Many pharmaceutical companies, such as [Novartis and AstraZeneca](/wiki/human-practices), are withdrawing their antibiotic programs, leaving the general population without an effective solution.
+The fact is, antibiotics are not a sustainable treatment. It takes a long time and abundant economic resources to produce new antibiotics. They are a burden to the environment and hard to eliminate from the sewage system, and still, bacteria will eventually become resistant to them. Many pharmaceutical companies, such as [Novartis and AstraZeneca](/Team:Stockholm/Human_Practices), are withdrawing their antibiotic programs, leaving the general population without an effective solution.
 
 Phage therapy, on the other hand, is a more sustainable approach. This treatment utilizes the natural capacity of bacteriophages, a special type of viruses, to kill bacteria. The phage injects its DNA into the target bacteria, where it will replicate and form new bacteriophages. The high number of phages will cause the bacteria to burst, killing it and releasing new viruses to the environment.
 
@@ -51,7 +49,7 @@ When a phage follows the lytic cycle, it injects its DNA into a bacterial host. 
 
 During the lysogenic cycle, the phage integrates its DNA directly into the bacterial genome, becoming a prophage. Upon a certain stimulus, often environmental factors, the prophage is released from the DNA, entering the lytic cycle.
 
-Our project makes use of the temperate phage, because if its dormant properties. To get into the details of how we plan to (ab)use this system, continue to our project [Design](/wiki/design/)! If you want, feel free to skip to the [Outlook](/wiki/design/) to discover the potential of Esther and phage therapy.
+Our project makes use of the temperate phage, because if its dormant properties. To get into the details of how we plan to (ab)use this system, continue to our project [Design](/Team:Stockholm/Design)! If you want, feel free to skip to the [Outlook](/Team:Stockholm/Outlook) to discover the potential of Esther and phage therapy.
 
 ![](https://2019.igem.org/wiki/images/a/a0/T--Stockholm--description-02.png)
 

@@ -1,3 +1,5 @@
+'use strict';
+
 var h = document.documentElement,
 	b = document.body,
 	st = 'scrollTop',
@@ -12,7 +14,7 @@ var $loadingBar = document.querySelector('.loading-bar .bar'),
 
 function init() {
 	document.querySelectorAll('section p').forEach(p => {
-		imgs = p.querySelectorAll('img');
+		var imgs = p.querySelectorAll('img');
 		if (imgs.length > 0) {
 			p.classList.add('image');
 		}

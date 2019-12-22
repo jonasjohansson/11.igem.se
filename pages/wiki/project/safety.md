@@ -21,15 +21,13 @@ For this purpose, we spoke to professor Graham F. Hatfull, the first and only re
 
 ![](https://2019.igem.org/wiki/images/9/9b/T--Stockholm--safety-02.png)
 
-This helped us confirm the safety of our [project design](/wiki/design/). The repressor protein for our P2 phage is the C protein. Moreover, it has been previously shown that removal of this protein will block the activation of the lysogenic cycle. <sup>4</sup> By eliminating the C protein from our P2 phage, we make sure that it cannot enter the lysogenic cycle in another host, preventing transduction and the exchange of resistance genes.
+This helped us confirm the safety of our [Project Design](/Team:Stockholm/Design). The repressor protein for our P2 phage is the C protein. Moreover, it has been previously shown that removal of this protein will block the activation of the lysogenic cycle. <sup>4</sup> By eliminating the C protein from our P2 phage, we make sure that it cannot enter the lysogenic cycle in another host, preventing transduction and the exchange of resistance genes.
 
 ## Humans and Esther
 
 Esther consists of two parts – the vehicle bacteria and the P2 phage. It is crucial to evaluate the impact of these two types of organisms on human health separately since they have different characteristics.
 
 ### The phage
-
-![](https://2019.igem.org/wiki/images/c/c5/T--Stockholm--safety-03.png)
 
 We have all heard about the microbiome, but did you know that we also have a phageome? Bacteriophages are, in fact, one of the most common and diverse organisms in our gut flora. Often, phages form symbiotic alliances with the microbiome to protect them against invasive pathogens. We can also find them adhere to mucus layers, providing us with an antimicrobial defense mechanism. <sup>5</sup> Even though not all phages are candidates for this role, these findings show that our bodies are already familiar with these organisms, whom they benefit from.
 
@@ -43,7 +41,7 @@ The bacterial component in Esther will be used as a delivery method for the loca
 
 Because exogenous bacteria can be the source of an inflammatory reaction, it is important to understand how the body reacts to the use of Esther. Studies have shown that EcN does not exhibit toxicity after administration to germ-free mice and conventional mice <sup>9</sup>. It showed anti-inflammatory effects in sepsis-induced mice. <sup>10</sup>
 
-These results, however, do not apply to certain mutations causing immunodeficiency (9), and therefore, it is important to consider the genetic background of the patient before administering Esther. [To learn more about EcN, visit Outlook!](/wiki/outlook/)
+These results, however, do not apply to certain mutations causing immunodeficiency (9), and therefore, it is important to consider the genetic background of the patient before administering Esther. [To learn more about EcN, visit Outlook!](/Team:Stockholm/Outlook)
 
 ![](https://2019.igem.org/wiki/images/b/b9/T--Stockholm--safety-04.png)
 

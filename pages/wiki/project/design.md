@@ -5,7 +5,7 @@ permalink: /wiki/design/
 tags: wiki
 ---
 
-> Our team has [designed a delivery system](/wiki/description/) that carries temperate phages right to the site of infection. Once there, our molecular switch will trigger the phage to burst out of the carrier, infecting the surrounding bacteria. This will increase the effective dose of phages, allowing them to avoid barriers that would otherwise limit their efficiency in phage therapy.
+> Our team has [designed a delivery system](/Team:Stockholm/Description) that carries temperate phages right to the site of infection. Once there, our molecular switch will trigger the phage to burst out of the carrier, infecting the surrounding bacteria. This will increase the effective dose of phages, allowing them to avoid barriers that would otherwise limit their efficiency in phage therapy.
 
 To understand how this system works, we will introduce the P2 phage switch, the source of our inspiration. For our project, we took molecular components of this switch to create our own Switch Plasmid, which will also be explained on this page. Due to safety restrictions, we were not allowed to use phages in the lab, which is why we had to simulate our phage using the Model Plasmid, which would help us to experimentally test our Switch Plasmid. The **Switch Plasmid** will be activated when there is inflammation, so we will also briefly explain our **Sensing System**.
 
@@ -47,9 +47,7 @@ By adding arabinose we can induce cox expression. We also express tetR, since it
 
 {% image "https://2019.igem.org/wiki/images/9/95/T--Stockholm--results-switch-plasmid-00.png", "The Switch Plasmid - C protein is constitutively expressed, whereas Cox is ineducable. Once induced, Cox protein will be expressed and C protein will be inhibited, causing the phage to become lytic.", 'small' %}
 
-For further information on the two BioBricks that made up this plasmid click below:
-[C-protein Characterization Construct](/wiki/results-inducible-c-protein/)
-[Inducible cox Characterization Construct](/wiki/results-lytic-module/)
+For further information on the two BioBricks that made up this plasmid click below: [C-protein Characterization Construct](/Team:Stockholm/results-inducible-c-protein) [Inducible cox Characterization Construct](/Team:Stockholm/results-lytic-module)
 
 ## Model Plasmid
 
@@ -59,16 +57,13 @@ Therefore, the Model Plasmid allows us to study how much C protein is required t
 
 {% image "https://2019.igem.org/wiki/images/9/94/T--Stockholm--results-model-plasmid-01.png", "The Model Plasmid - Replicates the presence of only Cox protein in the phage, with C protein being an external ineducable factor. Used to replicate phage behaviour without the need for the actual P2 phage.", "small" %}
 
-For further information on the two BioBricks that made up this plasmid click below:
-[Inducible C-protein construct](/wiki/results-inducible-c-protein/)
-[Phage Genome Simulation Module](/wiki/results-phage-genome-simulation-module/)
+For further information on the two BioBricks that made up this plasmid click below: [Inducible C-protein construct](/Team:Stockholm/results-inducible-c-protein) [Phage Genome Simulation Module](/Team:Stockholm/results-phage-genome-simulation-module)
 
 ## The Sensing System
 
 Our goal was to activate our system and promote the lytic cycle only when the vehicle bacteria have reached the site of infection, to make our treatment specific and efficient. Inspired by natural inflammation-detecting systems in E. coli, we chose to adopt a nitric oxide (NO)-induced transcriptional module to our project's main design. Nitric Oxide is a molecule released by our body as a sign of inflammation, and therefore, it will be found at high concentrations at the site of infection. In this design, we create a composite part that detects nitric oxide (NO-sensing promoter) that we can characterize and use in our Switch Plasmid instead of pBad promoter. Thus, instead of inducing the Switch with arabinose, we can induce it with Nitric Oxide, simulating how our system would work as a treatment.
 
-For a more detailed explaination of how this would work and how we would design it into our system, click below:
-[Nitric Oxide as a sign of inflammation](/wiki/design-nitric-oxide/)
+For a more detailed explaination of how this would work and how we would design it into our system, click below: [Nitric Oxide as a sign of inflammation](/Team:Stockholm/design-nitric-oxide)
 
 ## Final remarks
 
@@ -76,7 +71,7 @@ With our proposed system we can improve the efficiency of the P2 phage. A highly
 
 Where our system currently uses arabinose for the induction of the switch, we also explored the idea of using a NO-induced system, where the detection of a site of inflammation would trigger the molecular switch of the phage. Although all requirements for such a system could be found in the iGEM distribution kit, we were unable to continue with this idea due to time restraints. This sensing system could however also be further developed towards a pathogen/target-specific induction system and we are aware that many other improvements could yet be devised, making our project the first step in a large scale project.
 
-More about the potential of phage therapy and this project can be found in the [Outlook](/wiki/outlook/). If you want to learn more about the specific protocols we used during this project, continue to the [Notebook](/wiki/notebook/)!
+More about the potential of phage therapy and this project can be found in the [Outlook](/Team:Stockholm/Outlook). If you want to learn more about the specific protocols we used during this project, continue to the [Notebook](/Team:Stockholm/Notebook)!
 
 ## References
 

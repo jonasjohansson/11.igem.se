@@ -15,15 +15,15 @@ At the beginning of our journey, we arranged a brainstorming session to look for
 
 We decided to invite a panel of experts who could provide us an unbiased viewpoint on each of our proposals. The panel included **senior researchers at Karolinska Institutet, Stockholm University and KTH Royal Institute of Technology**, as well as **members of SGEM** (Stockholm iGEM alumni network). The different members of our team had to present and defend their projects in front of these experts using the NABC approach, developed by the Stanford Research Institute to frame the development and communication of innovative solutions.
 
-![](/static/img/wiki/human-practices/integrated-02.png)
+![](https://2019.igem.org/wiki/images/3/36/T--Stockholm--integrated-02.png)
 
 After presentations, the experts gave us feedback that helped us evaluate the different proposals and select one: an efficient delivery system for phage therapy.
 
-![](/static/img/wiki/human-practices/integrated-03.jpg)
+![](https://2019.igem.org/wiki/images/d/d0/T--Stockholm--integrated-03.jpeg)
 
 Our team decided to work on this project for several reasons, that were also pointed out by the experts. First, it focuses on solving an issue that affects not only the Swedish society but also all people worldwide - the rise of antibiotic resistance. Second, it takes a sustainable approach, since new phages can be easily isolated from natural resources. It would cut down on costs that are usually required for the development of new antibiotics. Third, our experts appreciated that it was a novel idea, which also motivated us to continue on this road.
 
-![](/static/img/wiki/human-practices/integrated-04.png)
+![](https://2019.igem.org/wiki/images/c/c7/T--Stockholm--integrated-04.png)
 
 After brainstorming, we interviewed **Erik Haeffler**, the Vice President of Manufacturing Services & Head of Sustainability at Recipharm AB, the leading Swedish pharmaceutical contract development and manufacturing organization. Learning about the current struggles to develop new antibiotics helped us corroborate the need for an alternative approach, and validated our idea.
 
@@ -35,7 +35,7 @@ Our team started by contacting **Anders Nilsson**, one of the very few researche
 
 ### Ethical Considerations
 
-During brainstorming and project development we ran into some ideas that were protected by patents. Are we allowed to work with them? Could we use them to develop our iGEM projects? And how do we make sure our project meets the ethical standards? We did not have the answers to these questions, but we were willing to learn. We also wanted to allow other students outside of iGEM to learn about these topics, so we decided to organize an event which we called [Bioethics and Biolegislation](https://www.notion.so/20-May-Bioethics-Biolegislation-51d7cbe2f2fe4da597945a4ca5aae8de). We invited **Joanna Applequist**, a European Patent Attorney from Valea AB, and **Jesper Ahlin Merceta**, an expert in Bioethics, from KTH Royal Institute of Technology, to be our guest speakers. This event helped us understand that we were indeed allowed to research topics that were patented since the patent only prohibits to sell ideas that belong to others. Furthermore, we learned about the trade-off between biotechnology and society, and we understood that when trying to bring a new treatment out to society, we need to be very careful and analyze properly the environmental and social implications.
+During brainstorming and project development we ran into some ideas that were protected by patents. Are we allowed to work with them? Could we use them to develop our iGEM projects? And how do we make sure our project meets the ethical standards? We did not have the answers to these questions, but we were willing to learn. We also wanted to allow other students outside of iGEM to learn about these topics, so we decided to organize an event which we called Bioethics and Biolegislation. We invited **Joanna Applequist**, a European Patent Attorney from Valea AB, and **Jesper Ahlin Merceta**, an expert in Bioethics, from KTH Royal Institute of Technology, to be our guest speakers. This event helped us understand that we were indeed allowed to research topics that were patented since the patent only prohibits to sell ideas that belong to others. Furthermore, we learned about the trade-off between biotechnology and society, and we understood that when trying to bring a new treatment out to society, we need to be very careful and analyze properly the environmental and social implications.
 
 ### Safety Considerations
 
@@ -57,7 +57,7 @@ As the wet lab team was trying different cloning techniques, our Integrated Huma
 
 During this period, we contacted ([Platinea](http://www.platinea.se/)), a multisectoral collaboration platform to preserve and enhance the value of existing antibiotics. The platform consists of 15 partners from academia, authorities, healthcare, and industry across Sweden. We discussed with the director **Enrico Baraldi** our project and its potential use of phage therapy in the Swedish healthcare system, as an alternative to antibiotics. We believe this discussion helped us start an important dialogue about the necessity of phage therapy and we received a very positive response. It also gave us a new perspective on our project. First, completely replacing antibiotics with phage therapy was very unrealistic and unnecessary, as antibiotics were very standardized already and presented multiple benefits. Therefore, we changed our strategy and focused on promoting the correct use for both antibiotics and phage therapy, as these two treatments can complement each other.
 
-![](/static/img/logo/platinea_logo.png)
+![](https://2019.igem.org/wiki/images/f/fe/T--Stockholm--platinea_logo.png)
 
 ### Learning from iGEM Munich
 
@@ -67,7 +67,7 @@ As we are now aware that Sweden is more than ready to support the development of
 
 ### Interviewing experts for the documentary
 
-With this in mind, we decided to tackle the lack of awareness by creating a documentary that could be easily understood by people from different backgrounds and ages. The purpose of this documentary was not to promote our iGEM team or our project. Instead, we focused on providing reliable information in the form of interviews, so that the general population could learn more about phage therapy. We believe that this initiative should be continued by future teams working with phage therapy so that the information can spread to other countries and more people. Read more about [our documentary](/wiki/documentary/)!
+With this in mind, we decided to tackle the lack of awareness by creating a documentary that could be easily understood by people from different backgrounds and ages. The purpose of this documentary was not to promote our iGEM team or our project. Instead, we focused on providing reliable information in the form of interviews, so that the general population could learn more about phage therapy. We believe that this initiative should be continued by future teams working with phage therapy so that the information can spread to other countries and more people. Read more about [our documentary](/Team:Stockholm/Documentary)!
 
 ![](https://2019.igem.org/wiki/images/f/fb/T--Stockholm--documentary-02.png)
 
@@ -75,7 +75,7 @@ By interviewing people for the documentary, we learned new things about phage th
 
 ### Playing with the public stakeholders
 
-Creating a documentary and speaking about phage therapy on TV were great starting points to raise awareness about Phage Therapy. But we wanted to spark curiosity within people, and give room for questions and conversations, so we left the 2D TV screen and went out to the streets! To make it fun, we designed a card game in which people would have to select images that would associate with a topic we proposed. The drawings and the topics were all related to Human Health, Antibiotics and Phage Therapy. We called this game [Pixid](/wiki/public-engagement#pixid). You can flip it upside down and it will still be the same name, Pixid!
+Creating a documentary and speaking about phage therapy on TV were great starting points to raise awareness about Phage Therapy. But we wanted to spark curiosity within people, and give room for questions and conversations, so we left the 2D TV screen and went out to the streets! To make it fun, we designed a card game in which people would have to select images that would associate with a topic we proposed. The drawings and the topics were all related to Human Health, Antibiotics and Phage Therapy. We called this game [Pixid](/Team:Stockholm/Public_Engagement#pixid). You can flip it upside down and it will still be the same name, Pixid!
 
 Pixid was a great game to start a dialogue between our team and the general public. While playing, we proposed the topics in the form of questions, and let the players discuss between them or in teams what images they associated with the question. In the end, we would ask why they chose that specific card and tried to understand their thought process. There were no wrong or right answers, only the opinion of the general public.
 
@@ -101,8 +101,7 @@ We scheduled a meeting with **Drivhuset** and the **Stockholm University Innovat
 
 Intellectual Property and its _modus operandi_ was a big question mark for our team. Previously in May, we organized a Bioethics and Bio-legislation event (link to Education Human Practices), for which we contacted multiple experts. Even though this event had been initially created to inform students about the crucial role that these two fields play in research and product development, we ended up finding the information useful for the development of our own start-up.
 
-For evaluating the novelty of our idea, and to understand the implications of Freedom to Operate (FTO) and infringement, we spoke with **Joanna Applequist**, a European Patent Attorney at Valea AB. With her help, we learned what the requirements would be for patenting Esther. Later on, we discussed this idea with the **SU Innovations Office** and **Drivhuset**, who could provide us with grants to perform the first steps for filing a patent. However, given the current state of phage therapy in Sweden and in Europe, we saw no immediate market benefit, as it is not regulated like common drugs in most European countries. In those countries where it is - France, The Netherlands, and Belgium- it is only given as a compassionate treatment, which would not produce enough benefit to keep up a patent for the next upcoming years.
-{% image "https://2019.igem.org/wiki/images/0/0e/T--Stockholm--integrated-10.jpeg", "", 'smaller' %}
+For evaluating the novelty of our idea, and to understand the implications of Freedom to Operate (FTO) and infringement, we spoke with **Joanna Applequist**, a European Patent Attorney at Valea AB. With her help, we learned what the requirements would be for patenting Esther. Later on, we discussed this idea with the **SU Innovations Office** and **Drivhuset**, who could provide us with grants to perform the first steps for filing a patent. However, given the current state of phage therapy in Sweden and in Europe, we saw no immediate market benefit, as it is not regulated like common drugs in most European countries. In those countries where it is - France, The Netherlands, and Belgium- it is only given as a compassionate treatment, which would not produce enough benefit to keep up a patent for the next upcoming years. {% image "https://2019.igem.org/wiki/images/0/0e/T--Stockholm--integrated-10.jpeg", "", 'smaller' %}
 
 {% image "https://2019.igem.org/wiki/images/8/83/T--Stockholm--integrated-09.jpeg", "", 'smaller' %}
 
@@ -114,8 +113,7 @@ Prototyping is a pivotal step to bring out a product to the market, as it allows
 
 So, we collaborated with **iGEM Uppsala** to organize a Bioentrepreneurship event called **Bench to Bedside**. This event was held on September 18th, 2019, at Karolinska Institutet. Our keynote speaker was Anna Svantes, the business developer of Organofuel AB, Sweden, who discussed her journey and how her team conceived the start-up. Their business idea was introduced, and the science behind their technology was discussed briefly. The goal was to provide inspiration to our audience on how to bring their scientific ideas to life and a well-functioning business. As well as promoting the entrepreneurial and innovative side of science beyond iGEM.
 
-{% image "https://2019.igem.org/wiki/images/d/d1/T--Stockholm--integrated-14.jpeg", "", 'left' %}
-{% image "https://2019.igem.org/wiki/images/f/fa/T--Stockholm--integrated-15.jpeg", "", 'right' %}
+{% image "https://2019.igem.org/wiki/images/d/d1/T--Stockholm--integrated-14.jpeg", "", 'left' %} {% image "https://2019.igem.org/wiki/images/f/fa/T--Stockholm--integrated-15.jpeg", "", 'right' %}
 
 At the heart of the framework for innovation is design methodology, the Double Diamond – a clear, comprehensive, and visual description of the design process. The latter session, lead by Design Thinking Coach Cecilie Hilmer, was focused on design thinking and learning how we can use the Double Diamond Model of Design Thinking. To make a product that would fit in well into a user-driven society, the importance of assessing the problem in-depth, to fully understand the goal of our product, and prototyping to get useful user feedback. Later, we went on to create basic prototypes of iGEM projects and gained some valuable insight on how to bring our product to existence in an effective way. It was a very creative and fun afternoon, where both iGEM Uppsala and iGEM Stockholm were able to obtain feedback about how to further mold their product to be successful in the market!
 
@@ -127,10 +125,9 @@ At the heart of the framework for innovation is design methodology, the Double D
 
 An interview with a policy expert from the Swedish Pharma Association, **Bengt Mattson**, led us to realize that regulations surrounding synthetic biology and the use of GMOs are the greatest barriers for projects such as ours. These regulations are driven by the current ethical points of view in society. We realized that we might need to take some special ethical considerations before selling "Genetically Modified Microorganisms". In collaboration with **iGEM Lund**, we investigated the current situation to formulate questions for the general public and experts. This would enable the collection of insights from the general public as well as researchers specialized in this area. The questions were designed differently according to the target group. For the ease of public survey, we made yes/no questions and elaborative questions for the experts in the field. The objective of this project was to initiate a legislative draft that could take into consideration the ethics which are not standardized and, therefore, a limiting factor in the use of GMOs and synthetic biology.
 
-![](https://2019.igem.org/wiki/images/5/59/T--Stockholm--integrated-16.png)
-The feedback obtained was vital not only for the future of synthetic biology but also regarding the future launch of Esther into society.
+![](https://2019.igem.org/wiki/images/5/59/T--Stockholm--integrated-16.png) The feedback obtained was vital not only for the future of synthetic biology but also regarding the future launch of Esther into society.
 
-To read more go to [the SynthEthics project page](/wiki/synthethics/)!
+To read more go to [the SynthEthics project page](/Team:Stockholm/Synthethics)!
 
 ## Our trip to Georgia
 

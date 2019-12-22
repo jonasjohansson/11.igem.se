@@ -9,7 +9,7 @@ tags: wiki
 
 We started modeling the P2 genetic switch by describing the system graphically in terms of C protein dynamics, based on a similar approach applied to bacteriophage λ, as described by Mestivier et al. (3)
 
-{% image "/static/img/wiki/project/model-development-01.png", "Figure 1. Graphical representation of P2 genetic switch system." %}
+{% image "https://2019.igem.org/wiki/images/c/c8/T--Stockholm--model-development-01.png", "Figure 1. Graphical representation of P2 genetic switch system." %}
 
 Based on the graphical representation, we derived differential equations for each of the reactions that the C protein is involved in. Notation: x - concentration of C; y - concentration of C2 (c protein dimer).
 
@@ -135,7 +135,7 @@ We implement this approach in Python, using numpy.random.poisson function.
 
 ### Model Plasmid
 
-{% image "/static/img/wiki/project/model-development-01.png", "Figure 2. Graphical representation of Model Plasmid." %}
+{% image "https://2019.igem.org/wiki/images/2/27/T--Stockholm--model-development-02.png", "Figure 2. Graphical representation of Model Plasmid." %}
 
 Based on the graphical representation, we have derived the following differential equations. Notation: x - concentration of C; y- concentration of C2; m - concentration of Cox; n - concentration of Cox4.
 
@@ -311,7 +311,7 @@ $$\frac{dm}{dt}=\frac{\[arabinose](K_{t2}K_1+k_{t3}K_1K_2K_Dx^2+k_{t4}K_1K_3K_Tm
 
 ### Switch Plasmid
 
-{% image "/static/img/wiki/project/model-development-03.png", "Figure 3. Graphical representation of the Switch Plasmid." %}
+{% image "https://2019.igem.org/wiki/images/d/d2/T--Stockholm--model-development-03.png", "Figure 3. Graphical representation of the Switch Plasmid." %}
 
 Based on the graphical representation, we have derived the following differential equations for each of the reactions in the network. Notation: x - concentration of C; m - concentration of Cox; r - concentrattion of tetR, q - concentration of tetR2.
 
@@ -445,4 +445,4 @@ $$\frac{dm}{dt}=\frac{k_{t2}K_3[arabinose]}{1+K_3[arabinose]+K_1K_Dr^2+K_D^2K_1K
 
 $$\frac{dr}{dt}=\frac{k_{t2}K_3[arabinose]}{1+K_3[arabinose]+K_1K_Dr^2+K_D^2K_1K_2r^4}-γx$$
 
-← [Return to Model](/wiki/model)
+[← Return to Model](/Team:Stockholm/Model)

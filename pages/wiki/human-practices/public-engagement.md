@@ -15,7 +15,7 @@ For many, science and art are considered vastly distant from one another, but a 
 
 ![](https://2019.igem.org/wiki/images/d/da/T--Stockholm--public_engagement-art_exhibition-02.jpg)
 
-[→ Read more about the art exhibition and view the booklet with all the artists](/wiki/art-exhibition/)
+[→ Read more about the art exhibition and view the booklet with all the artists](/Team:Stockholm/Art_Exhibition)
 
 ## Lab-on-wheels
 
@@ -105,7 +105,7 @@ Rebecca, Anali and Stella from our team were invited to speak on the Swedish mor
 
 ![](https://2019.igem.org/wiki/images/b/bd/T--Stockholm--public_engagement-news.jpeg)
 
-## pixid _Let's play!_
+## Pixid
 
 {% div 'sub' %} Ongoing {% enddiv %}
 

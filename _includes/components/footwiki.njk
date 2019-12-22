@@ -19,10 +19,5 @@
     </footer>	
     {% endif  %}
 
-    {% set js %}
-        {% include "assets/js/smoothscroll.min.js" %}
-        {% include "assets/js/app.js" %}
-    {% endset %}
-    <script>{{ js | jsmin | safe }}</script>
 </body>
 </html>

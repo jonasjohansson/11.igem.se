@@ -5,7 +5,7 @@ permalink: /wiki/software/
 tags: wiki
 ---
 
-> Four members of the [iGEM Stockholm team participated in the 2019 hackathon in Vilnius](/wiki/collaborations/#biohackathon), a three-day immersion into biosafety and security of data, synthetic biology, lab efficiency, and life sciences education.
+> Four members of the [iGEM Stockholm team participated in the 2019 hackathon in Vilnius](/Team:Stockholm/Collaborations), a three-day immersion into biosafety and security of data, synthetic biology, lab efficiency, and life sciences education.
 
 # Brick 🧱 the Biobrick Designer
 
